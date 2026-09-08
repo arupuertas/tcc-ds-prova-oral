@@ -52,8 +52,11 @@ db/ESQUEMA.md           # documentação do esquema; db/inicializar.py cria as c
 db/importar_banco.py    # importa e indexa o banco de questões
 db/migrar_bases.py      # separa a base antiga em material_chunks + gabarito_chunks
 db/anonimizar_banco.py  # remove do banco os dados pessoais dos candidatos reais
+db/amostra_banco.py     # gera uma amostra menor do banco (padrão: 40 questões)
 tests/                  # pytest: núcleo, banca (Agno simulado), banco Chroma, páginas
 banco de questoes finais/  # 292 perguntas de provas orais reais do MP-SP (anonimizado)
+  banco_final.json         # banco completo
+  banco_amostra.json       # amostra de 40 questões (4 provas x 10)
 ```
 
 ## Rodando localmente
@@ -158,3 +161,18 @@ Não ficam a transcrição literal da fala dos candidatos, a colocação de cada
 do examinador nem a referência ao vídeo e ao instante da gravação. O identificador de cadeia é opaco,
 o que preserva o agrupamento sem apontar para a gravação de origem. O conversor (`simulador/banco_questoes.py`)
 descarta esses campos mesmo que apareçam num arquivo importado pelo painel. Ver `db/anonimizar_banco.py`.
+
+### Amostra do banco
+
+Para testes rápidos, demonstrações ou uma carga menor no Chroma Cloud, há uma amostra pronta em
+`banco de questoes finais/banco_amostra.json`: 40 questões, 4 provas de 10, com a mesma proporção
+início/meio/fim e as cadeias preservadas. Uma prova de 10 perguntas sai idêntica à do banco completo.
+
+```bash
+python db/amostra_banco.py                    # regenera a amostra (reproduzível pela semente)
+python db/amostra_banco.py --questoes 60 --provas 6
+python db/importar_banco.py --arquivo "banco de questoes finais/banco_amostra.json" \
+  --nome "MP-SP — amostra" --vetorizar
+```
+
+O banco completo continua intacto em `banco_final.json`.

@@ -1,0 +1,2925 @@
+[
+  {
+    "uid": "prova_2023_02/q0004",
+    "id": "q0004",
+    "prova_id": "prova_2023_02",
+    "ordem": 4,
+    "materia": "Direito Penal",
+    "tema": "Concurso de pessoas",
+    "dificuldade": "dificil",
+    "momento": "inicio",
+    "pergunta": "No âmbito da participação por auxílio, quais são os principais critérios doutrinários para imputar ou afastar a responsabilidade penal quando a contribuição é prestada por meio de uma ação neutra?",
+    "resposta": "A participação por meio de ação neutra pressupõe uma contribuição causal ao delito acompanhada do dolo de favorecer o fato principal, mas a doutrina diverge sobre os critérios normativos capazes de retirar a neutralidade da conduta. Para Jakobs, a solução decorre da proibição de regresso e da teoria dos papéis: não há imputação quando o agente se mantém nos limites de seu papel social ou profissional, salvo se sua atuação se ajustar ao empreendimento criminoso. Roxin adota o critério da referência de sentido delitivo, admitindo a imputação quando o agente conhece o plano criminoso já definido e sua contribuição passa a ter sentido de auxílio ao delito; a mera possibilidade de uso ilícito de uma prestação cotidiana, em regra, não basta. Luís Greco propõe um critério objetivo de idoneidade, pelo qual se verifica, à luz das circunstâncias concretas, se a contribuição era apta a favorecer de maneira juridicamente relevante a execução do fato. Assim, as teorias variam entre uma solução mais restritiva, fundada no papel social e na proibição de regresso, e soluções que admitem a imputação em razão do sentido delitivo ou da idoneidade objetiva da contribuição.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: No âmbito da participação por auxílio, quais são os principais critérios doutrinários para imputar ou afastar a responsabilidade penal quando a contribuição é prestada por meio de uma ação neutra?\nResposta: A participação por meio de ação neutra pressupõe uma contribuição causal ao delito acompanhada do dolo de favorecer o fato principal, mas a doutrina diverge sobre os critérios normativos capazes de retirar a neutralidade da conduta. Para Jakobs, a solução decorre da proibição de regresso e da teoria dos papéis: não há imputação quando o agente se mantém nos limites de seu papel social ou profissional, salvo se sua atuação se ajustar ao empreendimento criminoso. Roxin adota o critério da referência de sentido delitivo, admitindo a imputação quando o agente conhece o plano criminoso já definido e sua contribuição passa a ter sentido de auxílio ao delito; a mera possibilidade de uso ilícito de uma prestação cotidiana, em regra, não basta. Luís Greco propõe um critério objetivo de idoneidade, pelo qual se verifica, à luz das circunstâncias concretas, se a contribuição era apta a favorecer de maneira juridicamente relevante a execução do fato. Assim, as teorias variam entre uma solução mais restritiva, fundada no papel social e na proibição de regresso, e soluções que admitem a imputação em razão do sentido delitivo ou da idoneidade objetiva da contribuição.",
+    "_meta": {
+      "subtema": "Ações neutras e participação",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Contribuição causal e dolo de favorecer o fato principal",
+        "Proibição de regresso e teoria dos papéis de Jakobs",
+        "Referência de sentido delitivo segundo Roxin",
+        "Idoneidade objetiva da contribuição segundo Luís Greco",
+        "Divergência entre imputação e preservação da neutralidade da conduta"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 29 do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.85,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 2,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "A divergência envolve especialmente o peso atribuído ao papel social, ao conhecimento do plano criminoso e à aptidão objetiva da contribuição.",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.88
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_022745256c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0018",
+      "id_origem": "q0018",
+      "ordem_origem": 18,
+      "bloco_origem": "cadeia_022745256c",
+      "score": 110.87,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0005",
+    "id": "q0005",
+    "prova_id": "prova_2023_02",
+    "ordem": 5,
+    "materia": "Direito Penal",
+    "tema": "Concurso de pessoas",
+    "dificuldade": "dificil",
+    "momento": "inicio",
+    "pergunta": "Duas pessoas, agindo segundo um plano comum de matar a vítima por envenenamento, dividem as tarefas: uma coloca veneno em um copo de água e a outra em uma taça de vinho, sem saber qual bebida será ingerida. A vítima bebe apenas a água e morre. A senhora pode imputar o homicídio consumado também à pessoa que envenenou o vinho? Por quê?",
+    "resposta": "Sim. Havendo decisão conjunta, divisão funcional de tarefas e contribuição de ambos para a execução do plano homicida, o resultado consumado é reciprocamente imputável aos coautores. A norma de extensão do concurso de pessoas permite atribuir a cada coautor a realização conjunta, embora apenas o veneno colocado na água tenha sido causa física imediata da morte. Assim, ambos respondem por homicídio consumado, e não um deles por consumação e o outro por tentativa; sem o vínculo subjetivo e a atuação conjunta, porém, haveria atuações paralelas e o responsável pelo vinho responderia apenas por tentativa.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: Duas pessoas, agindo segundo um plano comum de matar a vítima por envenenamento, dividem as tarefas: uma coloca veneno em um copo de água e a outra em uma taça de vinho, sem saber qual bebida será ingerida. A vítima bebe apenas a água e morre. A senhora pode imputar o homicídio consumado também à pessoa que envenenou o vinho? Por quê?\nResposta: Sim. Havendo decisão conjunta, divisão funcional de tarefas e contribuição de ambos para a execução do plano homicida, o resultado consumado é reciprocamente imputável aos coautores. A norma de extensão do concurso de pessoas permite atribuir a cada coautor a realização conjunta, embora apenas o veneno colocado na água tenha sido causa física imediata da morte. Assim, ambos respondem por homicídio consumado, e não um deles por consumação e o outro por tentativa; sem o vínculo subjetivo e a atuação conjunta, porém, haveria atuações paralelas e o responsável pelo vinho responderia apenas por tentativa.",
+    "_meta": {
+      "subtema": "Imputação do resultado em coautoria",
+      "tipo": "principal",
+      "pontos_chave": [
+        "plano comum de matar",
+        "divisão funcional de tarefas",
+        "coautoria",
+        "imputação recíproca do resultado",
+        "distinção entre coautoria e atuações paralelas"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 29, caput, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.95,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 2,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.95
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_022745256c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0019",
+      "id_origem": "q0019",
+      "ordem_origem": 19,
+      "bloco_origem": "cadeia_022745256c",
+      "score": 110.6,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0008",
+    "id": "q0008",
+    "prova_id": "prova_2023_02",
+    "ordem": 8,
+    "materia": "Direito Penal",
+    "tema": "Crimes culposos",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "Na hipótese em que duas pessoas, sem intenção de matar, atuam conjuntamente no lançamento imprudente de objetos pesados do alto de um prédio, a que se refere o plano comum exigido pela corrente que admite a coautoria culposa: ao resultado morte ou a outro elemento?",
+    "resposta": "O plano comum refere-se à realização conjunta da conduta perigosa e à forma coordenada de sua execução, não ao resultado morte. Em crimes culposos, os agentes não precisam querer nem aceitar o resultado, mas devem atuar conscientemente em conjunto na atividade que viola o dever objetivo de cuidado. A morte é consequência não pretendida e objetivamente imputável ao risco proibido criado pela atuação comum. Se o acordo abrangesse a produção ou a aceitação da morte, a imputação deixaria de ser culposa e passaria ao campo do dolo.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: difícil\nPergunta: Na hipótese em que duas pessoas, sem intenção de matar, atuam conjuntamente no lançamento imprudente de objetos pesados do alto de um prédio, a que se refere o plano comum exigido pela corrente que admite a coautoria culposa: ao resultado morte ou a outro elemento?\nResposta: O plano comum refere-se à realização conjunta da conduta perigosa e à forma coordenada de sua execução, não ao resultado morte. Em crimes culposos, os agentes não precisam querer nem aceitar o resultado, mas devem atuar conscientemente em conjunto na atividade que viola o dever objetivo de cuidado. A morte é consequência não pretendida e objetivamente imputável ao risco proibido criado pela atuação comum. Se o acordo abrangesse a produção ou a aceitação da morte, a imputação deixaria de ser culposa e passaria ao campo do dolo.",
+    "_meta": {
+      "subtema": "Plano comum na coautoria culposa",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "plano comum relativo à conduta",
+        "ausência de acordo sobre o resultado",
+        "execução conjunta da atividade perigosa",
+        "violação do dever objetivo de cuidado",
+        "distinção entre culpa e dolo"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 18, incisos I e II, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 29, caput, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.94,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 18 — CP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.94
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_022745256c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0022",
+      "id_origem": "q0022",
+      "ordem_origem": 22,
+      "bloco_origem": "cadeia_022745256c",
+      "score": 118.44,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0009",
+    "id": "q0009",
+    "prova_id": "prova_2023_02",
+    "ordem": 9,
+    "materia": "Direito Penal",
+    "tema": "Crimes culposos",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "No caso em que duas pessoas lançam conjuntamente objetos pesados do alto de um prédio, causando culposamente uma morte, sem que se possa identificar quem lançou o objeto fatal, a senhora adotaria a corrente que permite imputar o resultado a ambos?",
+    "resposta": "Sim. Admitida a coautoria culposa, eu imputaria a ambos o homicídio culposo, pois houve execução consciente e conjunta da conduta imprudente, com violação comum do dever objetivo de cuidado. A imputação recíproca fundada na coautoria supera a incerteza sobre qual dos agentes lançou o objeto fatal, sem exigir que o plano comum abrangesse o resultado morte.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: média\nPergunta: No caso em que duas pessoas lançam conjuntamente objetos pesados do alto de um prédio, causando culposamente uma morte, sem que se possa identificar quem lançou o objeto fatal, a senhora adotaria a corrente que permite imputar o resultado a ambos?\nResposta: Sim. Admitida a coautoria culposa, eu imputaria a ambos o homicídio culposo, pois houve execução consciente e conjunta da conduta imprudente, com violação comum do dever objetivo de cuidado. A imputação recíproca fundada na coautoria supera a incerteza sobre qual dos agentes lançou o objeto fatal, sem exigir que o plano comum abrangesse o resultado morte.",
+    "_meta": {
+      "subtema": "Imputação em coautoria culposa",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "adoção da coautoria culposa",
+        "homicídio culposo imputado a ambos",
+        "conduta imprudente conjunta",
+        "imputação recíproca",
+        "plano comum não abrangente do resultado"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 29, caput, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 121, § 3º, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.89,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 121 — CP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.87
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_022745256c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0023",
+      "id_origem": "q0023",
+      "ordem_origem": 23,
+      "bloco_origem": "cadeia_022745256c",
+      "score": 104.54,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0010",
+    "id": "q0010",
+    "prova_id": "prova_2023_02",
+    "ordem": 10,
+    "materia": "Direito Penal",
+    "tema": "Crimes culposos",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega ao cirurgião, que não tinha condições de perceber a contaminação e atua sem dolo ou culpa. O instrumento é utilizado na cirurgia, o paciente sofre uma infecção e morre. A senhora pode responsabilizar penalmente o enfermeiro e, em caso afirmativo, a que título?",
+    "resposta": "O enfermeiro pode responder como autor de homicídio culposo, pois sua violação do dever objetivo de cuidado criou o risco proibido que se realizou na infecção e na morte do paciente. O fato de não ter executado pessoalmente a cirurgia não afasta a autoria, uma vez que sua própria conduta foi causalmente relevante e típica no âmbito do delito culposo. A utilização do bisturi pelo cirurgião, que agiu legitimamente confiando em sua esterilização, não rompe o nexo nem transfere a responsabilidade. Não se trata de participação culposa, pois o enfermeiro realiza o injusto culposo por sua própria contribuição, enquanto o cirurgião não pratica crime. Parte da doutrina denomina essa estrutura autoria mediata culposa, ao passo que outra rejeita essa categoria e a trata como autoria direta do delito culposo, chegando ambas à responsabilização do enfermeiro como autor.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: difícil\nPergunta: Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega ao cirurgião, que não tinha condições de perceber a contaminação e atua sem dolo ou culpa. O instrumento é utilizado na cirurgia, o paciente sofre uma infecção e morre. A senhora pode responsabilizar penalmente o enfermeiro e, em caso afirmativo, a que título?\nResposta: O enfermeiro pode responder como autor de homicídio culposo, pois sua violação do dever objetivo de cuidado criou o risco proibido que se realizou na infecção e na morte do paciente. O fato de não ter executado pessoalmente a cirurgia não afasta a autoria, uma vez que sua própria conduta foi causalmente relevante e típica no âmbito do delito culposo. A utilização do bisturi pelo cirurgião, que agiu legitimamente confiando em sua esterilização, não rompe o nexo nem transfere a responsabilidade. Não se trata de participação culposa, pois o enfermeiro realiza o injusto culposo por sua própria contribuição, enquanto o cirurgião não pratica crime. Parte da doutrina denomina essa estrutura autoria mediata culposa, ao passo que outra rejeita essa categoria e a trata como autoria direta do delito culposo, chegando ambas à responsabilização do enfermeiro como autor.",
+    "_meta": {
+      "subtema": "Participação culposa por entrega de instrumento contaminado",
+      "tipo": "principal",
+      "pontos_chave": [
+        "autoria de homicídio culposo",
+        "violação do dever objetivo de cuidado",
+        "criação e realização de risco proibido",
+        "ausência de responsabilidade do cirurgião",
+        "inexistência de mera participação culposa",
+        "divergência sobre autoria mediata culposa"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 13, caput, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 18, inciso II, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 121, § 3º, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.86,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 121 — CP",
+          "art. 13 — CP",
+          "art. 18 — CP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.9
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_022745256c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0024",
+      "id_origem": "q0024",
+      "ordem_origem": 24,
+      "bloco_origem": "cadeia_022745256c",
+      "score": 115.28,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0011",
+    "id": "q0011",
+    "prova_id": "prova_2023_02",
+    "ordem": 11,
+    "materia": "Direito Penal",
+    "tema": "Crimes culposos",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega a um cirurgião que, sem culpa e sem condições de perceber a contaminação, utiliza-o em cirurgia, causando a morte do paciente. A doutrina majoritária imputa o resultado ao enfermeiro? A atuação posterior do médico encerra a relevância da violação do dever de cuidado pelo enfermeiro?",
+    "resposta": "Sim. Para a concepção majoritária, que adota um conceito unitário ou extensivo de autor nos delitos culposos, o enfermeiro responde como autor imediato de homicídio culposo, pois sua própria violação do dever objetivo de cuidado criou o risco proibido que se realizou na morte. A atuação do cirurgião sem culpa não rompe o nexo causal nem a imputação objetiva, já que apenas concretiza o risco produzido pela falta de esterilização. O princípio da confiança afasta a culpa do cirurgião, que podia confiar no cumprimento da tarefa pelo enfermeiro, mas não beneficia o próprio enfermeiro que descumpriu seu dever.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: difícil\nPergunta: Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega a um cirurgião que, sem culpa e sem condições de perceber a contaminação, utiliza-o em cirurgia, causando a morte do paciente. A doutrina majoritária imputa o resultado ao enfermeiro? A atuação posterior do médico encerra a relevância da violação do dever de cuidado pelo enfermeiro?\nResposta: Sim. Para a concepção majoritária, que adota um conceito unitário ou extensivo de autor nos delitos culposos, o enfermeiro responde como autor imediato de homicídio culposo, pois sua própria violação do dever objetivo de cuidado criou o risco proibido que se realizou na morte. A atuação do cirurgião sem culpa não rompe o nexo causal nem a imputação objetiva, já que apenas concretiza o risco produzido pela falta de esterilização. O princípio da confiança afasta a culpa do cirurgião, que podia confiar no cumprimento da tarefa pelo enfermeiro, mas não beneficia o próprio enfermeiro que descumpriu seu dever.",
+    "_meta": {
+      "subtema": "Dever de cuidado e atuação de terceiro",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Conceito unitário ou extensivo de autor nos crimes culposos",
+        "Autoria imediata do enfermeiro",
+        "Criação e realização de risco proibido",
+        "Ausência de interrupção do nexo pela atuação não culposa do médico",
+        "Princípio da confiança em favor do cirurgião"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 13, caput, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 18, II, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 121, § 3º, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.94,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 121 — CP",
+          "art. 13 — CP",
+          "art. 18 — CP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.93
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_022745256c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0025",
+      "id_origem": "q0025",
+      "ordem_origem": 25,
+      "bloco_origem": "cadeia_022745256c",
+      "score": 118.56,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0014",
+    "id": "q0014",
+    "prova_id": "prova_2023_02",
+    "ordem": 14,
+    "materia": "Direito Processual Penal",
+    "tema": "Inquérito policial",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "O assistente de acusação pode atuar formalmente durante a fase do inquérito policial?",
+    "resposta": "Não há assistente de acusação, em sentido técnico, durante o inquérito policial, pois sua admissão pressupõe ação penal pública já instaurada. Na investigação, contudo, o ofendido pode apresentar elementos informativos e requerer diligências à autoridade policial, que avaliará a pertinência de sua realização. Essa atuação decorre da condição de vítima ou ofendido e não lhe confere a posição processual nem os poderes próprios do assistente de acusação.",
+    "embedding_text": "Matéria: Direito Processual Penal\nTema: Inquérito policial\nDificuldade: difícil\nPergunta: O assistente de acusação pode atuar formalmente durante a fase do inquérito policial?\nResposta: Não há assistente de acusação, em sentido técnico, durante o inquérito policial, pois sua admissão pressupõe ação penal pública já instaurada. Na investigação, contudo, o ofendido pode apresentar elementos informativos e requerer diligências à autoridade policial, que avaliará a pertinência de sua realização. Essa atuação decorre da condição de vítima ou ofendido e não lhe confere a posição processual nem os poderes próprios do assistente de acusação.",
+    "_meta": {
+      "subtema": "Atuação do assistente na fase investigatória",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Inexistência de assistente de acusação no inquérito",
+        "Admissão somente após a instauração da ação penal pública",
+        "Possibilidade de o ofendido requerer diligências",
+        "Discricionariedade da autoridade policial",
+        "Distinção entre vítima e assistente de acusação"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 14 do Código de Processo Penal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 268 do Código de Processo Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.98,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 268 — CPP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.97
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_74d60c6afa"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0028",
+      "id_origem": "q0028",
+      "ordem_origem": 28,
+      "bloco_origem": "cadeia_74d60c6afa",
+      "score": 116.14,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0015",
+    "id": "q0015",
+    "prova_id": "prova_2023_02",
+    "ordem": 15,
+    "materia": "Direito Processual Penal",
+    "tema": "Provas no processo penal",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "À luz do sistema acusatório e da doutrina atual, a determinação de produção de provas de ofício pelo juiz viola necessariamente a imparcialidade judicial?",
+    "resposta": "Não necessariamente, embora haja relevante divergência doutrinária. Uma corrente sustenta que a iniciativa probatória judicial compromete a imparcialidade e a separação entre as funções de acusar e julgar, especialmente quando o magistrado atua na investigação ou supre a insuficiência probatória da acusação. Outra posição, acolhida de forma limitada pela legislação e pela jurisprudência constitucional, admite que o juiz determine pontualmente diligências suplementares durante a instrução para esclarecer dúvida sobre questão relevante, desde que o faça de maneira fundamentada, com respeito ao contraditório e sem substituir a atuação probatória das partes. O sistema acusatório veda a iniciativa judicial na fase investigatória e a assunção do papel da acusação. Se a prova acusatória for insuficiente, a dúvida não autoriza atividade inquisitorial destinada a evitar a absolvição, devendo incidir a presunção de inocência.",
+    "embedding_text": "Matéria: Direito Processual Penal\nTema: Provas no processo penal\nDificuldade: difícil\nPergunta: À luz do sistema acusatório e da doutrina atual, a determinação de produção de provas de ofício pelo juiz viola necessariamente a imparcialidade judicial?\nResposta: Não necessariamente, embora haja relevante divergência doutrinária. Uma corrente sustenta que a iniciativa probatória judicial compromete a imparcialidade e a separação entre as funções de acusar e julgar, especialmente quando o magistrado atua na investigação ou supre a insuficiência probatória da acusação. Outra posição, acolhida de forma limitada pela legislação e pela jurisprudência constitucional, admite que o juiz determine pontualmente diligências suplementares durante a instrução para esclarecer dúvida sobre questão relevante, desde que o faça de maneira fundamentada, com respeito ao contraditório e sem substituir a atuação probatória das partes. O sistema acusatório veda a iniciativa judicial na fase investigatória e a assunção do papel da acusação. Se a prova acusatória for insuficiente, a dúvida não autoriza atividade inquisitorial destinada a evitar a absolvição, devendo incidir a presunção de inocência.",
+    "_meta": {
+      "subtema": "Produção de provas de ofício pelo juiz",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Divergência doutrinária sobre iniciativa probatória judicial",
+        "Sistema acusatório e imparcialidade",
+        "Vedação à iniciativa judicial na investigação",
+        "Admissibilidade limitada de diligências suplementares",
+        "Proibição de substituir a atividade probatória da acusação",
+        "Contraditório, fundamentação e presunção de inocência"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 3º-A do Código de Processo Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 156, II, do Código de Processo Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.96,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 156 — CPP",
+          "art. 3a — CPP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.92
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_b030fce3ed"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0029",
+      "id_origem": "q0029",
+      "ordem_origem": 29,
+      "bloco_origem": "cadeia_b030fce3ed",
+      "score": 123.31,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0025",
+    "id": "q0025",
+    "prova_id": "prova_2023_02",
+    "ordem": 25,
+    "materia": "Direito Empresarial",
+    "tema": "Recuperação judicial e falência",
+    "dificuldade": "dificil",
+    "momento": "fim",
+    "pergunta": "É admissível a recuperação judicial ou a falência de associações e fundações?",
+    "resposta": "Pela regra geral da Lei de Recuperação Judicial e Falência, associações e fundações não se submetem à recuperação judicial nem à falência, pois a lei delimita seu âmbito de incidência ao empresário e à sociedade empresária. A ausência dessas pessoas jurídicas no rol de exclusões legais não basta para incluí-las, uma vez que o âmbito subjetivo da lei é definido positivamente. O Superior Tribunal de Justiça, contudo, já admitiu excepcionalmente a recuperação judicial de associações civis sem fins lucrativos que exerçam, de modo organizado e relevante, atividade econômica materialmente empresarial, interpretação que não autoriza a submissão indistinta de qualquer associação ao regime. Não há orientação geral consolidada que estenda automaticamente essa exceção às fundações. A falência direta também não é cabível apenas porque a associação ou a fundação desenvolve alguma atividade econômica, ressalvada a incidência de lei especial ou a prévia e excepcional submissão da entidade ao regime recuperacional, hipótese em que poderá ocorrer a convolação da recuperação em falência. Fora dessas situações, aplicam-se os regimes civis de dissolução, liquidação e insolvência.",
+    "embedding_text": "Matéria: Direito Empresarial\nTema: Recuperação judicial e falência\nDificuldade: difícil\nPergunta: É admissível a recuperação judicial ou a falência de associações e fundações?\nResposta: Pela regra geral da Lei de Recuperação Judicial e Falência, associações e fundações não se submetem à recuperação judicial nem à falência, pois a lei delimita seu âmbito de incidência ao empresário e à sociedade empresária. A ausência dessas pessoas jurídicas no rol de exclusões legais não basta para incluí-las, uma vez que o âmbito subjetivo da lei é definido positivamente. O Superior Tribunal de Justiça, contudo, já admitiu excepcionalmente a recuperação judicial de associações civis sem fins lucrativos que exerçam, de modo organizado e relevante, atividade econômica materialmente empresarial, interpretação que não autoriza a submissão indistinta de qualquer associação ao regime. Não há orientação geral consolidada que estenda automaticamente essa exceção às fundações. A falência direta também não é cabível apenas porque a associação ou a fundação desenvolve alguma atividade econômica, ressalvada a incidência de lei especial ou a prévia e excepcional submissão da entidade ao regime recuperacional, hipótese em que poderá ocorrer a convolação da recuperação em falência. Fora dessas situações, aplicam-se os regimes civis de dissolução, liquidação e insolvência.",
+    "_meta": {
+      "subtema": "Associações e fundações",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Âmbito subjetivo restrito ao empresário e à sociedade empresária",
+        "Silêncio do rol de exclusões não implica inclusão",
+        "Admissão jurisprudencial excepcional da recuperação de determinadas associações",
+        "Inexistência de extensão geral às fundações",
+        "Falência somente em hipóteses excepcionais ou legalmente autorizadas"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 1º da Lei nº 11.101/2005",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 2º da Lei nº 11.101/2005",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 73 da Lei nº 11.101/2005",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.82,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Lei 11.101",
+          "art. 1 — Lei 11.101",
+          "art. 2 — Lei 11.101",
+          "art. 73 — Lei 11.101"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "A jurisprudência excepcional relativa a associações não elimina a regra legal nem permite generalização para todas as entidades sem fins lucrativos.",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.88
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_e73a7e1059"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0050",
+      "id_origem": "q0050",
+      "ordem_origem": 50,
+      "bloco_origem": "cadeia_e73a7e1059",
+      "score": 109.62,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_02/q0026",
+    "id": "q0026",
+    "prova_id": "prova_2023_02",
+    "ordem": 26,
+    "materia": "Direito Ambiental",
+    "tema": "Meio ambiente",
+    "dificuldade": "facil",
+    "momento": "fim",
+    "pergunta": "O meio ambiente pode ser considerado um macrobem?",
+    "resposta": "Sim. O meio ambiente é considerado um macrobem jurídico autônomo, unitário, imaterial, indivisível e de natureza difusa, essencial à sadia qualidade de vida. Ele não se confunde com os microbens ambientais que o compõem ou lhe dão suporte material, como a água, o solo, a fauna, a flora e o ar, os quais podem estar submetidos a regimes de propriedade pública ou privada. A qualificação constitucional como bem de uso comum do povo não significa que todo elemento ambiental pertença ao Estado, mas que o equilíbrio ecológico é de fruição coletiva e deve ser protegido em benefício das presentes e futuras gerações. Por isso, a lesão ao macrobem ambiental pode coexistir com danos causados a microbens determinados e a direitos individuais.",
+    "embedding_text": "Matéria: Direito Ambiental\nTema: Meio ambiente\nDificuldade: fácil\nPergunta: O meio ambiente pode ser considerado um macrobem?\nResposta: Sim. O meio ambiente é considerado um macrobem jurídico autônomo, unitário, imaterial, indivisível e de natureza difusa, essencial à sadia qualidade de vida. Ele não se confunde com os microbens ambientais que o compõem ou lhe dão suporte material, como a água, o solo, a fauna, a flora e o ar, os quais podem estar submetidos a regimes de propriedade pública ou privada. A qualificação constitucional como bem de uso comum do povo não significa que todo elemento ambiental pertença ao Estado, mas que o equilíbrio ecológico é de fruição coletiva e deve ser protegido em benefício das presentes e futuras gerações. Por isso, a lesão ao macrobem ambiental pode coexistir com danos causados a microbens determinados e a direitos individuais.",
+    "_meta": {
+      "subtema": "Meio ambiente como macro-bem",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Meio ambiente como macrobem autônomo e indivisível",
+        "Natureza difusa",
+        "Distinção entre macrobem e microbens ambientais",
+        "Bem de uso comum do povo sem necessária titularidade estatal",
+        "Possível coexistência de danos coletivos e individuais"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 225, caput, da Constituição Federal",
+          "origem": "transcricao",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 3º, I, da Lei nº 6.938/1981",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.98,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Lei 6.938",
+          "art. 3 — Lei 6.938"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.96
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_739dca1891"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_02/q0054",
+      "id_origem": "q0054",
+      "ordem_origem": 54,
+      "bloco_origem": "cadeia_739dca1891",
+      "score": 104.29,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0001",
+    "id": "q0001",
+    "prova_id": "prova_2023_03",
+    "ordem": 1,
+    "materia": "Direitos Difusos e Coletivos",
+    "tema": "Processo coletivo",
+    "dificuldade": "dificil",
+    "momento": "inicio",
+    "pergunta": "O que o senhor entende por demanda de valor esperado negativo no âmbito do processo coletivo?",
+    "resposta": "Demanda de valor esperado negativo é aquela em que o benefício econômico provável da pretensão, considerado também o risco de insucesso, é inferior aos custos necessários para promovê-la. Em geral, o conceito se refere a pretensões individuais de pequena expressão, cujo ajuizamento isolado não seria racional, embora a soma das lesões possa ser relevante. A tutela coletiva permite agregar essas pretensões, diluir os custos de litigância e superar a apatia racional dos titulares.",
+    "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Processo coletivo\nDificuldade: difícil\nPergunta: O que o senhor entende por demanda de valor esperado negativo no âmbito do processo coletivo?\nResposta: Demanda de valor esperado negativo é aquela em que o benefício econômico provável da pretensão, considerado também o risco de insucesso, é inferior aos custos necessários para promovê-la. Em geral, o conceito se refere a pretensões individuais de pequena expressão, cujo ajuizamento isolado não seria racional, embora a soma das lesões possa ser relevante. A tutela coletiva permite agregar essas pretensões, diluir os custos de litigância e superar a apatia racional dos titulares.",
+    "_meta": {
+      "subtema": "Demanda de valor esperado negativo",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Benefício provável inferior ao custo da litigância individual",
+        "Pretensões individualmente pouco expressivas",
+        "Agregação de pretensões pela tutela coletiva",
+        "Superação da apatia racional"
+      ],
+      "fundamentos_legais": [],
+      "gabarito_status": "completo",
+      "confianca": 0.92,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 0,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.96
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_a6e7e7c9fe"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0014",
+      "id_origem": "q0014",
+      "ordem_origem": 14,
+      "bloco_origem": "cadeia_a6e7e7c9fe",
+      "score": 105.57,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0002",
+    "id": "q0002",
+    "prova_id": "prova_2023_03",
+    "ordem": 2,
+    "materia": "Direitos Difusos e Coletivos",
+    "tema": "Processo coletivo",
+    "dificuldade": "media",
+    "momento": "inicio",
+    "pergunta": "O senhor entende que a tutela coletiva é inadequada quando as pretensões individuais envolvidas apresentam valor esperado negativo?",
+    "resposta": "Não. A existência de pretensões individuais de valor esperado negativo é justamente uma das situações em que a tutela coletiva se mostra especialmente adequada, pois viabiliza a agregação das lesões e gera economia de escala. Além de permitir o acesso à justiça, a ação coletiva pode cumprir funções de prevenção, desestímulo ao ilícito e proteção objetiva do bem jurídico, que não se reduzem ao valor econômico de cada pretensão. A adequação deve ser examinada no caso concreto, mas o valor esperado negativo das demandas individuais, isoladamente, não impede o emprego da tutela coletiva.",
+    "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Processo coletivo\nDificuldade: média\nPergunta: O senhor entende que a tutela coletiva é inadequada quando as pretensões individuais envolvidas apresentam valor esperado negativo?\nResposta: Não. A existência de pretensões individuais de valor esperado negativo é justamente uma das situações em que a tutela coletiva se mostra especialmente adequada, pois viabiliza a agregação das lesões e gera economia de escala. Além de permitir o acesso à justiça, a ação coletiva pode cumprir funções de prevenção, desestímulo ao ilícito e proteção objetiva do bem jurídico, que não se reduzem ao valor econômico de cada pretensão. A adequação deve ser examinada no caso concreto, mas o valor esperado negativo das demandas individuais, isoladamente, não impede o emprego da tutela coletiva.",
+    "_meta": {
+      "subtema": "Adequação da tutela coletiva",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Inexistência de inadequação automática",
+        "Economia de escala proporcionada pela tutela coletiva",
+        "Acesso à justiça",
+        "Funções preventiva e dissuasória do processo coletivo"
+      ],
+      "fundamentos_legais": [],
+      "gabarito_status": "completo",
+      "confianca": 0.92,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 0,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.97
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_a6e7e7c9fe"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0015",
+      "id_origem": "q0015",
+      "ordem_origem": 15,
+      "bloco_origem": "cadeia_a6e7e7c9fe",
+      "score": 102.75,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0015",
+    "id": "q0015",
+    "prova_id": "prova_2023_03",
+    "ordem": 15,
+    "materia": "Direito Tributário",
+    "tema": "Execução fiscal",
+    "dificuldade": "facil",
+    "momento": "meio",
+    "pergunta": "Na execução fiscal, por quais meios processuais o contribuinte executado pode apresentar sua defesa?",
+    "resposta": "O executado pode defender-se por meio de embargos à execução fiscal e de exceção de pré-executividade. Os embargos constituem ação incidental, pressupõem a garantia da execução e permitem ao executado alegar as matérias úteis à sua defesa, observadas as limitações legais. A exceção de pré-executividade é apresentada por simples petição nos próprios autos, independentemente de garantia do juízo. Segundo a jurisprudência, ela se restringe às matérias cognoscíveis de ofício que não demandem dilação probatória.",
+    "embedding_text": "Matéria: Direito Tributário\nTema: Execução fiscal\nDificuldade: fácil\nPergunta: Na execução fiscal, por quais meios processuais o contribuinte executado pode apresentar sua defesa?\nResposta: O executado pode defender-se por meio de embargos à execução fiscal e de exceção de pré-executividade. Os embargos constituem ação incidental, pressupõem a garantia da execução e permitem ao executado alegar as matérias úteis à sua defesa, observadas as limitações legais. A exceção de pré-executividade é apresentada por simples petição nos próprios autos, independentemente de garantia do juízo. Segundo a jurisprudência, ela se restringe às matérias cognoscíveis de ofício que não demandem dilação probatória.",
+    "_meta": {
+      "subtema": "Meios de defesa do executado",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Embargos à execução fiscal",
+        "Necessidade de garantia para os embargos",
+        "Exceção de pré-executividade",
+        "Desnecessidade de garantia e de dilação probatória"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 16 da Lei nº 6.830/1980",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "Súmula 393 do Superior Tribunal de Justiça",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.99,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 3,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Lei 6.830",
+          "Súmula 393",
+          "art. 16 — Lei 6.830"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.98
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_340248b5c5"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0030",
+      "id_origem": "q0030",
+      "ordem_origem": 30,
+      "bloco_origem": "cadeia_340248b5c5",
+      "score": 116.49,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0016",
+    "id": "q0016",
+    "prova_id": "prova_2023_03",
+    "ordem": 16,
+    "materia": "Direito Tributário",
+    "tema": "Execução fiscal",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "Na execução fiscal de crédito tributário, quais são os pressupostos para a configuração da prescrição intercorrente?",
+    "resposta": "Constatada a não localização do devedor ou de bens penhoráveis, a ciência da Fazenda Pública marca automaticamente o início do período de suspensão de um ano previsto na Lei de Execução Fiscal. Encerrado esse período, começa a correr o prazo prescricional aplicável ao crédito, independentemente de pronunciamento judicial formal determinando o arquivamento. A prescrição intercorrente configura-se se o prazo transcorrer integralmente sem causa suspensiva ou interruptiva, como a efetiva citação, quando ainda não realizada, ou a efetiva constrição patrimonial. Antes de reconhecê-la, o juiz deve ouvir a Fazenda Pública, não sendo necessária a demonstração de desídia do exequente.",
+    "embedding_text": "Matéria: Direito Tributário\nTema: Execução fiscal\nDificuldade: média\nPergunta: Na execução fiscal de crédito tributário, quais são os pressupostos para a configuração da prescrição intercorrente?\nResposta: Constatada a não localização do devedor ou de bens penhoráveis, a ciência da Fazenda Pública marca automaticamente o início do período de suspensão de um ano previsto na Lei de Execução Fiscal. Encerrado esse período, começa a correr o prazo prescricional aplicável ao crédito, independentemente de pronunciamento judicial formal determinando o arquivamento. A prescrição intercorrente configura-se se o prazo transcorrer integralmente sem causa suspensiva ou interruptiva, como a efetiva citação, quando ainda não realizada, ou a efetiva constrição patrimonial. Antes de reconhecê-la, o juiz deve ouvir a Fazenda Pública, não sendo necessária a demonstração de desídia do exequente.",
+    "_meta": {
+      "subtema": "Pressupostos da prescrição intercorrente",
+      "tipo": "principal",
+      "pontos_chave": [
+        "não localização do devedor ou de bens penhoráveis",
+        "ciência da Fazenda Pública",
+        "suspensão automática por um ano",
+        "início posterior do prazo prescricional",
+        "ausência de causa suspensiva ou interruptiva",
+        "oitiva prévia da Fazenda Pública"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 40 da Lei nº 6.830/1980",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 174 do Código Tributário Nacional",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.96,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "CTN",
+          "Lei 6.830",
+          "art. 174 — CTN",
+          "art. 40 — Lei 6.830"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.98
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_340248b5c5"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0031",
+      "id_origem": "q0031",
+      "ordem_origem": 31,
+      "bloco_origem": "cadeia_340248b5c5",
+      "score": 115.93,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0017",
+    "id": "q0017",
+    "prova_id": "prova_2023_03",
+    "ordem": 17,
+    "materia": "Direito Tributário",
+    "tema": "Execução fiscal",
+    "dificuldade": "facil",
+    "momento": "meio",
+    "pergunta": "Qual é o prazo da prescrição intercorrente na execução fiscal de crédito tributário?",
+    "resposta": "O prazo da prescrição intercorrente do crédito tributário é de cinco anos. Ele começa a correr depois de encerrado o período de um ano de suspensão decorrente da não localização do devedor ou de bens penhoráveis. Sua consumação pressupõe o transcurso integral desse quinquênio sem causa de suspensão ou interrupção da prescrição.",
+    "embedding_text": "Matéria: Direito Tributário\nTema: Execução fiscal\nDificuldade: fácil\nPergunta: Qual é o prazo da prescrição intercorrente na execução fiscal de crédito tributário?\nResposta: O prazo da prescrição intercorrente do crédito tributário é de cinco anos. Ele começa a correr depois de encerrado o período de um ano de suspensão decorrente da não localização do devedor ou de bens penhoráveis. Sua consumação pressupõe o transcurso integral desse quinquênio sem causa de suspensão ou interrupção da prescrição.",
+    "_meta": {
+      "subtema": "Prazo da prescrição intercorrente",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "prazo de cinco anos",
+        "início após um ano de suspensão",
+        "ausência de causa suspensiva ou interruptiva"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 174 do Código Tributário Nacional",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 40 da Lei nº 6.830/1980",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.98,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "CTN",
+          "Lei 6.830",
+          "art. 174 — CTN",
+          "art. 40 — Lei 6.830"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.99
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_340248b5c5"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0032",
+      "id_origem": "q0032",
+      "ordem_origem": 32,
+      "bloco_origem": "cadeia_340248b5c5",
+      "score": 102.73,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0018",
+    "id": "q0018",
+    "prova_id": "prova_2023_03",
+    "ordem": 18,
+    "materia": "Direito Tributário",
+    "tema": "Repetição de indébito",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "Considerando que o Município recebe cinquenta por cento do produto da arrecadação do IPVA relativo aos veículos licenciados em seu território, ele deve integrar o polo passivo da ação de repetição de indébito ajuizada pelo contribuinte para obter a restituição desse imposto?",
+    "resposta": "Não. O Estado é o ente competente para instituir o IPVA e o sujeito ativo da relação jurídico-tributária, razão pela qual possui legitimidade passiva para a ação de repetição do indébito. A participação constitucional do Município no produto da arrecadação constitui repartição de receitas tributárias e não lhe transfere competência tributária nem capacidade para exigir o imposto. Por isso, o Município não é litisconsorte passivo necessário na demanda restitutória.",
+    "embedding_text": "Matéria: Direito Tributário\nTema: Repetição de indébito\nDificuldade: difícil\nPergunta: Considerando que o Município recebe cinquenta por cento do produto da arrecadação do IPVA relativo aos veículos licenciados em seu território, ele deve integrar o polo passivo da ação de repetição de indébito ajuizada pelo contribuinte para obter a restituição desse imposto?\nResposta: Não. O Estado é o ente competente para instituir o IPVA e o sujeito ativo da relação jurídico-tributária, razão pela qual possui legitimidade passiva para a ação de repetição do indébito. A participação constitucional do Município no produto da arrecadação constitui repartição de receitas tributárias e não lhe transfere competência tributária nem capacidade para exigir o imposto. Por isso, o Município não é litisconsorte passivo necessário na demanda restitutória.",
+    "_meta": {
+      "subtema": "Legitimidade passiva em restituição de IPVA",
+      "tipo": "principal",
+      "pontos_chave": [
+        "legitimidade passiva do Estado",
+        "repartição constitucional de receitas",
+        "ausência de transferência da competência tributária",
+        "Município não é litisconsorte necessário"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 155, III, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 158, III, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 119 do Código Tributário Nacional",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.97,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "CTN",
+          "art. 119 — CTN",
+          "art. 155 — CF",
+          "art. 158 — CF"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.98
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_340248b5c5"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0033",
+      "id_origem": "q0033",
+      "ordem_origem": 33,
+      "bloco_origem": "cadeia_340248b5c5",
+      "score": 127.48,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0021",
+    "id": "q0021",
+    "prova_id": "prova_2023_03",
+    "ordem": 21,
+    "materia": "Direito Penal",
+    "tema": "Concurso de pessoas",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "Na hipótese de duas pessoas que atuam conjuntamente de maneira contrária ao dever objetivo de cuidado e causam um resultado típico, é possível reconhecer coautoria em crime culposo?",
+    "resposta": "Segundo a corrente tradicionalmente majoritária no Brasil, é possível a coautoria em crime culposo, desde que haja atuação conjunta e consciente quanto à conduta comum, embora não exista vontade dirigida ao resultado. O vínculo entre os agentes recai sobre a realização conjunta da conduta da qual decorre a violação do dever objetivo de cuidado, e o resultado causado por essa atuação pode ser reciprocamente imputado aos coautores. Essa orientação costuma afastar a participação culposa, considerando autores todos os que, vinculados à execução comum, concorrem culposamente para o resultado. Há corrente divergente que rejeita a coautoria culposa, por entender que cada agente viola individualmente o próprio dever de cuidado e somente pode responder pelo resultado cujo nexo com sua conduta esteja demonstrado.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: Na hipótese de duas pessoas que atuam conjuntamente de maneira contrária ao dever objetivo de cuidado e causam um resultado típico, é possível reconhecer coautoria em crime culposo?\nResposta: Segundo a corrente tradicionalmente majoritária no Brasil, é possível a coautoria em crime culposo, desde que haja atuação conjunta e consciente quanto à conduta comum, embora não exista vontade dirigida ao resultado. O vínculo entre os agentes recai sobre a realização conjunta da conduta da qual decorre a violação do dever objetivo de cuidado, e o resultado causado por essa atuação pode ser reciprocamente imputado aos coautores. Essa orientação costuma afastar a participação culposa, considerando autores todos os que, vinculados à execução comum, concorrem culposamente para o resultado. Há corrente divergente que rejeita a coautoria culposa, por entender que cada agente viola individualmente o próprio dever de cuidado e somente pode responder pelo resultado cujo nexo com sua conduta esteja demonstrado.",
+    "_meta": {
+      "subtema": "Coautoria em crime culposo",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Admissibilidade da coautoria culposa pela corrente majoritária",
+        "Vínculo subjetivo referente à conduta comum, não ao resultado",
+        "Violação conjunta do dever objetivo de cuidado",
+        "Divergência que individualiza a autoria culposa"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 18, II, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 29 do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.92,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 18 — CP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.96
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_edb6c058b3"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0049",
+      "id_origem": "q0049",
+      "ordem_origem": 49,
+      "bloco_origem": "cadeia_edb6c058b3",
+      "score": 113.5,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0027",
+    "id": "q0027",
+    "prova_id": "prova_2023_03",
+    "ordem": 27,
+    "materia": "Direito Processual Penal",
+    "tema": "Recursos",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "A que título o assistente de acusação pode recorrer de uma sentença condenatória? Há divergência quanto ao fundamento de seu interesse recursal?",
+    "resposta": "O assistente recorre como parte acessória e contingente da acusação, em defesa de interesse próprio juridicamente reconhecido, e não como representante do Ministério Público. Pela corrente tradicional, seu interesse seria predominantemente civil ou econômico, relacionado à formação e ao conteúdo do título executivo destinado à reparação do dano. A orientação ampliativa reconhece também interesse na justa e adequada aplicação da lei penal, permitindo-lhe buscar, por exemplo, o aumento da pena. A controvérsia sobre a extensão desse interesse não se confunde com o caráter legalmente supletivo de sua atuação recursal em relação ao Ministério Público.",
+    "embedding_text": "Matéria: Direito Processual Penal\nTema: Recursos\nDificuldade: difícil\nPergunta: A que título o assistente de acusação pode recorrer de uma sentença condenatória? Há divergência quanto ao fundamento de seu interesse recursal?\nResposta: O assistente recorre como parte acessória e contingente da acusação, em defesa de interesse próprio juridicamente reconhecido, e não como representante do Ministério Público. Pela corrente tradicional, seu interesse seria predominantemente civil ou econômico, relacionado à formação e ao conteúdo do título executivo destinado à reparação do dano. A orientação ampliativa reconhece também interesse na justa e adequada aplicação da lei penal, permitindo-lhe buscar, por exemplo, o aumento da pena. A controvérsia sobre a extensão desse interesse não se confunde com o caráter legalmente supletivo de sua atuação recursal em relação ao Ministério Público.",
+    "_meta": {
+      "subtema": "Recurso do assistente de acusação",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Assistente como parte acessória e contingente",
+        "Interesse próprio, distinto da representação do Ministério Público",
+        "Corrente restritiva do interesse civil ou econômico",
+        "Corrente ampliativa da justa aplicação da lei penal",
+        "Distinção entre interesse recursal e atuação supletiva"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 268 do Código de Processo Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 271 do Código de Processo Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 598 do Código de Processo Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.9,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 268 — CPP",
+          "art. 271 — CPP",
+          "art. 598 — CPP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "A divergência central diz respeito à extensão do interesse recursal do assistente, sem prejuízo da disciplina supletiva prevista no Código de Processo Penal.",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.91
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_1f38a9645e"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0058",
+      "id_origem": "q0058",
+      "ordem_origem": 58,
+      "bloco_origem": "cadeia_1f38a9645e",
+      "score": 116.53,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0033",
+    "id": "q0033",
+    "prova_id": "prova_2023_03",
+    "ordem": 33,
+    "materia": "Direito Processual Civil",
+    "tema": "Intervenção do Ministério Público",
+    "dificuldade": "media",
+    "momento": "fim",
+    "pergunta": "Diante da divergência doutrinária sobre a vinculação do Ministério Público à pretensão do incapaz, qual posição o senhor adota: a instituição deve sempre defender o pedido formulado pelo incapaz ou pode manifestar-se em sentido contrário?",
+    "resposta": "Adoto a corrente segundo a qual o Ministério Público pode manifestar-se em sentido contrário à pretensão do incapaz. Sua intervenção destina-se à defesa da ordem jurídica e do interesse objetivamente tutelado, e não à substituição do representante processual ou do advogado da parte incapaz. Assim, deve formar convencimento fundamentado a partir do ordenamento jurídico como um todo, inclusive para contrariar o pedido quando ele for ilegal, infundado ou prejudicial ao melhor interesse do incapaz.",
+    "embedding_text": "Matéria: Direito Processual Civil\nTema: Intervenção do Ministério Público\nDificuldade: média\nPergunta: Diante da divergência doutrinária sobre a vinculação do Ministério Público à pretensão do incapaz, qual posição o senhor adota: a instituição deve sempre defender o pedido formulado pelo incapaz ou pode manifestar-se em sentido contrário?\nResposta: Adoto a corrente segundo a qual o Ministério Público pode manifestar-se em sentido contrário à pretensão do incapaz. Sua intervenção destina-se à defesa da ordem jurídica e do interesse objetivamente tutelado, e não à substituição do representante processual ou do advogado da parte incapaz. Assim, deve formar convencimento fundamentado a partir do ordenamento jurídico como um todo, inclusive para contrariar o pedido quando ele for ilegal, infundado ou prejudicial ao melhor interesse do incapaz.",
+    "_meta": {
+      "subtema": "Interesse de incapaz e ordem jurídica",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Adoção da corrente que admite manifestação contrária",
+        "Defesa da ordem jurídica",
+        "Independência funcional",
+        "Proteção objetiva do melhor interesse do incapaz"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 127, caput, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 178, II, do Código de Processo Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.98,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 127 — CF",
+          "art. 178 — CPC"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.96
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_fbc20a978a"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0071",
+      "id_origem": "q0071",
+      "ordem_origem": 71,
+      "bloco_origem": "cadeia_fbc20a978a",
+      "score": 121.02,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2023_03/q0036",
+    "id": "q0036",
+    "prova_id": "prova_2023_03",
+    "ordem": 36,
+    "materia": "Direito Empresarial",
+    "tema": "Recuperação judicial e falência",
+    "dificuldade": "dificil",
+    "momento": "fim",
+    "pergunta": "O senhor considera admissíveis a recuperação judicial e a falência de associações e fundações?",
+    "resposta": "Pela regra geral da Lei de Recuperação e Falências, associações e fundações não se submetem à recuperação judicial nem à falência, pois o regime é destinado ao empresário e à sociedade empresária. Há, contudo, orientação jurisprudencial excepcional que admite a recuperação judicial de associações formalmente sem fins lucrativos quando elas atuam profissionalmente como relevantes agentes econômicos, além da autorização legal específica concedida aos clubes ou pessoas jurídicas originais no âmbito da Sociedade Anônima do Futebol. Essa flexibilização não pode ser automaticamente estendida a qualquer associação e tampouco às fundações, cuja afetação patrimonial e finalidade institucional são incompatíveis, em regra, com o regime empresarial de insolvência. Também não se pode concluir que todo precedente favorável à recuperação judicial reconheça irrestritamente a sujeição da entidade a pedido autônomo de falência. Se uma associação for validamente admitida em recuperação judicial, entretanto, a convolação em falência pode surgir, em tese, como consequência do próprio procedimento recuperacional.",
+    "embedding_text": "Matéria: Direito Empresarial\nTema: Recuperação judicial e falência\nDificuldade: difícil\nPergunta: O senhor considera admissíveis a recuperação judicial e a falência de associações e fundações?\nResposta: Pela regra geral da Lei de Recuperação e Falências, associações e fundações não se submetem à recuperação judicial nem à falência, pois o regime é destinado ao empresário e à sociedade empresária. Há, contudo, orientação jurisprudencial excepcional que admite a recuperação judicial de associações formalmente sem fins lucrativos quando elas atuam profissionalmente como relevantes agentes econômicos, além da autorização legal específica concedida aos clubes ou pessoas jurídicas originais no âmbito da Sociedade Anônima do Futebol. Essa flexibilização não pode ser automaticamente estendida a qualquer associação e tampouco às fundações, cuja afetação patrimonial e finalidade institucional são incompatíveis, em regra, com o regime empresarial de insolvência. Também não se pode concluir que todo precedente favorável à recuperação judicial reconheça irrestritamente a sujeição da entidade a pedido autônomo de falência. Se uma associação for validamente admitida em recuperação judicial, entretanto, a convolação em falência pode surgir, em tese, como consequência do próprio procedimento recuperacional.",
+    "_meta": {
+      "subtema": "Associações e fundações",
+      "tipo": "principal",
+      "pontos_chave": [
+        "regra legal restrita ao empresário e à sociedade empresária",
+        "admissão jurisprudencial excepcional de associações que exercem atividade econômica organizada",
+        "regime especial dos clubes de futebol",
+        "não extensão automática às fundações",
+        "distinção entre recuperação judicial e pedido autônomo de falência"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "Lei nº 11.101/2005 (Lei de Recuperação e Falências)",
+          "origem": "transcricao",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 1º da Lei nº 11.101/2005",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 13 da Lei nº 14.193/2021",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "arts. 53 e 62 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.84,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 8,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Lei 11.101",
+          "Lei 14.193",
+          "art. 1 — Lei 11.101",
+          "art. 13 — Lei 14.193",
+          "art. 53 — CC",
+          "art. 62 — CC"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [
+          "Lei nº 11.101/2005 (Lei de Recuperação e Falências)"
+        ],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "A jurisprudência excepcional concentra-se na recuperação judicial de associações que desempenham atividade econômica, não havendo autorização geral equivalente para fundações.",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.86
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_7817eb6a47"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2023_03/q0087",
+      "id_origem": "q0087",
+      "ordem_origem": 87,
+      "bloco_origem": "cadeia_7817eb6a47",
+      "score": 108.48,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0001",
+    "id": "q0001",
+    "prova_id": "prova_2024_01",
+    "ordem": 1,
+    "materia": "Direito Administrativo",
+    "tema": "Licitações",
+    "dificuldade": "media",
+    "momento": "inicio",
+    "pergunta": "O senhor poderia indicar três hipóteses de dispensa de licitação previstas na Lei nº 14.133/2021?",
+    "resposta": "Uma hipótese é a contratação necessária ao atendimento de situação de emergência ou de calamidade pública, nos limites do que for indispensável ao enfrentamento da situação. Outra é a contratação, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade da Administração Pública criado para essa finalidade específica, desde que o preço seja compatível com o mercado; a contratação do Serpro pode enquadrar-se nessa previsão quando satisfeitos os requisitos legais, não bastando o caráter sigiloso dos dados. Também é dispensável a licitação para materiais de uso das Forças Armadas quando a padronização logística assim o exigir e houver a autorização prevista em lei. Essa última hipótese exclui expressamente os materiais de uso pessoal e administrativo, de modo que não abrange, por esse fundamento, o simples fornecimento de fardamento pessoal.",
+    "embedding_text": "Matéria: Direito Administrativo\nTema: Licitações\nDificuldade: média\nPergunta: O senhor poderia indicar três hipóteses de dispensa de licitação previstas na Lei nº 14.133/2021?\nResposta: Uma hipótese é a contratação necessária ao atendimento de situação de emergência ou de calamidade pública, nos limites do que for indispensável ao enfrentamento da situação. Outra é a contratação, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade da Administração Pública criado para essa finalidade específica, desde que o preço seja compatível com o mercado; a contratação do Serpro pode enquadrar-se nessa previsão quando satisfeitos os requisitos legais, não bastando o caráter sigiloso dos dados. Também é dispensável a licitação para materiais de uso das Forças Armadas quando a padronização logística assim o exigir e houver a autorização prevista em lei. Essa última hipótese exclui expressamente os materiais de uso pessoal e administrativo, de modo que não abrange, por esse fundamento, o simples fornecimento de fardamento pessoal.",
+    "_meta": {
+      "subtema": "Hipóteses de dispensa de licitação",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "emergência ou calamidade pública",
+        "contratação de órgão ou entidade administrativa criado para finalidade específica",
+        "compatibilidade do preço com o mercado",
+        "materiais das Forças Armadas necessários à padronização logística",
+        "exclusão de materiais de uso pessoal e administrativo"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 75, IV, alínea g, da Lei nº 14.133/2021",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 75, VIII, da Lei nº 14.133/2021",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 75, IX, da Lei nº 14.133/2021",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.97,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 75 — Lei 14.133"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.98
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_35b0dbdad9"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0009",
+      "id_origem": "q0009",
+      "ordem_origem": 9,
+      "bloco_origem": "cadeia_35b0dbdad9",
+      "score": 116.62,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0002",
+    "id": "q0002",
+    "prova_id": "prova_2024_01",
+    "ordem": 2,
+    "materia": "Direitos Difusos e Coletivos",
+    "tema": "Inquérito civil e TAC",
+    "dificuldade": "media",
+    "momento": "inicio",
+    "pergunta": "Se o promotor de Justiça celebra termo de ajustamento de conduta no curso de inquérito civil, é necessária a homologação judicial desse compromisso?",
+    "resposta": "A homologação judicial não é requisito de validade ou eficácia do termo de ajustamento de conduta, pois o compromisso regularmente tomado pelo Ministério Público já possui eficácia de título executivo extrajudicial. A submissão ao Poder Judiciário é facultativa e, se houver homologação, o acordo passará a constituir título executivo judicial. Encerrada a investigação em razão da solução consensual, o promotor deverá promover fundamentadamente o arquivamento do inquérito civil e remeter os autos ao Conselho Superior do Ministério Público no prazo legal. Esse controle interno do arquivamento não se confunde com a homologação judicial facultativa do TAC.",
+    "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Inquérito civil e TAC\nDificuldade: média\nPergunta: Se o promotor de Justiça celebra termo de ajustamento de conduta no curso de inquérito civil, é necessária a homologação judicial desse compromisso?\nResposta: A homologação judicial não é requisito de validade ou eficácia do termo de ajustamento de conduta, pois o compromisso regularmente tomado pelo Ministério Público já possui eficácia de título executivo extrajudicial. A submissão ao Poder Judiciário é facultativa e, se houver homologação, o acordo passará a constituir título executivo judicial. Encerrada a investigação em razão da solução consensual, o promotor deverá promover fundamentadamente o arquivamento do inquérito civil e remeter os autos ao Conselho Superior do Ministério Público no prazo legal. Esse controle interno do arquivamento não se confunde com a homologação judicial facultativa do TAC.",
+    "_meta": {
+      "subtema": "Homologação judicial e arquivamento",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Homologação judicial facultativa",
+        "TAC como título executivo extrajudicial",
+        "Arquivamento fundamentado do inquérito civil",
+        "Remessa ao Conselho Superior em três dias"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 9º, caput e § 1º, da Lei nº 7.347/1985",
+          "origem": "transcricao",
+          "origem_verificada": "transcricao"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.95,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.97
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_581a26884e"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0019",
+      "id_origem": "q0019",
+      "ordem_origem": 19,
+      "bloco_origem": "cadeia_581a26884e",
+      "score": 115.71,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0014",
+    "id": "q0014",
+    "prova_id": "prova_2024_01",
+    "ordem": 14,
+    "materia": "Direito da Infância e Juventude",
+    "tema": "Proteção de criança vítima",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "Um menino de quatro anos teve a mãe vítima de feminicídio praticado pelo pai, que está preso, e passou a residir com os avós maternos, autores de ação de destituição do poder familiar. Diante de aproximações insistentes e potencialmente prejudiciais de familiares paternos, os avós solicitam ao Ministério Público o ajuizamento de medida protetiva que proíba o contato e a aproximação desses familiares em relação à criança e à família materna, inclusive com fundamento na Lei Maria da Penha. Considerando a proteção integral e o direito à convivência familiar, como o senhor avaliaria esse pedido?",
+    "resposta": "A criança deve ser reconhecida como vítima indireta do feminicídio e, conforme os efeitos e as condutas posteriores, também como vítima direta de violência psicológica ou revitimização. O Ministério Público deve apurar os fatos com o apoio da rede de proteção e de avaliação psicossocial, sem condicionar eventual tutela urgente ao encerramento da apuração. Demonstrada situação atual de risco, é cabível requerer medida protetiva que proíba a aproximação e o contato dos familiares identificados, inclusive em relação à família materna, além de suspender ou regulamentar judicialmente eventual convivência. O fundamento imediato encontra-se no Estatuto da Criança e do Adolescente e na Lei Henry Borel, podendo a Lei Maria da Penha integrar o microssistema de proteção e orientar a interpretação, embora não seja, isoladamente, o regime diretamente aplicável ao menino. A convivência com a família extensa, inclusive eventual visitação dos avós paternos, não é absoluta e deve subordinar-se ao melhor interesse e à segurança da criança, não legitimando aproximações insistentes à margem de regulamentação judicial.",
+    "embedding_text": "Matéria: Direito da Infância e Juventude\nTema: Proteção de criança vítima\nDificuldade: difícil\nPergunta: Um menino de quatro anos teve a mãe vítima de feminicídio praticado pelo pai, que está preso, e passou a residir com os avós maternos, autores de ação de destituição do poder familiar. Diante de aproximações insistentes e potencialmente prejudiciais de familiares paternos, os avós solicitam ao Ministério Público o ajuizamento de medida protetiva que proíba o contato e a aproximação desses familiares em relação à criança e à família materna, inclusive com fundamento na Lei Maria da Penha. Considerando a proteção integral e o direito à convivência familiar, como o senhor avaliaria esse pedido?\nResposta: A criança deve ser reconhecida como vítima indireta do feminicídio e, conforme os efeitos e as condutas posteriores, também como vítima direta de violência psicológica ou revitimização. O Ministério Público deve apurar os fatos com o apoio da rede de proteção e de avaliação psicossocial, sem condicionar eventual tutela urgente ao encerramento da apuração. Demonstrada situação atual de risco, é cabível requerer medida protetiva que proíba a aproximação e o contato dos familiares identificados, inclusive em relação à família materna, além de suspender ou regulamentar judicialmente eventual convivência. O fundamento imediato encontra-se no Estatuto da Criança e do Adolescente e na Lei Henry Borel, podendo a Lei Maria da Penha integrar o microssistema de proteção e orientar a interpretação, embora não seja, isoladamente, o regime diretamente aplicável ao menino. A convivência com a família extensa, inclusive eventual visitação dos avós paternos, não é absoluta e deve subordinar-se ao melhor interesse e à segurança da criança, não legitimando aproximações insistentes à margem de regulamentação judicial.",
+    "_meta": {
+      "subtema": "Medida protetiva e convivência familiar",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Criança como vítima indireta do feminicídio e possível vítima direta de violência psicológica",
+        "Aplicação do microssistema de proteção de crianças e vítimas vulneráveis",
+        "Cabimento de proibição de aproximação e contato diante de risco concreto",
+        "Prevalência do melhor interesse sobre pretensão abstrata de convivência familiar",
+        "Utilização integrativa, mas não exclusiva, da Lei Maria da Penha"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "Lei nº 11.340/2006",
+          "origem": "transcricao",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "Lei nº 13.431/2017",
+          "origem": "transcricao",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "Lei nº 14.344/2022",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "arts. 98 e 101 do Estatuto da Criança e do Adolescente",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 227 da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 1.589, parágrafo único, do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.88,
+      "citacoes_nao_ancoradas": [
+        "ECA",
+        "Lei 14.344"
+      ],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 13,
+        "nao_ancoradas_resposta": [
+          "ECA",
+          "Lei 14.344"
+        ],
+        "nao_ancoradas_fundamentos": [
+          "ECA",
+          "Lei 13.431",
+          "Lei 14.344",
+          "art. 101 — ECA",
+          "art. 1589 — CC",
+          "art. 227 — CF",
+          "art. 98 — ECA"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [
+          "Lei nº 13.431/2017"
+        ],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.94
+      },
+      "regenerado": false,
+      "revisao_necessaria": true,
+      "motivos_revisao": [
+        "citacao_nao_ancorada"
+      ],
+      "origem": {
+        "bloco_id": "cadeia_e8f2c12dfc"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0037",
+      "id_origem": "q0037",
+      "ordem_origem": 37,
+      "bloco_origem": "cadeia_e8f2c12dfc",
+      "score": 105.7,
+      "reabilitada": true
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0015",
+    "id": "q0015",
+    "prova_id": "prova_2024_01",
+    "ordem": 15,
+    "materia": "Direito Constitucional",
+    "tema": "Direitos fundamentais",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "Em que consiste o princípio da razoabilidade aplicado aos direitos fundamentais? Apresente também um exemplo concreto de sua incidência.",
+    "resposta": "A razoabilidade, vinculada ao devido processo legal substancial, impede decisões arbitrárias, incongruentes ou destituídas de relação racional com as circunstâncias do caso. Na aplicação dos direitos fundamentais, exige que a atuação estatal considere as particularidades relevantes e adote solução justa e adequada, sem impor restrições irrazoáveis. Um exemplo é o pedido de servidor judeu para que seu horário de trabalho seja ajustado a fim de permitir a observância do Shabbat, iniciado ao pôr do sol de sexta-feira, mediante compensação integral das horas. A acomodação deve ser concedida quando viável e quando não gerar ônus desproporcional ao serviço público ou prejuízo a direitos de terceiros.",
+    "embedding_text": "Matéria: Direito Constitucional\nTema: Direitos fundamentais\nDificuldade: média\nPergunta: Em que consiste o princípio da razoabilidade aplicado aos direitos fundamentais? Apresente também um exemplo concreto de sua incidência.\nResposta: A razoabilidade, vinculada ao devido processo legal substancial, impede decisões arbitrárias, incongruentes ou destituídas de relação racional com as circunstâncias do caso. Na aplicação dos direitos fundamentais, exige que a atuação estatal considere as particularidades relevantes e adote solução justa e adequada, sem impor restrições irrazoáveis. Um exemplo é o pedido de servidor judeu para que seu horário de trabalho seja ajustado a fim de permitir a observância do Shabbat, iniciado ao pôr do sol de sexta-feira, mediante compensação integral das horas. A acomodação deve ser concedida quando viável e quando não gerar ônus desproporcional ao serviço público ou prejuízo a direitos de terceiros.",
+    "_meta": {
+      "subtema": "Princípio da razoabilidade",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Vinculação ao devido processo legal substancial",
+        "Proibição de arbitrariedade e incongruência",
+        "Consideração das circunstâncias concretas",
+        "Acomodação razoável da liberdade religiosa",
+        "Ausência de ônus desproporcional ao serviço público"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 5º, VI, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 5º, VIII, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 5º, LIV, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.91,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.95
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_e8f2c12dfc"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0038",
+      "id_origem": "q0038",
+      "ordem_origem": 38,
+      "bloco_origem": "cadeia_e8f2c12dfc",
+      "score": 114.02,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0016",
+    "id": "q0016",
+    "prova_id": "prova_2024_01",
+    "ordem": 16,
+    "materia": "Direito Constitucional",
+    "tema": "Direitos fundamentais",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "Em que consiste a proteção do conteúdo essencial dos direitos fundamentais e como esse instituto se relaciona com o conceito de garantia dupla?",
+    "resposta": "A proteção do conteúdo essencial impede que restrições legislativas ou administrativas esvaziem a identidade, a utilidade e a possibilidade de exercício de um direito fundamental. Para a teoria absoluta, existe um núcleo previamente delimitado e intangível; para a teoria relativa, o conteúdo essencial é identificado no caso concreto mediante ponderação e controle de proporcionalidade. A garantia é dupla porque protege, no plano subjetivo, uma posição jurídica mínima e efetiva do titular e, no plano objetivo, a permanência do direito como valor e instituição da ordem constitucional. Dessa dupla dimensão também decorrem deveres estatais de abstenção contra intervenções excessivas e de atuação contra proteção insuficiente. Assim, é inconstitucional tanto a medida que descaracterize o direito enquanto instituto quanto aquela que torne inócuo seu exercício pelo titular.",
+    "embedding_text": "Matéria: Direito Constitucional\nTema: Direitos fundamentais\nDificuldade: difícil\nPergunta: Em que consiste a proteção do conteúdo essencial dos direitos fundamentais e como esse instituto se relaciona com o conceito de garantia dupla?\nResposta: A proteção do conteúdo essencial impede que restrições legislativas ou administrativas esvaziem a identidade, a utilidade e a possibilidade de exercício de um direito fundamental. Para a teoria absoluta, existe um núcleo previamente delimitado e intangível; para a teoria relativa, o conteúdo essencial é identificado no caso concreto mediante ponderação e controle de proporcionalidade. A garantia é dupla porque protege, no plano subjetivo, uma posição jurídica mínima e efetiva do titular e, no plano objetivo, a permanência do direito como valor e instituição da ordem constitucional. Dessa dupla dimensão também decorrem deveres estatais de abstenção contra intervenções excessivas e de atuação contra proteção insuficiente. Assim, é inconstitucional tanto a medida que descaracterize o direito enquanto instituto quanto aquela que torne inócuo seu exercício pelo titular.",
+    "_meta": {
+      "subtema": "Conteúdo essencial e garantia dupla",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Proibição de esvaziamento do direito fundamental",
+        "Teorias absoluta e relativa do conteúdo essencial",
+        "Dimensão subjetiva da proteção",
+        "Dimensão objetiva ou institucional da proteção",
+        "Proibição de excesso e de proteção insuficiente"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 5º, § 1º, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 60, § 4º, IV, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.72,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 60 — CF"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.88
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_e8f2c12dfc"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0039",
+      "id_origem": "q0039",
+      "ordem_origem": 39,
+      "bloco_origem": "cadeia_e8f2c12dfc",
+      "score": 105.49,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0017",
+    "id": "q0017",
+    "prova_id": "prova_2024_01",
+    "ordem": 17,
+    "materia": "Direito Tributário",
+    "tema": "Prescrição tributária",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "Com o objetivo de aumentar a arrecadação, uma lei estadual pode ampliar o prazo de prescrição dos créditos tributários do respectivo Estado?",
+    "resposta": "Não. A Constituição reserva à lei complementar nacional o estabelecimento de normas gerais em matéria tributária, inclusive sobre prescrição e decadência, de modo que a lei estadual não pode ampliar o prazo prescricional. O Código Tributário Nacional, recepcionado com força de lei complementar nessa matéria, estabelece prazo de cinco anos para a ação de cobrança do crédito tributário, contado de sua constituição definitiva. A finalidade arrecadatória não afasta a inconstitucionalidade da alteração estadual por invasão da reserva constitucional de lei complementar.",
+    "embedding_text": "Matéria: Direito Tributário\nTema: Prescrição tributária\nDificuldade: média\nPergunta: Com o objetivo de aumentar a arrecadação, uma lei estadual pode ampliar o prazo de prescrição dos créditos tributários do respectivo Estado?\nResposta: Não. A Constituição reserva à lei complementar nacional o estabelecimento de normas gerais em matéria tributária, inclusive sobre prescrição e decadência, de modo que a lei estadual não pode ampliar o prazo prescricional. O Código Tributário Nacional, recepcionado com força de lei complementar nessa matéria, estabelece prazo de cinco anos para a ação de cobrança do crédito tributário, contado de sua constituição definitiva. A finalidade arrecadatória não afasta a inconstitucionalidade da alteração estadual por invasão da reserva constitucional de lei complementar.",
+    "_meta": {
+      "subtema": "Alteração do prazo prescricional por lei estadual",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Reserva constitucional de lei complementar",
+        "Prescrição como norma geral de direito tributário",
+        "Recepção do CTN com força de lei complementar",
+        "Impossibilidade de ampliação por lei estadual",
+        "Prazo quinquenal para cobrança"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 146, III, b, da Constituição Federal",
+          "origem": "transcricao",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 174 do Código Tributário Nacional",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "Lei nº 5.172/1966 — Código Tributário Nacional",
+          "origem": "transcricao",
+          "origem_verificada": "transcricao"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.98,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 7,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 174 — CTN"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.99
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_1940935a0c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0040",
+      "id_origem": "q0040",
+      "ordem_origem": 40,
+      "bloco_origem": "cadeia_1940935a0c",
+      "score": 115.73,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0018",
+    "id": "q0018",
+    "prova_id": "prova_2024_01",
+    "ordem": 18,
+    "materia": "Direito Tributário",
+    "tema": "Decadência tributária",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "Há relação entre a contagem do prazo de decadência tributária e as diferentes modalidades de lançamento do crédito tributário?",
+    "resposta": "Sim, pois o termo inicial da decadência varia conforme a modalidade de lançamento e a conduta do sujeito passivo. Nos tributos sujeitos a lançamento de ofício ou por declaração, aplica-se, em regra, o prazo de cinco anos contado do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. Nos tributos sujeitos a lançamento por homologação, havendo pagamento antecipado, o prazo para homologação ou lançamento de diferenças é contado do fato gerador, salvo dolo, fraude ou simulação. Se não houver pagamento antecipado, aplica-se a regra do primeiro dia do exercício seguinte, própria do lançamento de ofício. Caso o contribuinte tenha declarado o débito, a declaração constitui o crédito quanto ao valor reconhecido, não havendo decadência a discutir sobre essa parcela, mas prescrição para sua cobrança. Regularmente constituído em definitivo o crédito, encerra-se a fase decadencial e passa a incidir o prazo prescricional.",
+    "embedding_text": "Matéria: Direito Tributário\nTema: Decadência tributária\nDificuldade: média\nPergunta: Há relação entre a contagem do prazo de decadência tributária e as diferentes modalidades de lançamento do crédito tributário?\nResposta: Sim, pois o termo inicial da decadência varia conforme a modalidade de lançamento e a conduta do sujeito passivo. Nos tributos sujeitos a lançamento de ofício ou por declaração, aplica-se, em regra, o prazo de cinco anos contado do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. Nos tributos sujeitos a lançamento por homologação, havendo pagamento antecipado, o prazo para homologação ou lançamento de diferenças é contado do fato gerador, salvo dolo, fraude ou simulação. Se não houver pagamento antecipado, aplica-se a regra do primeiro dia do exercício seguinte, própria do lançamento de ofício. Caso o contribuinte tenha declarado o débito, a declaração constitui o crédito quanto ao valor reconhecido, não havendo decadência a discutir sobre essa parcela, mas prescrição para sua cobrança. Regularmente constituído em definitivo o crédito, encerra-se a fase decadencial e passa a incidir o prazo prescricional.",
+    "_meta": {
+      "subtema": "Relação com modalidades de lançamento",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Relação entre decadência e modalidade de lançamento",
+        "Regra do art. 173, I, para lançamento de ofício ou por declaração",
+        "Regra do art. 150, § 4º, quando há pagamento antecipado",
+        "Aplicação do art. 173, I, se não houver antecipação",
+        "Constituição do crédito pela declaração do contribuinte",
+        "Distinção entre decadência e prescrição"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 150, § 4º, do Código Tributário Nacional",
+          "origem": "transcricao",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 173, I, do Código Tributário Nacional",
+          "origem": "transcricao",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 174 do Código Tributário Nacional",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.95,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 174 — CTN"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.96
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_1940935a0c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0041",
+      "id_origem": "q0041",
+      "ordem_origem": 41,
+      "bloco_origem": "cadeia_1940935a0c",
+      "score": 123.6,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0019",
+    "id": "q0019",
+    "prova_id": "prova_2024_01",
+    "ordem": 19,
+    "materia": "Direito Eleitoral",
+    "tema": "Ações eleitorais",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "Suponha que um partido político ajuíze ação de impugnação de mandato eletivo e, em seguida, requeira a desistência. O Ministério Público pode assumir o polo ativo e prosseguir com a ação?",
+    "resposta": "Sim. A ação de impugnação de mandato eletivo tutela a legitimidade e a normalidade das eleições, de modo que seu objeto possui natureza pública e indisponível, não ficando o encerramento do processo sujeito apenas à vontade do autor originário. Como possui legitimidade ativa autônoma, o Ministério Público deve ser ouvido antes da homologação da desistência e pode assumir o polo ativo para prosseguir com a demanda. A legislação eleitoral reforça que o ajuizamento de ação por candidato ou partido político não impede a atuação do Ministério Público no mesmo sentido. Desse modo, a desistência do partido não pode ser utilizada para frustrar a apuração judicial de abuso do poder econômico, corrupção ou fraude eleitoral.",
+    "embedding_text": "Matéria: Direito Eleitoral\nTema: Ações eleitorais\nDificuldade: média\nPergunta: Suponha que um partido político ajuíze ação de impugnação de mandato eletivo e, em seguida, requeira a desistência. O Ministério Público pode assumir o polo ativo e prosseguir com a ação?\nResposta: Sim. A ação de impugnação de mandato eletivo tutela a legitimidade e a normalidade das eleições, de modo que seu objeto possui natureza pública e indisponível, não ficando o encerramento do processo sujeito apenas à vontade do autor originário. Como possui legitimidade ativa autônoma, o Ministério Público deve ser ouvido antes da homologação da desistência e pode assumir o polo ativo para prosseguir com a demanda. A legislação eleitoral reforça que o ajuizamento de ação por candidato ou partido político não impede a atuação do Ministério Público no mesmo sentido. Desse modo, a desistência do partido não pode ser utilizada para frustrar a apuração judicial de abuso do poder econômico, corrupção ou fraude eleitoral.",
+    "_meta": {
+      "subtema": "Desistência da ação e assunção pelo Ministério Público",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Natureza pública e indisponível da AIME",
+        "Legitimidade ativa autônoma do Ministério Público",
+        "Possibilidade de assunção do polo ativo",
+        "Necessidade de o Ministério Público ser ouvido",
+        "Impossibilidade de desistência estratégica frustrar a tutela eleitoral"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 14, § 10, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 96-B, § 1º, da Lei nº 9.504/1997",
+          "origem": "transcricao",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 127 da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.9,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 127 — CF",
+          "art. 14 — CF",
+          "art. 96b — Lei 9.504"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [
+          "art. 96-B, § 1º, da Lei nº 9.504/1997"
+        ],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.95
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_1940935a0c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0042",
+      "id_origem": "q0042",
+      "ordem_origem": 42,
+      "bloco_origem": "cadeia_1940935a0c",
+      "score": 107.8,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0034",
+    "id": "q0034",
+    "prova_id": "prova_2024_01",
+    "ordem": 34,
+    "materia": "Direito Civil",
+    "tema": "Direito das Sucessões",
+    "dificuldade": "media",
+    "momento": "fim",
+    "pergunta": "Qual é a consequência jurídica para o herdeiro que dolosamente sonega bens da herança que estejam em seu poder?",
+    "resposta": "O herdeiro que dolosamente sonega bens da herança perde o direito que lhe caberia sobre os bens sonegados, sem perder a qualidade de herdeiro ou sua participação nos demais bens. A pena de sonegados deve ser requerida em ação promovida pelos herdeiros ou pelos credores da herança, e a sentença aproveita aos demais interessados. Se os bens não puderem ser restituídos porque já não estão em poder do sonegador, este deverá pagar o respectivo valor, além de perdas e danos. Caso o herdeiro sonegador também exerça a inventariança, poderá ainda ser removido dessa função.",
+    "embedding_text": "Matéria: Direito Civil\nTema: Direito das Sucessões\nDificuldade: média\nPergunta: Qual é a consequência jurídica para o herdeiro que dolosamente sonega bens da herança que estejam em seu poder?\nResposta: O herdeiro que dolosamente sonega bens da herança perde o direito que lhe caberia sobre os bens sonegados, sem perder a qualidade de herdeiro ou sua participação nos demais bens. A pena de sonegados deve ser requerida em ação promovida pelos herdeiros ou pelos credores da herança, e a sentença aproveita aos demais interessados. Se os bens não puderem ser restituídos porque já não estão em poder do sonegador, este deverá pagar o respectivo valor, além de perdas e danos. Caso o herdeiro sonegador também exerça a inventariança, poderá ainda ser removido dessa função.",
+    "_meta": {
+      "subtema": "Pena de sonegados",
+      "tipo": "principal",
+      "pontos_chave": [
+        "necessidade de dolo",
+        "perda do direito sobre os bens sonegados",
+        "ação de sonegados",
+        "legitimidade dos herdeiros e credores da herança",
+        "restituição do valor e perdas e danos",
+        "remoção do inventariante sonegador"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 1.992 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 1.993 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 1.994 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 1.995 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.98,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 8,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 1992 — CC",
+          "art. 1993 — CC",
+          "art. 1994 — CC",
+          "art. 1995 — CC"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.99
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_72eb1a1fe6"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0075",
+      "id_origem": "q0075",
+      "ordem_origem": 75,
+      "bloco_origem": "cadeia_72eb1a1fe6",
+      "score": 116.88,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_01/q0036",
+    "id": "q0036",
+    "prova_id": "prova_2024_01",
+    "ordem": 36,
+    "materia": "Direitos Difusos e Coletivos",
+    "tema": "Termo de ajustamento de conduta",
+    "dificuldade": "media",
+    "momento": "fim",
+    "pergunta": "Ao ajuizar ação de conhecimento apesar da existência de termo de ajustamento de conduta, o Ministério Público pode requerer tutela liminar com fundamento nesse ajuste? O senhor esclareça.",
+    "resposta": "Sim. O termo de ajustamento de conduta pode servir como elemento documental apto a demonstrar a probabilidade do direito, mas a concessão da tutela de urgência também exige perigo de dano ou risco ao resultado útil do processo. Na ação civil pública, a legislação admite expressamente a concessão de medida liminar, com ou sem justificação prévia. A tutela não é concedida automaticamente pela mera existência do TAC, devendo ser adequada ao objeto da demanda e estar presentes os respectivos pressupostos legais.",
+    "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Termo de ajustamento de conduta\nDificuldade: média\nPergunta: Ao ajuizar ação de conhecimento apesar da existência de termo de ajustamento de conduta, o Ministério Público pode requerer tutela liminar com fundamento nesse ajuste? O senhor esclareça.\nResposta: Sim. O termo de ajustamento de conduta pode servir como elemento documental apto a demonstrar a probabilidade do direito, mas a concessão da tutela de urgência também exige perigo de dano ou risco ao resultado útil do processo. Na ação civil pública, a legislação admite expressamente a concessão de medida liminar, com ou sem justificação prévia. A tutela não é concedida automaticamente pela mera existência do TAC, devendo ser adequada ao objeto da demanda e estar presentes os respectivos pressupostos legais.",
+    "_meta": {
+      "subtema": "Liminar baseada em TAC",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Possibilidade de tutela liminar",
+        "TAC como elemento de probabilidade do direito",
+        "Necessidade de perigo de dano ou risco ao resultado útil",
+        "Liminar em ação civil pública"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 300 do Código de Processo Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 12 da Lei nº 7.347/1985",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 785 do Código de Processo Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.96,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 12 — Lei 7.347",
+          "art. 300 — CPC",
+          "art. 785 — CPC"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.94
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_82b4b09ca2"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_01/q0086",
+      "id_origem": "q0086",
+      "ordem_origem": 86,
+      "bloco_origem": "cadeia_82b4b09ca2",
+      "score": 116.0,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0001",
+    "id": "q0001",
+    "prova_id": "prova_2024_02",
+    "ordem": 1,
+    "materia": "Direito Administrativo",
+    "tema": "Responsabilidade administrativa",
+    "dificuldade": "dificil",
+    "momento": "inicio",
+    "pergunta": "O senhor considera possível utilizar a analogia para atribuir a alguém responsabilidade administrativa pela prática de infração?",
+    "resposta": "A analogia não pode ser utilizada para criar infração administrativa, ampliar tipo sancionador ou atribuir responsabilidade em situação não abrangida pela lei, quando isso prejudicar o acusado. Essa vedação à analogia in malam partem decorre dos princípios da legalidade e da tipicidade aplicáveis ao direito administrativo sancionador. Admite-se, segundo a corrente majoritária, a analogia in bonam partem para suprir lacuna em benefício do acusado, desde que compatível com o regime legal. A analogia não se confunde com a interpretação analógica, na qual a própria norma, depois de enumerar hipóteses específicas, emprega uma fórmula genérica que permite alcançar casos pertencentes ao mesmo gênero. Há posição mais restritiva quanto ao emprego de qualquer analogia em matéria sancionadora, mas não se admite que ela seja usada em prejuízo do acusado para fundamentar nova hipótese de responsabilização.",
+    "embedding_text": "Matéria: Direito Administrativo\nTema: Responsabilidade administrativa\nDificuldade: difícil\nPergunta: O senhor considera possível utilizar a analogia para atribuir a alguém responsabilidade administrativa pela prática de infração?\nResposta: A analogia não pode ser utilizada para criar infração administrativa, ampliar tipo sancionador ou atribuir responsabilidade em situação não abrangida pela lei, quando isso prejudicar o acusado. Essa vedação à analogia in malam partem decorre dos princípios da legalidade e da tipicidade aplicáveis ao direito administrativo sancionador. Admite-se, segundo a corrente majoritária, a analogia in bonam partem para suprir lacuna em benefício do acusado, desde que compatível com o regime legal. A analogia não se confunde com a interpretação analógica, na qual a própria norma, depois de enumerar hipóteses específicas, emprega uma fórmula genérica que permite alcançar casos pertencentes ao mesmo gênero. Há posição mais restritiva quanto ao emprego de qualquer analogia em matéria sancionadora, mas não se admite que ela seja usada em prejuízo do acusado para fundamentar nova hipótese de responsabilização.",
+    "_meta": {
+      "subtema": "Analogia em infrações administrativas",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Vedação à analogia in malam partem",
+        "Legalidade e tipicidade administrativa",
+        "Admissibilidade majoritária da analogia in bonam partem",
+        "Distinção entre analogia e interpretação analógica"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 5º, II, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 5º, XXXIX, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 4º da Lei de Introdução às Normas do Direito Brasileiro",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.94,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "LINDB",
+          "art. 4 — LINDB",
+          "art. 5 — CF"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.93
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_b85680d13c"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0001",
+      "id_origem": "q0001",
+      "ordem_origem": 1,
+      "bloco_origem": "cadeia_b85680d13c",
+      "score": 118.49,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0007",
+    "id": "q0007",
+    "prova_id": "prova_2024_02",
+    "ordem": 7,
+    "materia": "Direito Penal",
+    "tema": "Lei de Drogas",
+    "dificuldade": "dificil",
+    "momento": "inicio",
+    "pergunta": "Se o preso solicita à sua companheira que leve droga para o estabelecimento prisional e se considera atípica a mera solicitação feita por ele, por qual crime ela responde ao adquirir e transportar a substância?",
+    "resposta": "Ela responde pelo crime de tráfico de drogas, pois sua conduta se amolda aos núcleos adquirir, transportar ou trazer consigo substância entorpecente. A consumação independe da efetiva entrega ao preso ou do ingresso da droga no estabelecimento prisional. Essa solução produz uma aparente contradição quando se afirma, de modo absoluto, a impunidade do solicitante, porque aquele que determina ou induz a execução do tráfico pode responder como partícipe se estiverem comprovados o vínculo subjetivo e a contribuição causal. A inexistência do verbo “solicitar” no tipo não impede, por si só, a aplicação das regras gerais do concurso de pessoas.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Lei de Drogas\nDificuldade: difícil\nPergunta: Se o preso solicita à sua companheira que leve droga para o estabelecimento prisional e se considera atípica a mera solicitação feita por ele, por qual crime ela responde ao adquirir e transportar a substância?\nResposta: Ela responde pelo crime de tráfico de drogas, pois sua conduta se amolda aos núcleos adquirir, transportar ou trazer consigo substância entorpecente. A consumação independe da efetiva entrega ao preso ou do ingresso da droga no estabelecimento prisional. Essa solução produz uma aparente contradição quando se afirma, de modo absoluto, a impunidade do solicitante, porque aquele que determina ou induz a execução do tráfico pode responder como partícipe se estiverem comprovados o vínculo subjetivo e a contribuição causal. A inexistência do verbo “solicitar” no tipo não impede, por si só, a aplicação das regras gerais do concurso de pessoas.",
+    "_meta": {
+      "subtema": "Transporte de droga para presídio",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "Responsabilidade da transportadora por tráfico de drogas",
+        "Crime de ação múltipla",
+        "Consumação anterior ao ingresso no presídio",
+        "Aplicabilidade das regras do concurso de pessoas ao solicitante"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 33, caput, da Lei nº 11.343/2006",
+          "origem": "modelo",
+          "origem_verificada": "transcricao"
+        },
+        {
+          "ref": "art. 29 do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.91,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "CP",
+          "art. 29 — CP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.94
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_c195d82ea1"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0027",
+      "id_origem": "q0027",
+      "ordem_origem": 27,
+      "bloco_origem": "cadeia_c195d82ea1",
+      "score": 113.22,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0010",
+    "id": "q0010",
+    "prova_id": "prova_2024_02",
+    "ordem": 10,
+    "materia": "Direito Penal",
+    "tema": "Excludentes de ilicitude",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "O executor que, querendo danificar coisa alheia, erra apenas quanto à natureza pública do bem deixa de responder também pelo crime de dano simples?",
+    "resposta": "Não. O erro limitado à natureza pública do objeto exclui apenas o dolo referente à forma qualificada, sem eliminar a consciência e a vontade de danificar coisa alheia. O mero fato de o executor acreditar que o bem pertence a particular não implica consentimento do proprietário nem exclui a ilicitude. Ausente consentimento válido ou erro sobre uma situação que, se existente, tornaria a conduta lícita, ele responde pelo dano simples.",
+    "embedding_text": "Matéria: Direito Penal\nTema: Excludentes de ilicitude\nDificuldade: média\nPergunta: O executor que, querendo danificar coisa alheia, erra apenas quanto à natureza pública do bem deixa de responder também pelo crime de dano simples?\nResposta: Não. O erro limitado à natureza pública do objeto exclui apenas o dolo referente à forma qualificada, sem eliminar a consciência e a vontade de danificar coisa alheia. O mero fato de o executor acreditar que o bem pertence a particular não implica consentimento do proprietário nem exclui a ilicitude. Ausente consentimento válido ou erro sobre uma situação que, se existente, tornaria a conduta lícita, ele responde pelo dano simples.",
+    "_meta": {
+      "subtema": "Consentimento do ofendido",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "subsistência do dano simples",
+        "erro limitado à qualificadora",
+        "inexistência de consentimento presumido",
+        "dolo de danificar coisa alheia"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 20, caput, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 163, caput, do Código Penal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.96,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "CP",
+          "art. 163 — CP",
+          "art. 20 — CP"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.95
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_b908f44be1"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0040",
+      "id_origem": "q0040",
+      "ordem_origem": 40,
+      "bloco_origem": "cadeia_b908f44be1",
+      "score": 112.34,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0019",
+    "id": "q0019",
+    "prova_id": "prova_2024_02",
+    "ordem": 19,
+    "materia": "Direito Civil",
+    "tema": "Contratos",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "Os contratos de compra e venda e de doação têm eficácia real, isto é, são por si sós translativos da propriedade?",
+    "resposta": "No sistema brasileiro, a compra e venda e a doação não transferem, por si sós, a propriedade, pois constituem o título aquisitivo e geram a obrigação de transferir o bem. A aquisição da propriedade móvel depende da tradição, enquanto a propriedade imobiliária se transfere com o registro do título translativo no Registro de Imóveis. Assim, ainda que a compra e venda seja consensual e a doação observe a forma exigida em lei, a celebração isolada desses contratos não possui eficácia real translativa.",
+    "embedding_text": "Matéria: Direito Civil\nTema: Contratos\nDificuldade: média\nPergunta: Os contratos de compra e venda e de doação têm eficácia real, isto é, são por si sós translativos da propriedade?\nResposta: No sistema brasileiro, a compra e venda e a doação não transferem, por si sós, a propriedade, pois constituem o título aquisitivo e geram a obrigação de transferir o bem. A aquisição da propriedade móvel depende da tradição, enquanto a propriedade imobiliária se transfere com o registro do título translativo no Registro de Imóveis. Assim, ainda que a compra e venda seja consensual e a doação observe a forma exigida em lei, a celebração isolada desses contratos não possui eficácia real translativa.",
+    "_meta": {
+      "subtema": "Eficácia real dos contratos de compra e venda e doação",
+      "tipo": "principal",
+      "pontos_chave": [
+        "Natureza obrigacional da compra e venda e da doação",
+        "Distinção entre título e modo de aquisição",
+        "Tradição para a transferência de bens móveis",
+        "Registro para a transferência da propriedade imobiliária"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 1.245 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 1.267 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.98,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 1245 — CC",
+          "art. 1267 — CC"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.98
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_4c72a5c7da"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0071",
+      "id_origem": "q0071",
+      "ordem_origem": 71,
+      "bloco_origem": "cadeia_4c72a5c7da",
+      "score": 113.13,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0023",
+    "id": "q0023",
+    "prova_id": "prova_2024_02",
+    "ordem": 23,
+    "materia": "Direitos Difusos e Coletivos",
+    "tema": "Integridade institucional",
+    "dificuldade": "facil",
+    "momento": "meio",
+    "pergunta": "O senhor sabe dizer o que é um programa de integridade?",
+    "resposta": "Programa de integridade é o conjunto estruturado de mecanismos e procedimentos internos destinados a prevenir, detectar e sanar desvios, fraudes, irregularidades e atos ilícitos no âmbito de uma organização. Ele compreende, entre outras medidas, auditoria, controles internos, canais de denúncia, gestão de riscos e aplicação efetiva de códigos de ética, conduta, políticas e diretrizes. Deve ser efetivamente aplicado, periodicamente atualizado e adequado às características, às atividades e aos riscos da instituição, promovendo uma cultura organizacional de integridade.",
+    "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Integridade institucional\nDificuldade: fácil\nPergunta: O senhor sabe dizer o que é um programa de integridade?\nResposta: Programa de integridade é o conjunto estruturado de mecanismos e procedimentos internos destinados a prevenir, detectar e sanar desvios, fraudes, irregularidades e atos ilícitos no âmbito de uma organização. Ele compreende, entre outras medidas, auditoria, controles internos, canais de denúncia, gestão de riscos e aplicação efetiva de códigos de ética, conduta, políticas e diretrizes. Deve ser efetivamente aplicado, periodicamente atualizado e adequado às características, às atividades e aos riscos da instituição, promovendo uma cultura organizacional de integridade.",
+    "_meta": {
+      "subtema": "Conceito de programa de integridade",
+      "tipo": "principal",
+      "pontos_chave": [
+        "prevenção, detecção e correção de ilícitos",
+        "auditoria e controles internos",
+        "canais de denúncia",
+        "códigos de ética e conduta",
+        "cultura de integridade"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 56 do Decreto nº 11.129/2022",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 7º, VIII, da Lei nº 12.846/2013",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.96,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Decreto 11.129",
+          "Lei 12.846",
+          "art. 56 — Decreto 11.129",
+          "art. 7 — Lei 12.846"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.97
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_3a7c98edcd"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0075",
+      "id_origem": "q0075",
+      "ordem_origem": 75,
+      "bloco_origem": "cadeia_3a7c98edcd",
+      "score": 108.22,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0024",
+    "id": "q0024",
+    "prova_id": "prova_2024_02",
+    "ordem": 24,
+    "materia": "Direitos Difusos e Coletivos",
+    "tema": "Integridade institucional",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "Um órgão interno de integridade de uma instituição possui, necessariamente, poder sancionatório?",
+    "resposta": "Não necessariamente. O programa de integridade deve prever consequências e medidas disciplinares para as violações, mas isso não significa que o órgão interno de integridade possua, por si só, competência para aplicar sanções. Essa competência deve decorrer da lei, do regulamento ou das normas estatutárias da instituição, podendo o órgão limitar-se a receber denúncias, apurar fatos, monitorar controles e recomendar providências à autoridade competente. Quando houver poder sancionatório, seu exercício deverá observar a competência, o procedimento previsto e, quando aplicáveis, o contraditório, a ampla defesa e a proporcionalidade.",
+    "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Integridade institucional\nDificuldade: média\nPergunta: Um órgão interno de integridade de uma instituição possui, necessariamente, poder sancionatório?\nResposta: Não necessariamente. O programa de integridade deve prever consequências e medidas disciplinares para as violações, mas isso não significa que o órgão interno de integridade possua, por si só, competência para aplicar sanções. Essa competência deve decorrer da lei, do regulamento ou das normas estatutárias da instituição, podendo o órgão limitar-se a receber denúncias, apurar fatos, monitorar controles e recomendar providências à autoridade competente. Quando houver poder sancionatório, seu exercício deverá observar a competência, o procedimento previsto e, quando aplicáveis, o contraditório, a ampla defesa e a proporcionalidade.",
+    "_meta": {
+      "subtema": "Poder sancionatório em programa de integridade",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "inexistência de poder sancionatório inerente",
+        "necessidade de atribuição normativa de competência",
+        "distinção entre apuração e aplicação da sanção",
+        "devido processo sancionador"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 5º, LIV e LV, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 37, caput, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.93,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 4,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 37 — CF",
+          "art. 5 — CF"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.96
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_3a7c98edcd"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0076",
+      "id_origem": "q0076",
+      "ordem_origem": 76,
+      "bloco_origem": "cadeia_3a7c98edcd",
+      "score": 110.86,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0025",
+    "id": "q0025",
+    "prova_id": "prova_2024_02",
+    "ordem": 25,
+    "materia": "Direito Administrativo",
+    "tema": "Improbidade administrativa",
+    "dificuldade": "dificil",
+    "momento": "meio",
+    "pergunta": "O prefeito que nomeia um parente para o cargo de secretário municipal pratica nepotismo e ato de improbidade administrativa?",
+    "resposta": "A nomeação não caracteriza automaticamente nepotismo apenas em razão do parentesco, pois o cargo de secretário municipal tem natureza política e, segundo a jurisprudência do Supremo Tribunal Federal, não se submete, em regra, à incidência automática da vedação ao nepotismo. Essa ressalva não constitui salvo-conduto: a nomeação pode ser inválida quando houver nepotismo cruzado, fraude à lei, manifesta ausência de qualificação técnica, inidoneidade moral ou outras circunstâncias que revelem falta de razoabilidade e favorecimento pessoal. Quanto à improbidade administrativa, o parentesco ou a mera irregularidade não bastam, sendo necessário o enquadramento em uma conduta legalmente tipificada e a presença de dolo com finalidade ilícita. A Lei de Improbidade tipifica determinadas nomeações nepotistas, mas ressalva que a mera nomeação ou indicação política não configura improbidade sem a demonstração dessa finalidade ilícita.",
+    "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: difícil\nPergunta: O prefeito que nomeia um parente para o cargo de secretário municipal pratica nepotismo e ato de improbidade administrativa?\nResposta: A nomeação não caracteriza automaticamente nepotismo apenas em razão do parentesco, pois o cargo de secretário municipal tem natureza política e, segundo a jurisprudência do Supremo Tribunal Federal, não se submete, em regra, à incidência automática da vedação ao nepotismo. Essa ressalva não constitui salvo-conduto: a nomeação pode ser inválida quando houver nepotismo cruzado, fraude à lei, manifesta ausência de qualificação técnica, inidoneidade moral ou outras circunstâncias que revelem falta de razoabilidade e favorecimento pessoal. Quanto à improbidade administrativa, o parentesco ou a mera irregularidade não bastam, sendo necessário o enquadramento em uma conduta legalmente tipificada e a presença de dolo com finalidade ilícita. A Lei de Improbidade tipifica determinadas nomeações nepotistas, mas ressalva que a mera nomeação ou indicação política não configura improbidade sem a demonstração dessa finalidade ilícita.",
+    "_meta": {
+      "subtema": "Nepotismo em cargo político",
+      "tipo": "principal",
+      "pontos_chave": [
+        "cargo de natureza política",
+        "não incidência automática da vedação ao nepotismo",
+        "nepotismo cruzado e fraude",
+        "ausência manifesta de qualificação ou inidoneidade",
+        "tipicidade e dolo na improbidade"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "Súmula Vinculante 13 do Supremo Tribunal Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 11, XI e § 5º, da Lei nº 8.429/1992",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 37, caput, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.93,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 6,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Súmula Vinculante 13",
+          "art. 11 — Lei 8.429",
+          "art. 37 — CF"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.93
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_3a7c98edcd"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0077",
+      "id_origem": "q0077",
+      "ordem_origem": 77,
+      "bloco_origem": "cadeia_3a7c98edcd",
+      "score": 118.09,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0026",
+    "id": "q0026",
+    "prova_id": "prova_2024_02",
+    "ordem": 26,
+    "materia": "Direitos Humanos",
+    "tema": "Discriminação racial",
+    "dificuldade": "media",
+    "momento": "meio",
+    "pergunta": "O senhor poderia explicar o que é racismo recreativo?",
+    "resposta": "Racismo recreativo é a utilização do humor, de brincadeiras ou de práticas de entretenimento para reproduzir estereótipos, humilhar pessoas racializadas e preservar relações de hierarquia e dominação racial. A aparência de descontração não elimina o caráter discriminatório da conduta, que frequentemente procura apresentar a ofensa racial como simples piada socialmente aceitável. A legislação penal prevê aumento de pena quando os crimes de racismo forem praticados em contexto ou com intuito de descontração, diversão ou recreação.",
+    "embedding_text": "Matéria: Direitos Humanos\nTema: Discriminação racial\nDificuldade: média\nPergunta: O senhor poderia explicar o que é racismo recreativo?\nResposta: Racismo recreativo é a utilização do humor, de brincadeiras ou de práticas de entretenimento para reproduzir estereótipos, humilhar pessoas racializadas e preservar relações de hierarquia e dominação racial. A aparência de descontração não elimina o caráter discriminatório da conduta, que frequentemente procura apresentar a ofensa racial como simples piada socialmente aceitável. A legislação penal prevê aumento de pena quando os crimes de racismo forem praticados em contexto ou com intuito de descontração, diversão ou recreação.",
+    "_meta": {
+      "subtema": "Racismo recreativo",
+      "tipo": "principal",
+      "pontos_chave": [
+        "racismo apresentado como humor ou brincadeira",
+        "reprodução de estereótipos raciais",
+        "humilhação e dominação racial",
+        "contexto de descontração, diversão ou recreação"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 20-A da Lei nº 7.716/1989",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.99,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 2,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Lei 7.716",
+          "art. 20a — Lei 7.716"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.99
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_3a7c98edcd"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0078",
+      "id_origem": "q0078",
+      "ordem_origem": 78,
+      "bloco_origem": "cadeia_3a7c98edcd",
+      "score": 105.19,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0027",
+    "id": "q0027",
+    "prova_id": "prova_2024_02",
+    "ordem": 27,
+    "materia": "Direito Ambiental",
+    "tema": "Direitos dos animais",
+    "dificuldade": "dificil",
+    "momento": "fim",
+    "pergunta": "No ordenamento jurídico brasileiro, os animais são sujeitos de direito?",
+    "resposta": "Não há resposta unívoca, pois a natureza jurídica dos animais é objeto de divergência. No plano civil tradicional, eles não possuem personalidade jurídica e são submetidos, em regra, ao regime dos bens móveis semoventes, embora sofram limitações decorrentes da legislação protetiva. A Constituição, contudo, veda práticas cruéis contra animais, conferindo-lhes proteção por seu valor intrínseco, e não apenas em razão da utilidade para o ser humano. A jurisprudência do Superior Tribunal de Justiça reconhece que são seres sencientes e que não podem ser tratados sob perspectiva exclusivamente patrimonial, sem que isso, por si só, lhes atribua personalidade jurídica. Parte relevante da doutrina, em perspectiva biocêntrica, sustenta que os animais são sujeitos de direitos despersonificados, especialmente do direito à existência, à integridade e à proteção contra a crueldade. Assim, prevalece no direito positivo civil a ausência de personalidade, mas há crescente reconhecimento doutrinário e jurisprudencial de uma condição jurídica própria e de direitos diretamente relacionados à proteção animal.",
+    "embedding_text": "Matéria: Direito Ambiental\nTema: Direitos dos animais\nDificuldade: difícil\nPergunta: No ordenamento jurídico brasileiro, os animais são sujeitos de direito?\nResposta: Não há resposta unívoca, pois a natureza jurídica dos animais é objeto de divergência. No plano civil tradicional, eles não possuem personalidade jurídica e são submetidos, em regra, ao regime dos bens móveis semoventes, embora sofram limitações decorrentes da legislação protetiva. A Constituição, contudo, veda práticas cruéis contra animais, conferindo-lhes proteção por seu valor intrínseco, e não apenas em razão da utilidade para o ser humano. A jurisprudência do Superior Tribunal de Justiça reconhece que são seres sencientes e que não podem ser tratados sob perspectiva exclusivamente patrimonial, sem que isso, por si só, lhes atribua personalidade jurídica. Parte relevante da doutrina, em perspectiva biocêntrica, sustenta que os animais são sujeitos de direitos despersonificados, especialmente do direito à existência, à integridade e à proteção contra a crueldade. Assim, prevalece no direito positivo civil a ausência de personalidade, mas há crescente reconhecimento doutrinário e jurisprudencial de uma condição jurídica própria e de direitos diretamente relacionados à proteção animal.",
+    "_meta": {
+      "subtema": "Animais como sujeitos de direito",
+      "tipo": "principal",
+      "pontos_chave": [
+        "divergência sobre a natureza jurídica dos animais",
+        "regime civil dos bens móveis semoventes",
+        "proteção constitucional contra a crueldade",
+        "reconhecimento da senciência pelo STJ",
+        "corrente dos sujeitos de direitos despersonificados"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 82 do Código Civil",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 225, § 1º, VII, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "art. 32 da Lei nº 9.605/1998",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        },
+        {
+          "ref": "jurisprudência do Superior Tribunal de Justiça sobre a senciência e o valor intrínseco dos animais",
+          "origem": "transcricao",
+          "origem_verificada": "nao_verificavel"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.94,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 7,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "Lei 9.605",
+          "art. 225 — CF",
+          "art. 32 — Lei 9.605",
+          "art. 82 — CC"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": [
+          "jurisprudência do Superior Tribunal de Justiça sobre a senciência e o valor intrínseco dos animais"
+        ]
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.96
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_3a7c98edcd"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0079",
+      "id_origem": "q0079",
+      "ordem_origem": 79,
+      "bloco_origem": "cadeia_3a7c98edcd",
+      "score": 115.38,
+      "reabilitada": false
+    }
+  },
+  {
+    "uid": "prova_2024_02/q0028",
+    "id": "q0028",
+    "prova_id": "prova_2024_02",
+    "ordem": 28,
+    "materia": "Direito Ambiental",
+    "tema": "Direitos da natureza",
+    "dificuldade": "dificil",
+    "momento": "fim",
+    "pergunta": "Assim como se discute em relação aos animais, a natureza pode ser considerada sujeito de direitos?",
+    "resposta": "Também há divergência sobre a possibilidade de reconhecer a natureza como sujeito de direitos. Na compreensão predominante no direito brasileiro, o meio ambiente é um macrobem jurídico autônomo, de natureza difusa, cujo titular é a coletividade, mas não possui personalidade nem é, em regra, tratado como sujeito de direitos. Isso não impede que seus componentes sejam protegidos por seu valor intrínseco e independentemente de uma utilidade econômica imediata para o ser humano. A corrente biocêntrica ou ecocêntrica, por sua vez, sustenta que a natureza e seus elementos podem titularizar direitos próprios, como os direitos à existência, à manutenção e à regeneração de seus ciclos vitais. Essa concepção já recebeu reconhecimento expresso em alguns ordenamentos latino-americanos, mas ainda não corresponde à posição predominante na legislação, na doutrina e na jurisprudência brasileiras.",
+    "embedding_text": "Matéria: Direito Ambiental\nTema: Direitos da natureza\nDificuldade: difícil\nPergunta: Assim como se discute em relação aos animais, a natureza pode ser considerada sujeito de direitos?\nResposta: Também há divergência sobre a possibilidade de reconhecer a natureza como sujeito de direitos. Na compreensão predominante no direito brasileiro, o meio ambiente é um macrobem jurídico autônomo, de natureza difusa, cujo titular é a coletividade, mas não possui personalidade nem é, em regra, tratado como sujeito de direitos. Isso não impede que seus componentes sejam protegidos por seu valor intrínseco e independentemente de uma utilidade econômica imediata para o ser humano. A corrente biocêntrica ou ecocêntrica, por sua vez, sustenta que a natureza e seus elementos podem titularizar direitos próprios, como os direitos à existência, à manutenção e à regeneração de seus ciclos vitais. Essa concepção já recebeu reconhecimento expresso em alguns ordenamentos latino-americanos, mas ainda não corresponde à posição predominante na legislação, na doutrina e na jurisprudência brasileiras.",
+    "_meta": {
+      "subtema": "Natureza como sujeito de direito",
+      "tipo": "desdobramento",
+      "pontos_chave": [
+        "meio ambiente como macrobem jurídico difuso",
+        "titularidade da coletividade na posição predominante",
+        "valor intrínseco da natureza",
+        "corrente biocêntrica ou ecocêntrica",
+        "direitos da natureza no direito comparado"
+      ],
+      "fundamentos_legais": [
+        {
+          "ref": "art. 225, caput, da Constituição Federal",
+          "origem": "modelo",
+          "origem_verificada": "modelo"
+        }
+      ],
+      "gabarito_status": "completo",
+      "confianca": 0.92,
+      "citacoes_nao_ancoradas": [],
+      "auditoria_citacoes": {
+        "n_citacoes_conferidas": 2,
+        "nao_ancoradas_resposta": [],
+        "nao_ancoradas_fundamentos": [
+          "art. 225 — CF"
+        ],
+        "artigos_sem_norma": [],
+        "origem_divergente": [],
+        "refs_nao_verificaveis": []
+      },
+      "observacao": "",
+      "revisao_llm": {
+        "veredito": "ok",
+        "problemas": [],
+        "dispositivos_suspeitos": [],
+        "confianca": 0.94
+      },
+      "regenerado": false,
+      "revisao_necessaria": false,
+      "motivos_revisao": [],
+      "origem": {
+        "bloco_id": "cadeia_3a7c98edcd"
+      }
+    },
+    "_selecao": {
+      "uid_origem": "prova_2024_02/q0080",
+      "id_origem": "q0080",
+      "ordem_origem": 80,
+      "bloco_origem": "cadeia_3a7c98edcd",
+      "score": 109.39,
+      "reabilitada": false
+    }
+  }
+]
