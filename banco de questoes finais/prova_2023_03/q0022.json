@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2023_03/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2023_03",
+  "ordem": 22,
+  "materia": "Direito Penal",
+  "tema": "Concurso de pessoas",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Duas pessoas, atuando conjuntamente no alto de um prédio, lançam objetos pesados para baixo, e um deles mata um transeunte, sem que seja possível identificar qual agente lançou o objeto fatal. A morte pode ser imputada a ambos, ainda que se afirme que, no crime culposo, cada agente falha por si?",
+  "resposta": "Se for adotada rigorosamente a premissa de que, no crime culposo, cada agente responde apenas pela própria falha, a dúvida sobre quem lançou o objeto fatal impede a imputação do resultado consumado a qualquer deles. A responsabilização de ambos somente se sustenta pela corrente que admite coautoria culposa e a consequente imputação recíproca do resultado decorrente da execução conjunta. Nesse caso, ambos serão coautores, desde que tenham aderido à conduta comum violadora do dever de cuidado e que essa atuação conjunta tenha causado a morte. A mera criação paralela de riscos, sem vínculo de atuação conjunta, não autoriza atribuir o resultado indistintamente aos dois.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: Duas pessoas, atuando conjuntamente no alto de um prédio, lançam objetos pesados para baixo, e um deles mata um transeunte, sem que seja possível identificar qual agente lançou o objeto fatal. A morte pode ser imputada a ambos, ainda que se afirme que, no crime culposo, cada agente falha por si?\nResposta: Se for adotada rigorosamente a premissa de que, no crime culposo, cada agente responde apenas pela própria falha, a dúvida sobre quem lançou o objeto fatal impede a imputação do resultado consumado a qualquer deles. A responsabilização de ambos somente se sustenta pela corrente que admite coautoria culposa e a consequente imputação recíproca do resultado decorrente da execução conjunta. Nesse caso, ambos serão coautores, desde que tenham aderido à conduta comum violadora do dever de cuidado e que essa atuação conjunta tenha causado a morte. A mera criação paralela de riscos, sem vínculo de atuação conjunta, não autoriza atribuir o resultado indistintamente aos dois.",
+  "_meta": {
+    "subtema": "Imputação do resultado em autoria incerta",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Incompatibilidade entre a tese de que cada um falha por si e a imputação indistinta",
+      "Necessidade de coautoria culposa para a imputação recíproca",
+      "Atuação conjunta contrária ao dever de cuidado",
+      "Insuficiência da mera criação paralela de riscos"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 29 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1032faa5c6"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0050",
+    "id_origem": "q0050",
+    "ordem_origem": 50,
+    "bloco_origem": "cadeia_1032faa5c6",
+    "score": 113.03,
+    "reabilitada": false
+  }
+}

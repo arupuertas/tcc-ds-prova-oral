@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_01/q0015",
+  "id": "q0015",
+  "prova_id": "prova_2023_01",
+  "ordem": 15,
+  "materia": "Direito Civil",
+  "tema": "Seguro de vida e sucessões",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Uma pessoa contratou seguro de vida e indicou um sobrinho como beneficiário. Posteriormente, por testamento público, destinou o capital do seguro a três sobrinhos, entre eles o beneficiário originalmente indicado. Qual solução jurídica o senhor daria ao caso?",
+  "resposta": "Tratando-se de seguro de vida comum, sem renúncia à faculdade de alterar o beneficiário e sem vinculação do seguro à garantia de uma obrigação, prevalece a manifestação posterior constante do testamento. O Código Civil permite que o segurado substitua o beneficiário por ato entre vivos ou de última vontade. Embora o testamento empregue a expressão legado, o capital segurado não integra a herança, devendo a disposição ser interpretada como substituição dos beneficiários em favor dos três sobrinhos. Se a seguradora não tiver sido oportunamente cientificada e pagar de boa-fé ao beneficiário anteriormente indicado, ficará desobrigada perante os novos beneficiários.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Seguro de vida e sucessões\nDificuldade: média\nPergunta: Uma pessoa contratou seguro de vida e indicou um sobrinho como beneficiário. Posteriormente, por testamento público, destinou o capital do seguro a três sobrinhos, entre eles o beneficiário originalmente indicado. Qual solução jurídica o senhor daria ao caso?\nResposta: Tratando-se de seguro de vida comum, sem renúncia à faculdade de alterar o beneficiário e sem vinculação do seguro à garantia de uma obrigação, prevalece a manifestação posterior constante do testamento. O Código Civil permite que o segurado substitua o beneficiário por ato entre vivos ou de última vontade. Embora o testamento empregue a expressão legado, o capital segurado não integra a herança, devendo a disposição ser interpretada como substituição dos beneficiários em favor dos três sobrinhos. Se a seguradora não tiver sido oportunamente cientificada e pagar de boa-fé ao beneficiário anteriormente indicado, ficará desobrigada perante os novos beneficiários.",
+  "_meta": {
+    "subtema": "Beneficiário indicado e disposição testamentária posterior",
+    "tipo": "principal",
+    "pontos_chave": [
+      "possibilidade de substituição do beneficiário por ato de última vontade",
+      "prevalência do testamento posterior",
+      "capital segurado não constitui legado integrante da herança",
+      "proteção da seguradora que paga sem ciência da substituição"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 791 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 791 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_854a71d41c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0025",
+    "id_origem": "q0025",
+    "ordem_origem": 25,
+    "bloco_origem": "cadeia_854a71d41c",
+    "score": 111.76,
+    "reabilitada": false
+  }
+}

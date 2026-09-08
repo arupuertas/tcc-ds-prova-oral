@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_03/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2023_03",
+  "ordem": 20,
+  "materia": "Direito Penal",
+  "tema": "Erro",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O que o senhor entende por erro de proibição indireto e como ele se distingue do erro sobre os pressupostos fáticos de uma causa de justificação?",
+  "resposta": "Erro de proibição indireto é aquele em que o agente conhece a proibição geral da conduta, mas supõe equivocadamente que existe uma causa de justificação que a autoriza ou se engana quanto aos limites jurídicos de uma justificante existente. Se inevitável, exclui a culpabilidade; se evitável, permite a redução da pena. Pela teoria limitada da culpabilidade acolhida pelo Código Penal, o erro sobre os pressupostos fáticos de uma causa de justificação é tratado como erro de tipo permissivo, e não como erro de proibição indireto. Assim, a falsa representação da situação de fato submete-se à disciplina das descriminantes putativas, inclusive com possibilidade de responsabilização por crime culposo quando o erro decorrer de culpa e houver previsão da modalidade culposa.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Erro\nDificuldade: média\nPergunta: O que o senhor entende por erro de proibição indireto e como ele se distingue do erro sobre os pressupostos fáticos de uma causa de justificação?\nResposta: Erro de proibição indireto é aquele em que o agente conhece a proibição geral da conduta, mas supõe equivocadamente que existe uma causa de justificação que a autoriza ou se engana quanto aos limites jurídicos de uma justificante existente. Se inevitável, exclui a culpabilidade; se evitável, permite a redução da pena. Pela teoria limitada da culpabilidade acolhida pelo Código Penal, o erro sobre os pressupostos fáticos de uma causa de justificação é tratado como erro de tipo permissivo, e não como erro de proibição indireto. Assim, a falsa representação da situação de fato submete-se à disciplina das descriminantes putativas, inclusive com possibilidade de responsabilização por crime culposo quando o erro decorrer de culpa e houver previsão da modalidade culposa.",
+  "_meta": {
+    "subtema": "Erro de proibição indireto",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "erro sobre a existência da justificante",
+      "erro sobre os limites jurídicos da justificante",
+      "teoria limitada da culpabilidade",
+      "erro de tipo permissivo",
+      "descriminante putativa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20, § 1º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 21 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 20 — CP",
+        "art. 21 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6a07b2a8d1"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0040",
+    "id_origem": "q0040",
+    "ordem_origem": 40,
+    "bloco_origem": "cadeia_6a07b2a8d1",
+    "score": 112.52,
+    "reabilitada": false
+  }
+}

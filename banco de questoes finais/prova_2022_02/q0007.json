@@ -1,0 +1,81 @@
+{
+  "uid": "prova_2022_02/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2022_02",
+  "ordem": 7,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Ação civil pública",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Segundo o entendimento do STJ, é possível exigir do Ministério Público o adiantamento dos honorários periciais em ação civil pública? A vigência do Código de Processo Civil de 2015 alterou essa compreensão?",
+  "resposta": "Segundo o STJ, não se exige do Ministério Público, como autor da ação civil pública, o adiantamento dos honorários periciais, em razão da regra especial que dispensa o adiantamento de despesas nessa modalidade de tutela coletiva. Para que o perito não seja obrigado a trabalhar sem remuneração, o STJ atribui o adiantamento à Fazenda Pública do ente ao qual pertence o respectivo ramo do Ministério Público, mediante aplicação analógica de sua jurisprudência sobre o depósito prévio dos honorários periciais, com posterior imputação ao vencido. Na jurisprudência do STJ, o Código de Processo Civil de 2015 não afastou essa solução, devendo sua disciplina geral conviver com a norma especial da ação civil pública. Há, contudo, orientação do STF no sentido de que, quando o Ministério Público atua como parte e requer a perícia, o respectivo custeio não deve ser automaticamente transferido ao Poder Executivo, mas suportado pela dotação orçamentária da própria instituição. Em qualquer caso, a dispensa legal não autoriza que o perito seja compelido a prestar gratuitamente o serviço.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Ação civil pública\nDificuldade: difícil\nPergunta: Segundo o entendimento do STJ, é possível exigir do Ministério Público o adiantamento dos honorários periciais em ação civil pública? A vigência do Código de Processo Civil de 2015 alterou essa compreensão?\nResposta: Segundo o STJ, não se exige do Ministério Público, como autor da ação civil pública, o adiantamento dos honorários periciais, em razão da regra especial que dispensa o adiantamento de despesas nessa modalidade de tutela coletiva. Para que o perito não seja obrigado a trabalhar sem remuneração, o STJ atribui o adiantamento à Fazenda Pública do ente ao qual pertence o respectivo ramo do Ministério Público, mediante aplicação analógica de sua jurisprudência sobre o depósito prévio dos honorários periciais, com posterior imputação ao vencido. Na jurisprudência do STJ, o Código de Processo Civil de 2015 não afastou essa solução, devendo sua disciplina geral conviver com a norma especial da ação civil pública. Há, contudo, orientação do STF no sentido de que, quando o Ministério Público atua como parte e requer a perícia, o respectivo custeio não deve ser automaticamente transferido ao Poder Executivo, mas suportado pela dotação orçamentária da própria instituição. Em qualquer caso, a dispensa legal não autoriza que o perito seja compelido a prestar gratuitamente o serviço.",
+  "_meta": {
+    "subtema": "Adiantamento de honorários periciais pelo Ministério Público",
+    "tipo": "principal",
+    "pontos_chave": [
+      "impossibilidade de exigir o adiantamento do membro do Ministério Público",
+      "dispensa prevista na Lei da Ação Civil Pública",
+      "custeio atribuído pelo STJ à Fazenda Pública correspondente",
+      "aplicação analógica da Súmula 232 do STJ",
+      "manutenção do entendimento do STJ após o CPC de 2015",
+      "orientação do STF pelo custeio com orçamento do próprio Ministério Público"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18 da Lei nº 7.347/1985",
+        "origem": "transcricao",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 91, § 1º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 232 do STJ",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.86,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 7.347",
+        "Súmula 232 do STJ",
+        "art. 18 — Lei 7.347",
+        "art. 91 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [
+        "art. 18 da Lei nº 7.347/1985"
+      ],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A resposta distingue a orientação tradicional do STJ da orientação firmada no STF sobre a origem orçamentária do custeio.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.87
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_9fe7b2f04f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0010",
+    "id_origem": "q0010",
+    "ordem_origem": 10,
+    "bloco_origem": "cadeia_9fe7b2f04f",
+    "score": 108.4,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_01/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2022_01",
+  "ordem": 8,
+  "materia": "Direito Civil",
+  "tema": "Prova",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O art. 232 do Código Civil estabelece que a recusa à perícia médica ordenada pelo juiz poderá suprir a prova que se pretendia obter, regra frequentemente invocada diante da recusa ao exame de DNA em investigação de paternidade. Esse dispositivo comporta relativização e em quais situações?",
+  "resposta": "A regra comporta relativização, pois a recusa não equivale a confissão nem produz prova absoluta, como revela o emprego do verbo “poderá” no art. 232 do Código Civil. Na investigação de paternidade, a recusa injustificada do suposto pai ao exame de DNA gera presunção relativa, que deve ser apreciada em conjunto com o contexto probatório. A consequência também deve considerar a necessidade e a proporcionalidade da perícia, podendo ser afastada diante de justificativa concreta fundada em risco relevante à saúde ou em invasão corporal desnecessária ou excessiva. Além disso, a presunção não resolve automaticamente demandas nas quais a verdade biológica não seja juridicamente suficiente, como as que envolvem a desconstituição de uma filiação registral e socioafetiva. A pessoa não pode ser coagida fisicamente a realizar o exame, embora sua recusa injustificada possa produzir consequências probatórias.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Prova\nDificuldade: difícil\nPergunta: O art. 232 do Código Civil estabelece que a recusa à perícia médica ordenada pelo juiz poderá suprir a prova que se pretendia obter, regra frequentemente invocada diante da recusa ao exame de DNA em investigação de paternidade. Esse dispositivo comporta relativização e em quais situações?\nResposta: A regra comporta relativização, pois a recusa não equivale a confissão nem produz prova absoluta, como revela o emprego do verbo “poderá” no art. 232 do Código Civil. Na investigação de paternidade, a recusa injustificada do suposto pai ao exame de DNA gera presunção relativa, que deve ser apreciada em conjunto com o contexto probatório. A consequência também deve considerar a necessidade e a proporcionalidade da perícia, podendo ser afastada diante de justificativa concreta fundada em risco relevante à saúde ou em invasão corporal desnecessária ou excessiva. Além disso, a presunção não resolve automaticamente demandas nas quais a verdade biológica não seja juridicamente suficiente, como as que envolvem a desconstituição de uma filiação registral e socioafetiva. A pessoa não pode ser coagida fisicamente a realizar o exame, embora sua recusa injustificada possa produzir consequências probatórias.",
+  "_meta": {
+    "subtema": "Recusa a perícia médica e DNA",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Caráter facultativo da consequência prevista no art. 232",
+      "Presunção relativa decorrente da recusa ao DNA",
+      "Apreciação conjunta com o contexto probatório",
+      "Ponderação da necessidade e proporcionalidade do exame",
+      "Impossibilidade de coerção física para realização da perícia"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 232 do Código Civil",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 2º-A, § 1º, da Lei nº 8.560/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 301 do Superior Tribunal de Justiça",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 8.560",
+        "Súmula 301",
+        "art. 2a — Lei 8.560"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_5e08349da5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0017",
+    "id_origem": "q0017",
+    "ordem_origem": 17,
+    "bloco_origem": "cadeia_5e08349da5",
+    "score": 116.53,
+    "reabilitada": false
+  }
+}

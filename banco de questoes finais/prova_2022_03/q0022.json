@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2022_03/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2022_03",
+  "ordem": 22,
+  "materia": "Direito Constitucional",
+  "tema": "Direitos fundamentais",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "Os direitos sociais são necessariamente direitos coletivos?",
+  "resposta": "Não. A categoria dos direitos sociais é definida principalmente por seu objeto, relacionado à promoção da igualdade material e de condições dignas de vida, enquanto a categoria dos direitos coletivos se refere sobretudo à titularidade ou à forma de tutela. Direitos sociais, como saúde, educação e assistência, podem fundamentar pretensões individuais e também coletivas. Da mesma forma, os direitos difusos, coletivos em sentido estrito e individuais homogêneos podem ter objetos que não correspondam a direitos sociais.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direitos fundamentais\nDificuldade: fácil\nPergunta: Os direitos sociais são necessariamente direitos coletivos?\nResposta: Não. A categoria dos direitos sociais é definida principalmente por seu objeto, relacionado à promoção da igualdade material e de condições dignas de vida, enquanto a categoria dos direitos coletivos se refere sobretudo à titularidade ou à forma de tutela. Direitos sociais, como saúde, educação e assistência, podem fundamentar pretensões individuais e também coletivas. Da mesma forma, os direitos difusos, coletivos em sentido estrito e individuais homogêneos podem ter objetos que não correspondam a direitos sociais.",
+  "_meta": {
+    "subtema": "Direitos sociais e direitos coletivos",
+    "tipo": "principal",
+    "pontos_chave": [
+      "direitos sociais e coletivos não se confundem",
+      "direitos sociais podem ter exercício individual ou coletivo",
+      "classificação coletiva relacionada à titularidade e à tutela",
+      "direitos coletivos podem ter objeto não social"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 6º da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 81, parágrafo único, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CDC",
+        "art. 81 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6f8c7a1fb7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0056",
+    "id_origem": "q0056",
+    "ordem_origem": 56,
+    "bloco_origem": "cadeia_6f8c7a1fb7",
+    "score": 104.95,
+    "reabilitada": false
+  }
+}

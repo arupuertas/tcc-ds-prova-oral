@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_03/q0026",
+  "id": "q0026",
+  "prova_id": "prova_2023_03",
+  "ordem": 26,
+  "materia": "Direito Processual Penal",
+  "tema": "Recursos",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O assistente de acusação pode interpor recurso contra uma sentença condenatória?",
+  "resposta": "Sim. A existência de condenação não elimina necessariamente o interesse recursal do assistente, que pode pretender a modificação de capítulos da sentença, como a dosimetria da pena, a classificação jurídica ou a reparação mínima fixada. O Código de Processo Penal atribui-lhe legitimidade recursal nas hipóteses legais, em caráter supletivo em relação à atuação do Ministério Público. Exige-se, contudo, sucumbência e utilidade concreta na providência postulada.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Recursos\nDificuldade: média\nPergunta: O assistente de acusação pode interpor recurso contra uma sentença condenatória?\nResposta: Sim. A existência de condenação não elimina necessariamente o interesse recursal do assistente, que pode pretender a modificação de capítulos da sentença, como a dosimetria da pena, a classificação jurídica ou a reparação mínima fixada. O Código de Processo Penal atribui-lhe legitimidade recursal nas hipóteses legais, em caráter supletivo em relação à atuação do Ministério Público. Exige-se, contudo, sucumbência e utilidade concreta na providência postulada.",
+  "_meta": {
+    "subtema": "Recurso do assistente de acusação contra sentença condenatória",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Possibilidade de recurso contra sentença condenatória",
+      "Necessidade de interesse recursal e utilidade",
+      "Possibilidade de impugnar capítulos desfavoráveis da condenação",
+      "Legitimidade recursal supletiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 271 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 598 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 387, IV, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 271 — CPP",
+        "art. 387 — CPP",
+        "art. 598 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_eb81aeb321"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0057",
+    "id_origem": "q0057",
+    "ordem_origem": 57,
+    "bloco_origem": "cadeia_eb81aeb321",
+    "score": 115.59,
+    "reabilitada": false
+  }
+}

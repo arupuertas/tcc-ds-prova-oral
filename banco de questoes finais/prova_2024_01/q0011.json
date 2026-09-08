@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2024_01/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2024_01",
+  "ordem": 11,
+  "materia": "Direito do Consumidor",
+  "tema": "Sanções administrativas",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Comprovada, em processo administrativo do PROCON-MG, a prática de infração leve, pode o senhor, como autoridade administrativa, aplicar advertência em substituição à multa?",
+  "resposta": "Não. A advertência não integra o rol de sanções administrativas previsto no Código de Defesa do Consumidor e, por força do princípio da legalidade sancionadora, não pode ser criada ou aplicada como substitutiva da multa. A natureza leve da infração, a ausência de reincidência e as demais circunstâncias do caso devem ser consideradas na dosimetria da multa, observados a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor. Eventual orientação ou recomendação ao fornecedor não se confunde com sanção administrativa de advertência.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Sanções administrativas\nDificuldade: média\nPergunta: Comprovada, em processo administrativo do PROCON-MG, a prática de infração leve, pode o senhor, como autoridade administrativa, aplicar advertência em substituição à multa?\nResposta: Não. A advertência não integra o rol de sanções administrativas previsto no Código de Defesa do Consumidor e, por força do princípio da legalidade sancionadora, não pode ser criada ou aplicada como substitutiva da multa. A natureza leve da infração, a ausência de reincidência e as demais circunstâncias do caso devem ser consideradas na dosimetria da multa, observados a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor. Eventual orientação ou recomendação ao fornecedor não se confunde com sanção administrativa de advertência.",
+  "_meta": {
+    "subtema": "Advertência em substituição à multa",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Inexistência da pena de advertência no rol do CDC",
+      "Legalidade no direito administrativo sancionador",
+      "Infração leve considerada na dosimetria da multa",
+      "Orientação ou recomendação sem natureza de sanção"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 56 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 57 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 56 — CDC",
+        "art. 57 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_42553ba302"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0032",
+    "id_origem": "q0032",
+    "ordem_origem": 32,
+    "bloco_origem": "cadeia_42553ba302",
+    "score": 112.71,
+    "reabilitada": false
+  }
+}

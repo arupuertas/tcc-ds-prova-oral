@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_02/q0030",
+  "id": "q0030",
+  "prova_id": "prova_2023_02",
+  "ordem": 30,
+  "materia": "Direito do Consumidor",
+  "tema": "Tutela coletiva",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Em quais hipóteses os efeitos de uma sentença penal condenatória podem ser estendidos para fins de liquidação e execução coletiva no regime do Código de Defesa do Consumidor?",
+  "resposta": "A extensão é cabível quando houver sentença penal condenatória transitada em julgado relativa a fato que tenha causado danos a uma pluralidade de consumidores, originando pretensões individuais homogêneas. Seus efeitos são transportados in utilibus, isto é, exclusivamente para beneficiar as vítimas e seus sucessores, sem reabrir a discussão sobre a existência do fato e sua autoria. Para a execução coletiva, devem ser identificados os beneficiários e, em regra, previamente liquidados os valores das respectivas indenizações. O título não pode ser estendido automaticamente contra pessoa que não tenha sido condenada no processo penal.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Tutela coletiva\nDificuldade: média\nPergunta: Em quais hipóteses os efeitos de uma sentença penal condenatória podem ser estendidos para fins de liquidação e execução coletiva no regime do Código de Defesa do Consumidor?\nResposta: A extensão é cabível quando houver sentença penal condenatória transitada em julgado relativa a fato que tenha causado danos a uma pluralidade de consumidores, originando pretensões individuais homogêneas. Seus efeitos são transportados in utilibus, isto é, exclusivamente para beneficiar as vítimas e seus sucessores, sem reabrir a discussão sobre a existência do fato e sua autoria. Para a execução coletiva, devem ser identificados os beneficiários e, em regra, previamente liquidados os valores das respectivas indenizações. O título não pode ser estendido automaticamente contra pessoa que não tenha sido condenada no processo penal.",
+  "_meta": {
+    "subtema": "Hipóteses de extensão dos efeitos da sentença criminal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Sentença penal condenatória transitada em julgado",
+      "Danos decorrentes de origem comum a uma pluralidade de consumidores",
+      "Efeito in utilibus em favor das vítimas e sucessores",
+      "Liquidação dos danos individuais",
+      "Impossibilidade de estender o título contra terceiro não condenado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 103, §§ 3º e 4º, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 97 e 98 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 935 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 103 — CDC",
+        "art. 935 — CC",
+        "art. 97 — CDC",
+        "art. 98 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4584fa1ecc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0071",
+    "id_origem": "q0071",
+    "ordem_origem": 71,
+    "bloco_origem": "cadeia_4584fa1ecc",
+    "score": 117.06,
+    "reabilitada": false
+  }
+}

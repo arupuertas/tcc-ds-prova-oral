@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2022_04/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2022_04",
+  "ordem": 19,
+  "materia": "Direito Penal",
+  "tema": "Dolo generalis",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Em hipótese de dolo generalis, o agente espanca violentamente a vítima com intenção de matá-la e, supondo que ela já esteja morta, incendeia o corpo para ocultá-lo, mas a morte ocorre apenas em razão do incêndio. O resultado deve ser imputado a título de dolo, configurando homicídio doloso consumado, ou o agente responde por tentativa de homicídio em concurso com eventual homicídio culposo?",
+  "resposta": "Segundo a construção tradicional e predominante do dolo generalis, o agente responde por homicídio doloso consumado. O espancamento e o incêndio são valorados como uma sequência unitária dirigida ao resultado morte, considerando-se acidental ou não essencial o erro quanto ao momento e ao modo pelo qual esse resultado foi produzido. Assim, não se fraciona a imputação em tentativa de homicídio e homicídio culposo. Há, contudo, corrente crítica que, em atenção à necessária contemporaneidade entre dolo e conduta causadora, separa os atos e sustenta a ocorrência de tentativa de homicídio no primeiro momento e de homicídio culposo no segundo, desde que estejam presentes os requisitos da culpa quanto ao ato de incendiar a vítima ainda viva.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Dolo generalis\nDificuldade: difícil\nPergunta: Em hipótese de dolo generalis, o agente espanca violentamente a vítima com intenção de matá-la e, supondo que ela já esteja morta, incendeia o corpo para ocultá-lo, mas a morte ocorre apenas em razão do incêndio. O resultado deve ser imputado a título de dolo, configurando homicídio doloso consumado, ou o agente responde por tentativa de homicídio em concurso com eventual homicídio culposo?\nResposta: Segundo a construção tradicional e predominante do dolo generalis, o agente responde por homicídio doloso consumado. O espancamento e o incêndio são valorados como uma sequência unitária dirigida ao resultado morte, considerando-se acidental ou não essencial o erro quanto ao momento e ao modo pelo qual esse resultado foi produzido. Assim, não se fraciona a imputação em tentativa de homicídio e homicídio culposo. Há, contudo, corrente crítica que, em atenção à necessária contemporaneidade entre dolo e conduta causadora, separa os atos e sustenta a ocorrência de tentativa de homicídio no primeiro momento e de homicídio culposo no segundo, desde que estejam presentes os requisitos da culpa quanto ao ato de incendiar a vítima ainda viva.",
+  "_meta": {
+    "subtema": "Erro sucessivo e imputação do resultado",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "homicídio doloso consumado pela teoria tradicional do dolo geral",
+      "unidade da sequência de atos",
+      "erro não essencial sobre o curso causal",
+      "corrente crítica fundada na contemporaneidade do dolo",
+      "possível tentativa em concurso com homicídio culposo na corrente divergente"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 14, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 121, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 121 — CP",
+        "art. 13 — CP",
+        "art. 14 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0048",
+    "id_origem": "q0048",
+    "ordem_origem": 48,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 118.01,
+    "reabilitada": false
+  }
+}

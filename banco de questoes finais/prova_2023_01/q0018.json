@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_01/q0018",
+  "id": "q0018",
+  "prova_id": "prova_2023_01",
+  "ordem": 18,
+  "materia": "Direito Civil",
+  "tema": "Direito das sucessões",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Como o pai deve formalizar a deserdação do filho por desamparo durante grave enfermidade?",
+  "resposta": "A deserdação deve ser ordenada em testamento válido, de qualquer das formas admitidas em lei, com declaração expressa da causa legal, não bastando uma escritura pública autônoma. O testamento público é uma forma possível, mas não é a única modalidade testamentária apta à deserdação. Após a abertura do testamento, cabe ao herdeiro instituído ou à pessoa favorecida pela deserdação provar judicialmente a veracidade da causa, no prazo de quatro anos.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Direito das sucessões\nDificuldade: média\nPergunta: Como o pai deve formalizar a deserdação do filho por desamparo durante grave enfermidade?\nResposta: A deserdação deve ser ordenada em testamento válido, de qualquer das formas admitidas em lei, com declaração expressa da causa legal, não bastando uma escritura pública autônoma. O testamento público é uma forma possível, mas não é a única modalidade testamentária apta à deserdação. Após a abertura do testamento, cabe ao herdeiro instituído ou à pessoa favorecida pela deserdação provar judicialmente a veracidade da causa, no prazo de quatro anos.",
+  "_meta": {
+    "subtema": "Forma da deserdação",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "deserdação exclusivamente por testamento",
+      "declaração expressa da causa legal",
+      "desnecessidade de testamento público especificamente",
+      "prova judicial posterior",
+      "prazo de quatro anos"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.964 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.965 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1964 — CC",
+        "art. 1965 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_854a71d41c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0028",
+    "id_origem": "q0028",
+    "ordem_origem": 28,
+    "bloco_origem": "cadeia_854a71d41c",
+    "score": 120.89,
+    "reabilitada": false
+  }
+}

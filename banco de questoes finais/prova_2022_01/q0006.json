@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2022_01/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2022_01",
+  "ordem": 6,
+  "materia": "Direito Civil",
+  "tema": "Prescrição e decadência",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "A senhora poderia explicar a teoria da actio nata em seu viés subjetivo?",
+  "resposta": "Segundo a teoria da actio nata, a pretensão surge quando o direito é violado, momento que, pela concepção objetiva, marca o início da prescrição. Em seu viés subjetivo, porém, o prazo somente começa quando o titular tem, ou pode razoavelmente ter, ciência inequívoca da violação, de suas consequências e, quando necessário, de sua autoria, tornando-se concretamente exercitável a pretensão. Essa formulação busca impedir que a prescrição corra contra quem ainda não podia conhecer a lesão nem agir para repará-la. No direito brasileiro, a vertente subjetiva não substitui indistintamente a regra objetiva, sendo aplicada nas hipóteses previstas em lei ou reconhecidas pela jurisprudência em razão da natureza da pretensão.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Prescrição e decadência\nDificuldade: média\nPergunta: A senhora poderia explicar a teoria da actio nata em seu viés subjetivo?\nResposta: Segundo a teoria da actio nata, a pretensão surge quando o direito é violado, momento que, pela concepção objetiva, marca o início da prescrição. Em seu viés subjetivo, porém, o prazo somente começa quando o titular tem, ou pode razoavelmente ter, ciência inequívoca da violação, de suas consequências e, quando necessário, de sua autoria, tornando-se concretamente exercitável a pretensão. Essa formulação busca impedir que a prescrição corra contra quem ainda não podia conhecer a lesão nem agir para repará-la. No direito brasileiro, a vertente subjetiva não substitui indistintamente a regra objetiva, sendo aplicada nas hipóteses previstas em lei ou reconhecidas pela jurisprudência em razão da natureza da pretensão.",
+  "_meta": {
+    "subtema": "Teoria da actio nata subjetiva",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Nascimento da pretensão com a violação do direito",
+      "Conhecimento inequívoco da lesão no viés subjetivo",
+      "Necessidade de pretensão concretamente exercitável",
+      "Aplicação não irrestrita da actio nata subjetiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 189 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 189 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_5e08349da5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0015",
+    "id_origem": "q0015",
+    "ordem_origem": 15,
+    "bloco_origem": "cadeia_5e08349da5",
+    "score": 108.67,
+    "reabilitada": false
+  }
+}

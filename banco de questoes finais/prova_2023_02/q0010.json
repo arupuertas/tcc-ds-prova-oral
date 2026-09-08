@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_02/q0010",
+  "id": "q0010",
+  "prova_id": "prova_2023_02",
+  "ordem": 10,
+  "materia": "Direito Penal",
+  "tema": "Crimes culposos",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega ao cirurgião, que não tinha condições de perceber a contaminação e atua sem dolo ou culpa. O instrumento é utilizado na cirurgia, o paciente sofre uma infecção e morre. A senhora pode responsabilizar penalmente o enfermeiro e, em caso afirmativo, a que título?",
+  "resposta": "O enfermeiro pode responder como autor de homicídio culposo, pois sua violação do dever objetivo de cuidado criou o risco proibido que se realizou na infecção e na morte do paciente. O fato de não ter executado pessoalmente a cirurgia não afasta a autoria, uma vez que sua própria conduta foi causalmente relevante e típica no âmbito do delito culposo. A utilização do bisturi pelo cirurgião, que agiu legitimamente confiando em sua esterilização, não rompe o nexo nem transfere a responsabilidade. Não se trata de participação culposa, pois o enfermeiro realiza o injusto culposo por sua própria contribuição, enquanto o cirurgião não pratica crime. Parte da doutrina denomina essa estrutura autoria mediata culposa, ao passo que outra rejeita essa categoria e a trata como autoria direta do delito culposo, chegando ambas à responsabilização do enfermeiro como autor.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: difícil\nPergunta: Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega ao cirurgião, que não tinha condições de perceber a contaminação e atua sem dolo ou culpa. O instrumento é utilizado na cirurgia, o paciente sofre uma infecção e morre. A senhora pode responsabilizar penalmente o enfermeiro e, em caso afirmativo, a que título?\nResposta: O enfermeiro pode responder como autor de homicídio culposo, pois sua violação do dever objetivo de cuidado criou o risco proibido que se realizou na infecção e na morte do paciente. O fato de não ter executado pessoalmente a cirurgia não afasta a autoria, uma vez que sua própria conduta foi causalmente relevante e típica no âmbito do delito culposo. A utilização do bisturi pelo cirurgião, que agiu legitimamente confiando em sua esterilização, não rompe o nexo nem transfere a responsabilidade. Não se trata de participação culposa, pois o enfermeiro realiza o injusto culposo por sua própria contribuição, enquanto o cirurgião não pratica crime. Parte da doutrina denomina essa estrutura autoria mediata culposa, ao passo que outra rejeita essa categoria e a trata como autoria direta do delito culposo, chegando ambas à responsabilização do enfermeiro como autor.",
+  "_meta": {
+    "subtema": "Participação culposa por entrega de instrumento contaminado",
+    "tipo": "principal",
+    "pontos_chave": [
+      "autoria de homicídio culposo",
+      "violação do dever objetivo de cuidado",
+      "criação e realização de risco proibido",
+      "ausência de responsabilidade do cirurgião",
+      "inexistência de mera participação culposa",
+      "divergência sobre autoria mediata culposa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, inciso II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 121, § 3º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.86,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 121 — CP",
+        "art. 13 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.9
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0024",
+    "id_origem": "q0024",
+    "ordem_origem": 24,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 115.28,
+    "reabilitada": false
+  }
+}

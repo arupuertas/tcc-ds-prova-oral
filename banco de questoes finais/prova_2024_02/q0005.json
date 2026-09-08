@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2024_02/q0005",
+  "id": "q0005",
+  "prova_id": "prova_2024_02",
+  "ordem": 5,
+  "materia": "Direito Tributário",
+  "tema": "IPTU",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Um proprietário está há muitos anos privado da posse de seu imóvel, que foi invadido e permanece clandestinamente ocupado por movimentos sociais, mas continua recebendo cobranças de IPTU. O senhor considera devido o imposto nessas circunstâncias? Explique.",
+  "resposta": "Em regra, a mera invasão não extingue a propriedade nem afasta automaticamente a obrigação tributária do titular registral. Contudo, a jurisprudência admite o afastamento do IPTU quando a ocupação antiga e consolidada priva completamente o proprietário das faculdades de usar, fruir e dispor do bem, esvaziando o conteúdo econômico da propriedade. Nessa hipótese excepcional, embora permaneça formalmente o registro, deixa de existir a materialidade econômica que justifica a tributação e a correspondente capacidade contributiva. Assim, comprovada no caso narrado uma perda duradoura e integral dos poderes inerentes ao domínio, o imposto não deve ser exigido; se houver apenas esbulho temporário e reversível, a cobrança permanece devida.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: IPTU\nDificuldade: média\nPergunta: Um proprietário está há muitos anos privado da posse de seu imóvel, que foi invadido e permanece clandestinamente ocupado por movimentos sociais, mas continua recebendo cobranças de IPTU. O senhor considera devido o imposto nessas circunstâncias? Explique.\nResposta: Em regra, a mera invasão não extingue a propriedade nem afasta automaticamente a obrigação tributária do titular registral. Contudo, a jurisprudência admite o afastamento do IPTU quando a ocupação antiga e consolidada priva completamente o proprietário das faculdades de usar, fruir e dispor do bem, esvaziando o conteúdo econômico da propriedade. Nessa hipótese excepcional, embora permaneça formalmente o registro, deixa de existir a materialidade econômica que justifica a tributação e a correspondente capacidade contributiva. Assim, comprovada no caso narrado uma perda duradoura e integral dos poderes inerentes ao domínio, o imposto não deve ser exigido; se houver apenas esbulho temporário e reversível, a cobrança permanece devida.",
+  "_meta": {
+    "subtema": "Cobrança em imóvel invadido",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Mera invasão não afasta automaticamente o IPTU",
+      "Exceção para privação antiga, consolidada e integral dos poderes de proprietário",
+      "Esvaziamento do conteúdo econômico da propriedade",
+      "Distinção entre ocupação consolidada e esbulho temporário"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 156, inciso I, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 32 e 34 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTN",
+        "art. 156 — CF",
+        "art. 32 — CTN",
+        "art. 34 — CTN"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.86
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4a31c8bbc7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0015",
+    "id_origem": "q0015",
+    "ordem_origem": 15,
+    "bloco_origem": "cadeia_4a31c8bbc7",
+    "score": 108.37,
+    "reabilitada": false
+  }
+}

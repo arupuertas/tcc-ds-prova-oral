@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2022_02/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2022_02",
+  "ordem": 23,
+  "materia": "Direito Civil",
+  "tema": "Direito das obrigações",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Em execução judicial de termo de ajustamento de conduta, o executado apresenta um instrumento pelo qual terceiro assumiu sua dívida e demonstra que notificou o Ministério Público, que permaneceu silente. O executado sustenta que o silêncio importou aceitação da assunção e o exonerou da obrigação. O senhor concorda com essa tese?",
+  "resposta": "Não. A assunção liberatória de dívida exige o consentimento expresso do credor e, mesmo que lhe seja assinado prazo para manifestação, seu silêncio é interpretado como recusa, e não como aceitação. Assim, o instrumento celebrado entre o executado e o terceiro não é oponível ao Ministério Público credor nem exonera o devedor originário, podendo produzir apenas os efeitos internos cabíveis entre seus signatários. A indisponibilidade dos interesses tutelados pelo termo de ajustamento de conduta reforça a impossibilidade de extrair do silêncio ministerial uma anuência ou renúncia, devendo a execução prosseguir contra o obrigado originário.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Direito das obrigações\nDificuldade: difícil\nPergunta: Em execução judicial de termo de ajustamento de conduta, o executado apresenta um instrumento pelo qual terceiro assumiu sua dívida e demonstra que notificou o Ministério Público, que permaneceu silente. O executado sustenta que o silêncio importou aceitação da assunção e o exonerou da obrigação. O senhor concorda com essa tese?\nResposta: Não. A assunção liberatória de dívida exige o consentimento expresso do credor e, mesmo que lhe seja assinado prazo para manifestação, seu silêncio é interpretado como recusa, e não como aceitação. Assim, o instrumento celebrado entre o executado e o terceiro não é oponível ao Ministério Público credor nem exonera o devedor originário, podendo produzir apenas os efeitos internos cabíveis entre seus signatários. A indisponibilidade dos interesses tutelados pelo termo de ajustamento de conduta reforça a impossibilidade de extrair do silêncio ministerial uma anuência ou renúncia, devendo a execução prosseguir contra o obrigado originário.",
+  "_meta": {
+    "subtema": "Assunção de dívida em execução de TAC",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Necessidade de consentimento expresso do credor",
+      "Silêncio do credor interpretado como recusa",
+      "Inoponibilidade do ajuste particular ao Ministério Público",
+      "Manutenção da responsabilidade do devedor originário",
+      "Indisponibilidade dos interesses tutelados pelo TAC"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 299, parágrafo único, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 7.347",
+        "art. 299 — CC",
+        "art. 5 — Lei 7.347"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_5ac985b736"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0058",
+    "id_origem": "q0058",
+    "ordem_origem": 58,
+    "bloco_origem": "cadeia_5ac985b736",
+    "score": 115.87,
+    "reabilitada": false
+  }
+}

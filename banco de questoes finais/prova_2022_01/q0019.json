@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2022_01/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2022_01",
+  "ordem": 19,
+  "materia": "Direito Administrativo",
+  "tema": "Omissão administrativa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora poderia comentar a omissão administrativa em cotejo com a cláusula da reserva do possível?",
+  "resposta": "A reserva do possível expressa os limites fáticos, jurídicos e financeiros à realização das prestações estatais, mas não permite que a Administração justifique uma omissão inconstitucional apenas com a alegação genérica de falta de recursos ou de dotação orçamentária específica. Cabe ao poder público demonstrar concretamente a indisponibilidade de recursos e a razoabilidade das escolhas orçamentárias e administrativas realizadas. A cláusula deve ser ponderada com o mínimo existencial, que compreende prestações indispensáveis à dignidade humana e à fruição básica dos direitos fundamentais sociais. Assim, ela não pode ser empregada para esvaziar o núcleo essencial desses direitos, embora a intervenção judicial também deva considerar a impossibilidade material comprovada, a igualdade entre os beneficiários e os efeitos sistêmicos da decisão.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Omissão administrativa\nDificuldade: média\nPergunta: A senhora poderia comentar a omissão administrativa em cotejo com a cláusula da reserva do possível?\nResposta: A reserva do possível expressa os limites fáticos, jurídicos e financeiros à realização das prestações estatais, mas não permite que a Administração justifique uma omissão inconstitucional apenas com a alegação genérica de falta de recursos ou de dotação orçamentária específica. Cabe ao poder público demonstrar concretamente a indisponibilidade de recursos e a razoabilidade das escolhas orçamentárias e administrativas realizadas. A cláusula deve ser ponderada com o mínimo existencial, que compreende prestações indispensáveis à dignidade humana e à fruição básica dos direitos fundamentais sociais. Assim, ela não pode ser empregada para esvaziar o núcleo essencial desses direitos, embora a intervenção judicial também deva considerar a impossibilidade material comprovada, a igualdade entre os beneficiários e os efeitos sistêmicos da decisão.",
+  "_meta": {
+    "subtema": "Reserva do possível e mínimo existencial",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Limites fáticos, jurídicos e financeiros",
+      "Insuficiência da alegação orçamentária genérica",
+      "Ônus estatal de demonstrar a impossibilidade concreta",
+      "Proteção do mínimo existencial",
+      "Controle judicial atento às consequências sistêmicas"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1º, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 6º da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_54d852a234"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0047",
+    "id_origem": "q0047",
+    "ordem_origem": 47,
+    "bloco_origem": "cadeia_54d852a234",
+    "score": 111.85,
+    "reabilitada": false
+  }
+}

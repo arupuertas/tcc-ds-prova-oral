@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2024_02/q0025",
+  "id": "q0025",
+  "prova_id": "prova_2024_02",
+  "ordem": 25,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O prefeito que nomeia um parente para o cargo de secretário municipal pratica nepotismo e ato de improbidade administrativa?",
+  "resposta": "A nomeação não caracteriza automaticamente nepotismo apenas em razão do parentesco, pois o cargo de secretário municipal tem natureza política e, segundo a jurisprudência do Supremo Tribunal Federal, não se submete, em regra, à incidência automática da vedação ao nepotismo. Essa ressalva não constitui salvo-conduto: a nomeação pode ser inválida quando houver nepotismo cruzado, fraude à lei, manifesta ausência de qualificação técnica, inidoneidade moral ou outras circunstâncias que revelem falta de razoabilidade e favorecimento pessoal. Quanto à improbidade administrativa, o parentesco ou a mera irregularidade não bastam, sendo necessário o enquadramento em uma conduta legalmente tipificada e a presença de dolo com finalidade ilícita. A Lei de Improbidade tipifica determinadas nomeações nepotistas, mas ressalva que a mera nomeação ou indicação política não configura improbidade sem a demonstração dessa finalidade ilícita.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: difícil\nPergunta: O prefeito que nomeia um parente para o cargo de secretário municipal pratica nepotismo e ato de improbidade administrativa?\nResposta: A nomeação não caracteriza automaticamente nepotismo apenas em razão do parentesco, pois o cargo de secretário municipal tem natureza política e, segundo a jurisprudência do Supremo Tribunal Federal, não se submete, em regra, à incidência automática da vedação ao nepotismo. Essa ressalva não constitui salvo-conduto: a nomeação pode ser inválida quando houver nepotismo cruzado, fraude à lei, manifesta ausência de qualificação técnica, inidoneidade moral ou outras circunstâncias que revelem falta de razoabilidade e favorecimento pessoal. Quanto à improbidade administrativa, o parentesco ou a mera irregularidade não bastam, sendo necessário o enquadramento em uma conduta legalmente tipificada e a presença de dolo com finalidade ilícita. A Lei de Improbidade tipifica determinadas nomeações nepotistas, mas ressalva que a mera nomeação ou indicação política não configura improbidade sem a demonstração dessa finalidade ilícita.",
+  "_meta": {
+    "subtema": "Nepotismo em cargo político",
+    "tipo": "principal",
+    "pontos_chave": [
+      "cargo de natureza política",
+      "não incidência automática da vedação ao nepotismo",
+      "nepotismo cruzado e fraude",
+      "ausência manifesta de qualificação ou inidoneidade",
+      "tipicidade e dolo na improbidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Súmula Vinculante 13 do Supremo Tribunal Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 11, XI e § 5º, da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 37, caput, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Súmula Vinculante 13",
+        "art. 11 — Lei 8.429",
+        "art. 37 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3a7c98edcd"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0077",
+    "id_origem": "q0077",
+    "ordem_origem": 77,
+    "bloco_origem": "cadeia_3a7c98edcd",
+    "score": 118.09,
+    "reabilitada": false
+  }
+}

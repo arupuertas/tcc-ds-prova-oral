@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Banco local (ChromaDB)
+dados/
+
+# Segredos
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Logs e temporários
+*.log
+.DS_Store
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Metadados de download do Windows (copiados junto com arquivos)
+*:Zone.Identifier

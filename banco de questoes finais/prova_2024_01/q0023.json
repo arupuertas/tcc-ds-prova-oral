@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2024_01/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2024_01",
+  "ordem": 23,
+  "materia": "Direito Penal",
+  "tema": "Imputação objetiva",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Um caminhoneiro trafega com a lanterna traseira queimada e é parado por um guarda rodoviário. O guarda instala uma sinalização luminosa vermelha, autoriza o caminhoneiro a seguir até o próximo posto para realizar o conserto e, antes de o caminhão partir, retira a sinalização, momento em que ocorre uma colisão fatal. Qual discussão esse caso suscita, em relação ao caminhoneiro, no plano da imputação objetiva?",
+  "resposta": "O caso suscita a incidência do critério da esfera de responsabilidade alheia. Embora o caminhoneiro tenha inicialmente criado um risco juridicamente desaprovado ao trafegar com a lanterna traseira queimada, o guarda assumiu concretamente o controle e a sinalização daquele risco ao interromper o trânsito, instalar o aviso luminoso e orientar a conduta subsequente. A colisão ocorrida após a retirada prematura da sinalização insere-se, portanto, na esfera de responsabilidade do agente que havia assumido a gestão do perigo. Nessa perspectiva, o resultado não é objetivamente imputável ao caminhoneiro, apesar da existência de causalidade material.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Imputação objetiva\nDificuldade: difícil\nPergunta: Um caminhoneiro trafega com a lanterna traseira queimada e é parado por um guarda rodoviário. O guarda instala uma sinalização luminosa vermelha, autoriza o caminhoneiro a seguir até o próximo posto para realizar o conserto e, antes de o caminhão partir, retira a sinalização, momento em que ocorre uma colisão fatal. Qual discussão esse caso suscita, em relação ao caminhoneiro, no plano da imputação objetiva?\nResposta: O caso suscita a incidência do critério da esfera de responsabilidade alheia. Embora o caminhoneiro tenha inicialmente criado um risco juridicamente desaprovado ao trafegar com a lanterna traseira queimada, o guarda assumiu concretamente o controle e a sinalização daquele risco ao interromper o trânsito, instalar o aviso luminoso e orientar a conduta subsequente. A colisão ocorrida após a retirada prematura da sinalização insere-se, portanto, na esfera de responsabilidade do agente que havia assumido a gestão do perigo. Nessa perspectiva, o resultado não é objetivamente imputável ao caminhoneiro, apesar da existência de causalidade material.",
+  "_meta": {
+    "subtema": "Esfera de responsabilidade alheia",
+    "tipo": "principal",
+    "pontos_chave": [
+      "criação inicial de risco proibido",
+      "assunção do controle do risco pelo guarda",
+      "esfera de responsabilidade alheia",
+      "distinção entre causalidade e imputação objetiva",
+      "exclusão da imputação ao caminhoneiro"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.84
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_feaa26bd53"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0051",
+    "id_origem": "q0051",
+    "ordem_origem": 51,
+    "bloco_origem": "cadeia_feaa26bd53",
+    "score": 108.95,
+    "reabilitada": false
+  }
+}

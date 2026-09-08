@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2024_01/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2024_01",
+  "ordem": 24,
+  "materia": "Direito Penal",
+  "tema": "Imputação objetiva",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "No caso do caminhoneiro com a lanterna traseira queimada, em que o guarda rodoviário assumiu a sinalização do veículo e a retirou antes de o caminhão partir, ocasionando colisão fatal, o senhor imputaria o resultado ao caminhoneiro em razão da causalidade material ou afastaria sua responsabilidade com fundamento na imputação objetiva?",
+  "resposta": "Eu afastaria a imputação do resultado ao caminhoneiro. A causalidade material é insuficiente, pois a imputação objetiva exige que o resultado constitua a realização do risco juridicamente desaprovado situado na esfera de responsabilidade do agente. Embora o caminhoneiro tenha criado o risco inicial, o guarda assumiu sua gestão ao controlar a sinalização e, ao retirá-la antes da saída do veículo, fez com que o risco produtor do resultado passasse à sua própria esfera de responsabilidade. Há, assim, rompimento do nexo de risco em relação ao caminhoneiro, sem prejuízo de eventual responsabilização por infrações anteriores relacionadas à circulação com o equipamento defeituoso.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Imputação objetiva\nDificuldade: difícil\nPergunta: No caso do caminhoneiro com a lanterna traseira queimada, em que o guarda rodoviário assumiu a sinalização do veículo e a retirou antes de o caminhão partir, ocasionando colisão fatal, o senhor imputaria o resultado ao caminhoneiro em razão da causalidade material ou afastaria sua responsabilidade com fundamento na imputação objetiva?\nResposta: Eu afastaria a imputação do resultado ao caminhoneiro. A causalidade material é insuficiente, pois a imputação objetiva exige que o resultado constitua a realização do risco juridicamente desaprovado situado na esfera de responsabilidade do agente. Embora o caminhoneiro tenha criado o risco inicial, o guarda assumiu sua gestão ao controlar a sinalização e, ao retirá-la antes da saída do veículo, fez com que o risco produtor do resultado passasse à sua própria esfera de responsabilidade. Há, assim, rompimento do nexo de risco em relação ao caminhoneiro, sem prejuízo de eventual responsabilização por infrações anteriores relacionadas à circulação com o equipamento defeituoso.",
+  "_meta": {
+    "subtema": "Rompimento do nexo de risco",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "causalidade material insuficiente",
+      "realização do risco proibido",
+      "transferência da gestão do risco",
+      "rompimento do nexo de risco",
+      "não imputação do resultado fatal ao caminhoneiro"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.85
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_feaa26bd53"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0052",
+    "id_origem": "q0052",
+    "ordem_origem": 52,
+    "bloco_origem": "cadeia_feaa26bd53",
+    "score": 113.92,
+    "reabilitada": false
+  }
+}

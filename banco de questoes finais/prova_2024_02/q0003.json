@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2024_02/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2024_02",
+  "ordem": 3,
+  "materia": "Direito Ambiental",
+  "tema": "Responsabilidade ambiental",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "O senhor poderia explicar a natureza da responsabilidade administrativa pela prática de infração ambiental e diferenciá-la da responsabilidade civil ambiental?",
+  "resposta": "A responsabilidade administrativa ambiental possui natureza subjetiva e pessoal, de modo que a imposição de sanção exige conduta imputável ao infrator, nexo causal e demonstração de dolo ou culpa, conforme o elemento subjetivo exigido pelo tipo. Embora exista entendimento doutrinário favorável à sua objetivação, a jurisprudência do Superior Tribunal de Justiça adota o caráter subjetivo da responsabilidade administrativa ambiental. A responsabilidade civil ambiental, por sua vez, é objetiva, independe de culpa e se funda na teoria do risco integral, sem dispensar a relação causal juridicamente relevante com o dano. Além disso, determinadas obrigações civis de recuperação ambiental possuem natureza propter rem. Assim, o dever civil de reparar o dano não implica, por si só, a possibilidade de aplicar sanção administrativa ao obrigado.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Responsabilidade ambiental\nDificuldade: média\nPergunta: O senhor poderia explicar a natureza da responsabilidade administrativa pela prática de infração ambiental e diferenciá-la da responsabilidade civil ambiental?\nResposta: A responsabilidade administrativa ambiental possui natureza subjetiva e pessoal, de modo que a imposição de sanção exige conduta imputável ao infrator, nexo causal e demonstração de dolo ou culpa, conforme o elemento subjetivo exigido pelo tipo. Embora exista entendimento doutrinário favorável à sua objetivação, a jurisprudência do Superior Tribunal de Justiça adota o caráter subjetivo da responsabilidade administrativa ambiental. A responsabilidade civil ambiental, por sua vez, é objetiva, independe de culpa e se funda na teoria do risco integral, sem dispensar a relação causal juridicamente relevante com o dano. Além disso, determinadas obrigações civis de recuperação ambiental possuem natureza propter rem. Assim, o dever civil de reparar o dano não implica, por si só, a possibilidade de aplicar sanção administrativa ao obrigado.",
+  "_meta": {
+    "subtema": "Natureza da responsabilidade administrativa e civil ambiental",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Responsabilidade administrativa ambiental subjetiva e pessoal",
+      "Necessidade de conduta, nexo causal e culpabilidade",
+      "Responsabilidade civil ambiental objetiva",
+      "Teoria do risco integral",
+      "Autonomia entre as esferas administrativa e civil"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 14, caput e § 1º, da Lei nº 6.938/1981",
+        "origem": "transcricao",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 70 da Lei nº 9.605/1998",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "jurisprudência do Superior Tribunal de Justiça sobre o caráter subjetivo da responsabilidade administrativa ambiental",
+        "origem": "modelo",
+        "origem_verificada": "nao_verificavel"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 6.938",
+        "Lei 9.605",
+        "art. 14 — Lei 6.938",
+        "art. 70 — Lei 9.605"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [
+        "art. 14, caput e § 1º, da Lei nº 6.938/1981"
+      ],
+      "refs_nao_verificaveis": [
+        "jurisprudência do Superior Tribunal de Justiça sobre o caráter subjetivo da responsabilidade administrativa ambiental"
+      ]
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_276f0ed36d"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0003",
+    "id_origem": "q0003",
+    "ordem_origem": 3,
+    "bloco_origem": "cadeia_276f0ed36d",
+    "score": 107.16,
+    "reabilitada": false
+  }
+}

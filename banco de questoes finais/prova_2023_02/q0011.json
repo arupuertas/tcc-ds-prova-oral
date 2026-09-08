@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_02/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2023_02",
+  "ordem": 11,
+  "materia": "Direito Penal",
+  "tema": "Crimes culposos",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega a um cirurgião que, sem culpa e sem condições de perceber a contaminação, utiliza-o em cirurgia, causando a morte do paciente. A doutrina majoritária imputa o resultado ao enfermeiro? A atuação posterior do médico encerra a relevância da violação do dever de cuidado pelo enfermeiro?",
+  "resposta": "Sim. Para a concepção majoritária, que adota um conceito unitário ou extensivo de autor nos delitos culposos, o enfermeiro responde como autor imediato de homicídio culposo, pois sua própria violação do dever objetivo de cuidado criou o risco proibido que se realizou na morte. A atuação do cirurgião sem culpa não rompe o nexo causal nem a imputação objetiva, já que apenas concretiza o risco produzido pela falta de esterilização. O princípio da confiança afasta a culpa do cirurgião, que podia confiar no cumprimento da tarefa pelo enfermeiro, mas não beneficia o próprio enfermeiro que descumpriu seu dever.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: difícil\nPergunta: Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega a um cirurgião que, sem culpa e sem condições de perceber a contaminação, utiliza-o em cirurgia, causando a morte do paciente. A doutrina majoritária imputa o resultado ao enfermeiro? A atuação posterior do médico encerra a relevância da violação do dever de cuidado pelo enfermeiro?\nResposta: Sim. Para a concepção majoritária, que adota um conceito unitário ou extensivo de autor nos delitos culposos, o enfermeiro responde como autor imediato de homicídio culposo, pois sua própria violação do dever objetivo de cuidado criou o risco proibido que se realizou na morte. A atuação do cirurgião sem culpa não rompe o nexo causal nem a imputação objetiva, já que apenas concretiza o risco produzido pela falta de esterilização. O princípio da confiança afasta a culpa do cirurgião, que podia confiar no cumprimento da tarefa pelo enfermeiro, mas não beneficia o próprio enfermeiro que descumpriu seu dever.",
+  "_meta": {
+    "subtema": "Dever de cuidado e atuação de terceiro",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Conceito unitário ou extensivo de autor nos crimes culposos",
+      "Autoria imediata do enfermeiro",
+      "Criação e realização de risco proibido",
+      "Ausência de interrupção do nexo pela atuação não culposa do médico",
+      "Princípio da confiança em favor do cirurgião"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 121, § 3º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 121 — CP",
+        "art. 13 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0025",
+    "id_origem": "q0025",
+    "ordem_origem": 25,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 118.56,
+    "reabilitada": false
+  }
+}

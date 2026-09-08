@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_02/q0027",
+  "id": "q0027",
+  "prova_id": "prova_2023_02",
+  "ordem": 27,
+  "materia": "Direito do Consumidor",
+  "tema": "Responsabilidade do fornecedor",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Uma decisão proferida contra a matriz por atos prejudiciais aos consumidores pode produzir efeitos em relação às suas filiais, ainda que elas tenham inscrições próprias no CNPJ?",
+  "resposta": "Sim, desde que se trate de verdadeiras filiais da mesma pessoa jurídica e que a providência esteja compreendida nos limites objetivos do título. A filial é apenas um estabelecimento da sociedade, não possuindo personalidade jurídica nem patrimônio autônomo em relação à matriz; a inscrição própria no CNPJ tem finalidade cadastral e fiscal. Por isso, a obrigação imposta à pessoa jurídica pode alcançar suas unidades e os bens nelas alocados. A solução seria diferente se a denominada filial fosse, na realidade, sociedade controlada ou outra pessoa jurídica autônoma, hipótese em que a condenação não poderia ser automaticamente estendida.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Responsabilidade do fornecedor\nDificuldade: difícil\nPergunta: Uma decisão proferida contra a matriz por atos prejudiciais aos consumidores pode produzir efeitos em relação às suas filiais, ainda que elas tenham inscrições próprias no CNPJ?\nResposta: Sim, desde que se trate de verdadeiras filiais da mesma pessoa jurídica e que a providência esteja compreendida nos limites objetivos do título. A filial é apenas um estabelecimento da sociedade, não possuindo personalidade jurídica nem patrimônio autônomo em relação à matriz; a inscrição própria no CNPJ tem finalidade cadastral e fiscal. Por isso, a obrigação imposta à pessoa jurídica pode alcançar suas unidades e os bens nelas alocados. A solução seria diferente se a denominada filial fosse, na realidade, sociedade controlada ou outra pessoa jurídica autônoma, hipótese em que a condenação não poderia ser automaticamente estendida.",
+  "_meta": {
+    "subtema": "Extensão de condenação da matriz às filiais",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Matriz e filial integram a mesma pessoa jurídica",
+      "CNPJ próprio da filial não lhe confere personalidade jurídica",
+      "Efeitos limitados pelo conteúdo do título judicial",
+      "Distinção entre filial e sociedade controlada ou pessoa jurídica autônoma"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.142 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 789 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1142 — CC",
+        "art. 789 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_2e6543cf81"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0068",
+    "id_origem": "q0068",
+    "ordem_origem": 68,
+    "bloco_origem": "cadeia_2e6543cf81",
+    "score": 118.06,
+    "reabilitada": false
+  }
+}

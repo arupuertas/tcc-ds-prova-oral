@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2022_01/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2022_01",
+  "ordem": 7,
+  "materia": "Direito Civil",
+  "tema": "Prescrição",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Uma pessoa obteve recentemente o reconhecimento de sua paternidade, mas a herança do pai reconhecido havia sido partilhada quinze anos antes. A senhora entende ser possível ajuizar ação para obter os direitos sucessórios e rever a partilha? A pretensão estaria prescrita e, em caso negativo, qual fundamento afastaria a prescrição?",
+  "resposta": "O reconhecimento do estado de filiação é imprescritível, mas a pretensão patrimonial de petição de herança está sujeita à prescrição. Segundo a orientação adotada pelo STJ ao tempo do certame, aplicava-se a actio nata subjetiva, de modo que o prazo para o herdeiro ainda não reconhecido começaria com o trânsito em julgado da decisão de filiação, pois antes disso não haveria pretensão sucessória concretamente exercitável; sob essa compreensão, a partilha realizada quinze anos antes poderia ser revista. Posteriormente, o STJ fixou em julgamento repetitivo que o prazo decenal da petição de herança se inicia com a abertura da sucessão e não é postergado pela ação de reconhecimento de filiação. Conforme a orientação atualmente vinculante, portanto, o reconhecimento recente da paternidade não afasta, por si só, a prescrição, ressalvadas causas legais de impedimento, suspensão ou interrupção, como a incapacidade absoluta. Sendo tempestiva a petição de herança, a revisão da partilha constitui consequência do reconhecimento da qualidade de herdeiro preterido.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Prescrição\nDificuldade: difícil\nPergunta: Uma pessoa obteve recentemente o reconhecimento de sua paternidade, mas a herança do pai reconhecido havia sido partilhada quinze anos antes. A senhora entende ser possível ajuizar ação para obter os direitos sucessórios e rever a partilha? A pretensão estaria prescrita e, em caso negativo, qual fundamento afastaria a prescrição?\nResposta: O reconhecimento do estado de filiação é imprescritível, mas a pretensão patrimonial de petição de herança está sujeita à prescrição. Segundo a orientação adotada pelo STJ ao tempo do certame, aplicava-se a actio nata subjetiva, de modo que o prazo para o herdeiro ainda não reconhecido começaria com o trânsito em julgado da decisão de filiação, pois antes disso não haveria pretensão sucessória concretamente exercitável; sob essa compreensão, a partilha realizada quinze anos antes poderia ser revista. Posteriormente, o STJ fixou em julgamento repetitivo que o prazo decenal da petição de herança se inicia com a abertura da sucessão e não é postergado pela ação de reconhecimento de filiação. Conforme a orientação atualmente vinculante, portanto, o reconhecimento recente da paternidade não afasta, por si só, a prescrição, ressalvadas causas legais de impedimento, suspensão ou interrupção, como a incapacidade absoluta. Sendo tempestiva a petição de herança, a revisão da partilha constitui consequência do reconhecimento da qualidade de herdeiro preterido.",
+  "_meta": {
+    "subtema": "Partilha após reconhecimento de paternidade",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Imprescritibilidade do reconhecimento de filiação",
+      "Prescritibilidade da petição de herança",
+      "Orientação anterior baseada na actio nata subjetiva",
+      "Atual termo inicial na abertura da sucessão segundo julgamento repetitivo do STJ",
+      "Possibilidade de revisão da partilha em favor do herdeiro preterido"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 205 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 198, I, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 149 do Supremo Tribunal Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "julgamento repetitivo do STJ sobre o termo inicial da prescrição da petição de herança",
+        "origem": "modelo",
+        "origem_verificada": "nao_verificavel"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Súmula 149",
+        "art. 198 — CC",
+        "art. 205 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": [
+        "julgamento repetitivo do STJ sobre o termo inicial da prescrição da petição de herança"
+      ]
+    },
+    "observacao": "O gabarito registra a orientação esperada na prova de 2022 e a posterior alteração da jurisprudência do STJ em julgamento repetitivo.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_5e08349da5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0016",
+    "id_origem": "q0016",
+    "ordem_origem": 16,
+    "bloco_origem": "cadeia_5e08349da5",
+    "score": 119.37,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2022_03/q0014",
+  "id": "q0014",
+  "prova_id": "prova_2022_03",
+  "ordem": 14,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora poderia esclarecer se a prescrição prevista na Lei de Improbidade Administrativa incide sobre a pretensão de aplicação das sanções por improbidade?",
+  "resposta": "Sim. O prazo previsto na Lei de Improbidade Administrativa refere-se à ação destinada à aplicação das sanções estabelecidas nessa lei. Consumada a prescrição, essas sanções não poderão ser impostas, ressalvados os efeitos das causas legais de suspensão e interrupção. O reconhecimento da prescrição da pretensão sancionatória, contudo, não resolve automaticamente a pretensão de ressarcimento do dano ao erário, que possui disciplina própria.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: média\nPergunta: A senhora poderia esclarecer se a prescrição prevista na Lei de Improbidade Administrativa incide sobre a pretensão de aplicação das sanções por improbidade?\nResposta: Sim. O prazo previsto na Lei de Improbidade Administrativa refere-se à ação destinada à aplicação das sanções estabelecidas nessa lei. Consumada a prescrição, essas sanções não poderão ser impostas, ressalvados os efeitos das causas legais de suspensão e interrupção. O reconhecimento da prescrição da pretensão sancionatória, contudo, não resolve automaticamente a pretensão de ressarcimento do dano ao erário, que possui disciplina própria.",
+  "_meta": {
+    "subtema": "Prescrição das sanções",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Prescrição da pretensão sancionatória",
+      "Impossibilidade de aplicação das sanções após a prescrição",
+      "Autonomia da pretensão de ressarcimento ao erário"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 23, caput, da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 12 da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 12 — Lei 8.429",
+        "art. 23 — Lei 8.429"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_8712085f23"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0040",
+    "id_origem": "q0040",
+    "ordem_origem": 40,
+    "bloco_origem": "cadeia_8712085f23",
+    "score": 114.41,
+    "reabilitada": false
+  }
+}

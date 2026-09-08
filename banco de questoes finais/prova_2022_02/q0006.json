@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2022_02/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2022_02",
+  "ordem": 6,
+  "materia": "Direito da Infância e Juventude",
+  "tema": "Competência",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Um colegitimado ajuíza ação civil pública na Vara da Fazenda Pública para suprir a falta de vagas na educação infantil, e o Município suscita a incompetência desse juízo. Qual deve ser o parecer do senhor sobre a competência para processar e julgar a demanda?",
+  "resposta": "A alegação de incompetência deve ser acolhida, pois o STJ entende que compete ao Juízo da Infância e da Juventude processar e julgar demandas relativas à matrícula de crianças em creches e escolas. Trata-se de competência absoluta, de natureza material, por estar a pretensão diretamente relacionada à proteção de direitos de crianças e adolescentes. A incidência dessa competência não depende da demonstração de situação concreta de risco prevista no Estatuto da Criança e do Adolescente. Havendo juízo especializado na comarca, os autos devem ser-lhe remetidos, ainda que a ação civil pública tenha sido proposta por colegitimado diverso do Ministério Público.",
+  "embedding_text": "Matéria: Direito da Infância e Juventude\nTema: Competência\nDificuldade: média\nPergunta: Um colegitimado ajuíza ação civil pública na Vara da Fazenda Pública para suprir a falta de vagas na educação infantil, e o Município suscita a incompetência desse juízo. Qual deve ser o parecer do senhor sobre a competência para processar e julgar a demanda?\nResposta: A alegação de incompetência deve ser acolhida, pois o STJ entende que compete ao Juízo da Infância e da Juventude processar e julgar demandas relativas à matrícula de crianças em creches e escolas. Trata-se de competência absoluta, de natureza material, por estar a pretensão diretamente relacionada à proteção de direitos de crianças e adolescentes. A incidência dessa competência não depende da demonstração de situação concreta de risco prevista no Estatuto da Criança e do Adolescente. Havendo juízo especializado na comarca, os autos devem ser-lhe remetidos, ainda que a ação civil pública tenha sido proposta por colegitimado diverso do Ministério Público.",
+  "_meta": {
+    "subtema": "ACP por falta de vagas na educação infantil",
+    "tipo": "principal",
+    "pontos_chave": [
+      "competência do Juízo da Infância e da Juventude",
+      "competência absoluta de natureza material",
+      "desnecessidade de situação concreta de risco",
+      "aplicação também à ação civil pública ajuizada por colegitimado",
+      "remessa dos autos ao juízo especializado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 148, IV, e 209 do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 148 — ECA"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_9fe7b2f04f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0009",
+    "id_origem": "q0009",
+    "ordem_origem": 9,
+    "bloco_origem": "cadeia_9fe7b2f04f",
+    "score": 107.4,
+    "reabilitada": false
+  }
+}

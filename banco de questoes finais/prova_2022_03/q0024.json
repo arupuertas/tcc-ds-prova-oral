@@ -1,0 +1,79 @@
+{
+  "uid": "prova_2022_03/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2022_03",
+  "ordem": 24,
+  "materia": "Direito Tributário",
+  "tema": "Crédito tributário",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "O crédito tributário cujo valor fica abaixo do limite administrativo para o ajuizamento de execução fiscal deixa de ser cobrado ou é perdoado?",
+  "resposta": "Não. A dispensa administrativa do ajuizamento da execução fiscal não equivale à remissão nem extingue, por si só, o crédito tributário. Enquanto o crédito subsistir e não estiver prescrito, a Fazenda Pública pode adotar formas extrajudiciais de cobrança, como o protesto da certidão de dívida ativa e a inscrição do devedor em cadastros restritivos, além de ajuizar posteriormente a execução se presentes os requisitos legais. O perdão do débito somente ocorre por remissão concedida nos termos da lei.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Crédito tributário\nDificuldade: média\nPergunta: O crédito tributário cujo valor fica abaixo do limite administrativo para o ajuizamento de execução fiscal deixa de ser cobrado ou é perdoado?\nResposta: Não. A dispensa administrativa do ajuizamento da execução fiscal não equivale à remissão nem extingue, por si só, o crédito tributário. Enquanto o crédito subsistir e não estiver prescrito, a Fazenda Pública pode adotar formas extrajudiciais de cobrança, como o protesto da certidão de dívida ativa e a inscrição do devedor em cadastros restritivos, além de ajuizar posteriormente a execução se presentes os requisitos legais. O perdão do débito somente ocorre por remissão concedida nos termos da lei.",
+  "_meta": {
+    "subtema": "Não ajuizamento de execução fiscal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "não ajuizamento não extingue o crédito",
+      "ausência de remissão automática",
+      "possibilidade de cobrança extrajudicial",
+      "observância da prescrição",
+      "remissão depende de lei"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 156, IV, e 172 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 174 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1º, parágrafo único, da Lei nº 9.492/1997",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTN",
+        "Lei 9.492",
+        "art. 1 — Lei 9.492",
+        "art. 156 — CTN",
+        "art. 174 — CTN"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6f8c7a1fb7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0058",
+    "id_origem": "q0058",
+    "ordem_origem": 58,
+    "bloco_origem": "cadeia_6f8c7a1fb7",
+    "score": 116.68,
+    "reabilitada": false
+  }
+}

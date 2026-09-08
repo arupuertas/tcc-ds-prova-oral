@@ -1,0 +1,79 @@
+{
+  "uid": "prova_2022_04/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2022_04",
+  "ordem": 3,
+  "materia": "Direito Administrativo",
+  "tema": "Agentes políticos",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Um cidadão comparece à Promotoria de Justiça e noticia, com base em informações obtidas na internet, que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como a senhora entende que o Ministério Público deve agir diante dessa notícia?",
+  "resposta": "O Ministério Público deve autuar a notícia de fato e realizar diligências preliminares para confirmar a condição de membro da Mesa Diretora e o efetivo exercício da advocacia. Enquanto ocupar essa função, o vereador está sujeito à incompatibilidade total com a advocacia, e não apenas ao impedimento para patrocinar causas envolvendo o poder público. Confirmada a situação, deve-se comunicar o fato à Ordem dos Advogados do Brasil para as providências de sua competência e verificar eventuais consequências previstas na Lei Orgânica Municipal e no Regimento Interno da Câmara. Também cabe apurar eventual utilização do cargo em benefício da atividade privada, conflito de interesses ou dano ao patrimônio público, adotando-se, conforme os elementos encontrados, as medidas extrajudiciais ou judiciais cabíveis. O simples exercício incompatível da advocacia, por si só, não autoriza automaticamente a imputação de improbidade administrativa, que depende de conduta dolosa enquadrada em tipo legal.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Agentes políticos\nDificuldade: média\nPergunta: Um cidadão comparece à Promotoria de Justiça e noticia, com base em informações obtidas na internet, que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como a senhora entende que o Ministério Público deve agir diante dessa notícia?\nResposta: O Ministério Público deve autuar a notícia de fato e realizar diligências preliminares para confirmar a condição de membro da Mesa Diretora e o efetivo exercício da advocacia. Enquanto ocupar essa função, o vereador está sujeito à incompatibilidade total com a advocacia, e não apenas ao impedimento para patrocinar causas envolvendo o poder público. Confirmada a situação, deve-se comunicar o fato à Ordem dos Advogados do Brasil para as providências de sua competência e verificar eventuais consequências previstas na Lei Orgânica Municipal e no Regimento Interno da Câmara. Também cabe apurar eventual utilização do cargo em benefício da atividade privada, conflito de interesses ou dano ao patrimônio público, adotando-se, conforme os elementos encontrados, as medidas extrajudiciais ou judiciais cabíveis. O simples exercício incompatível da advocacia, por si só, não autoriza automaticamente a imputação de improbidade administrativa, que depende de conduta dolosa enquadrada em tipo legal.",
+  "_meta": {
+    "subtema": "Vereador integrante da mesa exercendo advocacia",
+    "tipo": "principal",
+    "pontos_chave": [
+      "autuação da notícia de fato e diligências preliminares",
+      "incompatibilidade total entre a advocacia e a condição de membro da Mesa Diretora",
+      "comunicação à Ordem dos Advogados do Brasil",
+      "apuração de repercussões político-administrativas e patrimoniais",
+      "inexistência de improbidade automática"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 27 da Lei nº 8.906/1994",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 28, I, da Lei nº 8.906/1994",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 29, IX, c/c art. 54 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 8.906",
+        "art. 27 — Lei 8.906",
+        "art. 28 — Lei 8.906",
+        "art. 29 — CF",
+        "art. 54 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_dc819d38fa"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0019",
+    "id_origem": "q0019",
+    "ordem_origem": 19,
+    "bloco_origem": "cadeia_dc819d38fa",
+    "score": 116.19,
+    "reabilitada": false
+  }
+}

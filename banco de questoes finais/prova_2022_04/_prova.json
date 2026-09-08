@@ -1,0 +1,315 @@
+{
+  "prova_id": "prova_2022_04",
+  "edicao": "LVIII",
+  "ano": 2022,
+  "grupo_tematico": "III",
+  "n_questoes_origem": 59,
+  "n_elegiveis": 56,
+  "n_questoes": 28,
+  "n_cadeias": 7,
+  "n_reabilitadas": 3,
+  "score_medio": 112.78,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Constitucional",
+    "Direito Penal",
+    "Direito Processual Penal",
+    "Direito da Infância e Juventude",
+    "Direitos Difusos e Coletivos"
+  ],
+  "distribuicao_materia": {
+    "Direito Penal": 11,
+    "Direito Administrativo": 5,
+    "Direitos Difusos e Coletivos": 5,
+    "Direito Constitucional": 3,
+    "Direito da Infância e Juventude": 2,
+    "Direito Processual Penal": 2
+  },
+  "distribuicao_dificuldade": {
+    "media": 12,
+    "dificil": 12,
+    "facil": 4
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Agentes públicos",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Em quais situações podem ser criados cargos em comissão na Administração Pública?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Uma pessoa noticia ao Ministério Público que o chefe do Poder Executivo utiliza sua conta pessoal em rede social para divulgar atividades da Administração e realizar transmissões ao vivo, sustentando haver promoção pessoal do agente público. Como a senhora entende que o Ministério Público deve agir diante desse fato?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Agentes políticos",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Um cidadão comparece à Promotoria de Justiça e noticia, com base em informações obtidas na internet, que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como a senhora entende que o Ministério Público deve agir diante dessa notícia?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "A senhora considera possível sustentar a inconstitucionalidade e a inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa, por ofensa ao princípio da vedação ao retrocesso?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora poderia indicar um tratado internacional que serviria de parâmetro para a alegação de inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Processo coletivo",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "A senhora entende que há diferença entre os conceitos de litígio coletivo e processo coletivo?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "inicio",
+      "materia": "Direito da Infância e Juventude",
+      "tema": "Competência",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Em ação civil pública ajuizada contra o Município para suprir a falta de vagas na educação infantil, a Vara da Fazenda Pública concede tutela liminar e, posteriormente, o Município suscita a incompetência desse juízo. Atuando como fiscal da ordem jurídica, qual parecer a senhora apresentaria e qual é a vara competente para processar e julgar a demanda?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "meio",
+      "materia": "Direito da Infância e Juventude",
+      "tema": "Competência",
+      "dificuldade": "facil",
+      "tipo": "desdobramento",
+      "pergunta": "A competência da Vara da Infância e da Juventude para julgar ação destinada à obtenção de vaga em creche é absoluta?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Ação civil pública",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Segundo a jurisprudência do Superior Tribunal de Justiça, pode-se exigir do Ministério Público o adiantamento de honorários periciais em ação civil pública? Essa orientação foi alterada pela entrada em vigor do Código de Processo Civil de 2015?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Mandado de segurança coletivo",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A Defensoria Pública tem legitimidade ativa para impetrar mandado de segurança coletivo?"
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Mandado de segurança coletivo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "O Superior Tribunal de Justiça reconhece a legitimidade ativa da Defensoria Pública para impetrar mandado de segurança coletivo, apesar de ela não estar expressamente incluída no rol constitucional e legal de legitimados?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Mandado de segurança coletivo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Segundo o entendimento do Superior Tribunal de Justiça, tanto a Defensoria Pública quanto o Ministério Público têm legitimidade ativa para impetrar mandado de segurança coletivo?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos fundamentais",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Na visão da senhora, existem direitos fundamentais fora da Constituição Federal?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos fundamentais",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Podem existir direitos fundamentais tanto em acordos internacionais quanto em leis ordinárias?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos fundamentais",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora poderia dar um exemplo de direito fundamental previsto em lei ordinária que concretize um direito constitucional?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Dolo",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia esclarecer a distinção central entre o dolo direto de primeiro grau e o dolo direto de segundo grau?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Dolo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "No dolo direto de segundo grau, é necessário que o agente tenha certeza de que o resultado principal ocorrerá, ou basta que saiba que, caso seu plano tenha êxito, a consequência colateral será necessária? Considere o caso Thomas, em que o agente instala uma bomba em um navio para destruí-lo e receber o seguro, sem certeza de que o artefato funcionará, mas sabendo que, se o plano se consumar nas condições previstas, os tripulantes morrerão. Há dolo direto de segundo grau quanto às mortes?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Dolo",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora poderia conceituar dolo generalis, também denominado dolo geral?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Dolo generalis",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Em hipótese de dolo generalis, o agente espanca violentamente a vítima com intenção de matá-la e, supondo que ela já esteja morta, incendeia o corpo para ocultá-lo, mas a morte ocorre apenas em razão do incêndio. O resultado deve ser imputado a título de dolo, configurando homicídio doloso consumado, ou o agente responde por tentativa de homicídio em concurso com eventual homicídio culposo?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Dolo generalis",
+      "dificuldade": "facil",
+      "tipo": "desdobramento",
+      "pergunta": "No caso em que o agente, com dolo direto de primeiro grau, agride a vítima para matá-la, acredita equivocadamente que ela já morreu e, em seguida, incendeia o corpo para ocultá-lo, embora a morte somente ocorra em razão do incêndio, aplica-se a solução do dolo geral, com imputação de homicídio doloso consumado?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Dolo generalis",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Se o agente, em uma agressão, não pretende diretamente matar, mas atua com dolo eventual, acredita equivocadamente que a vítima morreu e, para desfazer-se do suposto cadáver, incendeia o corpo, causando somente então a morte, o senhor considera configurado homicídio doloso consumado?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Para solucionar os casos de dolo geral em que a morte decorre de um segundo ato praticado pelo agente, a senhora considera útil o critério da realização do plano, segundo o qual haverá homicídio doloso consumado se o segundo ato permanecer na esfera do plano global, mas não se estiver fora dele?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Roubo",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "No crime de roubo, a incidência da causa de aumento pelo emprego de arma de fogo depende de sua apreensão e perícia, ou pode ser demonstrada por outros meios de prova sem inversão do ônus probatório? Se a arma for apreendida e a perícia constatar tratar-se de simulacro ou de artefato absolutamente ineficaz, a senhora imputaria essa causa de aumento?"
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Roubo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora considera correta a orientação jurisprudencial minoritária segundo a qual o emprego de simulacro de arma de fogo autoriza a incidência da causa de aumento do roubo relativa ao emprego de arma de fogo? Na condição de promotora de Justiça, a senhora imputaria essa majorante em caso de simulacro comprovado?"
+    },
+    {
+      "id": "q0025",
+      "ordem": 25,
+      "momento": "fim",
+      "materia": "Direito Processual Penal",
+      "tema": "Correlação entre denúncia e sentença",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Se a denúncia por roubo narrar o emprego comprovado de um simulacro e o Ministério Público esclarecer expressamente que não imputa a causa de aumento relativa à arma de fogo, o juiz poderá reconhecê-la na sentença a título de emendatio libelli, sob o fundamento de que o acusado se defende dos fatos, ou isso exigiria mutatio libelli?"
+    },
+    {
+      "id": "q0026",
+      "ordem": 26,
+      "momento": "fim",
+      "materia": "Direito Processual Penal",
+      "tema": "Tribunal do Júri",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "No procedimento do Tribunal do Júri, se uma primeira apelação fundada no art. 593, III, d, do Código de Processo Penal for provida para determinar novo julgamento, a senhora entende ser cabível, após o segundo júri, nova apelação também fundada em decisão manifestamente contrária à prova dos autos, embora baseada em argumento fático distinto?"
+    },
+    {
+      "id": "q0027",
+      "ordem": 27,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Excludentes de ilicitude",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Para que o consentimento do ofendido opere como causa supralegal de exclusão da ilicitude, é necessário que o agente tenha conhecimento desse consentimento?"
+    },
+    {
+      "id": "q0028",
+      "ordem": 28,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Exclusão da ilicitude",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora sustenta que o conhecimento da situação justificante é exigido nas causas legais de exclusão da ilicitude, como a legítima defesa, mas dispensado no consentimento do ofendido por se tratar de causa supralegal?"
+    }
+  ]
+}

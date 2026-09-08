@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2024_02/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2024_02",
+  "ordem": 12,
+  "materia": "Direito Penal",
+  "tema": "Imputação objetiva",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Um agente, com dolo homicida, fere a vítima no abdômen. No hospital, uma atuação médica negligente ou imperita contribui para a morte. Esse erro médico afasta a imputação do resultado ao primeiro agente, que responderia apenas por tentativa, ou ele responde por homicídio consumado? Em quais contextos a solução pode variar?",
+  "resposta": "A imputação não é afastada pelo simples fato de haver erro médico superveniente. Se a conduta médica apenas eleva quantitativamente o risco originado pela lesão e a morte ainda representa a realização daquela linha de risco, o agressor responde por homicídio consumado. Se, porém, a intervenção médica cria risco novo, autônomo e qualitativamente diverso, que por si só produz a morte e substitui a linha de risco original, o resultado não é imputado ao primeiro agente. Nessa hipótese, como ele agiu com dolo homicida e iniciou a execução, responde por tentativa de homicídio, sem prejuízo da responsabilidade do médico pelo resultado culposo. A distinção depende, portanto, de verificar se houve mera elevação quantitativa do risco inicial ou alteração qualitativa com ruptura do nexo de imputação.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Imputação objetiva\nDificuldade: difícil\nPergunta: Um agente, com dolo homicida, fere a vítima no abdômen. No hospital, uma atuação médica negligente ou imperita contribui para a morte. Esse erro médico afasta a imputação do resultado ao primeiro agente, que responderia apenas por tentativa, ou ele responde por homicídio consumado? Em quais contextos a solução pode variar?\nResposta: A imputação não é afastada pelo simples fato de haver erro médico superveniente. Se a conduta médica apenas eleva quantitativamente o risco originado pela lesão e a morte ainda representa a realização daquela linha de risco, o agressor responde por homicídio consumado. Se, porém, a intervenção médica cria risco novo, autônomo e qualitativamente diverso, que por si só produz a morte e substitui a linha de risco original, o resultado não é imputado ao primeiro agente. Nessa hipótese, como ele agiu com dolo homicida e iniciou a execução, responde por tentativa de homicídio, sem prejuízo da responsabilidade do médico pelo resultado culposo. A distinção depende, portanto, de verificar se houve mera elevação quantitativa do risco inicial ou alteração qualitativa com ruptura do nexo de imputação.",
+  "_meta": {
+    "subtema": "Erro médico superveniente e resultado morte",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Erro médico não afasta automaticamente a imputação",
+      "Elevação quantitativa do risco e homicídio consumado",
+      "Alteração qualitativa e criação de risco autônomo",
+      "Causa superveniente que por si só produz o resultado",
+      "Tentativa para o primeiro agente em caso de ruptura da imputação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, § 1º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 14, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 121 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 121 — CP",
+        "art. 13 — CP",
+        "art. 14 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1159644490"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0045",
+    "id_origem": "q0045",
+    "ordem_origem": 45,
+    "bloco_origem": "cadeia_1159644490",
+    "score": 118.9,
+    "reabilitada": false
+  }
+}

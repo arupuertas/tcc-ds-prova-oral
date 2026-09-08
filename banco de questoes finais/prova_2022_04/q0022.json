@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2022_04/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2022_04",
+  "ordem": 22,
+  "materia": "Direito Penal",
+  "tema": "Imputação objetiva",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Para solucionar os casos de dolo geral em que a morte decorre de um segundo ato praticado pelo agente, a senhora considera útil o critério da realização do plano, segundo o qual haverá homicídio doloso consumado se o segundo ato permanecer na esfera do plano global, mas não se estiver fora dele?",
+  "resposta": "Sim, o critério da realização do plano é útil para distinguir desvios causais essenciais e não essenciais. Se o segundo ato permanece abrangido pelo plano global do agente e o resultado constitui realização do risco proibido compreendido pelo dolo, a divergência entre o curso causal representado e o efetivamente ocorrido não impede a imputação do homicídio doloso consumado. Se, ao contrário, o segundo ato for autônomo e estiver fora do plano, o resultado por ele causado não será automaticamente coberto pelo dolo do primeiro comportamento. A mera criação de um risco proibido e sua posterior materialização não bastam para afirmar o dolo, devendo-se verificar também se o resultado se encontra no âmbito do risco e do plano subjetivamente assumidos.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Imputação objetiva\nDificuldade: difícil\nPergunta: Para solucionar os casos de dolo geral em que a morte decorre de um segundo ato praticado pelo agente, a senhora considera útil o critério da realização do plano, segundo o qual haverá homicídio doloso consumado se o segundo ato permanecer na esfera do plano global, mas não se estiver fora dele?\nResposta: Sim, o critério da realização do plano é útil para distinguir desvios causais essenciais e não essenciais. Se o segundo ato permanece abrangido pelo plano global do agente e o resultado constitui realização do risco proibido compreendido pelo dolo, a divergência entre o curso causal representado e o efetivamente ocorrido não impede a imputação do homicídio doloso consumado. Se, ao contrário, o segundo ato for autônomo e estiver fora do plano, o resultado por ele causado não será automaticamente coberto pelo dolo do primeiro comportamento. A mera criação de um risco proibido e sua posterior materialização não bastam para afirmar o dolo, devendo-se verificar também se o resultado se encontra no âmbito do risco e do plano subjetivamente assumidos.",
+  "_meta": {
+    "subtema": "Critério da realização do plano",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "critério da realização do plano",
+      "desvio causal essencial ou não essencial",
+      "realização do risco proibido",
+      "necessidade de cobertura subjetiva pelo dolo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.86,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 13 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.9
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0051",
+    "id_origem": "q0051",
+    "ordem_origem": 51,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 114.31,
+    "reabilitada": false
+  }
+}

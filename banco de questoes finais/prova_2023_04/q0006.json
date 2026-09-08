@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_04/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2023_04",
+  "ordem": 6,
+  "materia": "Direito Penal",
+  "tema": "Aborto",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "O que a senhora quer dizer, exatamente, com interpretação sistemática para admitir que uma enfermeira realize um aborto legal na ausência de médico?",
+  "resposta": "Interpretação sistemática é aquela que compreende a norma em conjunto com as demais regras e princípios do ordenamento, e não isoladamente. Nesse tema, ela permite relacionar a disciplina especial do aborto à regra geral do estado de necessidade e à proteção constitucional da vida e da saúde da gestante. Assim, diante de perigo atual para a vida da mulher e da inexistência de médico ou de outro meio eficaz, a enfermeira pode atuar amparada pelo estado de necessidade de terceiro. Essa interpretação, porém, não autoriza estender genericamente à enfermeira a permissão relativa à gravidez resultante de estupro, pois a dignidade da pessoa humana, por si só, não afasta a exigência legal de atuação médica.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Aborto\nDificuldade: média\nPergunta: O que a senhora quer dizer, exatamente, com interpretação sistemática para admitir que uma enfermeira realize um aborto legal na ausência de médico?\nResposta: Interpretação sistemática é aquela que compreende a norma em conjunto com as demais regras e princípios do ordenamento, e não isoladamente. Nesse tema, ela permite relacionar a disciplina especial do aborto à regra geral do estado de necessidade e à proteção constitucional da vida e da saúde da gestante. Assim, diante de perigo atual para a vida da mulher e da inexistência de médico ou de outro meio eficaz, a enfermeira pode atuar amparada pelo estado de necessidade de terceiro. Essa interpretação, porém, não autoriza estender genericamente à enfermeira a permissão relativa à gravidez resultante de estupro, pois a dignidade da pessoa humana, por si só, não afasta a exigência legal de atuação médica.",
+  "_meta": {
+    "subtema": "Interpretação sistemática no aborto legal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "conceito de interpretação sistemática",
+      "articulação entre a disciplina especial e o estado de necessidade",
+      "proteção da vida e da saúde da gestante",
+      "limitação da interpretação quanto ao aborto decorrente de estupro"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 24 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 128, I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1º, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1 — CF",
+        "art. 128 — CP",
+        "art. 24 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4923229e25"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0006",
+    "id_origem": "q0006",
+    "ordem_origem": 6,
+    "bloco_origem": "cadeia_4923229e25",
+    "score": 115.15,
+    "reabilitada": false
+  }
+}

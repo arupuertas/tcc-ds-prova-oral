@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_02/q0034",
+  "id": "q0034",
+  "prova_id": "prova_2024_02",
+  "ordem": 34,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Na condição de membro do Ministério Público, se o senhor considerar inadequadas ou ilegais as cláusulas de um acordo de não persecução cível celebrado por uma procuradoria municipal e já homologado judicialmente, qual procedimento deverá adotar?",
+  "resposta": "Se a decisão homologatória ainda for recorrível, o Ministério Público deverá impugná-la pelo recurso cabível, conforme tenha natureza de sentença ou de decisão interlocutória. Após o trânsito em julgado, se o vício estiver nas cláusulas ou no próprio negócio jurídico, a medida adequada será a ação anulatória do acordo homologado, nos termos da disciplina dos atos de disposição de direitos homologados judicialmente. Se o vício for próprio do pronunciamento judicial, e não do acordo, poderá ser cabível ação rescisória, desde que presente uma de suas hipóteses legais. A simples discordância quanto à conveniência do ajuste não basta: é necessário demonstrar ilegalidade, vício de vontade, violação aos requisitos do acordo ou proteção insuficiente do interesse público em termos juridicamente controláveis.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: difícil\nPergunta: Na condição de membro do Ministério Público, se o senhor considerar inadequadas ou ilegais as cláusulas de um acordo de não persecução cível celebrado por uma procuradoria municipal e já homologado judicialmente, qual procedimento deverá adotar?\nResposta: Se a decisão homologatória ainda for recorrível, o Ministério Público deverá impugná-la pelo recurso cabível, conforme tenha natureza de sentença ou de decisão interlocutória. Após o trânsito em julgado, se o vício estiver nas cláusulas ou no próprio negócio jurídico, a medida adequada será a ação anulatória do acordo homologado, nos termos da disciplina dos atos de disposição de direitos homologados judicialmente. Se o vício for próprio do pronunciamento judicial, e não do acordo, poderá ser cabível ação rescisória, desde que presente uma de suas hipóteses legais. A simples discordância quanto à conveniência do ajuste não basta: é necessário demonstrar ilegalidade, vício de vontade, violação aos requisitos do acordo ou proteção insuficiente do interesse público em termos juridicamente controláveis.",
+  "_meta": {
+    "subtema": "Impugnação de ANPC homologado",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Recurso contra homologação ainda não transitada em julgado",
+      "Ação anulatória contra vício do acordo",
+      "Distinção entre ação anulatória e ação rescisória",
+      "Necessidade de demonstrar vício juridicamente relevante",
+      "Insuficiência da mera discordância valorativa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 966, caput e § 4º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 17-B da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 17b — Lei 8.429",
+        "art. 966 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.91
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_198b5d6e0f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0088",
+    "id_origem": "q0088",
+    "ordem_origem": 88,
+    "bloco_origem": "cadeia_198b5d6e0f",
+    "score": 115.83,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "uid": "prova_2022_03/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2022_03",
+  "ordem": 20,
+  "materia": "Direito Constitucional",
+  "tema": "Bloco de constitucionalidade",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Como se explica a relação entre a existência de direitos sociais fora do texto da Constituição Federal e o bloco de constitucionalidade, especialmente quanto aos tratados internacionais de direitos humanos?",
+  "resposta": "Em sentido estrito, o bloco de constitucionalidade reúne as normas dotadas de hierarquia constitucional que servem como parâmetro de controle de constitucionalidade, incluindo os tratados de direitos humanos aprovados pelo procedimento qualificado previsto na Constituição. Esses tratados podem reconhecer direitos sociais que não estejam expressamente enunciados no texto constitucional, mas que passam a ter equivalência às emendas constitucionais. Já os tratados de direitos humanos incorporados sem esse procedimento possuem, segundo a jurisprudência do Supremo Tribunal Federal, hierarquia supralegal, mas não integram o bloco de constitucionalidade em sentido estrito. Também não se pode afirmar que todo direito social criado ou concretizado por lei infraconstitucional passe, apenas por isso, a integrar esse bloco.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Bloco de constitucionalidade\nDificuldade: média\nPergunta: Como se explica a relação entre a existência de direitos sociais fora do texto da Constituição Federal e o bloco de constitucionalidade, especialmente quanto aos tratados internacionais de direitos humanos?\nResposta: Em sentido estrito, o bloco de constitucionalidade reúne as normas dotadas de hierarquia constitucional que servem como parâmetro de controle de constitucionalidade, incluindo os tratados de direitos humanos aprovados pelo procedimento qualificado previsto na Constituição. Esses tratados podem reconhecer direitos sociais que não estejam expressamente enunciados no texto constitucional, mas que passam a ter equivalência às emendas constitucionais. Já os tratados de direitos humanos incorporados sem esse procedimento possuem, segundo a jurisprudência do Supremo Tribunal Federal, hierarquia supralegal, mas não integram o bloco de constitucionalidade em sentido estrito. Também não se pode afirmar que todo direito social criado ou concretizado por lei infraconstitucional passe, apenas por isso, a integrar esse bloco.",
+  "_meta": {
+    "subtema": "Tratados internacionais de direitos humanos",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Conceito estrito de bloco de constitucionalidade",
+      "Tratados aprovados pelo procedimento constitucional qualificado",
+      "Possibilidade de direitos sociais materialmente externos ao texto constitucional",
+      "Hierarquia supralegal dos demais tratados de direitos humanos",
+      "Leis ordinárias não integram automaticamente o bloco"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, §§ 2º e 3º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A expressão bloco de constitucionalidade também é empregada em sentido amplo por parte da doutrina, mas isso não altera a distinção jurisprudencial entre tratados de hierarquia constitucional e tratados de direitos humanos com status supralegal.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7d9a3e165b"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0053",
+    "id_origem": "q0053",
+    "ordem_origem": 53,
+    "bloco_origem": "cadeia_7d9a3e165b",
+    "score": 107.53,
+    "reabilitada": false
+  }
+}

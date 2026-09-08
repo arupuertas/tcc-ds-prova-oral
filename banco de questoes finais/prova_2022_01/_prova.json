@@ -1,0 +1,315 @@
+{
+  "prova_id": "prova_2022_01",
+  "edicao": "LVIII",
+  "ano": 2022,
+  "grupo_tematico": "III",
+  "n_questoes_origem": 74,
+  "n_elegiveis": 57,
+  "n_questoes": 28,
+  "n_cadeias": 11,
+  "n_reabilitadas": 1,
+  "score_medio": 117.45,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Civil",
+    "Direito Eleitoral",
+    "Direito Penal",
+    "Direito Processual Civil",
+    "Direitos Difusos e Coletivos"
+  ],
+  "distribuicao_materia": {
+    "Direitos Difusos e Coletivos": 7,
+    "Direito Penal": 7,
+    "Direito Processual Civil": 5,
+    "Direito Civil": 4,
+    "Direito Administrativo": 3,
+    "Direito Eleitoral": 2
+  },
+  "distribuicao_dificuldade": {
+    "media": 14,
+    "dificil": 12,
+    "facil": 2
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Processual Civil",
+      "tema": "Tutela provisória",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Quais direitos fundamentais asseguram a tutela provisória no sistema jurídico brasileiro?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direito Processual Civil",
+      "tema": "Tutela provisória",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "À luz da relação entre tutela provisória e efetividade dos direitos fundamentais, a senhora consegue distinguir o dever-ser do dever-fazer?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito Processual Civil",
+      "tema": "Tutela provisória",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Considerando a necessidade de efetivação dos direitos fundamentais no processo, como deve ser compreendido o princípio do contraditório?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direito Processual Civil",
+      "tema": "Tutela provisória",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Nas tutelas provisórias, como fica a observância do princípio do contraditório?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direito Processual Civil",
+      "tema": "Tutela provisória",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Quais são as espécies de tutela provisória previstas no ordenamento processual civil brasileiro?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direito Civil",
+      "tema": "Prescrição e decadência",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia explicar a teoria da actio nata em seu viés subjetivo?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "inicio",
+      "materia": "Direito Civil",
+      "tema": "Prescrição",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Uma pessoa obteve recentemente o reconhecimento de sua paternidade, mas a herança do pai reconhecido havia sido partilhada quinze anos antes. A senhora entende ser possível ajuizar ação para obter os direitos sucessórios e rever a partilha? A pretensão estaria prescrita e, em caso negativo, qual fundamento afastaria a prescrição?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Prova",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O art. 232 do Código Civil estabelece que a recusa à perícia médica ordenada pelo juiz poderá suprir a prova que se pretendia obter, regra frequentemente invocada diante da recusa ao exame de DNA em investigação de paternidade. Esse dispositivo comporta relativização e em quais situações?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Direito de família",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora conhece entendimento do Superior Tribunal de Justiça que relativize a consequência da recusa ao exame de DNA em razão da natureza do direito de filiação discutido, independentemente da consideração dos demais elementos probatórios do processo?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Pessoa idosa",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "Para fins da proteção conferida pelo ordenamento jurídico brasileiro, quem a senhora considera pessoa idosa?"
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Pessoa idosa",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "Em que consiste, segundo o Estatuto da Pessoa Idosa, o direito ao respeito assegurado à pessoa idosa?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Pessoa idosa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia citar três obrigações legais das entidades de atendimento à pessoa idosa?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Pessoa idosa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "É possível transacionar sobre os alimentos devidos a uma pessoa idosa? Como a senhora, na condição de promotora de Justiça, deverá proceder se a pessoa idosa e o devedor comparecerem ao gabinete interessados em celebrar a transação?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Pessoa idosa",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Se a pessoa idosa não possuir meios de prover o próprio sustento e seu único familiar também não tiver condições econômicas de prestar alimentos, como a senhora, na condição de promotora de Justiça, deverá proceder?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Pessoa idosa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A senhora sabe indicar como se inicia o procedimento para imposição de penalidade administrativa por infração às normas de proteção à pessoa idosa?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Pessoa idosa",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Além da requisição do Ministério Público, de que outra forma pode ser iniciado o procedimento para imposição de penalidade administrativa por infração às normas de proteção à pessoa idosa?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direito Eleitoral",
+      "tema": "Transporte de eleitores",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Um candidato pode patrocinar transporte para que eleitores carentes, residentes longe dos locais de votação e sem acesso a transporte público, possam exercer o direito de voto?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direito Eleitoral",
+      "tema": "Condutas eleitorais vedadas",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Ainda que não exista transporte público no local, o candidato não conheça os eleitores e alegue pretender apenas ajudá-los a chegar ao local de votação, ele pode patrocinar esse transporte?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Omissão administrativa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia comentar a omissão administrativa em cotejo com a cláusula da reserva do possível?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Poder de polícia",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "É possível que as guardas municipais atuem na fiscalização, no controle e na orientação do trânsito e do tráfego?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Poder de polícia",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Qual é o fundamento jurídico para que as guardas municipais exerçam a fiscalização de trânsito? Essa atuação configuraria exercício indevido de função de segurança pública ou invasão de competência de outros órgãos?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Concurso de pessoas",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia explicar se é possível a participação em crimes omissivos, distinguindo os crimes omissivos próprios dos impróprios e apresentando exemplos?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Erro de subsunção",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora considera possível que uma equivocada apreciação do agente quanto à relevância penal do fato não gere responsabilidade porque a conduta é objetivamente insignificante? Indique uma hipótese."
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Erro de tipo permissivo",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Reconhecido o erro de tipo permissivo sobre os pressupostos fáticos de uma causa de justificação, ele sempre exclui o dolo ou esse efeito depende de o erro ser escusável?"
+    },
+    {
+      "id": "q0025",
+      "ordem": 25,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Erro de tipo permissivo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Uma vez reconhecida a ocorrência de erro de tipo permissivo, o dolo fica automaticamente afastado, ou isso ainda depende de o erro ser escusável ou inescusável?"
+    },
+    {
+      "id": "q0026",
+      "ordem": 26,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "No âmbito da imputação objetiva, a observância pelo agente das normas regulamentares gerais, como as normas de trânsito relativas à via e à velocidade, implica, por si só, a inexistência de imputação objetiva caso ele provoque um acidente?"
+    },
+    {
+      "id": "q0027",
+      "ordem": 27,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Há identidade necessária entre risco proibido e infração de norma regulamentar, ou é possível reconhecer a criação de risco proibido mesmo quando o agente observou genericamente as normas regulamentares aplicáveis?"
+    },
+    {
+      "id": "q0028",
+      "ordem": 28,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Um motorista trafega na mão correta e dentro do limite regulamentar de velocidade, mas está chovendo e ele percebe uma aglomeração de pessoas na esquina. Se ele não reduz a velocidade, atropela e mata uma pessoa, pode afastar a criação de risco proibido apenas porque observou formalmente as normas de trânsito, ou o risco deve ser aferido no caso concreto?"
+    }
+  ]
+}

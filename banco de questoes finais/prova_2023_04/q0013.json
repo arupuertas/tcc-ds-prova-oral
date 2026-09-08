@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2023_04/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2023_04",
+  "ordem": 13,
+  "materia": "Direito Processual Penal",
+  "tema": "Sistemas processuais",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Segundo Canotilho e Vital Moreira, a densificação semântica da estrutura acusatória pode ser compreendida em uma dimensão material e em uma dimensão orgânico-subjetiva. A senhora poderia explicar essas duas dimensões?",
+  "resposta": "Na dimensão material, a estrutura acusatória exige a distinção funcional entre investigação ou instrução, acusação e julgamento, de modo que a acusação delimite o objeto do processo e a atividade decisória não se confunda com a função de investigar ou acusar. Na dimensão orgânico-subjetiva, essas funções são atribuídas a órgãos e sujeitos distintos, especialmente com a separação entre o órgão acusador e o órgão julgador e, quando cabível, entre o responsável pela instrução e o juiz do julgamento. Essa separação preserva a imparcialidade judicial e impede a concentração de funções processuais incompatíveis no mesmo sujeito. A gestão da prova relaciona-se à estrutura acusatória, mas não esgota essas duas dimensões.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Sistemas processuais\nDificuldade: difícil\nPergunta: Segundo Canotilho e Vital Moreira, a densificação semântica da estrutura acusatória pode ser compreendida em uma dimensão material e em uma dimensão orgânico-subjetiva. A senhora poderia explicar essas duas dimensões?\nResposta: Na dimensão material, a estrutura acusatória exige a distinção funcional entre investigação ou instrução, acusação e julgamento, de modo que a acusação delimite o objeto do processo e a atividade decisória não se confunda com a função de investigar ou acusar. Na dimensão orgânico-subjetiva, essas funções são atribuídas a órgãos e sujeitos distintos, especialmente com a separação entre o órgão acusador e o órgão julgador e, quando cabível, entre o responsável pela instrução e o juiz do julgamento. Essa separação preserva a imparcialidade judicial e impede a concentração de funções processuais incompatíveis no mesmo sujeito. A gestão da prova relaciona-se à estrutura acusatória, mas não esgota essas duas dimensões.",
+  "_meta": {
+    "subtema": "Dimensões da estrutura acusatória",
+    "tipo": "principal",
+    "pontos_chave": [
+      "distinção material entre investigação ou instrução, acusação e julgamento",
+      "delimitação do objeto pela acusação",
+      "separação orgânico-subjetiva das funções",
+      "imparcialidade judicial",
+      "proibição da concentração de funções incompatíveis"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 3º-A do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 129, I, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CPP",
+        "art. 129 — CF",
+        "art. 3a — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_11b9407f44"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0017",
+    "id_origem": "q0017",
+    "ordem_origem": 17,
+    "bloco_origem": "cadeia_11b9407f44",
+    "score": 113.58,
+    "reabilitada": false
+  }
+}

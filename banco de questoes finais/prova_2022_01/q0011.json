@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2022_01/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2022_01",
+  "ordem": 11,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Pessoa idosa",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "Em que consiste, segundo o Estatuto da Pessoa Idosa, o direito ao respeito assegurado à pessoa idosa?",
+  "resposta": "O direito ao respeito consiste na inviolabilidade da integridade física, psíquica e moral da pessoa idosa, abrangendo a preservação de sua imagem, identidade, autonomia, valores, ideias, crenças, espaços e objetos pessoais. Ele impõe a todos o dever de preservar sua dignidade e de colocá-la a salvo de tratamento desumano, violento, aterrorizante, vexatório ou constrangedor. Trata-se de proteção que se articula com os direitos à liberdade, à intimidade e à autodeterminação, não se limitando a um dever de cortesia.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Pessoa idosa\nDificuldade: fácil\nPergunta: Em que consiste, segundo o Estatuto da Pessoa Idosa, o direito ao respeito assegurado à pessoa idosa?\nResposta: O direito ao respeito consiste na inviolabilidade da integridade física, psíquica e moral da pessoa idosa, abrangendo a preservação de sua imagem, identidade, autonomia, valores, ideias, crenças, espaços e objetos pessoais. Ele impõe a todos o dever de preservar sua dignidade e de colocá-la a salvo de tratamento desumano, violento, aterrorizante, vexatório ou constrangedor. Trata-se de proteção que se articula com os direitos à liberdade, à intimidade e à autodeterminação, não se limitando a um dever de cortesia.",
+  "_meta": {
+    "subtema": "Direito ao respeito",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Inviolabilidade da integridade física, psíquica e moral",
+      "Proteção da imagem, identidade e autonomia",
+      "Preservação de valores, crenças, espaços e objetos pessoais",
+      "Proibição de tratamento desumano, violento, vexatório ou constrangedor"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 10, §§ 2º e 3º, da Lei 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 10 — Lei 10.741"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_ae78163dac"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_ae78163dac",
+    "score": 113.45,
+    "reabilitada": false
+  }
+}

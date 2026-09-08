@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2024_01/q0021",
+  "id": "q0021",
+  "prova_id": "prova_2024_01",
+  "ordem": 21,
+  "materia": "Direito Penal",
+  "tema": "Concurso de pessoas",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Após prestar contribuição dolosa para um homicídio, mediante a entrega da arma ao executor, o partícipe pode ser exonerado apenas porque desistiu? E qual é a consequência se ele tentar seriamente impedir o resultado, mas não conseguir evitá-lo?",
+  "resposta": "A simples mudança de vontade não exonera o partícipe, pois o dolo estava presente no momento da contribuição e o auxílio prestado continuou causalmente relevante para o resultado. Para a corrente mais rigorosa, a responsabilidade pelo crime consumado somente é afastada se o partícipe neutralizar sua contribuição e impedir efetivamente a consumação. Outra corrente considera suficiente que ele realize esforço voluntário e sério para evitar o resultado, ainda que os demais agentes consumem o delito. Assim, a tentativa séria e ineficaz pode afastar a responsabilidade apenas de acordo com essa segunda posição, mas a mera declaração de desistência é insuficiente em ambas.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: Após prestar contribuição dolosa para um homicídio, mediante a entrega da arma ao executor, o partícipe pode ser exonerado apenas porque desistiu? E qual é a consequência se ele tentar seriamente impedir o resultado, mas não conseguir evitá-lo?\nResposta: A simples mudança de vontade não exonera o partícipe, pois o dolo estava presente no momento da contribuição e o auxílio prestado continuou causalmente relevante para o resultado. Para a corrente mais rigorosa, a responsabilidade pelo crime consumado somente é afastada se o partícipe neutralizar sua contribuição e impedir efetivamente a consumação. Outra corrente considera suficiente que ele realize esforço voluntário e sério para evitar o resultado, ainda que os demais agentes consumem o delito. Assim, a tentativa séria e ineficaz pode afastar a responsabilidade apenas de acordo com essa segunda posição, mas a mera declaração de desistência é insuficiente em ambas.",
+  "_meta": {
+    "subtema": "Efeito da simples desistência do partícipe",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "princípio da simultaneidade",
+      "mera desistência insuficiente",
+      "neutralização da contribuição",
+      "impedimento efetivo do resultado",
+      "teoria do esforço sério"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 29 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 15 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 25 do Código Penal português",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 15 — CP",
+        "art. 29 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.86
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_feaa26bd53"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0049",
+    "id_origem": "q0049",
+    "ordem_origem": 49,
+    "bloco_origem": "cadeia_feaa26bd53",
+    "score": 116.52,
+    "reabilitada": false
+  }
+}

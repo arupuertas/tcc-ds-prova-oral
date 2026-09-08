@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_02/q0014",
+  "id": "q0014",
+  "prova_id": "prova_2023_02",
+  "ordem": 14,
+  "materia": "Direito Processual Penal",
+  "tema": "Inquérito policial",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O assistente de acusação pode atuar formalmente durante a fase do inquérito policial?",
+  "resposta": "Não há assistente de acusação, em sentido técnico, durante o inquérito policial, pois sua admissão pressupõe ação penal pública já instaurada. Na investigação, contudo, o ofendido pode apresentar elementos informativos e requerer diligências à autoridade policial, que avaliará a pertinência de sua realização. Essa atuação decorre da condição de vítima ou ofendido e não lhe confere a posição processual nem os poderes próprios do assistente de acusação.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Inquérito policial\nDificuldade: difícil\nPergunta: O assistente de acusação pode atuar formalmente durante a fase do inquérito policial?\nResposta: Não há assistente de acusação, em sentido técnico, durante o inquérito policial, pois sua admissão pressupõe ação penal pública já instaurada. Na investigação, contudo, o ofendido pode apresentar elementos informativos e requerer diligências à autoridade policial, que avaliará a pertinência de sua realização. Essa atuação decorre da condição de vítima ou ofendido e não lhe confere a posição processual nem os poderes próprios do assistente de acusação.",
+  "_meta": {
+    "subtema": "Atuação do assistente na fase investigatória",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Inexistência de assistente de acusação no inquérito",
+      "Admissão somente após a instauração da ação penal pública",
+      "Possibilidade de o ofendido requerer diligências",
+      "Discricionariedade da autoridade policial",
+      "Distinção entre vítima e assistente de acusação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 14 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 268 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 268 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_74d60c6afa"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0028",
+    "id_origem": "q0028",
+    "ordem_origem": 28,
+    "bloco_origem": "cadeia_74d60c6afa",
+    "score": 116.14,
+    "reabilitada": false
+  }
+}

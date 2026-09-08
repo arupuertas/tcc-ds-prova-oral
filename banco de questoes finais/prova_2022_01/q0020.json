@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_01/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2022_01",
+  "ordem": 20,
+  "materia": "Direito Administrativo",
+  "tema": "Poder de polícia",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "É possível que as guardas municipais atuem na fiscalização, no controle e na orientação do trânsito e do tráfego?",
+  "resposta": "Sim. É constitucional atribuir às guardas municipais o exercício do poder de polícia de trânsito, inclusive a aplicação das sanções administrativas legalmente previstas. A atuação deve ocorrer no âmbito da competência municipal e nos termos da legislação de trânsito, mediante designação ou credenciamento pela autoridade competente. Não se trata de autorização meramente excepcional, mas de atribuição administrativa que pode ser conferida regularmente à guarda municipal. Essa atuação não invade, por si só, as competências das polícias estaduais.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Poder de polícia\nDificuldade: difícil\nPergunta: É possível que as guardas municipais atuem na fiscalização, no controle e na orientação do trânsito e do tráfego?\nResposta: Sim. É constitucional atribuir às guardas municipais o exercício do poder de polícia de trânsito, inclusive a aplicação das sanções administrativas legalmente previstas. A atuação deve ocorrer no âmbito da competência municipal e nos termos da legislação de trânsito, mediante designação ou credenciamento pela autoridade competente. Não se trata de autorização meramente excepcional, mas de atribuição administrativa que pode ser conferida regularmente à guarda municipal. Essa atuação não invade, por si só, as competências das polícias estaduais.",
+  "_meta": {
+    "subtema": "Fiscalização de trânsito por guardas municipais",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Constitucionalidade da fiscalização de trânsito pela guarda municipal",
+      "Possibilidade de aplicação de sanções administrativas",
+      "Necessidade de atuação nos termos da legislação de trânsito",
+      "Ausência de invasão das competências policiais estaduais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 144, §§ 8º e 10, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 24, VI, e 280, § 4º, do Código de Trânsito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Tema 472 da repercussão geral do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTB",
+        "Tema 472",
+        "art. 144 — CF",
+        "art. 24 — CTB"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_f090d13611"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0050",
+    "id_origem": "q0050",
+    "ordem_origem": 50,
+    "bloco_origem": "cadeia_f090d13611",
+    "score": 119.86,
+    "reabilitada": false
+  }
+}

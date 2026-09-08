@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_02/q0028",
+  "id": "q0028",
+  "prova_id": "prova_2023_02",
+  "ordem": 28,
+  "materia": "Direito do Consumidor",
+  "tema": "Responsabilidade do fornecedor",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "É possível redirecionar às filiais a condenação imposta à matriz, ainda que elas tenham inscrições próprias no CNPJ?",
+  "resposta": "É possível alcançar as filiais e os bens nelas alocados quando elas forem estabelecimentos da mesma pessoa jurídica condenada. Tecnicamente, não se trata de redirecionamento contra um terceiro, pois matriz e filiais não possuem personalidades jurídicas distintas, sendo irrelevante para esse fim a existência de inscrições cadastrais próprias. A medida deve respeitar os limites do título e não pode alcançar automaticamente uma sociedade controlada ou outra pessoa jurídica autônoma.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Responsabilidade do fornecedor\nDificuldade: difícil\nPergunta: É possível redirecionar às filiais a condenação imposta à matriz, ainda que elas tenham inscrições próprias no CNPJ?\nResposta: É possível alcançar as filiais e os bens nelas alocados quando elas forem estabelecimentos da mesma pessoa jurídica condenada. Tecnicamente, não se trata de redirecionamento contra um terceiro, pois matriz e filiais não possuem personalidades jurídicas distintas, sendo irrelevante para esse fim a existência de inscrições cadastrais próprias. A medida deve respeitar os limites do título e não pode alcançar automaticamente uma sociedade controlada ou outra pessoa jurídica autônoma.",
+  "_meta": {
+    "subtema": "Redirecionamento de condenação da matriz às filiais",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Possibilidade de alcançar bens alocados às filiais",
+      "Inexistência de verdadeiro redirecionamento contra terceiro",
+      "Unidade da personalidade jurídica entre matriz e filiais",
+      "Respeito aos limites do título executivo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.142 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 789 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1142 — CC",
+        "art. 789 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_2e6543cf81"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0069",
+    "id_origem": "q0069",
+    "ordem_origem": 69,
+    "bloco_origem": "cadeia_2e6543cf81",
+    "score": 113.28,
+    "reabilitada": false
+  }
+}

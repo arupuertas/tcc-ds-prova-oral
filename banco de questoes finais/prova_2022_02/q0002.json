@@ -1,0 +1,68 @@
+{
+  "uid": "prova_2022_02/q0002",
+  "id": "q0002",
+  "prova_id": "prova_2022_02",
+  "ordem": 2,
+  "materia": "Direito Administrativo",
+  "tema": "Publicidade institucional",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "No caso de chefe do Poder Executivo que utiliza conta pessoal em rede social para divulgar atividades administrativas, quais elementos configurariam promoção pessoal irregular e quais circunstâncias afastariam essa irregularidade?",
+  "resposta": "A publicidade será regular quando tiver finalidade educativa, informativa ou de orientação social e funcionar como instrumento impessoal de transparência e prestação de contas, sem apropriação individual das realizações públicas. A irregularidade estará configurada quando nomes, símbolos, imagens, slogans ou a própria narrativa das publicações vincularem obras, programas e serviços à pessoa do agente, promovendo seu inequívoco enaltecimento ou sugerindo que realizações estatais constituem favores pessoais. Também são relevantes a reiteração das postagens, o contexto eleitoral, o destaque desproporcional dado à imagem da autoridade e o emprego de estrutura ou recursos públicos. A mera participação do agente na comunicação de informações administrativas ou em prestação de contas, sem conteúdo personalista, não basta para caracterizar a promoção pessoal vedada pela Constituição.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Publicidade institucional\nDificuldade: média\nPergunta: No caso de chefe do Poder Executivo que utiliza conta pessoal em rede social para divulgar atividades administrativas, quais elementos configurariam promoção pessoal irregular e quais circunstâncias afastariam essa irregularidade?\nResposta: A publicidade será regular quando tiver finalidade educativa, informativa ou de orientação social e funcionar como instrumento impessoal de transparência e prestação de contas, sem apropriação individual das realizações públicas. A irregularidade estará configurada quando nomes, símbolos, imagens, slogans ou a própria narrativa das publicações vincularem obras, programas e serviços à pessoa do agente, promovendo seu inequívoco enaltecimento ou sugerindo que realizações estatais constituem favores pessoais. Também são relevantes a reiteração das postagens, o contexto eleitoral, o destaque desproporcional dado à imagem da autoridade e o emprego de estrutura ou recursos públicos. A mera participação do agente na comunicação de informações administrativas ou em prestação de contas, sem conteúdo personalista, não basta para caracterizar a promoção pessoal vedada pela Constituição.",
+  "_meta": {
+    "subtema": "Configuração de promoção pessoal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Finalidade educativa, informativa ou de orientação social",
+      "Transparência e prestação de contas impessoais",
+      "Vedação à personalização de obras, programas e serviços",
+      "Uso de nomes, imagens, símbolos ou slogans personalistas",
+      "Análise contextual e não apenas da titularidade da conta"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 37, § 1º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 11, XII, da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.91
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_2022c88bff"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0004",
+    "id_origem": "q0004",
+    "ordem_origem": 4,
+    "bloco_origem": "cadeia_2022c88bff",
+    "score": 120.15,
+    "reabilitada": false
+  }
+}

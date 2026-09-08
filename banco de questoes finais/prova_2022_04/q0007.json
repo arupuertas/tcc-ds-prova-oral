@@ -1,0 +1,83 @@
+{
+  "uid": "prova_2022_04/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2022_04",
+  "ordem": 7,
+  "materia": "Direito da Infância e Juventude",
+  "tema": "Competência",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Em ação civil pública ajuizada contra o Município para suprir a falta de vagas na educação infantil, a Vara da Fazenda Pública concede tutela liminar e, posteriormente, o Município suscita a incompetência desse juízo. Atuando como fiscal da ordem jurídica, qual parecer a senhora apresentaria e qual é a vara competente para processar e julgar a demanda?",
+  "resposta": "O parecer deve ser pelo reconhecimento da incompetência absoluta da Vara da Fazenda Pública e pela remessa dos autos à Vara da Infância e da Juventude. O Estatuto da Criança e do Adolescente atribui ao juízo especializado o julgamento das ações civis fundadas em interesses individuais, difusos ou coletivos afetos a crianças e adolescentes, regra que a jurisprudência do Superior Tribunal de Justiça aplica às demandas por matrícula ou vaga em creche. Essa competência prevalece mesmo que o Município figure no polo passivo e que a obrigação repercuta sobre política pública. Salvo decisão judicial em sentido contrário, a tutela concedida pelo juízo incompetente conserva seus efeitos até que o juízo competente delibere a respeito.",
+  "embedding_text": "Matéria: Direito da Infância e Juventude\nTema: Competência\nDificuldade: média\nPergunta: Em ação civil pública ajuizada contra o Município para suprir a falta de vagas na educação infantil, a Vara da Fazenda Pública concede tutela liminar e, posteriormente, o Município suscita a incompetência desse juízo. Atuando como fiscal da ordem jurídica, qual parecer a senhora apresentaria e qual é a vara competente para processar e julgar a demanda?\nResposta: O parecer deve ser pelo reconhecimento da incompetência absoluta da Vara da Fazenda Pública e pela remessa dos autos à Vara da Infância e da Juventude. O Estatuto da Criança e do Adolescente atribui ao juízo especializado o julgamento das ações civis fundadas em interesses individuais, difusos ou coletivos afetos a crianças e adolescentes, regra que a jurisprudência do Superior Tribunal de Justiça aplica às demandas por matrícula ou vaga em creche. Essa competência prevalece mesmo que o Município figure no polo passivo e que a obrigação repercuta sobre política pública. Salvo decisão judicial em sentido contrário, a tutela concedida pelo juízo incompetente conserva seus efeitos até que o juízo competente delibere a respeito.",
+  "_meta": {
+    "subtema": "Vaga em creche e Vara da Infância",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Competência da Vara da Infância e da Juventude",
+      "Incompetência absoluta da Vara da Fazenda Pública",
+      "Aplicação às demandas por vaga em creche",
+      "Conservação provisória dos efeitos da liminar"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 148, IV, do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 209 do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 64, § 4º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [
+      "ECA"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [
+        "ECA"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "ECA",
+        "art. 148 — ECA",
+        "art. 209 — ECA",
+        "art. 64 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_4228bf2081"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0025",
+    "id_origem": "q0025",
+    "ordem_origem": 25,
+    "bloco_origem": "cadeia_4228bf2081",
+    "score": 115.94,
+    "reabilitada": true
+  }
+}

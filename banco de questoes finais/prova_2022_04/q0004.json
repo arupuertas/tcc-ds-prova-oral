@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2022_04/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2022_04",
+  "ordem": 4,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "A senhora considera possível sustentar a inconstitucionalidade e a inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa, por ofensa ao princípio da vedação ao retrocesso?",
+  "resposta": "É juridicamente possível formular essa alegação, especialmente contra alterações que esvaziem de maneira desproporcional a tutela constitucional da probidade administrativa e caracterizem proteção insuficiente do patrimônio público e do direito à boa administração. Uma corrente extrai dos princípios republicano, da moralidade administrativa e da norma constitucional de repressão à improbidade um núcleo mínimo de proteção que não pode ser eliminado pelo legislador. No plano convencional, os compromissos assumidos pelo Brasil em tratados internacionais de prevenção e combate à corrupção também podem servir como parâmetro de controle. Em sentido restritivo, sustenta-se que a vedação ao retrocesso não congela o regime jurídico da improbidade nem impede o legislador de redefinir tipos, sanções e garantias, sobretudo por se tratar de direito sancionador. Por isso, a inconstitucionalidade ou a inconvencionalidade não pode ser afirmada genericamente em relação a toda a reforma, devendo ser demonstrada, dispositivo por dispositivo, a supressão desproporcional de um padrão constitucional ou convencional obrigatório de proteção.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: difícil\nPergunta: A senhora considera possível sustentar a inconstitucionalidade e a inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa, por ofensa ao princípio da vedação ao retrocesso?\nResposta: É juridicamente possível formular essa alegação, especialmente contra alterações que esvaziem de maneira desproporcional a tutela constitucional da probidade administrativa e caracterizem proteção insuficiente do patrimônio público e do direito à boa administração. Uma corrente extrai dos princípios republicano, da moralidade administrativa e da norma constitucional de repressão à improbidade um núcleo mínimo de proteção que não pode ser eliminado pelo legislador. No plano convencional, os compromissos assumidos pelo Brasil em tratados internacionais de prevenção e combate à corrupção também podem servir como parâmetro de controle. Em sentido restritivo, sustenta-se que a vedação ao retrocesso não congela o regime jurídico da improbidade nem impede o legislador de redefinir tipos, sanções e garantias, sobretudo por se tratar de direito sancionador. Por isso, a inconstitucionalidade ou a inconvencionalidade não pode ser afirmada genericamente em relação a toda a reforma, devendo ser demonstrada, dispositivo por dispositivo, a supressão desproporcional de um padrão constitucional ou convencional obrigatório de proteção.",
+  "_meta": {
+    "subtema": "Vedação ao retrocesso na nova Lei de Improbidade",
+    "tipo": "principal",
+    "pontos_chave": [
+      "possibilidade de controle por vedação ao retrocesso",
+      "probidade administrativa e direito à boa administração",
+      "proibição de proteção insuficiente",
+      "tratados internacionais de combate à corrupção",
+      "caráter não absoluto da vedação ao retrocesso",
+      "necessidade de análise específica de cada alteração"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 37, caput e § 4º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Convenção das Nações Unidas contra a Corrupção, promulgada pelo Decreto nº 5.687/2006",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Convenção Interamericana contra a Corrupção, promulgada pelo Decreto nº 4.410/2002",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Decreto 4.410",
+        "Decreto 5.687",
+        "Lei 14.230",
+        "art. 37 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.91
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_dc819d38fa"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0020",
+    "id_origem": "q0020",
+    "ordem_origem": 20,
+    "bloco_origem": "cadeia_dc819d38fa",
+    "score": 120.78,
+    "reabilitada": false
+  }
+}

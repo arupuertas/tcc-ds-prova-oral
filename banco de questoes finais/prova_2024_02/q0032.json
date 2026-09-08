@@ -1,0 +1,57 @@
+{
+  "uid": "prova_2024_02/q0032",
+  "id": "q0032",
+  "prova_id": "prova_2024_02",
+  "ordem": 32,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Acordos coletivos",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "No âmbito dos acordos em processos coletivos, em que consiste o problema do chamado leilão reverso?",
+  "resposta": "O leilão reverso ocorre quando o réu, diante de legitimados ou representantes coletivos concorrentes, procura aquele que esteja disposto a celebrar o acordo menos oneroso e mais favorável ao demandado. Em vez de os interessados disputarem quem oferece maior proteção ao grupo, o réu seleciona o representante que aceita a menor reparação, obrigações menos rigorosas ou uma quitação mais ampla. A prática pode envolver conluio ou representação inadequada e comprometer a tutela dos ausentes, especialmente quando se pretende atribuir ao ajuste eficácia sobre todo o grupo. O problema deve ser enfrentado mediante controle da representatividade adequada, transparência, participação dos interessados e exame rigoroso da suficiência do acordo.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Acordos coletivos\nDificuldade: difícil\nPergunta: No âmbito dos acordos em processos coletivos, em que consiste o problema do chamado leilão reverso?\nResposta: O leilão reverso ocorre quando o réu, diante de legitimados ou representantes coletivos concorrentes, procura aquele que esteja disposto a celebrar o acordo menos oneroso e mais favorável ao demandado. Em vez de os interessados disputarem quem oferece maior proteção ao grupo, o réu seleciona o representante que aceita a menor reparação, obrigações menos rigorosas ou uma quitação mais ampla. A prática pode envolver conluio ou representação inadequada e comprometer a tutela dos ausentes, especialmente quando se pretende atribuir ao ajuste eficácia sobre todo o grupo. O problema deve ser enfrentado mediante controle da representatividade adequada, transparência, participação dos interessados e exame rigoroso da suficiência do acordo.",
+  "_meta": {
+    "subtema": "Leilão reverso",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Concorrência entre legitimados ou representantes coletivos",
+      "Escolha, pelo réu, do acordo menos oneroso",
+      "Risco de conluio e representação inadequada",
+      "Proteção insuficiente do grupo e quitação excessivamente ampla",
+      "Controle da adequação do acordo coletivo"
+    ],
+    "fundamentos_legais": [],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 0,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_198b5d6e0f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0085",
+    "id_origem": "q0085",
+    "ordem_origem": 85,
+    "bloco_origem": "cadeia_198b5d6e0f",
+    "score": 113.96,
+    "reabilitada": false
+  }
+}

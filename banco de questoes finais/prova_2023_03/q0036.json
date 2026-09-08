@@ -1,0 +1,87 @@
+{
+  "uid": "prova_2023_03/q0036",
+  "id": "q0036",
+  "prova_id": "prova_2023_03",
+  "ordem": 36,
+  "materia": "Direito Empresarial",
+  "tema": "Recuperação judicial e falência",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "O senhor considera admissíveis a recuperação judicial e a falência de associações e fundações?",
+  "resposta": "Pela regra geral da Lei de Recuperação e Falências, associações e fundações não se submetem à recuperação judicial nem à falência, pois o regime é destinado ao empresário e à sociedade empresária. Há, contudo, orientação jurisprudencial excepcional que admite a recuperação judicial de associações formalmente sem fins lucrativos quando elas atuam profissionalmente como relevantes agentes econômicos, além da autorização legal específica concedida aos clubes ou pessoas jurídicas originais no âmbito da Sociedade Anônima do Futebol. Essa flexibilização não pode ser automaticamente estendida a qualquer associação e tampouco às fundações, cuja afetação patrimonial e finalidade institucional são incompatíveis, em regra, com o regime empresarial de insolvência. Também não se pode concluir que todo precedente favorável à recuperação judicial reconheça irrestritamente a sujeição da entidade a pedido autônomo de falência. Se uma associação for validamente admitida em recuperação judicial, entretanto, a convolação em falência pode surgir, em tese, como consequência do próprio procedimento recuperacional.",
+  "embedding_text": "Matéria: Direito Empresarial\nTema: Recuperação judicial e falência\nDificuldade: difícil\nPergunta: O senhor considera admissíveis a recuperação judicial e a falência de associações e fundações?\nResposta: Pela regra geral da Lei de Recuperação e Falências, associações e fundações não se submetem à recuperação judicial nem à falência, pois o regime é destinado ao empresário e à sociedade empresária. Há, contudo, orientação jurisprudencial excepcional que admite a recuperação judicial de associações formalmente sem fins lucrativos quando elas atuam profissionalmente como relevantes agentes econômicos, além da autorização legal específica concedida aos clubes ou pessoas jurídicas originais no âmbito da Sociedade Anônima do Futebol. Essa flexibilização não pode ser automaticamente estendida a qualquer associação e tampouco às fundações, cuja afetação patrimonial e finalidade institucional são incompatíveis, em regra, com o regime empresarial de insolvência. Também não se pode concluir que todo precedente favorável à recuperação judicial reconheça irrestritamente a sujeição da entidade a pedido autônomo de falência. Se uma associação for validamente admitida em recuperação judicial, entretanto, a convolação em falência pode surgir, em tese, como consequência do próprio procedimento recuperacional.",
+  "_meta": {
+    "subtema": "Associações e fundações",
+    "tipo": "principal",
+    "pontos_chave": [
+      "regra legal restrita ao empresário e à sociedade empresária",
+      "admissão jurisprudencial excepcional de associações que exercem atividade econômica organizada",
+      "regime especial dos clubes de futebol",
+      "não extensão automática às fundações",
+      "distinção entre recuperação judicial e pedido autônomo de falência"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Lei nº 11.101/2005 (Lei de Recuperação e Falências)",
+        "origem": "transcricao",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1º da Lei nº 11.101/2005",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 13 da Lei nº 14.193/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 53 e 62 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.84,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 11.101",
+        "Lei 14.193",
+        "art. 1 — Lei 11.101",
+        "art. 13 — Lei 14.193",
+        "art. 53 — CC",
+        "art. 62 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [
+        "Lei nº 11.101/2005 (Lei de Recuperação e Falências)"
+      ],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A jurisprudência excepcional concentra-se na recuperação judicial de associações que desempenham atividade econômica, não havendo autorização geral equivalente para fundações.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.86
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7817eb6a47"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0087",
+    "id_origem": "q0087",
+    "ordem_origem": 87,
+    "bloco_origem": "cadeia_7817eb6a47",
+    "score": 108.48,
+    "reabilitada": false
+  }
+}

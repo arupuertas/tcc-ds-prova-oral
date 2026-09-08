@@ -1,0 +1,66 @@
+{
+  "uid": "prova_2022_04/q0027",
+  "id": "q0027",
+  "prova_id": "prova_2022_04",
+  "ordem": 27,
+  "materia": "Direito Penal",
+  "tema": "Excludentes de ilicitude",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Para que o consentimento do ofendido opere como causa supralegal de exclusão da ilicitude, é necessário que o agente tenha conhecimento desse consentimento?",
+  "resposta": "Quando atua como causa supralegal de exclusão da ilicitude, o consentimento deve provir de titular com capacidade de discernimento, recair sobre bem jurídico disponível, ser livre, válido, anterior ou concomitante ao fato e abranger a conduta praticada. Quanto ao conhecimento pelo agente, há divergência doutrinária. A concepção objetivo-subjetiva, predominante em matéria de causas de justificação, exige que o agente conheça a situação de consentimento para que possa invocá-la, enquanto a concepção puramente objetiva considera suficiente a existência de consentimento válido. O consentimento também pode excluir a própria tipicidade quando o dissenso do titular integra, expressa ou implicitamente, a descrição típica.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Excludentes de ilicitude\nDificuldade: difícil\nPergunta: Para que o consentimento do ofendido opere como causa supralegal de exclusão da ilicitude, é necessário que o agente tenha conhecimento desse consentimento?\nResposta: Quando atua como causa supralegal de exclusão da ilicitude, o consentimento deve provir de titular com capacidade de discernimento, recair sobre bem jurídico disponível, ser livre, válido, anterior ou concomitante ao fato e abranger a conduta praticada. Quanto ao conhecimento pelo agente, há divergência doutrinária. A concepção objetivo-subjetiva, predominante em matéria de causas de justificação, exige que o agente conheça a situação de consentimento para que possa invocá-la, enquanto a concepção puramente objetiva considera suficiente a existência de consentimento válido. O consentimento também pode excluir a própria tipicidade quando o dissenso do titular integra, expressa ou implicitamente, a descrição típica.",
+  "_meta": {
+    "subtema": "Consentimento do ofendido e conhecimento do agente",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Bem jurídico disponível",
+      "Consentimento livre, válido e anterior ou concomitante",
+      "Capacidade de discernimento do titular",
+      "Divergência sobre a necessidade de conhecimento do agente",
+      "Distinção entre exclusão da tipicidade e causa supralegal de exclusão da ilicitude"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 23 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 23 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_d6f5673c28"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0056",
+    "id_origem": "q0056",
+    "ordem_origem": 56,
+    "bloco_origem": "cadeia_d6f5673c28",
+    "score": 112.85,
+    "reabilitada": false
+  }
+}

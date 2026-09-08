@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_04/q0009",
+  "id": "q0009",
+  "prova_id": "prova_2023_04",
+  "ordem": 9,
+  "materia": "Direito Penal",
+  "tema": "Teoria do crime",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "A senhora poderia indicar os elementos estruturantes do tipo doloso e do tipo culposo?",
+  "resposta": "O tipo doloso compreende os elementos objetivos do tipo, como a conduta e as circunstâncias legalmente descritas, acrescidos do dolo, entendido como consciência e vontade de realizar os elementos objetivos; nos crimes materiais, também exige resultado e nexo causal. Eventuais elementos subjetivos especiais devem estar presentes quando exigidos pela figura típica. O tipo culposo pressupõe conduta voluntária, violação do dever objetivo de cuidado por imprudência, negligência ou imperícia, resultado involuntário, nexo causal, previsibilidade objetiva e tipificação expressa da modalidade culposa. Na culpa inconsciente, o agente não prevê o resultado previsível, enquanto, na culpa consciente, prevê sua possibilidade, mas confia sinceramente que ele não ocorrerá.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Teoria do crime\nDificuldade: fácil\nPergunta: A senhora poderia indicar os elementos estruturantes do tipo doloso e do tipo culposo?\nResposta: O tipo doloso compreende os elementos objetivos do tipo, como a conduta e as circunstâncias legalmente descritas, acrescidos do dolo, entendido como consciência e vontade de realizar os elementos objetivos; nos crimes materiais, também exige resultado e nexo causal. Eventuais elementos subjetivos especiais devem estar presentes quando exigidos pela figura típica. O tipo culposo pressupõe conduta voluntária, violação do dever objetivo de cuidado por imprudência, negligência ou imperícia, resultado involuntário, nexo causal, previsibilidade objetiva e tipificação expressa da modalidade culposa. Na culpa inconsciente, o agente não prevê o resultado previsível, enquanto, na culpa consciente, prevê sua possibilidade, mas confia sinceramente que ele não ocorrerá.",
+  "_meta": {
+    "subtema": "Elementos do tipo doloso e culposo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "elementos objetivos do tipo doloso",
+      "dolo como consciência e vontade",
+      "resultado e nexo causal nos crimes materiais",
+      "violação do dever objetivo de cuidado",
+      "previsibilidade objetiva",
+      "distinção entre culpa consciente e inconsciente",
+      "previsão legal da modalidade culposa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, parágrafo único, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c3443e8daa"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0013",
+    "id_origem": "q0013",
+    "ordem_origem": 13,
+    "bloco_origem": "cadeia_c3443e8daa",
+    "score": 112.54,
+    "reabilitada": false
+  }
+}

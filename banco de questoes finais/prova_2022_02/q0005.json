@@ -1,0 +1,56 @@
+{
+  "uid": "prova_2022_02/q0005",
+  "id": "q0005",
+  "prova_id": "prova_2022_02",
+  "ordem": 5,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Processo coletivo",
+  "dificuldade": "facil",
+  "momento": "inicio",
+  "pergunta": "O senhor poderia distinguir os conceitos de processo coletivo e litígio coletivo?",
+  "resposta": "O litígio coletivo é o conflito situado no plano material ou social, que envolve interesses de um grupo, classe ou categoria considerada como coletividade, podendo existir mesmo sem judicialização. O processo coletivo é o instrumento jurisdicional pelo qual se deduz uma situação jurídica coletiva, com técnicas próprias de legitimação, representação ou substituição processual e coisa julgada. Assim, o litígio é o objeto ou fenômeno conflituoso, enquanto o processo é o meio utilizado para tratá-lo e solucioná-lo. Nem todo litígio coletivo é estrutural, pois o caráter estrutural depende da existência de uma desconformidade cuja superação exija transformação institucional continuada.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Processo coletivo\nDificuldade: fácil\nPergunta: O senhor poderia distinguir os conceitos de processo coletivo e litígio coletivo?\nResposta: O litígio coletivo é o conflito situado no plano material ou social, que envolve interesses de um grupo, classe ou categoria considerada como coletividade, podendo existir mesmo sem judicialização. O processo coletivo é o instrumento jurisdicional pelo qual se deduz uma situação jurídica coletiva, com técnicas próprias de legitimação, representação ou substituição processual e coisa julgada. Assim, o litígio é o objeto ou fenômeno conflituoso, enquanto o processo é o meio utilizado para tratá-lo e solucioná-lo. Nem todo litígio coletivo é estrutural, pois o caráter estrutural depende da existência de uma desconformidade cuja superação exija transformação institucional continuada.",
+  "_meta": {
+    "subtema": "Distinção entre processo coletivo e litígio coletivo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "litígio coletivo como conflito material ou social",
+      "processo coletivo como instrumento jurisdicional",
+      "possibilidade de litígio coletivo sem judicialização",
+      "distinção entre coletividade e estruturalidade"
+    ],
+    "fundamentos_legais": [],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 0,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_9fe7b2f04f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0008",
+    "id_origem": "q0008",
+    "ordem_origem": 8,
+    "bloco_origem": "cadeia_9fe7b2f04f",
+    "score": 98.78,
+    "reabilitada": false
+  }
+}

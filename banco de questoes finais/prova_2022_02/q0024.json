@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2022_02/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2022_02",
+  "ordem": 24,
+  "materia": "Direito Civil",
+  "tema": "Alimentos",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "O senhor poderia esclarecer se, no pedido de alimentos fundado em vínculo familiar, há limite quanto ao grau de parentesco das pessoas que podem ser chamadas a prestar alimentos?",
+  "resposta": "Sim. A obrigação alimentar é recíproca entre pais e filhos e estende-se aos demais ascendentes, sem limite de grau, recaindo inicialmente sobre os de grau mais próximo; na falta destes, alcança os descendentes conforme a ordem sucessória e, depois, os irmãos bilaterais ou unilaterais, não abrangendo outros parentes colaterais, como tios, sobrinhos e primos. A obrigação dos avós é subsidiária e complementar, somente se configurando diante da impossibilidade total ou parcial de cumprimento pelos pais. A filiação socioafetiva, por constituir parentesco civil, também pode fundamentar a obrigação, ao contrário do mero vínculo de afinidade. Em regra, a obrigação entre parentes é divisível e não solidária, devendo ser distribuída segundo as possibilidades de cada obrigado e as necessidades do alimentando. Em favor da pessoa idosa, contudo, a obrigação alimentar é solidária, podendo ela optar entre os prestadores.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Alimentos\nDificuldade: média\nPergunta: O senhor poderia esclarecer se, no pedido de alimentos fundado em vínculo familiar, há limite quanto ao grau de parentesco das pessoas que podem ser chamadas a prestar alimentos?\nResposta: Sim. A obrigação alimentar é recíproca entre pais e filhos e estende-se aos demais ascendentes, sem limite de grau, recaindo inicialmente sobre os de grau mais próximo; na falta destes, alcança os descendentes conforme a ordem sucessória e, depois, os irmãos bilaterais ou unilaterais, não abrangendo outros parentes colaterais, como tios, sobrinhos e primos. A obrigação dos avós é subsidiária e complementar, somente se configurando diante da impossibilidade total ou parcial de cumprimento pelos pais. A filiação socioafetiva, por constituir parentesco civil, também pode fundamentar a obrigação, ao contrário do mero vínculo de afinidade. Em regra, a obrigação entre parentes é divisível e não solidária, devendo ser distribuída segundo as possibilidades de cada obrigado e as necessidades do alimentando. Em favor da pessoa idosa, contudo, a obrigação alimentar é solidária, podendo ela optar entre os prestadores.",
+  "_meta": {
+    "subtema": "Limite de parentesco na obrigação alimentar",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Reciprocidade da obrigação entre pais e filhos",
+      "Extensão aos ascendentes de grau mais próximo",
+      "Chamamento posterior dos descendentes e dos irmãos bilaterais ou unilaterais",
+      "Exclusão dos demais parentes colaterais",
+      "Natureza subsidiária e complementar dos alimentos avoengos",
+      "Parentesco socioafetivo como fundamento da obrigação alimentar",
+      "Regra de divisibilidade e exceção de solidariedade em favor da pessoa idosa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 1.694 e 1.696 a 1.698 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 12 do Estatuto da Pessoa Idosa",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 596 do STJ",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 10.741",
+        "Súmula 596 do STJ",
+        "art. 12 — Lei 10.741",
+        "art. 1694 — CC",
+        "art. 1696 — CC",
+        "art. 1698 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_79a404ad51"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0061",
+    "id_origem": "q0061",
+    "ordem_origem": 61,
+    "bloco_origem": "cadeia_79a404ad51",
+    "score": 124.7,
+    "reabilitada": false
+  }
+}

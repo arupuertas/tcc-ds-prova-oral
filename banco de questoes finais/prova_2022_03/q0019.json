@@ -1,0 +1,74 @@
+{
+  "uid": "prova_2022_03/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2022_03",
+  "ordem": 19,
+  "materia": "Direito Constitucional",
+  "tema": "Direitos sociais",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Existem direitos sociais fora do texto da Constituição Federal? É possível afirmar que todos os direitos sociais são cláusulas pétreas?",
+  "resposta": "Existem direitos sociais fora do texto constitucional, pois eles podem ser reconhecidos em tratados internacionais e desenvolvidos ou concretizados pela legislação infraconstitucional, em razão do caráter não exaustivo do catálogo de direitos fundamentais. Isso não significa, porém, que toda prestação criada por lei ordinária adquira automaticamente hierarquia constitucional. Quanto às cláusulas pétreas, uma corrente restritiva limita a proteção do dispositivo constitucional aos direitos e garantias individuais em sentido estrito, enquanto a corrente ampliativa, predominante na doutrina contemporânea, alcança os direitos fundamentais em geral, inclusive os direitos sociais constitucionalmente reconhecidos. Mesmo na concepção ampliativa, protege-se contra a abolição ou o esvaziamento o núcleo essencial desses direitos, mas não se petrificam todos os valores, critérios de acesso e modelos legislativos de sua concretização. A proibição do retrocesso social, portanto, constitui importante parâmetro de controle, mas não é absoluta nem impede toda alteração legislativa redutora.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direitos sociais\nDificuldade: difícil\nPergunta: Existem direitos sociais fora do texto da Constituição Federal? É possível afirmar que todos os direitos sociais são cláusulas pétreas?\nResposta: Existem direitos sociais fora do texto constitucional, pois eles podem ser reconhecidos em tratados internacionais e desenvolvidos ou concretizados pela legislação infraconstitucional, em razão do caráter não exaustivo do catálogo de direitos fundamentais. Isso não significa, porém, que toda prestação criada por lei ordinária adquira automaticamente hierarquia constitucional. Quanto às cláusulas pétreas, uma corrente restritiva limita a proteção do dispositivo constitucional aos direitos e garantias individuais em sentido estrito, enquanto a corrente ampliativa, predominante na doutrina contemporânea, alcança os direitos fundamentais em geral, inclusive os direitos sociais constitucionalmente reconhecidos. Mesmo na concepção ampliativa, protege-se contra a abolição ou o esvaziamento o núcleo essencial desses direitos, mas não se petrificam todos os valores, critérios de acesso e modelos legislativos de sua concretização. A proibição do retrocesso social, portanto, constitui importante parâmetro de controle, mas não é absoluta nem impede toda alteração legislativa redutora.",
+  "_meta": {
+    "subtema": "Previsão fora da Constituição e cláusula pétrea",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Existência de direitos sociais em tratados e legislação infraconstitucional",
+      "Catálogo constitucional não exaustivo",
+      "Distinção entre direito fundamental e sua concretização legislativa",
+      "Correntes restritiva e ampliativa sobre as cláusulas pétreas",
+      "Proteção do núcleo essencial dos direitos sociais",
+      "Inexistência de proibição absoluta do retrocesso"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, § 2º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 6º da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 60, § 4º, IV, da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7d9a3e165b"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0052",
+    "id_origem": "q0052",
+    "ordem_origem": 52,
+    "bloco_origem": "cadeia_7d9a3e165b",
+    "score": 122.82,
+    "reabilitada": false
+  }
+}

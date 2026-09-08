@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2022_03/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2022_03",
+  "ordem": 1,
+  "materia": "Direito Penal",
+  "tema": "Imputação objetiva",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Em uma cirurgia realizada por equipe, a incidência do princípio da confiança se altera se a violação do dever de segurança for praticada pela enfermeira, e não pelo cirurgião-chefe?",
+  "resposta": "A análise pode se alterar porque o princípio da confiança não beneficia quem possui dever específico de direção, controle ou supervisão sobre a atuação de outro integrante da equipe. Se o cirurgião-chefe tinha o dever e a possibilidade de fiscalizar a conduta da enfermeira, não poderá simplesmente invocar a confiança para afastar a imputação decorrente de sua própria omissão. O mesmo ocorre quando existirem indícios concretos de que a enfermeira atua de modo inadequado ou não confiável, impondo-se a intervenção. A posição hierárquica, contudo, não gera responsabilidade automática: é necessário verificar o alcance real do dever de supervisão, a possibilidade de agir e a realização do risco no resultado. Os demais profissionais que não tenham dever de controle nem percebam sinais da irregularidade podem, em princípio, continuar amparados pelo princípio da confiança.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Imputação objetiva\nDificuldade: média\nPergunta: Em uma cirurgia realizada por equipe, a incidência do princípio da confiança se altera se a violação do dever de segurança for praticada pela enfermeira, e não pelo cirurgião-chefe?\nResposta: A análise pode se alterar porque o princípio da confiança não beneficia quem possui dever específico de direção, controle ou supervisão sobre a atuação de outro integrante da equipe. Se o cirurgião-chefe tinha o dever e a possibilidade de fiscalizar a conduta da enfermeira, não poderá simplesmente invocar a confiança para afastar a imputação decorrente de sua própria omissão. O mesmo ocorre quando existirem indícios concretos de que a enfermeira atua de modo inadequado ou não confiável, impondo-se a intervenção. A posição hierárquica, contudo, não gera responsabilidade automática: é necessário verificar o alcance real do dever de supervisão, a possibilidade de agir e a realização do risco no resultado. Os demais profissionais que não tenham dever de controle nem percebam sinais da irregularidade podem, em princípio, continuar amparados pelo princípio da confiança.",
+  "_meta": {
+    "subtema": "Princípio da confiança e dever de supervisão",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Limitação do princípio da confiança",
+      "Dever específico de supervisão",
+      "Sinais concretos de atuação irregular",
+      "Responsabilidade pela própria omissão",
+      "Ausência de responsabilidade automática pela hierarquia"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, § 2º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_b535cd3300"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0006",
+    "id_origem": "q0006",
+    "ordem_origem": 6,
+    "bloco_origem": "cadeia_b535cd3300",
+    "score": 112.6,
+    "reabilitada": false
+  }
+}

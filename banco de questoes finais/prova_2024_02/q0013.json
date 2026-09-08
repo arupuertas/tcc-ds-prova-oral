@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_02/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2024_02",
+  "ordem": 13,
+  "materia": "Direito Penal",
+  "tema": "Imputação objetiva",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "No caso em que um agente, com dolo homicida, fere a vítima e um erro médico posterior contribui para a morte, qual é a consequência da elevação quantitativa e da alteração qualitativa do risco para a imputação do resultado ao primeiro agente?",
+  "resposta": "Na elevação quantitativa, a intervenção posterior apenas intensifica o risco já criado pelo primeiro agente, sem substituir sua linha de desenvolvimento, razão pela qual ele responde pelo resultado consumado. Na alteração qualitativa, surge risco novo, autônomo e de natureza diversa, que substitui a linha de risco anterior e produz por si só o resultado. Nesse segundo caso, a morte não é imputada ao primeiro agente. Como ele atuou com dolo homicida e iniciou a execução, responderá por tentativa de homicídio, sem prejuízo da responsabilidade penal do médico.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Imputação objetiva\nDificuldade: difícil\nPergunta: No caso em que um agente, com dolo homicida, fere a vítima e um erro médico posterior contribui para a morte, qual é a consequência da elevação quantitativa e da alteração qualitativa do risco para a imputação do resultado ao primeiro agente?\nResposta: Na elevação quantitativa, a intervenção posterior apenas intensifica o risco já criado pelo primeiro agente, sem substituir sua linha de desenvolvimento, razão pela qual ele responde pelo resultado consumado. Na alteração qualitativa, surge risco novo, autônomo e de natureza diversa, que substitui a linha de risco anterior e produz por si só o resultado. Nesse segundo caso, a morte não é imputada ao primeiro agente. Como ele atuou com dolo homicida e iniciou a execução, responderá por tentativa de homicídio, sem prejuízo da responsabilidade penal do médico.",
+  "_meta": {
+    "subtema": "Elevação quantitativa e alteração qualitativa do risco",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Elevação quantitativa mantém a imputação do resultado",
+      "Alteração qualitativa substitui a linha de risco",
+      "Homicídio consumado no primeiro caso",
+      "Tentativa de homicídio no segundo caso"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, § 1º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 14, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 13 — CP",
+        "art. 14 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1159644490"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0046",
+    "id_origem": "q0046",
+    "ordem_origem": 46,
+    "bloco_origem": "cadeia_1159644490",
+    "score": 122.08,
+    "reabilitada": false
+  }
+}

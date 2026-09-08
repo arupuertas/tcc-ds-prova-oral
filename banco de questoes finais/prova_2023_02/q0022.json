@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_02/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2023_02",
+  "ordem": 22,
+  "materia": "Direito Institucional do Ministério Público",
+  "tema": "Intervenção do Ministério Público",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O Ministério Público pode manifestar-se em sentido contrário ao interesse de incapaz no processo em que intervém? Qual é o fundamento desse entendimento?",
+  "resposta": "O Ministério Público pode manifestar-se em sentido contrário à pretensão processual ou à vantagem imediata pretendida pelo incapaz, caso conclua que ela não encontra amparo no ordenamento jurídico ou nas provas. Ao intervir, o Ministério Público atua como fiscal da ordem jurídica, e não como advogado ou representante processual do incapaz, estando sujeito à independência funcional. Seu dever é proteger objetivamente os direitos do incapaz e a legalidade, o que pode exigir parecer contrário à tese formulada em seu nome. Não lhe seria lícito, contudo, atuar deliberadamente contra o verdadeiro interesse juridicamente protegido do incapaz, razão pela qual a aparente divergência é resolvida pela distinção entre a pretensão subjetivamente formulada e o interesse jurídico objetivo.",
+  "embedding_text": "Matéria: Direito Institucional do Ministério Público\nTema: Intervenção do Ministério Público\nDificuldade: difícil\nPergunta: O Ministério Público pode manifestar-se em sentido contrário ao interesse de incapaz no processo em que intervém? Qual é o fundamento desse entendimento?\nResposta: O Ministério Público pode manifestar-se em sentido contrário à pretensão processual ou à vantagem imediata pretendida pelo incapaz, caso conclua que ela não encontra amparo no ordenamento jurídico ou nas provas. Ao intervir, o Ministério Público atua como fiscal da ordem jurídica, e não como advogado ou representante processual do incapaz, estando sujeito à independência funcional. Seu dever é proteger objetivamente os direitos do incapaz e a legalidade, o que pode exigir parecer contrário à tese formulada em seu nome. Não lhe seria lícito, contudo, atuar deliberadamente contra o verdadeiro interesse juridicamente protegido do incapaz, razão pela qual a aparente divergência é resolvida pela distinção entre a pretensão subjetivamente formulada e o interesse jurídico objetivo.",
+  "_meta": {
+    "subtema": "Manifestação contrária ao interesse de incapaz",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Possibilidade de manifestação contrária à pretensão do incapaz",
+      "Atuação como fiscal da ordem jurídica",
+      "Inexistência de função de advogado do incapaz",
+      "Independência funcional",
+      "Distinção entre pretensão subjetiva e interesse jurídico objetivo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 127, caput e § 1º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 178, II, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 179 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 178 — CPC",
+        "art. 179 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c78be4fcbc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0036",
+    "id_origem": "q0036",
+    "ordem_origem": 36,
+    "bloco_origem": "cadeia_c78be4fcbc",
+    "score": 122.9,
+    "reabilitada": false
+  }
+}

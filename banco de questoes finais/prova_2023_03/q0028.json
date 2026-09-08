@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_03/q0028",
+  "id": "q0028",
+  "prova_id": "prova_2023_03",
+  "ordem": 28,
+  "materia": "Direito Institucional do Ministério Público",
+  "tema": "Legitimação processual",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Explique o senhor a diferença entre a legitimação autônoma do Ministério Público para a condução do processo coletivo e sua atuação como substituto processual.",
+  "resposta": "Na legitimação autônoma para a condução do processo coletivo, o Ministério Público recebe da lei poder próprio para promover a tutela de direito transindividual, sem afirmar que o bem jurídico lhe pertence e sem atuar tecnicamente no lugar de titulares individualizados. Essa categoria é especialmente empregada em relação aos direitos difusos e coletivos em sentido estrito, cujos titulares são indeterminados ou integram grupo ligado por uma relação jurídica-base. Na substituição processual, hipótese de legitimação extraordinária, o Ministério Público pleiteia em nome próprio direito alheio pertencente aos substituídos, por autorização do ordenamento, como ocorre tipicamente na tutela de direitos individuais homogêneos. A legitimação autônoma, portanto, não significa a defesa de um bem da vida próprio do Ministério Público, situação que configuraria legitimação ordinária. Há divergência terminológica, pois parte da doutrina qualifica toda legitimação coletiva como extraordinária, enquanto outra reserva a substituição processual aos casos em que existem direitos alheios individualizáveis.",
+  "embedding_text": "Matéria: Direito Institucional do Ministério Público\nTema: Legitimação processual\nDificuldade: média\nPergunta: Explique o senhor a diferença entre a legitimação autônoma do Ministério Público para a condução do processo coletivo e sua atuação como substituto processual.\nResposta: Na legitimação autônoma para a condução do processo coletivo, o Ministério Público recebe da lei poder próprio para promover a tutela de direito transindividual, sem afirmar que o bem jurídico lhe pertence e sem atuar tecnicamente no lugar de titulares individualizados. Essa categoria é especialmente empregada em relação aos direitos difusos e coletivos em sentido estrito, cujos titulares são indeterminados ou integram grupo ligado por uma relação jurídica-base. Na substituição processual, hipótese de legitimação extraordinária, o Ministério Público pleiteia em nome próprio direito alheio pertencente aos substituídos, por autorização do ordenamento, como ocorre tipicamente na tutela de direitos individuais homogêneos. A legitimação autônoma, portanto, não significa a defesa de um bem da vida próprio do Ministério Público, situação que configuraria legitimação ordinária. Há divergência terminológica, pois parte da doutrina qualifica toda legitimação coletiva como extraordinária, enquanto outra reserva a substituição processual aos casos em que existem direitos alheios individualizáveis.",
+  "_meta": {
+    "subtema": "Legitimação autônoma e substituição processual",
+    "tipo": "principal",
+    "pontos_chave": [
+      "legitimação autônoma para condução do processo coletivo",
+      "direitos difusos e coletivos em sentido estrito",
+      "substituição processual como defesa de direito alheio em nome próprio",
+      "direitos individuais homogêneos",
+      "distinção entre legitimação autônoma e legitimação ordinária",
+      "divergência terminológica doutrinária"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 81, parágrafo único, I, II e III, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 82, I, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 18 — CPC",
+        "art. 81 — CDC",
+        "art. 82 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_d4fad3eee4"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0065",
+    "id_origem": "q0065",
+    "ordem_origem": 65,
+    "bloco_origem": "cadeia_d4fad3eee4",
+    "score": 117.65,
+    "reabilitada": false
+  }
+}

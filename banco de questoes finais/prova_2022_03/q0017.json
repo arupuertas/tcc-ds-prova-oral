@@ -1,0 +1,66 @@
+{
+  "uid": "prova_2022_03/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2022_03",
+  "ordem": 17,
+  "materia": "Direito Ambiental",
+  "tema": "Código Florestal",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "No cálculo do percentual da reserva legal, a senhora incluiria a área de preservação permanente?",
+  "resposta": "O Código Florestal admite o cômputo da área de preservação permanente no cálculo do percentual da reserva legal, desde que preenchidos cumulativamente os requisitos legais. O benefício não pode implicar a conversão de novas áreas para uso alternativo do solo, a APP deve estar conservada ou em processo de recuperação e o proprietário ou possuidor deve ter requerido a inclusão do imóvel no CAR. Esse cômputo não altera o regime jurídico de proteção próprio da APP e aplica-se às diferentes modalidades de cumprimento da reserva legal. A vedação de nova conversão é dispensada quando, em imóvel situado em área de floresta na Amazônia Legal, as APPs conservadas ou em recuperação, somadas às demais formas de vegetação nativa, ultrapassarem 80% da área do imóvel.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Código Florestal\nDificuldade: média\nPergunta: No cálculo do percentual da reserva legal, a senhora incluiria a área de preservação permanente?\nResposta: O Código Florestal admite o cômputo da área de preservação permanente no cálculo do percentual da reserva legal, desde que preenchidos cumulativamente os requisitos legais. O benefício não pode implicar a conversão de novas áreas para uso alternativo do solo, a APP deve estar conservada ou em processo de recuperação e o proprietário ou possuidor deve ter requerido a inclusão do imóvel no CAR. Esse cômputo não altera o regime jurídico de proteção próprio da APP e aplica-se às diferentes modalidades de cumprimento da reserva legal. A vedação de nova conversão é dispensada quando, em imóvel situado em área de floresta na Amazônia Legal, as APPs conservadas ou em recuperação, somadas às demais formas de vegetação nativa, ultrapassarem 80% da área do imóvel.",
+  "_meta": {
+    "subtema": "Cômputo de APP na reserva legal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "possibilidade condicionada de cômputo da APP",
+      "ausência de nova conversão para uso alternativo do solo",
+      "APP conservada ou em recuperação",
+      "requerimento de inclusão no CAR",
+      "manutenção do regime jurídico da APP"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 15 da Lei nº 12.651/2012",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 12.651",
+        "art. 15 — Lei 12.651"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_8712085f23"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0045",
+    "id_origem": "q0045",
+    "ordem_origem": 45,
+    "bloco_origem": "cadeia_8712085f23",
+    "score": 115.99,
+    "reabilitada": false
+  }
+}

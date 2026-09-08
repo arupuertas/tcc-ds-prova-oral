@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_04/q0015",
+  "id": "q0015",
+  "prova_id": "prova_2023_04",
+  "ordem": 15,
+  "materia": "Direito Civil",
+  "tema": "Direito das Sucessões",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Qual tratamento jurídico a senhora entende que deve ser conferido ao conteúdo inserido nas redes sociais pelo autor da herança?",
+  "resposta": "Na ausência de disciplina legislativa geral e específica, deve-se distinguir o conteúdo digital patrimonial daquele de caráter predominantemente existencial. Créditos, receitas de monetização e direitos patrimoniais sobre conteúdos digitais integram a herança e são transmissíveis, ressalvadas as licenças ou relações contratuais personalíssimas. Mensagens privadas, fotografias, dados pessoais e perfis sem conteúdo econômico não devem ser automaticamente franqueados aos herdeiros, pois permanecem relevantes a intimidade, a privacidade e a tutela post mortem da personalidade do falecido, além dos direitos de terceiros. Há uma corrente que defende a transmissão universal do acervo digital pela saisine, outra que considera intransmissíveis os conteúdos personalíssimos e uma posição intermediária que separa os bens digitais patrimoniais dos existenciais. A vontade manifestada pelo titular em testamento ou outra diretiva válida deve ser respeitada, inclusive quanto à exclusão, à preservação ou à transformação do perfil em memorial. Na falta de manifestação, a solução deve ponderar a natureza do conteúdo, os direitos dos herdeiros, a personalidade do falecido, a privacidade de terceiros e as condições legítimas do serviço digital.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Direito das Sucessões\nDificuldade: difícil\nPergunta: Qual tratamento jurídico a senhora entende que deve ser conferido ao conteúdo inserido nas redes sociais pelo autor da herança?\nResposta: Na ausência de disciplina legislativa geral e específica, deve-se distinguir o conteúdo digital patrimonial daquele de caráter predominantemente existencial. Créditos, receitas de monetização e direitos patrimoniais sobre conteúdos digitais integram a herança e são transmissíveis, ressalvadas as licenças ou relações contratuais personalíssimas. Mensagens privadas, fotografias, dados pessoais e perfis sem conteúdo econômico não devem ser automaticamente franqueados aos herdeiros, pois permanecem relevantes a intimidade, a privacidade e a tutela post mortem da personalidade do falecido, além dos direitos de terceiros. Há uma corrente que defende a transmissão universal do acervo digital pela saisine, outra que considera intransmissíveis os conteúdos personalíssimos e uma posição intermediária que separa os bens digitais patrimoniais dos existenciais. A vontade manifestada pelo titular em testamento ou outra diretiva válida deve ser respeitada, inclusive quanto à exclusão, à preservação ou à transformação do perfil em memorial. Na falta de manifestação, a solução deve ponderar a natureza do conteúdo, os direitos dos herdeiros, a personalidade do falecido, a privacidade de terceiros e as condições legítimas do serviço digital.",
+  "_meta": {
+    "subtema": "Herança digital em redes sociais",
+    "tipo": "principal",
+    "pontos_chave": [
+      "distinção entre conteúdo digital patrimonial e existencial",
+      "transmissibilidade dos ativos com valor econômico",
+      "proteção post mortem da personalidade e da privacidade",
+      "divergência entre transmissão universal, intransmissibilidade e teoria intermediária",
+      "respeito à vontade manifestada pelo falecido"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.784 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 12, parágrafo único, e 20, parágrafo único, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.857, § 2º, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 12 — CC",
+        "art. 1784 — CC",
+        "art. 1857 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.89
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3f16920dd4"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0036",
+    "id_origem": "q0036",
+    "ordem_origem": 36,
+    "bloco_origem": "cadeia_3f16920dd4",
+    "score": 120.88,
+    "reabilitada": false
+  }
+}

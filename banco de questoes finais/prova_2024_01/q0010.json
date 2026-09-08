@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_01/q0010",
+  "id": "q0010",
+  "prova_id": "prova_2024_01",
+  "ordem": 10,
+  "materia": "Direito do Consumidor",
+  "tema": "PROCON-MG",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Em processo administrativo do PROCON-MG instaurado contra empresa de telefonia por infração ao Código de Defesa do Consumidor, a defesa alega bis in idem porque a empresa já sofreu sanção em processo administrativo perante a Anatel. Como o senhor analisaria essa alegação na qualidade de promotor de Justiça e autoridade administrativa do PROCON?",
+  "resposta": "A alegação não deve ser acolhida apenas pela existência de sanção anterior aplicada pela Anatel. A agência reguladora exerce competência setorial sobre o serviço de telecomunicações, enquanto o PROCON exerce poder de polícia voltado à proteção do consumidor e à aplicação das sanções previstas no Código de Defesa do Consumidor, de modo que as esferas sancionatórias possuem fundamentos e finalidades próprios. Por isso, as sanções podem coexistir sem caracterizar bis in idem quando uma decorre da violação da disciplina regulatória e a outra da infração às normas consumeristas, ainda que haja origem no mesmo contexto fático. A autoridade deve examinar concretamente os fatos e os fundamentos das duas imputações, pois somente uma efetiva identidade de sujeito, conduta e fundamento punitivo poderia suscitar duplicidade sancionatória, não bastando a mera atuação anterior da Anatel.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: PROCON-MG\nDificuldade: difícil\nPergunta: Em processo administrativo do PROCON-MG instaurado contra empresa de telefonia por infração ao Código de Defesa do Consumidor, a defesa alega bis in idem porque a empresa já sofreu sanção em processo administrativo perante a Anatel. Como o senhor analisaria essa alegação na qualidade de promotor de Justiça e autoridade administrativa do PROCON?\nResposta: A alegação não deve ser acolhida apenas pela existência de sanção anterior aplicada pela Anatel. A agência reguladora exerce competência setorial sobre o serviço de telecomunicações, enquanto o PROCON exerce poder de polícia voltado à proteção do consumidor e à aplicação das sanções previstas no Código de Defesa do Consumidor, de modo que as esferas sancionatórias possuem fundamentos e finalidades próprios. Por isso, as sanções podem coexistir sem caracterizar bis in idem quando uma decorre da violação da disciplina regulatória e a outra da infração às normas consumeristas, ainda que haja origem no mesmo contexto fático. A autoridade deve examinar concretamente os fatos e os fundamentos das duas imputações, pois somente uma efetiva identidade de sujeito, conduta e fundamento punitivo poderia suscitar duplicidade sancionatória, não bastando a mera atuação anterior da Anatel.",
+  "_meta": {
+    "subtema": "Non bis in idem em processo administrativo sancionador",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Autonomia entre a competência regulatória da Anatel e o poder de polícia consumerista",
+      "Possibilidade de coexistência das sanções",
+      "Mera identidade do contexto fático não configura bis in idem",
+      "Necessidade de comparação concreta dos fundamentos das imputações"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 55 e 56 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 9.472/1997",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 9.472",
+        "art. 55 — CDC",
+        "art. 56 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_42553ba302"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0030",
+    "id_origem": "q0030",
+    "ordem_origem": 30,
+    "bloco_origem": "cadeia_42553ba302",
+    "score": 114.52,
+    "reabilitada": false
+  }
+}

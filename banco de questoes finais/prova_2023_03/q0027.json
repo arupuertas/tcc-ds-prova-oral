@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_03/q0027",
+  "id": "q0027",
+  "prova_id": "prova_2023_03",
+  "ordem": 27,
+  "materia": "Direito Processual Penal",
+  "tema": "Recursos",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "A que título o assistente de acusação pode recorrer de uma sentença condenatória? Há divergência quanto ao fundamento de seu interesse recursal?",
+  "resposta": "O assistente recorre como parte acessória e contingente da acusação, em defesa de interesse próprio juridicamente reconhecido, e não como representante do Ministério Público. Pela corrente tradicional, seu interesse seria predominantemente civil ou econômico, relacionado à formação e ao conteúdo do título executivo destinado à reparação do dano. A orientação ampliativa reconhece também interesse na justa e adequada aplicação da lei penal, permitindo-lhe buscar, por exemplo, o aumento da pena. A controvérsia sobre a extensão desse interesse não se confunde com o caráter legalmente supletivo de sua atuação recursal em relação ao Ministério Público.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Recursos\nDificuldade: difícil\nPergunta: A que título o assistente de acusação pode recorrer de uma sentença condenatória? Há divergência quanto ao fundamento de seu interesse recursal?\nResposta: O assistente recorre como parte acessória e contingente da acusação, em defesa de interesse próprio juridicamente reconhecido, e não como representante do Ministério Público. Pela corrente tradicional, seu interesse seria predominantemente civil ou econômico, relacionado à formação e ao conteúdo do título executivo destinado à reparação do dano. A orientação ampliativa reconhece também interesse na justa e adequada aplicação da lei penal, permitindo-lhe buscar, por exemplo, o aumento da pena. A controvérsia sobre a extensão desse interesse não se confunde com o caráter legalmente supletivo de sua atuação recursal em relação ao Ministério Público.",
+  "_meta": {
+    "subtema": "Recurso do assistente de acusação",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Assistente como parte acessória e contingente",
+      "Interesse próprio, distinto da representação do Ministério Público",
+      "Corrente restritiva do interesse civil ou econômico",
+      "Corrente ampliativa da justa aplicação da lei penal",
+      "Distinção entre interesse recursal e atuação supletiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 268 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 271 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 598 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 268 — CPP",
+        "art. 271 — CPP",
+        "art. 598 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A divergência central diz respeito à extensão do interesse recursal do assistente, sem prejuízo da disciplina supletiva prevista no Código de Processo Penal.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.91
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1f38a9645e"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0058",
+    "id_origem": "q0058",
+    "ordem_origem": 58,
+    "bloco_origem": "cadeia_1f38a9645e",
+    "score": 116.53,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_01/q0030",
+  "id": "q0030",
+  "prova_id": "prova_2024_01",
+  "ordem": 30,
+  "materia": "Direito Empresarial",
+  "tema": "Microempreendedor individual",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "O microempreendedor individual poderá contratar empregados?",
+  "resposta": "Sim. A Lei Complementar nº 123/2006 autoriza o microempreendedor individual a contratar um único empregado, que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional. A existência do vínculo empregatício não transforma o microempreendedor individual em sociedade, embora a contratação deva observar os limites próprios do enquadramento no SIMEI.",
+  "embedding_text": "Matéria: Direito Empresarial\nTema: Microempreendedor individual\nDificuldade: fácil\nPergunta: O microempreendedor individual poderá contratar empregados?\nResposta: Sim. A Lei Complementar nº 123/2006 autoriza o microempreendedor individual a contratar um único empregado, que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional. A existência do vínculo empregatício não transforma o microempreendedor individual em sociedade, embora a contratação deva observar os limites próprios do enquadramento no SIMEI.",
+  "_meta": {
+    "subtema": "Possibilidade de contratar empregados",
+    "tipo": "principal",
+    "pontos_chave": [
+      "possibilidade de contratação de empregado",
+      "limite legal de um empregado",
+      "salário mínimo ou piso da categoria",
+      "manutenção da natureza de empresário individual"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18-C da Lei Complementar nº 123/2006",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [
+      "LC 123"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [
+        "LC 123"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "LC 123",
+        "art. 18c — LC 123"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_c42eef7327"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0068",
+    "id_origem": "q0068",
+    "ordem_origem": 68,
+    "bloco_origem": "cadeia_c42eef7327",
+    "score": 101.18,
+    "reabilitada": true
+  }
+}

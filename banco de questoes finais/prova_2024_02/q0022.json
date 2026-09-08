@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2024_02/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2024_02",
+  "ordem": 22,
+  "materia": "Direito Civil",
+  "tema": "Bem de família",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "José passou a trabalhar em Brasília e locou seu único imóvel residencial, situado em Belo Horizonte, utilizando integralmente os aluguéis recebidos para pagar a locação do imóvel em que reside em Brasília. O imóvel de Belo Horizonte pode ser penhorado para saldar suas obrigações?",
+  "resposta": "Não, em regra. A jurisprudência do Superior Tribunal de Justiça reconhece a impenhorabilidade do único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida seja revertida para a subsistência ou a moradia de sua família. Como os aluguéis do imóvel de Belo Horizonte são empregados no custeio da residência de José em Brasília, permanece atendida, de forma indireta, a finalidade de proteção da moradia própria do bem de família.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Bem de família\nDificuldade: média\nPergunta: José passou a trabalhar em Brasília e locou seu único imóvel residencial, situado em Belo Horizonte, utilizando integralmente os aluguéis recebidos para pagar a locação do imóvel em que reside em Brasília. O imóvel de Belo Horizonte pode ser penhorado para saldar suas obrigações?\nResposta: Não, em regra. A jurisprudência do Superior Tribunal de Justiça reconhece a impenhorabilidade do único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida seja revertida para a subsistência ou a moradia de sua família. Como os aluguéis do imóvel de Belo Horizonte são empregados no custeio da residência de José em Brasília, permanece atendida, de forma indireta, a finalidade de proteção da moradia própria do bem de família.",
+  "_meta": {
+    "subtema": "Impenhorabilidade de imóvel único locado",
+    "tipo": "principal",
+    "pontos_chave": [
+      "bem de família legal",
+      "imóvel único locado a terceiros",
+      "renda destinada à moradia",
+      "impenhorabilidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1º da Lei nº 8.009/1990",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 486 do Superior Tribunal de Justiça",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 6º da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 8.009",
+        "Súmula 486",
+        "art. 1 — Lei 8.009",
+        "art. 6 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_bfccfe5fa8"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0074",
+    "id_origem": "q0074",
+    "ordem_origem": 74,
+    "bloco_origem": "cadeia_bfccfe5fa8",
+    "score": 125.12,
+    "reabilitada": false
+  }
+}

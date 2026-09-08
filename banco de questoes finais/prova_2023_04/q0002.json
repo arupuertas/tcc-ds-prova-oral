@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_04/q0002",
+  "id": "q0002",
+  "prova_id": "prova_2023_04",
+  "ordem": 2,
+  "materia": "Direito Penal",
+  "tema": "Aborto",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Nas hipóteses de aborto necessário e de aborto decorrente de estupro, a senhora entende que há exclusão da tipicidade, da ilicitude ou da culpabilidade?",
+  "resposta": "Prevalece que as duas hipóteses constituem causas especiais de exclusão da ilicitude, embora o Código Penal empregue a expressão “não se pune”. O aborto necessário corresponde a uma situação especial de estado de necessidade, enquanto o aborto decorrente de estupro é geralmente compreendido como exercício regular de direito ou causa autônoma de justificação. A conduta permanece típica segundo a concepção tradicional. Há posições minoritárias que identificam exclusão da culpabilidade, especialmente por inexigibilidade de conduta diversa, causa de exclusão da punibilidade ou, sob a teoria da tipicidade conglobante, ausência de tipicidade.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Aborto\nDificuldade: média\nPergunta: Nas hipóteses de aborto necessário e de aborto decorrente de estupro, a senhora entende que há exclusão da tipicidade, da ilicitude ou da culpabilidade?\nResposta: Prevalece que as duas hipóteses constituem causas especiais de exclusão da ilicitude, embora o Código Penal empregue a expressão “não se pune”. O aborto necessário corresponde a uma situação especial de estado de necessidade, enquanto o aborto decorrente de estupro é geralmente compreendido como exercício regular de direito ou causa autônoma de justificação. A conduta permanece típica segundo a concepção tradicional. Há posições minoritárias que identificam exclusão da culpabilidade, especialmente por inexigibilidade de conduta diversa, causa de exclusão da punibilidade ou, sob a teoria da tipicidade conglobante, ausência de tipicidade.",
+  "_meta": {
+    "subtema": "Natureza jurídica das hipóteses permitidas",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "posição majoritária pela exclusão da ilicitude",
+      "estado de necessidade no aborto necessário",
+      "exercício regular de direito ou justificação autônoma no aborto decorrente de estupro",
+      "divergência sobre culpabilidade, punibilidade e tipicidade conglobante"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 128, I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 128 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a019873a04"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0002",
+    "id_origem": "q0002",
+    "ordem_origem": 2,
+    "bloco_origem": "cadeia_a019873a04",
+    "score": 107.37,
+    "reabilitada": false
+  }
+}

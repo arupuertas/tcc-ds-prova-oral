@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_02/q0026",
+  "id": "q0026",
+  "prova_id": "prova_2023_02",
+  "ordem": 26,
+  "materia": "Direito Ambiental",
+  "tema": "Meio ambiente",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "O meio ambiente pode ser considerado um macrobem?",
+  "resposta": "Sim. O meio ambiente é considerado um macrobem jurídico autônomo, unitário, imaterial, indivisível e de natureza difusa, essencial à sadia qualidade de vida. Ele não se confunde com os microbens ambientais que o compõem ou lhe dão suporte material, como a água, o solo, a fauna, a flora e o ar, os quais podem estar submetidos a regimes de propriedade pública ou privada. A qualificação constitucional como bem de uso comum do povo não significa que todo elemento ambiental pertença ao Estado, mas que o equilíbrio ecológico é de fruição coletiva e deve ser protegido em benefício das presentes e futuras gerações. Por isso, a lesão ao macrobem ambiental pode coexistir com danos causados a microbens determinados e a direitos individuais.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Meio ambiente\nDificuldade: fácil\nPergunta: O meio ambiente pode ser considerado um macrobem?\nResposta: Sim. O meio ambiente é considerado um macrobem jurídico autônomo, unitário, imaterial, indivisível e de natureza difusa, essencial à sadia qualidade de vida. Ele não se confunde com os microbens ambientais que o compõem ou lhe dão suporte material, como a água, o solo, a fauna, a flora e o ar, os quais podem estar submetidos a regimes de propriedade pública ou privada. A qualificação constitucional como bem de uso comum do povo não significa que todo elemento ambiental pertença ao Estado, mas que o equilíbrio ecológico é de fruição coletiva e deve ser protegido em benefício das presentes e futuras gerações. Por isso, a lesão ao macrobem ambiental pode coexistir com danos causados a microbens determinados e a direitos individuais.",
+  "_meta": {
+    "subtema": "Meio ambiente como macro-bem",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Meio ambiente como macrobem autônomo e indivisível",
+      "Natureza difusa",
+      "Distinção entre macrobem e microbens ambientais",
+      "Bem de uso comum do povo sem necessária titularidade estatal",
+      "Possível coexistência de danos coletivos e individuais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 225, caput, da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 3º, I, da Lei nº 6.938/1981",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 6.938",
+        "art. 3 — Lei 6.938"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_739dca1891"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0054",
+    "id_origem": "q0054",
+    "ordem_origem": 54,
+    "bloco_origem": "cadeia_739dca1891",
+    "score": 104.29,
+    "reabilitada": false
+  }
+}

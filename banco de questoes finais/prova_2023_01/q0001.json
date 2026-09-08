@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2023_01/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2023_01",
+  "ordem": 1,
+  "materia": "Direito Constitucional",
+  "tema": "Nacionalidade",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "O senhor poderia esclarecer em que condições a Constituição Federal autoriza a extradição de brasileiros, distinguindo o brasileiro nato do naturalizado?",
+  "resposta": "O brasileiro nato não pode ser extraditado enquanto conservar a nacionalidade brasileira. O brasileiro naturalizado somente pode ser extraditado por crime comum praticado antes da naturalização ou por comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, independentemente do momento da prática. Se a pessoa tiver perdido validamente a nacionalidade antes do procedimento extradicional, sua entrega será a extradição de um estrangeiro, e não uma exceção à proibição de extraditar brasileiro nato. Após a Emenda Constitucional nº 131/2023, a simples aquisição de outra nacionalidade não provoca a perda da nacionalidade brasileira, que pode decorrer, para o brasileiro nato, de pedido expresso, ressalvadas as situações que gerem apatridia. O precedente do Supremo Tribunal Federal relativo à aquisição voluntária da nacionalidade norte-americana aplicou o regime constitucional anterior e não autoriza a extradição de quem ainda ostente a condição de brasileiro nato.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Nacionalidade\nDificuldade: média\nPergunta: O senhor poderia esclarecer em que condições a Constituição Federal autoriza a extradição de brasileiros, distinguindo o brasileiro nato do naturalizado?\nResposta: O brasileiro nato não pode ser extraditado enquanto conservar a nacionalidade brasileira. O brasileiro naturalizado somente pode ser extraditado por crime comum praticado antes da naturalização ou por comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, independentemente do momento da prática. Se a pessoa tiver perdido validamente a nacionalidade antes do procedimento extradicional, sua entrega será a extradição de um estrangeiro, e não uma exceção à proibição de extraditar brasileiro nato. Após a Emenda Constitucional nº 131/2023, a simples aquisição de outra nacionalidade não provoca a perda da nacionalidade brasileira, que pode decorrer, para o brasileiro nato, de pedido expresso, ressalvadas as situações que gerem apatridia. O precedente do Supremo Tribunal Federal relativo à aquisição voluntária da nacionalidade norte-americana aplicou o regime constitucional anterior e não autoriza a extradição de quem ainda ostente a condição de brasileiro nato.",
+  "_meta": {
+    "subtema": "Extradição de brasileiros",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Vedação absoluta à extradição do brasileiro nato enquanto mantida a nacionalidade",
+      "Crime comum anterior à naturalização",
+      "Comprovado envolvimento com tráfico ilícito de entorpecentes e drogas afins",
+      "Extradição possível após perda válida da nacionalidade",
+      "Aquisição de outra nacionalidade não causa, atualmente, perda automática da brasileira"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, LI, da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 12, § 4º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Emenda Constitucional nº 131/2023",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [
+      "EC 131"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [
+        "EC 131"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "EC 131",
+        "art. 12 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_833e232842"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0001",
+    "id_origem": "q0001",
+    "ordem_origem": 1,
+    "bloco_origem": "cadeia_833e232842",
+    "score": 124.25,
+    "reabilitada": true
+  }
+}

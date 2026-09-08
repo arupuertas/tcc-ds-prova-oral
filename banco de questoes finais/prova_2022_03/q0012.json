@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2022_03/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2022_03",
+  "ordem": 12,
+  "materia": "Direito Processual Civil",
+  "tema": "Recursos excepcionais",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Segundo a jurisprudência do Supremo Tribunal Federal, a senhora diria que se exige prequestionamento explícito da questão constitucional ou se admite o prequestionamento implícito?",
+  "resposta": "O STF exige que a questão constitucional tenha sido efetivamente apreciada e decidida no acórdão recorrido, requisito usualmente identificado como prequestionamento explícito. Isso não significa que o tribunal de origem precise indicar expressamente o número do dispositivo constitucional, mas deve haver pronunciamento claro sobre a tese constitucional. A mera suscitação da matéria pela parte, sem decisão a seu respeito, não basta, devendo eventual omissão ser provocada por embargos de declaração.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Recursos excepcionais\nDificuldade: difícil\nPergunta: Segundo a jurisprudência do Supremo Tribunal Federal, a senhora diria que se exige prequestionamento explícito da questão constitucional ou se admite o prequestionamento implícito?\nResposta: O STF exige que a questão constitucional tenha sido efetivamente apreciada e decidida no acórdão recorrido, requisito usualmente identificado como prequestionamento explícito. Isso não significa que o tribunal de origem precise indicar expressamente o número do dispositivo constitucional, mas deve haver pronunciamento claro sobre a tese constitucional. A mera suscitação da matéria pela parte, sem decisão a seu respeito, não basta, devendo eventual omissão ser provocada por embargos de declaração.",
+  "_meta": {
+    "subtema": "Prequestionamento implícito no STF",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Exigência de apreciação explícita da questão constitucional",
+      "Desnecessidade de menção numérica ao dispositivo",
+      "Insuficiência da mera alegação da parte",
+      "Necessidade de embargos de declaração diante de omissão"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 102, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 282 do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 356 do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Súmula 282 do STF",
+        "Súmula 356 do STF",
+        "art. 102 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A terminologia doutrinária não é uniforme; o ponto essencial é a necessidade de efetivo pronunciamento sobre a questão constitucional.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_69f4e2814a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0026",
+    "id_origem": "q0026",
+    "ordem_origem": 26,
+    "bloco_origem": "cadeia_69f4e2814a",
+    "score": 116.58,
+    "reabilitada": false
+  }
+}

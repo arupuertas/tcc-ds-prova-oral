@@ -1,0 +1,79 @@
+{
+  "uid": "prova_2024_02/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2024_02",
+  "ordem": 4,
+  "materia": "Direito Ambiental",
+  "tema": "Sanção administrativa ambiental",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Nesse regime de responsabilidade, o senhor entende ser possível aplicar multa administrativa ambiental ao proprietário de área de preservação permanente na qual ocorreu incêndio provocado por pessoas desconhecidas, sem participação do proprietário?",
+  "resposta": "Não se pode aplicar multa administrativa ambiental ao proprietário pela mera titularidade do imóvel ou por fato exclusivamente praticado por terceiros desconhecidos. A sanção administrativa é pessoal e exige a demonstração de conduta própria, nexo causal e dolo ou culpa do autuado. O proprietário poderá ser responsabilizado se a Administração comprovar uma ação ou omissão própria, como o descumprimento culpável de um dever jurídico de prevenção ou de combate ao incêndio, e não por simples presunção decorrente do domínio. Isso não se confunde com eventual obrigação civil de recuperação da área degradada, que pode ser objetiva e possuir natureza propter rem.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Sanção administrativa ambiental\nDificuldade: média\nPergunta: Nesse regime de responsabilidade, o senhor entende ser possível aplicar multa administrativa ambiental ao proprietário de área de preservação permanente na qual ocorreu incêndio provocado por pessoas desconhecidas, sem participação do proprietário?\nResposta: Não se pode aplicar multa administrativa ambiental ao proprietário pela mera titularidade do imóvel ou por fato exclusivamente praticado por terceiros desconhecidos. A sanção administrativa é pessoal e exige a demonstração de conduta própria, nexo causal e dolo ou culpa do autuado. O proprietário poderá ser responsabilizado se a Administração comprovar uma ação ou omissão própria, como o descumprimento culpável de um dever jurídico de prevenção ou de combate ao incêndio, e não por simples presunção decorrente do domínio. Isso não se confunde com eventual obrigação civil de recuperação da área degradada, que pode ser objetiva e possuir natureza propter rem.",
+  "_meta": {
+    "subtema": "Multa a terceiro não causador do dano",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Impossibilidade de multa pela mera condição de proprietário",
+      "Pessoalidade da sanção administrativa",
+      "Necessidade de conduta própria e culpabilidade",
+      "Possibilidade de responsabilização por omissão juridicamente relevante",
+      "Distinção em relação à obrigação civil propter rem"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 70 da Lei nº 9.605/1998",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 14, § 1º, da Lei nº 6.938/1981",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XLVI, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 6.938",
+        "Lei 9.605",
+        "art. 14 — Lei 6.938",
+        "art. 5 — CF",
+        "art. 70 — Lei 9.605"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_276f0ed36d"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0004",
+    "id_origem": "q0004",
+    "ordem_origem": 4,
+    "bloco_origem": "cadeia_276f0ed36d",
+    "score": 124.55,
+    "reabilitada": false
+  }
+}

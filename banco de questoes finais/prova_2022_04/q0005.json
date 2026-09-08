@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_04/q0005",
+  "id": "q0005",
+  "prova_id": "prova_2022_04",
+  "ordem": 5,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "A senhora poderia indicar um tratado internacional que serviria de parâmetro para a alegação de inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa?",
+  "resposta": "Um dos principais parâmetros é a Convenção das Nações Unidas contra a Corrupção, conhecida como Convenção de Mérida. Promulgada no Brasil pelo Decreto nº 5.687/2006, ela impõe aos Estados a adoção e o fortalecimento de medidas de prevenção, responsabilização e combate à corrupção. Alteração legislativa que reduza de maneira incompatível com essas obrigações a proteção contra práticas corruptas pode, em tese, ser submetida a controle de convencionalidade.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: média\nPergunta: A senhora poderia indicar um tratado internacional que serviria de parâmetro para a alegação de inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa?\nResposta: Um dos principais parâmetros é a Convenção das Nações Unidas contra a Corrupção, conhecida como Convenção de Mérida. Promulgada no Brasil pelo Decreto nº 5.687/2006, ela impõe aos Estados a adoção e o fortalecimento de medidas de prevenção, responsabilização e combate à corrupção. Alteração legislativa que reduza de maneira incompatível com essas obrigações a proteção contra práticas corruptas pode, em tese, ser submetida a controle de convencionalidade.",
+  "_meta": {
+    "subtema": "Tratados internacionais anticorrupção",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Convenção das Nações Unidas contra a Corrupção",
+      "Convenção de Mérida",
+      "dever de prevenção e combate à corrupção",
+      "parâmetro de controle de convencionalidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Convenção das Nações Unidas contra a Corrupção — Convenção de Mérida",
+        "origem": "transcricao",
+        "origem_verificada": "nao_verificavel"
+      },
+      {
+        "ref": "Decreto nº 5.687/2006",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [
+      "Decreto 5.687"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [
+        "Decreto 5.687"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "Decreto 5.687"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": [
+        "Convenção das Nações Unidas contra a Corrupção — Convenção de Mérida"
+      ]
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_dc819d38fa"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_dc819d38fa",
+    "score": 110.56,
+    "reabilitada": true
+  }
+}

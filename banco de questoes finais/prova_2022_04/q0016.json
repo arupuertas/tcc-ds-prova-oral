@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2022_04/q0016",
+  "id": "q0016",
+  "prova_id": "prova_2022_04",
+  "ordem": 16,
+  "materia": "Direito Penal",
+  "tema": "Dolo",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "A senhora poderia esclarecer a distinção central entre o dolo direto de primeiro grau e o dolo direto de segundo grau?",
+  "resposta": "No dolo direto de primeiro grau, o resultado típico constitui a finalidade perseguida pelo agente, que orienta sua conduta para produzi-lo. No dolo direto de segundo grau, também chamado dolo de consequências necessárias, o resultado colateral não é desejado como finalidade, mas o agente sabe que ocorrerá necessariamente caso alcance o objetivo principal nas condições por ele representadas. Assim, quem instala uma bomba para matar determinada pessoa age com dolo direto de primeiro grau quanto à vítima visada e com dolo direto de segundo grau quanto à pessoa cuja morte sabe ser consequência necessária da explosão. Em ambas as hipóteses há dolo direto, embora apenas no primeiro grau o resultado corresponda ao propósito imediato do agente.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Dolo\nDificuldade: fácil\nPergunta: A senhora poderia esclarecer a distinção central entre o dolo direto de primeiro grau e o dolo direto de segundo grau?\nResposta: No dolo direto de primeiro grau, o resultado típico constitui a finalidade perseguida pelo agente, que orienta sua conduta para produzi-lo. No dolo direto de segundo grau, também chamado dolo de consequências necessárias, o resultado colateral não é desejado como finalidade, mas o agente sabe que ocorrerá necessariamente caso alcance o objetivo principal nas condições por ele representadas. Assim, quem instala uma bomba para matar determinada pessoa age com dolo direto de primeiro grau quanto à vítima visada e com dolo direto de segundo grau quanto à pessoa cuja morte sabe ser consequência necessária da explosão. Em ambas as hipóteses há dolo direto, embora apenas no primeiro grau o resultado corresponda ao propósito imediato do agente.",
+  "_meta": {
+    "subtema": "Dolo direto de primeiro e segundo grau",
+    "tipo": "principal",
+    "pontos_chave": [
+      "resultado pretendido como finalidade no dolo direto de primeiro grau",
+      "consequência colateral necessária no dolo direto de segundo grau",
+      "conhecimento da necessidade do resultado colateral",
+      "ambas as modalidades constituem dolo direto"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0045",
+    "id_origem": "q0045",
+    "ordem_origem": 45,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 104.98,
+    "reabilitada": false
+  }
+}

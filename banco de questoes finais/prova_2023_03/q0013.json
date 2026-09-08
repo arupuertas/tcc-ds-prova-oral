@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2023_03/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2023_03",
+  "ordem": 13,
+  "materia": "Direito Administrativo",
+  "tema": "Licitações",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Por que se afirma que houve o “apregoamento da concorrência” quanto ao momento do julgamento das propostas e da habilitação dos licitantes?",
+  "resposta": "No regime geral da Lei nº 8.666/1993, a habilitação dos licitantes antecedia a abertura e o julgamento das propostas na concorrência. A Lei nº 14.133/2021 adotou como regra a ordem inversa, com a apresentação das propostas e dos lances e o respectivo julgamento antes da habilitação, aproximando a concorrência do rito tradicional do pregão. A habilitação somente pode ser antecipada quando ato motivado demonstrar os benefícios dessa inversão excepcional e houver previsão expressa no edital.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Licitações\nDificuldade: média\nPergunta: Por que se afirma que houve o “apregoamento da concorrência” quanto ao momento do julgamento das propostas e da habilitação dos licitantes?\nResposta: No regime geral da Lei nº 8.666/1993, a habilitação dos licitantes antecedia a abertura e o julgamento das propostas na concorrência. A Lei nº 14.133/2021 adotou como regra a ordem inversa, com a apresentação das propostas e dos lances e o respectivo julgamento antes da habilitação, aproximando a concorrência do rito tradicional do pregão. A habilitação somente pode ser antecipada quando ato motivado demonstrar os benefícios dessa inversão excepcional e houver previsão expressa no edital.",
+  "_meta": {
+    "subtema": "Inversão de fases na concorrência",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Habilitação anterior ao julgamento no regime da Lei nº 8.666/1993",
+      "Julgamento anterior à habilitação na Lei nº 14.133/2021",
+      "Possibilidade excepcional de antecipação da habilitação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 43 da Lei nº 8.666/1993",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 17, caput e § 1º, da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 17 — Lei 14.133",
+        "art. 43 — Lei 8.666"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_51237dad45"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0028",
+    "id_origem": "q0028",
+    "ordem_origem": 28,
+    "bloco_origem": "cadeia_51237dad45",
+    "score": 111.42,
+    "reabilitada": false
+  }
+}

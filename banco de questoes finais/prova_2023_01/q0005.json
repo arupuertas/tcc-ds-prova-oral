@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_01/q0005",
+  "id": "q0005",
+  "prova_id": "prova_2023_01",
+  "ordem": 5,
+  "materia": "Direito Penal",
+  "tema": "Crimes contra a ordem tributária",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Para a incidência do princípio da insignificância nos crimes de sonegação fiscal, o senhor poderia indicar qual valor deve ser considerado diminuto?",
+  "resposta": "Nos crimes tributários federais, considera-se diminuto o débito consolidado que não ultrapasse vinte mil reais, parâmetro relacionado ao valor abaixo do qual a Fazenda Nacional deixa de ajuizar a execução fiscal, conforme atos do Ministério da Fazenda. O Supremo Tribunal Federal e o Superior Tribunal de Justiça adotam esse limite para os crimes tributários materiais, desde que também estejam presentes os demais requisitos da insignificância. A reiteração criminosa ou a habitualidade delitiva pode afastar a incidência do princípio, ainda que o valor seja inferior ao limite. Em relação a tributos estaduais ou municipais, o parâmetro federal não é automaticamente aplicável, devendo ser considerado o limite estabelecido pela legislação do respectivo ente para o ajuizamento da execução fiscal.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes contra a ordem tributária\nDificuldade: média\nPergunta: Para a incidência do princípio da insignificância nos crimes de sonegação fiscal, o senhor poderia indicar qual valor deve ser considerado diminuto?\nResposta: Nos crimes tributários federais, considera-se diminuto o débito consolidado que não ultrapasse vinte mil reais, parâmetro relacionado ao valor abaixo do qual a Fazenda Nacional deixa de ajuizar a execução fiscal, conforme atos do Ministério da Fazenda. O Supremo Tribunal Federal e o Superior Tribunal de Justiça adotam esse limite para os crimes tributários materiais, desde que também estejam presentes os demais requisitos da insignificância. A reiteração criminosa ou a habitualidade delitiva pode afastar a incidência do princípio, ainda que o valor seja inferior ao limite. Em relação a tributos estaduais ou municipais, o parâmetro federal não é automaticamente aplicável, devendo ser considerado o limite estabelecido pela legislação do respectivo ente para o ajuizamento da execução fiscal.",
+  "_meta": {
+    "subtema": "Princípio da insignificância na sonegação fiscal",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Limite de vinte mil reais para tributos federais",
+      "Consideração do débito consolidado",
+      "Relação com o limite de ajuizamento da execução fiscal",
+      "Possível afastamento por reiteração criminosa",
+      "Aplicação da legislação local aos tributos estaduais e municipais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Lei nº 8.137/1990",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 1º, II, da Portaria MF nº 75/2012",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Portaria MF nº 130/2012",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Portaria MF 130",
+        "Portaria MF 75",
+        "art. 1 — Portaria MF 75"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_36fa52f504"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0006",
+    "id_origem": "q0006",
+    "ordem_origem": 6,
+    "bloco_origem": "cadeia_36fa52f504",
+    "score": 116.25,
+    "reabilitada": false
+  }
+}

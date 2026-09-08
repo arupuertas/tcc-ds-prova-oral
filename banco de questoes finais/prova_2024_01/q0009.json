@@ -1,0 +1,74 @@
+{
+  "uid": "prova_2024_01/q0009",
+  "id": "q0009",
+  "prova_id": "prova_2024_01",
+  "ordem": 9,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "TAC",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Reconhecido que o ajuste extrajudicial firmado pela associação civil não constitui TAC e recusando-se a empresa poluidora a celebrar termo de ajustamento de conduta com o Ministério Público, como o senhor procederia no inquérito civil?",
+  "resposta": "A celebração do TAC é consensual, de modo que a empresa não pode ser obrigada a firmá-lo. Diante da recusa, o Ministério Público deve concluir as diligências necessárias no inquérito civil, delimitando o dano, o nexo causal e as medidas exigidas para sua reparação integral. Havendo elementos suficientes e permanecendo a lesão ou o risco ambiental, deverá ajuizar ação civil pública, inclusive com pedido de tutela provisória quando houver urgência. O ajuste anteriormente firmado pela associação pode ser considerado como elemento de informação, mas não impede a atuação judicial do Ministério Público nem vincula a coletividade.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: TAC\nDificuldade: média\nPergunta: Reconhecido que o ajuste extrajudicial firmado pela associação civil não constitui TAC e recusando-se a empresa poluidora a celebrar termo de ajustamento de conduta com o Ministério Público, como o senhor procederia no inquérito civil?\nResposta: A celebração do TAC é consensual, de modo que a empresa não pode ser obrigada a firmá-lo. Diante da recusa, o Ministério Público deve concluir as diligências necessárias no inquérito civil, delimitando o dano, o nexo causal e as medidas exigidas para sua reparação integral. Havendo elementos suficientes e permanecendo a lesão ou o risco ambiental, deverá ajuizar ação civil pública, inclusive com pedido de tutela provisória quando houver urgência. O ajuste anteriormente firmado pela associação pode ser considerado como elemento de informação, mas não impede a atuação judicial do Ministério Público nem vincula a coletividade.",
+  "_meta": {
+    "subtema": "Recusa da empresa em celebrar TAC com o Ministério Público",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Caráter consensual do TAC",
+      "Prosseguimento e conclusão do inquérito civil",
+      "Ajuizamento de ação civil pública diante da recusa",
+      "Ausência de efeito impeditivo do ajuste privado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 5º, I, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 8º, § 1º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 8 — Lei 7.347"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7864c88485"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0027",
+    "id_origem": "q0027",
+    "ordem_origem": 27,
+    "bloco_origem": "cadeia_7864c88485",
+    "score": 118.02,
+    "reabilitada": false
+  }
+}

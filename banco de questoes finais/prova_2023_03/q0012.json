@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_03/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2023_03",
+  "ordem": 12,
+  "materia": "Direito Administrativo",
+  "tema": "Licitações",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Em que consiste a alteração promovida pela Lei nº 14.133/2021 que tem sido denominada “apregoamento da concorrência”?",
+  "resposta": "A expressão designa a aproximação do procedimento da concorrência ao rito característico do pregão. A Lei nº 14.133/2021 submeteu as duas modalidades a um rito procedimental comum e estabeleceu, como regra, que a apresentação de propostas e lances e o julgamento antecedam a habilitação. Em regra, portanto, a documentação de habilitação é exigida apenas do licitante vencedor, admitida excepcionalmente a antecipação dessa fase mediante decisão motivada e previsão expressa no edital. Isso não transforma a concorrência em pregão, pois ambas permanecem modalidades distintas, com objetos e critérios de julgamento próprios.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Licitações\nDificuldade: média\nPergunta: Em que consiste a alteração promovida pela Lei nº 14.133/2021 que tem sido denominada “apregoamento da concorrência”?\nResposta: A expressão designa a aproximação do procedimento da concorrência ao rito característico do pregão. A Lei nº 14.133/2021 submeteu as duas modalidades a um rito procedimental comum e estabeleceu, como regra, que a apresentação de propostas e lances e o julgamento antecedam a habilitação. Em regra, portanto, a documentação de habilitação é exigida apenas do licitante vencedor, admitida excepcionalmente a antecipação dessa fase mediante decisão motivada e previsão expressa no edital. Isso não transforma a concorrência em pregão, pois ambas permanecem modalidades distintas, com objetos e critérios de julgamento próprios.",
+  "_meta": {
+    "subtema": "Apregoamento da concorrência",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Aproximação procedimental entre concorrência e pregão",
+      "Julgamento anterior à habilitação como regra",
+      "Rito procedimental comum",
+      "Manutenção da autonomia das modalidades"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 17 da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 29 da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 63, II, da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 17 — Lei 14.133",
+        "art. 29 — Lei 14.133",
+        "art. 63 — Lei 14.133"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_51237dad45"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0027",
+    "id_origem": "q0027",
+    "ordem_origem": 27,
+    "bloco_origem": "cadeia_51237dad45",
+    "score": 120.34,
+    "reabilitada": false
+  }
+}

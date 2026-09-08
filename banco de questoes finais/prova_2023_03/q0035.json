@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_03/q0035",
+  "id": "q0035",
+  "prova_id": "prova_2023_03",
+  "ordem": 35,
+  "materia": "Direito Institucional do Ministério Público",
+  "tema": "Atuação do Ministério Público",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Em relação à política de tratamento adequado dos conflitos instituída por ato do CNJ, o senhor conhece ato semelhante no âmbito do CNMP?",
+  "resposta": "Sim. A Resolução CNMP nº 118/2014 instituiu a Política Nacional de Incentivo à Autocomposição no âmbito do Ministério Público, inclusive para conferir maior efetividade à tutela dos direitos e interesses cuja defesa incumbe à instituição. Ela estimula a utilização de mecanismos como negociação, mediação, conciliação, práticas restaurativas e convenções processuais, inclusive na atuação extrajudicial e coletiva.",
+  "embedding_text": "Matéria: Direito Institucional do Ministério Público\nTema: Atuação do Ministério Público\nDificuldade: média\nPergunta: Em relação à política de tratamento adequado dos conflitos instituída por ato do CNJ, o senhor conhece ato semelhante no âmbito do CNMP?\nResposta: Sim. A Resolução CNMP nº 118/2014 instituiu a Política Nacional de Incentivo à Autocomposição no âmbito do Ministério Público, inclusive para conferir maior efetividade à tutela dos direitos e interesses cuja defesa incumbe à instituição. Ela estimula a utilização de mecanismos como negociação, mediação, conciliação, práticas restaurativas e convenções processuais, inclusive na atuação extrajudicial e coletiva.",
+  "_meta": {
+    "subtema": "Ato do CNMP sobre ações coletivas",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Resolução CNMP nº 118/2014",
+      "Política Nacional de Incentivo à Autocomposição",
+      "Negociação, mediação, conciliação, práticas restaurativas e convenções processuais",
+      "Aplicação à atuação extrajudicial e coletiva do Ministério Público"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Resolução CNMP nº 118/2014",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Resolução CNJ nº 125/2010",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [
+      "Resolução CNMP 118"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [
+        "Resolução CNMP 118"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "Resolução CNJ 125",
+        "Resolução CNMP 118"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_fbc20a978a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0073",
+    "id_origem": "q0073",
+    "ordem_origem": 73,
+    "bloco_origem": "cadeia_fbc20a978a",
+    "score": 116.16,
+    "reabilitada": true
+  }
+}

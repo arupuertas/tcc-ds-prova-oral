@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2022_02/q0016",
+  "id": "q0016",
+  "prova_id": "prova_2022_02",
+  "ordem": 16,
+  "materia": "Direito Penal",
+  "tema": "Teoria do dolo",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Na hipótese em que o agente atua com dolo eventual no primeiro ato e, acreditando que a vítima esteja morta, pratica um segundo ato que efetivamente causa a morte, como o senhor conciliaria a imputação do homicídio doloso consumado com o princípio da simultaneidade entre o dolo e o fato, inclusive sob uma concepção normativa do dolo associada a Ingeborg Puppe?",
+  "resposta": "O princípio da simultaneidade deve ser preservado, pois o dolo antecedente ou subsequente, por si só, não fundamenta a imputação dolosa. A simultaneidade exige que o dolo esteja presente quando o agente cria o risco juridicamente desaprovado, e não necessariamente no instante em que o resultado naturalístico se produz. Assim, a imputação do homicídio consumado é possível se o risco de morte representado e assumido no primeiro ato tiver permanecido e transitado pelo curso causal até se realizar no resultado, sendo o segundo ato apenas uma etapa de um desvio causal não essencial. Não há, nesse caso, verdadeira exceção à simultaneidade, porque a imputação se apoia no dolo eventual concomitante à criação do risco relevante. Se o segundo ato criar um risco autônomo e distinto, não abrangido pela representação inicial, o dolo do primeiro ato não poderá ser projetado para o segundo como dolo subsequente.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Teoria do dolo\nDificuldade: difícil\nPergunta: Na hipótese em que o agente atua com dolo eventual no primeiro ato e, acreditando que a vítima esteja morta, pratica um segundo ato que efetivamente causa a morte, como o senhor conciliaria a imputação do homicídio doloso consumado com o princípio da simultaneidade entre o dolo e o fato, inclusive sob uma concepção normativa do dolo associada a Ingeborg Puppe?\nResposta: O princípio da simultaneidade deve ser preservado, pois o dolo antecedente ou subsequente, por si só, não fundamenta a imputação dolosa. A simultaneidade exige que o dolo esteja presente quando o agente cria o risco juridicamente desaprovado, e não necessariamente no instante em que o resultado naturalístico se produz. Assim, a imputação do homicídio consumado é possível se o risco de morte representado e assumido no primeiro ato tiver permanecido e transitado pelo curso causal até se realizar no resultado, sendo o segundo ato apenas uma etapa de um desvio causal não essencial. Não há, nesse caso, verdadeira exceção à simultaneidade, porque a imputação se apoia no dolo eventual concomitante à criação do risco relevante. Se o segundo ato criar um risco autônomo e distinto, não abrangido pela representação inicial, o dolo do primeiro ato não poderá ser projetado para o segundo como dolo subsequente.",
+  "_meta": {
+    "subtema": "Princípio da simultaneidade no dolo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "princípio da simultaneidade",
+      "dolo concomitante à criação do risco",
+      "inadmissibilidade do dolo subsequente",
+      "trânsito do risco pela cadeia causal",
+      "distinção entre persistência do risco e risco autônomo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.82,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.86
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_01a6849840"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0032",
+    "id_origem": "q0032",
+    "ordem_origem": 32,
+    "bloco_origem": "cadeia_01a6849840",
+    "score": 113.28,
+    "reabilitada": false
+  }
+}

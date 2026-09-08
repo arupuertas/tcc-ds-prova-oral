@@ -1,0 +1,79 @@
+{
+  "uid": "prova_2024_02/q0031",
+  "id": "q0031",
+  "prova_id": "prova_2024_02",
+  "ordem": 31,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Processo coletivo",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Todo legitimado ativo para o processo coletivo é um ente intermediário?",
+  "resposta": "Não. A legitimidade ativa coletiva é uma atribuição conferida pela Constituição ou pela lei e alcança instituições que não constituem corpos intermediários em sentido estrito, como o Ministério Público, a Defensoria Pública, os entes federativos e outras pessoas jurídicas estatais. Os entes intermediários propriamente ditos são organizações sociais representativas, como associações e sindicatos, que estabelecem uma ponte entre os indivíduos ou grupos e o Estado. Inversamente, a mera condição sociológica de ente intermediário não confere automaticamente legitimidade para qualquer ação coletiva, pois devem ser observados o instrumento processual empregado e os requisitos estabelecidos pelo ordenamento. Portanto, legitimado coletivo e ente intermediário são categorias que se sobrepõem apenas parcialmente.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Processo coletivo\nDificuldade: média\nPergunta: Todo legitimado ativo para o processo coletivo é um ente intermediário?\nResposta: Não. A legitimidade ativa coletiva é uma atribuição conferida pela Constituição ou pela lei e alcança instituições que não constituem corpos intermediários em sentido estrito, como o Ministério Público, a Defensoria Pública, os entes federativos e outras pessoas jurídicas estatais. Os entes intermediários propriamente ditos são organizações sociais representativas, como associações e sindicatos, que estabelecem uma ponte entre os indivíduos ou grupos e o Estado. Inversamente, a mera condição sociológica de ente intermediário não confere automaticamente legitimidade para qualquer ação coletiva, pois devem ser observados o instrumento processual empregado e os requisitos estabelecidos pelo ordenamento. Portanto, legitimado coletivo e ente intermediário são categorias que se sobrepõem apenas parcialmente.",
+  "_meta": {
+    "subtema": "Legitimados coletivos e entes intermediários",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "distinção entre legitimidade coletiva e intermediação social",
+      "legitimados institucionais que não são corpos intermediários",
+      "associações e sindicatos como exemplos",
+      "legitimidade dependente de previsão normativa",
+      "sobreposição apenas parcial das categorias"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 129, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 82 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CDC",
+        "Lei 7.347",
+        "art. 129 — CF",
+        "art. 5 — Lei 7.347",
+        "art. 82 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_198b5d6e0f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0084",
+    "id_origem": "q0084",
+    "ordem_origem": 84,
+    "bloco_origem": "cadeia_198b5d6e0f",
+    "score": 123.79,
+    "reabilitada": false
+  }
+}

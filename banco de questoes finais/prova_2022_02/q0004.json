@@ -1,0 +1,59 @@
+{
+  "uid": "prova_2022_02/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2022_02",
+  "ordem": 4,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Tutela coletiva",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Quais são, segundo a doutrina, as principais características do processo estrutural?",
+  "resposta": "O processo estrutural destina-se a enfrentar um problema estrutural, entendido como um estado persistente de desconformidade que não se reduz à prática de um ilícito isolado e cuja superação exige reorganização institucional. Seu objetivo é conduzir a realidade existente a um estado de coisas considerado adequado, mediante um programa de transição. O procedimento tende a ser bifásico: inicialmente, reconhece-se o problema e define-se o resultado a alcançar; depois, formulam-se, executam-se e fiscalizam-se as medidas necessárias, frequentemente por decisões prospectivas e em cascata. São também características relevantes a flexibilidade e a adaptabilidade procedimentais, a cooperação, a participação ampliada dos interessados, a consensualidade e a revisão contínua das providências. A complexidade, a multipolaridade e a natureza coletiva são frequentes nos processos estruturais, mas parte da doutrina não as considera características essenciais.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Tutela coletiva\nDificuldade: difícil\nPergunta: Quais são, segundo a doutrina, as principais características do processo estrutural?\nResposta: O processo estrutural destina-se a enfrentar um problema estrutural, entendido como um estado persistente de desconformidade que não se reduz à prática de um ilícito isolado e cuja superação exige reorganização institucional. Seu objetivo é conduzir a realidade existente a um estado de coisas considerado adequado, mediante um programa de transição. O procedimento tende a ser bifásico: inicialmente, reconhece-se o problema e define-se o resultado a alcançar; depois, formulam-se, executam-se e fiscalizam-se as medidas necessárias, frequentemente por decisões prospectivas e em cascata. São também características relevantes a flexibilidade e a adaptabilidade procedimentais, a cooperação, a participação ampliada dos interessados, a consensualidade e a revisão contínua das providências. A complexidade, a multipolaridade e a natureza coletiva são frequentes nos processos estruturais, mas parte da doutrina não as considera características essenciais.",
+  "_meta": {
+    "subtema": "Processo estrutural",
+    "tipo": "principal",
+    "pontos_chave": [
+      "existência de problema estrutural ou estado de desconformidade",
+      "transição para um estado de coisas adequado",
+      "procedimento bifásico",
+      "decisões prospectivas e em cascata",
+      "flexibilidade e adaptabilidade procedimentais",
+      "cooperação, participação e consensualidade",
+      "complexidade, multipolaridade e coletividade como características frequentes, mas não necessariamente essenciais"
+    ],
+    "fundamentos_legais": [],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 0,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_2022c88bff"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0007",
+    "id_origem": "q0007",
+    "ordem_origem": 7,
+    "bloco_origem": "cadeia_2022c88bff",
+    "score": 106.65,
+    "reabilitada": false
+  }
+}

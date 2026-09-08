@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2023_03/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2023_03",
+  "ordem": 23,
+  "materia": "Direito Penal",
+  "tema": "Nexo causal",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Na hipótese em que duas pessoas atuam conjuntamente de forma culposa, mas não se consegue identificar qual delas praticou o ato físico que produziu a morte, a imputação do resultado a ambas exige nexo causal?",
+  "resposta": "Sim, o nexo causal permanece indispensável, pois o resultado somente pode ser imputado a quem lhe deu causa. O reconhecimento da coautoria não elimina a causalidade, mas permite que a contribuição de cada agente seja apreciada como parte da execução conjunta e que o resultado causado pela conduta comum seja reciprocamente imputado. Assim, não é indispensável demonstrar qual coautor lançou especificamente o objeto fatal, mas deve estar provado que a atuação conjunta, integrada pela contribuição relevante de ambos, causou o resultado. Se não houver coautoria nem prova do nexo entre a conduta individual e a morte, a dúvida impede a condenação pelo delito consumado.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Nexo causal\nDificuldade: média\nPergunta: Na hipótese em que duas pessoas atuam conjuntamente de forma culposa, mas não se consegue identificar qual delas praticou o ato físico que produziu a morte, a imputação do resultado a ambas exige nexo causal?\nResposta: Sim, o nexo causal permanece indispensável, pois o resultado somente pode ser imputado a quem lhe deu causa. O reconhecimento da coautoria não elimina a causalidade, mas permite que a contribuição de cada agente seja apreciada como parte da execução conjunta e que o resultado causado pela conduta comum seja reciprocamente imputado. Assim, não é indispensável demonstrar qual coautor lançou especificamente o objeto fatal, mas deve estar provado que a atuação conjunta, integrada pela contribuição relevante de ambos, causou o resultado. Se não houver coautoria nem prova do nexo entre a conduta individual e a morte, a dúvida impede a condenação pelo delito consumado.",
+  "_meta": {
+    "subtema": "Necessidade de nexo causal para imputação",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Indispensabilidade do nexo causal",
+      "Distinção entre causalidade da atuação conjunta e identificação do ato físico fatal",
+      "Imputação recíproca própria da coautoria",
+      "Impossibilidade de condenação fundada apenas em causalidade presumida"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 29 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1032faa5c6"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0051",
+    "id_origem": "q0051",
+    "ordem_origem": 51,
+    "bloco_origem": "cadeia_1032faa5c6",
+    "score": 114.17,
+    "reabilitada": false
+  }
+}

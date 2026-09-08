@@ -1,0 +1,63 @@
+{
+  "uid": "prova_2022_03/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2022_03",
+  "ordem": 11,
+  "materia": "Direito Processual Civil",
+  "tema": "Recursos excepcionais",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Segundo a jurisprudência do Superior Tribunal de Justiça, a senhora diria que, para a admissibilidade do recurso especial, exige-se prequestionamento explícito ou se admite o prequestionamento implícito?",
+  "resposta": "O STJ admite o denominado prequestionamento implícito, entendido como a efetiva apreciação da questão jurídica federal pelo tribunal de origem, ainda que o acórdão não mencione expressamente o número do dispositivo legal. É indispensável, porém, que a matéria tenha sido debatida e decidida, com emissão de juízo sobre a tese federal. A simples invocação da norma pela parte, sem seu enfrentamento pelo acórdão recorrido, não satisfaz o requisito.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Recursos excepcionais\nDificuldade: difícil\nPergunta: Segundo a jurisprudência do Superior Tribunal de Justiça, a senhora diria que, para a admissibilidade do recurso especial, exige-se prequestionamento explícito ou se admite o prequestionamento implícito?\nResposta: O STJ admite o denominado prequestionamento implícito, entendido como a efetiva apreciação da questão jurídica federal pelo tribunal de origem, ainda que o acórdão não mencione expressamente o número do dispositivo legal. É indispensável, porém, que a matéria tenha sido debatida e decidida, com emissão de juízo sobre a tese federal. A simples invocação da norma pela parte, sem seu enfrentamento pelo acórdão recorrido, não satisfaz o requisito.",
+  "_meta": {
+    "subtema": "Prequestionamento explícito no STJ",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Admissão do prequestionamento implícito pelo STJ",
+      "Desnecessidade de indicação numérica do dispositivo legal",
+      "Necessidade de efetiva apreciação da questão federal"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 105, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 105 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A resposta adota como prequestionamento implícito a apreciação da matéria sem menção expressa ao número do dispositivo legal.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_69f4e2814a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0025",
+    "id_origem": "q0025",
+    "ordem_origem": 25,
+    "bloco_origem": "cadeia_69f4e2814a",
+    "score": 108.17,
+    "reabilitada": false
+  }
+}

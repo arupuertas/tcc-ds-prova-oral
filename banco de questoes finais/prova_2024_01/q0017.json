@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2024_01/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2024_01",
+  "ordem": 17,
+  "materia": "Direito Tributário",
+  "tema": "Prescrição tributária",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Com o objetivo de aumentar a arrecadação, uma lei estadual pode ampliar o prazo de prescrição dos créditos tributários do respectivo Estado?",
+  "resposta": "Não. A Constituição reserva à lei complementar nacional o estabelecimento de normas gerais em matéria tributária, inclusive sobre prescrição e decadência, de modo que a lei estadual não pode ampliar o prazo prescricional. O Código Tributário Nacional, recepcionado com força de lei complementar nessa matéria, estabelece prazo de cinco anos para a ação de cobrança do crédito tributário, contado de sua constituição definitiva. A finalidade arrecadatória não afasta a inconstitucionalidade da alteração estadual por invasão da reserva constitucional de lei complementar.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Prescrição tributária\nDificuldade: média\nPergunta: Com o objetivo de aumentar a arrecadação, uma lei estadual pode ampliar o prazo de prescrição dos créditos tributários do respectivo Estado?\nResposta: Não. A Constituição reserva à lei complementar nacional o estabelecimento de normas gerais em matéria tributária, inclusive sobre prescrição e decadência, de modo que a lei estadual não pode ampliar o prazo prescricional. O Código Tributário Nacional, recepcionado com força de lei complementar nessa matéria, estabelece prazo de cinco anos para a ação de cobrança do crédito tributário, contado de sua constituição definitiva. A finalidade arrecadatória não afasta a inconstitucionalidade da alteração estadual por invasão da reserva constitucional de lei complementar.",
+  "_meta": {
+    "subtema": "Alteração do prazo prescricional por lei estadual",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Reserva constitucional de lei complementar",
+      "Prescrição como norma geral de direito tributário",
+      "Recepção do CTN com força de lei complementar",
+      "Impossibilidade de ampliação por lei estadual",
+      "Prazo quinquenal para cobrança"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 146, III, b, da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 174 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 5.172/1966 — Código Tributário Nacional",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 174 — CTN"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1940935a0c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0040",
+    "id_origem": "q0040",
+    "ordem_origem": 40,
+    "bloco_origem": "cadeia_1940935a0c",
+    "score": 115.73,
+    "reabilitada": false
+  }
+}

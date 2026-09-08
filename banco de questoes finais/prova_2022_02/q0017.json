@@ -1,0 +1,62 @@
+{
+  "uid": "prova_2022_02/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2022_02",
+  "ordem": 17,
+  "materia": "Direito Penal",
+  "tema": "Roubo majorado",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "No crime de roubo praticado com emprego de arma de fogo, a apreensão e a perícia da arma são indispensáveis para o reconhecimento da causa de aumento prevista no Código Penal?",
+  "resposta": "Não. A apreensão e a perícia da arma de fogo são dispensáveis quando o seu efetivo emprego estiver demonstrado de maneira segura por outros meios de prova, como depoimentos coerentes da vítima e de testemunhas, imagens ou a realização de disparos. A acusação, contudo, deve produzir prova suficiente de que houve emprego de verdadeira arma de fogo, não bastando uma presunção decorrente apenas da grave ameaça. Se o artefato for apreendido e a perícia demonstrar tratar-se de simulacro ou de objeto absolutamente inapto como arma de fogo, a causa de aumento não incidirá.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Roubo majorado\nDificuldade: média\nPergunta: No crime de roubo praticado com emprego de arma de fogo, a apreensão e a perícia da arma são indispensáveis para o reconhecimento da causa de aumento prevista no Código Penal?\nResposta: Não. A apreensão e a perícia da arma de fogo são dispensáveis quando o seu efetivo emprego estiver demonstrado de maneira segura por outros meios de prova, como depoimentos coerentes da vítima e de testemunhas, imagens ou a realização de disparos. A acusação, contudo, deve produzir prova suficiente de que houve emprego de verdadeira arma de fogo, não bastando uma presunção decorrente apenas da grave ameaça. Se o artefato for apreendido e a perícia demonstrar tratar-se de simulacro ou de objeto absolutamente inapto como arma de fogo, a causa de aumento não incidirá.",
+  "_meta": {
+    "subtema": "Necessidade de apreensão e perícia da arma de fogo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "dispensabilidade da apreensão e da perícia",
+      "comprovação por outros meios de prova",
+      "necessidade de demonstração do emprego de arma de fogo",
+      "não incidência em caso de simulacro"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 157, § 2º-A, I, do Código Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_01a6849840"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0033",
+    "id_origem": "q0033",
+    "ordem_origem": 33,
+    "bloco_origem": "cadeia_01a6849840",
+    "score": 111.95,
+    "reabilitada": false
+  }
+}

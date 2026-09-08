@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2022_02/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2022_02",
+  "ordem": 1,
+  "materia": "Direito Administrativo",
+  "tema": "Servidores públicos",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Em quais circunstâncias a Constituição admite que a Administração Pública contrate servidores temporários sem concurso público?",
+  "resposta": "A regra para o ingresso no serviço público é a aprovação prévia em concurso, mas a Constituição autoriza a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, nas hipóteses estabelecidas em lei. A validade da contratação exige previsão legal suficientemente determinada, prazo previamente fixado, necessidade efetivamente temporária, interesse público excepcional e indispensabilidade da medida. A excepcionalidade deve decorrer de situação transitória que não possa ser adequadamente atendida pelo quadro permanente, sendo vedado utilizar o vínculo temporário para suprir, de maneira ordinária e contínua, carências estruturais da Administração. A atividade desempenhada pode ser permanente, como ocorre nos serviços de saúde, desde que a necessidade concreta de pessoal seja temporária e excepcional, a exemplo de uma emergência sanitária.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Servidores públicos\nDificuldade: média\nPergunta: Em quais circunstâncias a Constituição admite que a Administração Pública contrate servidores temporários sem concurso público?\nResposta: A regra para o ingresso no serviço público é a aprovação prévia em concurso, mas a Constituição autoriza a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, nas hipóteses estabelecidas em lei. A validade da contratação exige previsão legal suficientemente determinada, prazo previamente fixado, necessidade efetivamente temporária, interesse público excepcional e indispensabilidade da medida. A excepcionalidade deve decorrer de situação transitória que não possa ser adequadamente atendida pelo quadro permanente, sendo vedado utilizar o vínculo temporário para suprir, de maneira ordinária e contínua, carências estruturais da Administração. A atividade desempenhada pode ser permanente, como ocorre nos serviços de saúde, desde que a necessidade concreta de pessoal seja temporária e excepcional, a exemplo de uma emergência sanitária.",
+  "_meta": {
+    "subtema": "Contratação temporária",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Concurso público como regra",
+      "Previsão legal das hipóteses de contratação",
+      "Prazo determinado",
+      "Necessidade temporária e excepcional interesse público",
+      "Possibilidade de atividade permanente diante de necessidade concretamente temporária",
+      "Vedação ao atendimento de carências administrativas ordinárias"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 37, II e IX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "Tema 612 da repercussão geral do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Tema 612"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_2022c88bff"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0001",
+    "id_origem": "q0001",
+    "ordem_origem": 1,
+    "bloco_origem": "cadeia_2022c88bff",
+    "score": 112.93,
+    "reabilitada": false
+  }
+}

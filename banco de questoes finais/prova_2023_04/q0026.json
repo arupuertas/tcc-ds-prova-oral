@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_04/q0026",
+  "id": "q0026",
+  "prova_id": "prova_2023_04",
+  "ordem": 26,
+  "materia": "Direito Tributário",
+  "tema": "Espécies tributárias",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "Quais tributos são vinculados a uma atuação estatal relativa ao contribuinte?",
+  "resposta": "Sob o critério da vinculação da hipótese de incidência a uma atuação estatal relativa ao contribuinte, são vinculadas as taxas e as contribuições de melhoria. As taxas decorrem do exercício regular do poder de polícia ou da utilização efetiva ou potencial de serviço público específico e divisível. A contribuição de melhoria decorre de obra pública que produza valorização imobiliária. Os empréstimos compulsórios e as contribuições especiais podem ter sua arrecadação vinculada a determinada finalidade, mas isso não os torna tributos vinculados a uma atuação estatal no sentido dessa classificação.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Espécies tributárias\nDificuldade: fácil\nPergunta: Quais tributos são vinculados a uma atuação estatal relativa ao contribuinte?\nResposta: Sob o critério da vinculação da hipótese de incidência a uma atuação estatal relativa ao contribuinte, são vinculadas as taxas e as contribuições de melhoria. As taxas decorrem do exercício regular do poder de polícia ou da utilização efetiva ou potencial de serviço público específico e divisível. A contribuição de melhoria decorre de obra pública que produza valorização imobiliária. Os empréstimos compulsórios e as contribuições especiais podem ter sua arrecadação vinculada a determinada finalidade, mas isso não os torna tributos vinculados a uma atuação estatal no sentido dessa classificação.",
+  "_meta": {
+    "subtema": "Tributos vinculados à atuação estatal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Taxas como tributos vinculados",
+      "Contribuições de melhoria como tributos vinculados",
+      "Poder de polícia e serviço público específico e divisível",
+      "Obra pública com valorização imobiliária",
+      "Distinção entre vinculação da hipótese de incidência e destinação da arrecadação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 145, II e III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 77 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 81 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTN",
+        "art. 145 — CF",
+        "art. 77 — CTN",
+        "art. 81 — CTN"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_8d6fc1b244"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0053",
+    "id_origem": "q0053",
+    "ordem_origem": 53,
+    "bloco_origem": "cadeia_8d6fc1b244",
+    "score": 112.5,
+    "reabilitada": false
+  }
+}

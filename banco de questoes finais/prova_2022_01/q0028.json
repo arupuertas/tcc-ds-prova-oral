@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2022_01/q0028",
+  "id": "q0028",
+  "prova_id": "prova_2022_01",
+  "ordem": 28,
+  "materia": "Direito Penal",
+  "tema": "Imputação objetiva",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Um motorista trafega na mão correta e dentro do limite regulamentar de velocidade, mas está chovendo e ele percebe uma aglomeração de pessoas na esquina. Se ele não reduz a velocidade, atropela e mata uma pessoa, pode afastar a criação de risco proibido apenas porque observou formalmente as normas de trânsito, ou o risco deve ser aferido no caso concreto?",
+  "resposta": "O risco proibido deve ser aferido no caso concreto, e a observância do limite máximo de velocidade não basta para afastá-lo. Diante da chuva e de uma aglomeração de pessoas perceptível, o motorista deve adaptar a velocidade e adotar as cautelas necessárias para manter o domínio do veículo e prevenir o atropelamento. Se, podendo antever o perigo, deixa de reduzir a velocidade ou de realizar outra manobra de segurança exigível, cria ou incrementa um risco juridicamente desaprovado. Se a morte constituir a realização desse risco, estará preenchido o requisito objetivo da imputação, sem prejuízo da verificação dos demais elementos do crime culposo.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Imputação objetiva\nDificuldade: difícil\nPergunta: Um motorista trafega na mão correta e dentro do limite regulamentar de velocidade, mas está chovendo e ele percebe uma aglomeração de pessoas na esquina. Se ele não reduz a velocidade, atropela e mata uma pessoa, pode afastar a criação de risco proibido apenas porque observou formalmente as normas de trânsito, ou o risco deve ser aferido no caso concreto?\nResposta: O risco proibido deve ser aferido no caso concreto, e a observância do limite máximo de velocidade não basta para afastá-lo. Diante da chuva e de uma aglomeração de pessoas perceptível, o motorista deve adaptar a velocidade e adotar as cautelas necessárias para manter o domínio do veículo e prevenir o atropelamento. Se, podendo antever o perigo, deixa de reduzir a velocidade ou de realizar outra manobra de segurança exigível, cria ou incrementa um risco juridicamente desaprovado. Se a morte constituir a realização desse risco, estará preenchido o requisito objetivo da imputação, sem prejuízo da verificação dos demais elementos do crime culposo.",
+  "_meta": {
+    "subtema": "Risco proibido no caso concreto",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "aferição concreta do risco",
+      "limite regulamentar não é velocidade necessariamente segura",
+      "dever de adaptação às condições meteorológicas e do trânsito",
+      "criação ou incremento de risco proibido",
+      "realização do risco na morte"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 28 do Código de Trânsito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 43 do Código de Trânsito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTB",
+        "art. 18 — CP",
+        "art. 28 — CTB",
+        "art. 43 — CTB"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_77612dff57"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0066",
+    "id_origem": "q0066",
+    "ordem_origem": 66,
+    "bloco_origem": "cadeia_77612dff57",
+    "score": 124.07,
+    "reabilitada": false
+  }
+}

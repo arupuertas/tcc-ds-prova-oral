@@ -1,0 +1,81 @@
+{
+  "uid": "prova_2022_01/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2022_01",
+  "ordem": 17,
+  "materia": "Direito Eleitoral",
+  "tema": "Transporte de eleitores",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Um candidato pode patrocinar transporte para que eleitores carentes, residentes longe dos locais de votação e sem acesso a transporte público, possam exercer o direito de voto?",
+  "resposta": "Não. A legislação eleitoral proíbe o fornecimento ou patrocínio de transporte de eleitores por candidato fora das hipóteses legais, ainda que os beneficiários sejam carentes e residam longe dos locais de votação. O transporte necessário deve ocorrer pelos meios autorizados, especialmente aquele organizado pela Justiça Eleitoral ou o prestado por linhas coletivas regulares. A conduta pode configurar o crime eleitoral previsto na legislação sobre transporte de eleitores e, se houver finalidade de obter votos, também captação ilícita de sufrágio, sem prejuízo da caracterização de abuso do poder econômico quando presentes gravidade e repercussão suficientes.",
+  "embedding_text": "Matéria: Direito Eleitoral\nTema: Transporte de eleitores\nDificuldade: média\nPergunta: Um candidato pode patrocinar transporte para que eleitores carentes, residentes longe dos locais de votação e sem acesso a transporte público, possam exercer o direito de voto?\nResposta: Não. A legislação eleitoral proíbe o fornecimento ou patrocínio de transporte de eleitores por candidato fora das hipóteses legais, ainda que os beneficiários sejam carentes e residam longe dos locais de votação. O transporte necessário deve ocorrer pelos meios autorizados, especialmente aquele organizado pela Justiça Eleitoral ou o prestado por linhas coletivas regulares. A conduta pode configurar o crime eleitoral previsto na legislação sobre transporte de eleitores e, se houver finalidade de obter votos, também captação ilícita de sufrágio, sem prejuízo da caracterização de abuso do poder econômico quando presentes gravidade e repercussão suficientes.",
+  "_meta": {
+    "subtema": "Patrocínio de transporte por candidato",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Proibição de transporte patrocinado por candidato",
+      "Carência dos eleitores não cria exceção legal",
+      "Transporte organizado pela Justiça Eleitoral ou por linhas regulares",
+      "Possível crime eleitoral",
+      "Captação ilícita condicionada à finalidade de obtenção do voto"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 5º e 11, III, da Lei nº 6.091/1974",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 41-A da Lei nº 9.504/1997",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 22 da Lei Complementar nº 64/1990",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "LC 64",
+        "Lei 6.091",
+        "Lei 9.504",
+        "art. 11 — Lei 6.091",
+        "art. 22 — LC 64",
+        "art. 41a — Lei 9.504",
+        "art. 5 — Lei 6.091"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_342bba7cc2"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0045",
+    "id_origem": "q0045",
+    "ordem_origem": 45,
+    "bloco_origem": "cadeia_342bba7cc2",
+    "score": 116.31,
+    "reabilitada": false
+  }
+}

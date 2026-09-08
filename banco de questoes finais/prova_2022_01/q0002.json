@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_01/q0002",
+  "id": "q0002",
+  "prova_id": "prova_2022_01",
+  "ordem": 2,
+  "materia": "Direito Processual Civil",
+  "tema": "Tutela provisória",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "À luz da relação entre tutela provisória e efetividade dos direitos fundamentais, a senhora consegue distinguir o dever-ser do dever-fazer?",
+  "resposta": "O dever-ser corresponde ao plano normativo, no qual o ordenamento reconhece e disciplina direitos, deveres, condutas e situações jurídicas. O dever-fazer situa-se no plano da concretização, impondo a adoção de comportamentos e técnicas capazes de conferir efetividade, especialmente aos direitos fundamentais. No processo, não basta reconhecer abstratamente o direito à tutela jurisdicional adequada; é necessário que o juiz e os demais sujeitos processuais atuem para produzir, em tempo útil, a proteção devida. A tutela provisória constitui uma das técnicas destinadas a realizar essa passagem do reconhecimento normativo para a efetiva satisfação ou proteção do direito.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Tutela provisória\nDificuldade: difícil\nPergunta: À luz da relação entre tutela provisória e efetividade dos direitos fundamentais, a senhora consegue distinguir o dever-ser do dever-fazer?\nResposta: O dever-ser corresponde ao plano normativo, no qual o ordenamento reconhece e disciplina direitos, deveres, condutas e situações jurídicas. O dever-fazer situa-se no plano da concretização, impondo a adoção de comportamentos e técnicas capazes de conferir efetividade, especialmente aos direitos fundamentais. No processo, não basta reconhecer abstratamente o direito à tutela jurisdicional adequada; é necessário que o juiz e os demais sujeitos processuais atuem para produzir, em tempo útil, a proteção devida. A tutela provisória constitui uma das técnicas destinadas a realizar essa passagem do reconhecimento normativo para a efetiva satisfação ou proteção do direito.",
+  "_meta": {
+    "subtema": "Dever ser e dever fazer",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "dever-ser como plano normativo",
+      "dever-fazer como concretização",
+      "efetividade dos direitos fundamentais",
+      "atuação dos sujeitos processuais",
+      "tutela provisória como técnica de efetivação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, XXXV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 4º do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 6º do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.84,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 4 — CPC",
+        "art. 5 — CF",
+        "art. 6 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_0897c5346a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0002",
+    "id_origem": "q0002",
+    "ordem_origem": 2,
+    "bloco_origem": "cadeia_0897c5346a",
+    "score": 118.45,
+    "reabilitada": false
+  }
+}

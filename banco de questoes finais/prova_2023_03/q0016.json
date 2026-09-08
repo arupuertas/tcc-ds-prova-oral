@@ -1,0 +1,74 @@
+{
+  "uid": "prova_2023_03/q0016",
+  "id": "q0016",
+  "prova_id": "prova_2023_03",
+  "ordem": 16,
+  "materia": "Direito Tributário",
+  "tema": "Execução fiscal",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Na execução fiscal de crédito tributário, quais são os pressupostos para a configuração da prescrição intercorrente?",
+  "resposta": "Constatada a não localização do devedor ou de bens penhoráveis, a ciência da Fazenda Pública marca automaticamente o início do período de suspensão de um ano previsto na Lei de Execução Fiscal. Encerrado esse período, começa a correr o prazo prescricional aplicável ao crédito, independentemente de pronunciamento judicial formal determinando o arquivamento. A prescrição intercorrente configura-se se o prazo transcorrer integralmente sem causa suspensiva ou interruptiva, como a efetiva citação, quando ainda não realizada, ou a efetiva constrição patrimonial. Antes de reconhecê-la, o juiz deve ouvir a Fazenda Pública, não sendo necessária a demonstração de desídia do exequente.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Execução fiscal\nDificuldade: média\nPergunta: Na execução fiscal de crédito tributário, quais são os pressupostos para a configuração da prescrição intercorrente?\nResposta: Constatada a não localização do devedor ou de bens penhoráveis, a ciência da Fazenda Pública marca automaticamente o início do período de suspensão de um ano previsto na Lei de Execução Fiscal. Encerrado esse período, começa a correr o prazo prescricional aplicável ao crédito, independentemente de pronunciamento judicial formal determinando o arquivamento. A prescrição intercorrente configura-se se o prazo transcorrer integralmente sem causa suspensiva ou interruptiva, como a efetiva citação, quando ainda não realizada, ou a efetiva constrição patrimonial. Antes de reconhecê-la, o juiz deve ouvir a Fazenda Pública, não sendo necessária a demonstração de desídia do exequente.",
+  "_meta": {
+    "subtema": "Pressupostos da prescrição intercorrente",
+    "tipo": "principal",
+    "pontos_chave": [
+      "não localização do devedor ou de bens penhoráveis",
+      "ciência da Fazenda Pública",
+      "suspensão automática por um ano",
+      "início posterior do prazo prescricional",
+      "ausência de causa suspensiva ou interruptiva",
+      "oitiva prévia da Fazenda Pública"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 40 da Lei nº 6.830/1980",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 174 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTN",
+        "Lei 6.830",
+        "art. 174 — CTN",
+        "art. 40 — Lei 6.830"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_340248b5c5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0031",
+    "id_origem": "q0031",
+    "ordem_origem": 31,
+    "bloco_origem": "cadeia_340248b5c5",
+    "score": 115.93,
+    "reabilitada": false
+  }
+}

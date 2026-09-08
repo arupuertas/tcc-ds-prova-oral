@@ -1,0 +1,3336 @@
+{
+  "versao": "v1",
+  "origem": "saida_sol_20260903",
+  "criterio_alvo": 0.5,
+  "n_origem": 730,
+  "n_elegiveis": 583,
+  "n_final": 292,
+  "distribuicao_materia": {
+    "Direito Penal": 71,
+    "Direito Administrativo": 38,
+    "Direitos Difusos e Coletivos": 31,
+    "Direito Processual Penal": 31,
+    "Direito Civil": 19,
+    "Direito do Consumidor": 17,
+    "Direito Constitucional": 16,
+    "Direito Tributário": 15,
+    "Direito Institucional do Ministério Público": 14,
+    "Direito Processual Civil": 12,
+    "Direito Ambiental": 8,
+    "Direitos Humanos": 7,
+    "Direito Empresarial": 6,
+    "Direito da Infância e Juventude": 4,
+    "Direito Eleitoral": 3
+  },
+  "distribuicao_dificuldade": {
+    "media": 156,
+    "dificil": 108,
+    "facil": 28
+  },
+  "distribuicao_momento": {
+    "meio": 147
+  },
+  "provas": [
+    {
+      "prova_id": "prova_2022_01",
+      "edicao": "LVIII",
+      "ano": 2022,
+      "grupo_tematico": "III",
+      "n_questoes_origem": 74,
+      "n_elegiveis": 57,
+      "n_questoes": 28,
+      "n_cadeias": 11,
+      "n_reabilitadas": 1,
+      "score_medio": 117.45,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Civil",
+        "Direito Eleitoral",
+        "Direito Penal",
+        "Direito Processual Civil",
+        "Direitos Difusos e Coletivos"
+      ],
+      "distribuicao_materia": {
+        "Direitos Difusos e Coletivos": 7,
+        "Direito Penal": 7,
+        "Direito Processual Civil": 5,
+        "Direito Civil": 4,
+        "Direito Administrativo": 3,
+        "Direito Eleitoral": 2
+      },
+      "distribuicao_dificuldade": {
+        "media": 14,
+        "dificil": 12,
+        "facil": 2
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Processual Civil",
+          "tema": "Tutela provisória",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Quais direitos fundamentais asseguram a tutela provisória no sistema jurídico brasileiro?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Processual Civil",
+          "tema": "Tutela provisória",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "À luz da relação entre tutela provisória e efetividade dos direitos fundamentais, a senhora consegue distinguir o dever-ser do dever-fazer?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Processual Civil",
+          "tema": "Tutela provisória",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Considerando a necessidade de efetivação dos direitos fundamentais no processo, como deve ser compreendido o princípio do contraditório?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito Processual Civil",
+          "tema": "Tutela provisória",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Nas tutelas provisórias, como fica a observância do princípio do contraditório?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito Processual Civil",
+          "tema": "Tutela provisória",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Quais são as espécies de tutela provisória previstas no ordenamento processual civil brasileiro?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direito Civil",
+          "tema": "Prescrição e decadência",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia explicar a teoria da actio nata em seu viés subjetivo?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "inicio",
+          "materia": "Direito Civil",
+          "tema": "Prescrição",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Uma pessoa obteve recentemente o reconhecimento de sua paternidade, mas a herança do pai reconhecido havia sido partilhada quinze anos antes. A senhora entende ser possível ajuizar ação para obter os direitos sucessórios e rever a partilha? A pretensão estaria prescrita e, em caso negativo, qual fundamento afastaria a prescrição?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Prova",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O art. 232 do Código Civil estabelece que a recusa à perícia médica ordenada pelo juiz poderá suprir a prova que se pretendia obter, regra frequentemente invocada diante da recusa ao exame de DNA em investigação de paternidade. Esse dispositivo comporta relativização e em quais situações?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Direito de família",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora conhece entendimento do Superior Tribunal de Justiça que relativize a consequência da recusa ao exame de DNA em razão da natureza do direito de filiação discutido, independentemente da consideração dos demais elementos probatórios do processo?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Pessoa idosa",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "Para fins da proteção conferida pelo ordenamento jurídico brasileiro, quem a senhora considera pessoa idosa?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Pessoa idosa",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "Em que consiste, segundo o Estatuto da Pessoa Idosa, o direito ao respeito assegurado à pessoa idosa?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Pessoa idosa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia citar três obrigações legais das entidades de atendimento à pessoa idosa?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Pessoa idosa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "É possível transacionar sobre os alimentos devidos a uma pessoa idosa? Como a senhora, na condição de promotora de Justiça, deverá proceder se a pessoa idosa e o devedor comparecerem ao gabinete interessados em celebrar a transação?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Pessoa idosa",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Se a pessoa idosa não possuir meios de prover o próprio sustento e seu único familiar também não tiver condições econômicas de prestar alimentos, como a senhora, na condição de promotora de Justiça, deverá proceder?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Pessoa idosa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A senhora sabe indicar como se inicia o procedimento para imposição de penalidade administrativa por infração às normas de proteção à pessoa idosa?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Pessoa idosa",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Além da requisição do Ministério Público, de que outra forma pode ser iniciado o procedimento para imposição de penalidade administrativa por infração às normas de proteção à pessoa idosa?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Eleitoral",
+          "tema": "Transporte de eleitores",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Um candidato pode patrocinar transporte para que eleitores carentes, residentes longe dos locais de votação e sem acesso a transporte público, possam exercer o direito de voto?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direito Eleitoral",
+          "tema": "Condutas eleitorais vedadas",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Ainda que não exista transporte público no local, o candidato não conheça os eleitores e alegue pretender apenas ajudá-los a chegar ao local de votação, ele pode patrocinar esse transporte?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Omissão administrativa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia comentar a omissão administrativa em cotejo com a cláusula da reserva do possível?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Poder de polícia",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "É possível que as guardas municipais atuem na fiscalização, no controle e na orientação do trânsito e do tráfego?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Poder de polícia",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Qual é o fundamento jurídico para que as guardas municipais exerçam a fiscalização de trânsito? Essa atuação configuraria exercício indevido de função de segurança pública ou invasão de competência de outros órgãos?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia explicar se é possível a participação em crimes omissivos, distinguindo os crimes omissivos próprios dos impróprios e apresentando exemplos?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Erro de subsunção",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora considera possível que uma equivocada apreciação do agente quanto à relevância penal do fato não gere responsabilidade porque a conduta é objetivamente insignificante? Indique uma hipótese."
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Erro de tipo permissivo",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Reconhecido o erro de tipo permissivo sobre os pressupostos fáticos de uma causa de justificação, ele sempre exclui o dolo ou esse efeito depende de o erro ser escusável?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Erro de tipo permissivo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Uma vez reconhecida a ocorrência de erro de tipo permissivo, o dolo fica automaticamente afastado, ou isso ainda depende de o erro ser escusável ou inescusável?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "No âmbito da imputação objetiva, a observância pelo agente das normas regulamentares gerais, como as normas de trânsito relativas à via e à velocidade, implica, por si só, a inexistência de imputação objetiva caso ele provoque um acidente?"
+        },
+        {
+          "id": "q0027",
+          "ordem": 27,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Há identidade necessária entre risco proibido e infração de norma regulamentar, ou é possível reconhecer a criação de risco proibido mesmo quando o agente observou genericamente as normas regulamentares aplicáveis?"
+        },
+        {
+          "id": "q0028",
+          "ordem": 28,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Um motorista trafega na mão correta e dentro do limite regulamentar de velocidade, mas está chovendo e ele percebe uma aglomeração de pessoas na esquina. Se ele não reduz a velocidade, atropela e mata uma pessoa, pode afastar a criação de risco proibido apenas porque observou formalmente as normas de trânsito, ou o risco deve ser aferido no caso concreto?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2022_02",
+      "edicao": "LVIII",
+      "ano": 2022,
+      "grupo_tematico": null,
+      "n_questoes_origem": 61,
+      "n_elegiveis": 48,
+      "n_questoes": 24,
+      "n_cadeias": 7,
+      "n_reabilitadas": 0,
+      "score_medio": 114.47,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Civil",
+        "Direito Penal",
+        "Direito Processual Penal",
+        "Direito da Infância e Juventude",
+        "Direitos Difusos e Coletivos"
+      ],
+      "distribuicao_materia": {
+        "Direito Penal": 10,
+        "Direito Administrativo": 5,
+        "Direitos Difusos e Coletivos": 3,
+        "Direito Processual Penal": 3,
+        "Direito Civil": 2,
+        "Direito da Infância e Juventude": 1
+      },
+      "distribuicao_dificuldade": {
+        "media": 13,
+        "dificil": 9,
+        "facil": 2
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Servidores públicos",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Em quais circunstâncias a Constituição admite que a Administração Pública contrate servidores temporários sem concurso público?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Publicidade institucional",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "No caso de chefe do Poder Executivo que utiliza conta pessoal em rede social para divulgar atividades administrativas, quais elementos configurariam promoção pessoal irregular e quais circunstâncias afastariam essa irregularidade?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Agentes políticos",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Um cidadão apresenta ao Ministério Público informações extraídas da internet indicando que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como o senhor entende que o Ministério Público deve proceder diante dessa notícia?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Tutela coletiva",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Quais são, segundo a doutrina, as principais características do processo estrutural?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Processo coletivo",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia distinguir os conceitos de processo coletivo e litígio coletivo?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direito da Infância e Juventude",
+          "tema": "Competência",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Um colegitimado ajuíza ação civil pública na Vara da Fazenda Pública para suprir a falta de vagas na educação infantil, e o Município suscita a incompetência desse juízo. Qual deve ser o parecer do senhor sobre a competência para processar e julgar a demanda?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Ação civil pública",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Segundo o entendimento do STJ, é possível exigir do Ministério Público o adiantamento dos honorários periciais em ação civil pública? A vigência do Código de Processo Civil de 2015 alterou essa compreensão?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Administração indireta",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia explicar como é formada a Administração Pública indireta e qual é a finalidade de sua instituição?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Administração indireta",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Para a criação de subsidiárias de entidades da Administração Pública indireta, o senhor entende necessária a edição de lei?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do dolo",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Distinga o senhor o dolo direto de primeiro grau do dolo direto de segundo grau."
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do dolo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "No dolo direto de segundo grau, o agente precisa representar como certa a ocorrência do resultado principal? Se ele não considerar certa a explosão de uma bomba, ainda assim poderá atuar com dolo direto de segundo grau quanto às consequências colaterais?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do dolo",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Para a caracterização do dolo direto de segundo grau, o resultado principal buscado precisa ser representado como certo, ou a certeza exigida recai sobre a ocorrência da consequência colateral caso o plano tenha êxito?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do dolo",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Conceitue o senhor o dolo geral, ou dolus generalis, e apresente um exemplo."
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do dolo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "No caso de dolo geral em que o agente, após tentar matar a vítima, acredita que ela esteja morta e a enterra, sobrevindo a morte por asfixia, o senhor, como Promotor de Justiça, imputaria homicídio doloso consumado ou tentativa de homicídio em concurso com homicídio culposo?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do dolo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "No caso de dolo geral, suponha que o agente, em um primeiro ato, apenas assuma o risco de matar a vítima e, acreditando que ela já esteja morta, adote posteriormente uma decisão autônoma de ocultar o suposto cadáver, sendo esse segundo ato a causa efetiva da morte. O senhor daria a essa hipótese a mesma solução do dolo geral decorrente de um plano homicida executado em dois atos?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do dolo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Na hipótese em que o agente atua com dolo eventual no primeiro ato e, acreditando que a vítima esteja morta, pratica um segundo ato que efetivamente causa a morte, como o senhor conciliaria a imputação do homicídio doloso consumado com o princípio da simultaneidade entre o dolo e o fato, inclusive sob uma concepção normativa do dolo associada a Ingeborg Puppe?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Roubo majorado",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "No crime de roubo praticado com emprego de arma de fogo, a apreensão e a perícia da arma são indispensáveis para o reconhecimento da causa de aumento prevista no Código Penal?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Roubo majorado",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Se o objeto empregado no roubo for apreendido e a perícia constatar que se trata de um simulacro de arma de fogo, o senhor reconheceria a causa de aumento relativa ao emprego de arma de fogo?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Roubo majorado",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Para afastar a causa de aumento do roubo quando o objeto empregado é um simulacro, o fundamento central é a ausência de potencialidade lesiva ou a legalidade estrita?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "fim",
+          "materia": "Direito Processual Penal",
+          "tema": "Tribunal do Júri",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia indicar, objetivamente, três diferenças procedimentais entre o procedimento ordinário e a primeira fase do procedimento do Tribunal do Júri?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "fim",
+          "materia": "Direito Processual Penal",
+          "tema": "Tribunal do Júri",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "É possível ao jurado recusar-se a servir no Tribunal do Júri?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "fim",
+          "materia": "Direito Processual Penal",
+          "tema": "Tribunal do Júri",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O senhor atua como Promotor de Justiça em julgamento pelo Tribunal do Júri. A defesa sustenta a desclassificação do homicídio para lesão corporal seguida de morte e também a legítima defesa. O juiz presidente formula, nessa ordem, os quesitos sobre materialidade, autoria, absolvição genérica e, somente depois, desclassificação, invocando o art. 483, § 4º, do Código de Processo Penal. O senhor concordaria com essa ordem de quesitação? Em caso negativo, como deveria proceder?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Direito das obrigações",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Em execução judicial de termo de ajustamento de conduta, o executado apresenta um instrumento pelo qual terceiro assumiu sua dívida e demonstra que notificou o Ministério Público, que permaneceu silente. O executado sustenta que o silêncio importou aceitação da assunção e o exonerou da obrigação. O senhor concorda com essa tese?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Alimentos",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia esclarecer se, no pedido de alimentos fundado em vínculo familiar, há limite quanto ao grau de parentesco das pessoas que podem ser chamadas a prestar alimentos?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2022_03",
+      "edicao": "LVIII",
+      "ano": 2022,
+      "grupo_tematico": "II",
+      "n_questoes_origem": 75,
+      "n_elegiveis": 51,
+      "n_questoes": 26,
+      "n_cadeias": 11,
+      "n_reabilitadas": 1,
+      "score_medio": 116.46,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Ambiental",
+        "Direito Constitucional",
+        "Direito Penal",
+        "Direito Processual Civil",
+        "Direito Processual Penal",
+        "Direito Tributário",
+        "Direitos Humanos"
+      ],
+      "distribuicao_materia": {
+        "Direito Administrativo": 7,
+        "Direito Constitucional": 6,
+        "Direito Processual Civil": 4,
+        "Direito Processual Penal": 3,
+        "Direito Penal": 2,
+        "Direito Ambiental": 2,
+        "Direitos Humanos": 1,
+        "Direito Tributário": 1
+      },
+      "distribuicao_dificuldade": {
+        "media": 12,
+        "dificil": 10,
+        "facil": 4
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em uma cirurgia realizada por equipe, a incidência do princípio da confiança se altera se a violação do dever de segurança for praticada pela enfermeira, e não pelo cirurgião-chefe?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas em espécie",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Partindo da premissa de que foram integralmente observadas as formalidades do art. 226 do Código de Processo Penal, o reconhecimento pessoal realizado em juízo por videoconferência possui valor equivalente ao reconhecimento presencial?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Processual Penal",
+          "tema": "Procedimento comum ordinário",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "É possível interrogar o réu enquanto estiver pendente o cumprimento de carta precatória destinada à oitiva de testemunha?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito Processual Penal",
+          "tema": "Procedimento comum ordinário",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Qual é o entendimento atual dos tribunais superiores sobre a realização do interrogatório do réu antes do retorno de carta precatória destinada à oitiva de testemunha?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Consequencialismo jurídico",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia localizar e explicar o emprego de argumentos consequencialistas na formação da decisão jurídica?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Consequencialismo na LINDB",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A alteração promovida pela Lei nº 13.655/2018 na LINDB restringiu o consequencialismo às decisões judiciais ou o estendeu a outros âmbitos decisórios?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Controle da administração",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "Além dos Tribunais de Contas, o Ministério Público pode atuar como órgão controlador para fins da aplicação das normas consequencialistas da LINDB?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direito à saúde",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Em uma comarca do interior, uma criança necessita de medicamento de altíssimo custo para o tratamento de um linfoma. Diante da crítica de que o consequencialismo substitui a ética dos fundamentos por uma ética dos resultados e emprega argumentos econômicos para restringir direitos conquistados, como a senhora deve analisar juridicamente o caso?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direito à saúde",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Ao decidir sobre o fornecimento de medicamento de alto custo, como a senhora aplicaria a estratégia de olhar para trás, olhar para cima e olhar para frente?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito Processual Civil",
+          "tema": "Recursos excepcionais",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Quanto aos recursos especial e extraordinário, diferencie, por favor, o prequestionamento explícito, o prequestionamento implícito e o prequestionamento ficto."
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito Processual Civil",
+          "tema": "Recursos excepcionais",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Segundo a jurisprudência do Superior Tribunal de Justiça, a senhora diria que, para a admissibilidade do recurso especial, exige-se prequestionamento explícito ou se admite o prequestionamento implícito?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito Processual Civil",
+          "tema": "Recursos excepcionais",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Segundo a jurisprudência do Supremo Tribunal Federal, a senhora diria que se exige prequestionamento explícito da questão constitucional ou se admite o prequestionamento implícito?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Processual Civil",
+          "tema": "Recursos excepcionais",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A senhora considera cabível a interposição de recurso extraordinário diretamente contra uma sentença?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora poderia esclarecer se a prescrição prevista na Lei de Improbidade Administrativa incide sobre a pretensão de aplicação das sanções por improbidade?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "A prescrição da pretensão de aplicação das sanções por improbidade administrativa alcança também a pretensão de ressarcimento do dano ao erário?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Ambiental",
+          "tema": "Código Florestal",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "A senhora conceitue o instituto da reserva legal ambiental e indique sua finalidade e seus percentuais básicos."
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Ambiental",
+          "tema": "Código Florestal",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "No cálculo do percentual da reserva legal, a senhora incluiria a área de preservação permanente?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direitos Humanos",
+          "tema": "Pessoas com deficiência",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A substituição da expressão “pessoa portadora de deficiência” por “pessoa com deficiência” decorre apenas de uma evolução do ordenamento jurídico brasileiro ou tem origem no âmbito internacional?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos sociais",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Existem direitos sociais fora do texto da Constituição Federal? É possível afirmar que todos os direitos sociais são cláusulas pétreas?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "fim",
+          "materia": "Direito Constitucional",
+          "tema": "Bloco de constitucionalidade",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Como se explica a relação entre a existência de direitos sociais fora do texto da Constituição Federal e o bloco de constitucionalidade, especialmente quanto aos tratados internacionais de direitos humanos?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "fim",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos sociais",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Durante uma pandemia, é aprovada lei que concede benefício assistencial às famílias em situação de extrema pobreza e fixa expressamente seu valor em um salário mínimo. Essa forma de fixação é constitucional?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "fim",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos fundamentais",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "Os direitos sociais são necessariamente direitos coletivos?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Crimes tributários",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O princípio da insignificância pode ser aplicado aos crimes tributários?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "fim",
+          "materia": "Direito Tributário",
+          "tema": "Crédito tributário",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O crédito tributário cujo valor fica abaixo do limite administrativo para o ajuizamento de execução fiscal deixa de ser cobrado ou é perdoado?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Servidores públicos",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia explicar em que consiste o instituto da estabilização financeira aplicável aos servidores públicos?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Servidores públicos",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em 2022, ao analisar uma lei municipal que prevê a estabilização financeira mediante incorporação de vantagens vinculadas ao exercício de cargo em comissão ou função de confiança, como a senhora se manifestaria sobre sua constitucionalidade?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2022_04",
+      "edicao": "LVIII",
+      "ano": 2022,
+      "grupo_tematico": "III",
+      "n_questoes_origem": 59,
+      "n_elegiveis": 56,
+      "n_questoes": 28,
+      "n_cadeias": 7,
+      "n_reabilitadas": 3,
+      "score_medio": 112.78,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Constitucional",
+        "Direito Penal",
+        "Direito Processual Penal",
+        "Direito da Infância e Juventude",
+        "Direitos Difusos e Coletivos"
+      ],
+      "distribuicao_materia": {
+        "Direito Penal": 11,
+        "Direito Administrativo": 5,
+        "Direitos Difusos e Coletivos": 5,
+        "Direito Constitucional": 3,
+        "Direito da Infância e Juventude": 2,
+        "Direito Processual Penal": 2
+      },
+      "distribuicao_dificuldade": {
+        "media": 12,
+        "dificil": 12,
+        "facil": 4
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Agentes públicos",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em quais situações podem ser criados cargos em comissão na Administração Pública?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Uma pessoa noticia ao Ministério Público que o chefe do Poder Executivo utiliza sua conta pessoal em rede social para divulgar atividades da Administração e realizar transmissões ao vivo, sustentando haver promoção pessoal do agente público. Como a senhora entende que o Ministério Público deve agir diante desse fato?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Agentes políticos",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Um cidadão comparece à Promotoria de Justiça e noticia, com base em informações obtidas na internet, que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como a senhora entende que o Ministério Público deve agir diante dessa notícia?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "A senhora considera possível sustentar a inconstitucionalidade e a inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa, por ofensa ao princípio da vedação ao retrocesso?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora poderia indicar um tratado internacional que serviria de parâmetro para a alegação de inconvencionalidade das alterações promovidas pela Lei nº 14.230/2021 na Lei de Improbidade Administrativa?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Processo coletivo",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "A senhora entende que há diferença entre os conceitos de litígio coletivo e processo coletivo?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "inicio",
+          "materia": "Direito da Infância e Juventude",
+          "tema": "Competência",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Em ação civil pública ajuizada contra o Município para suprir a falta de vagas na educação infantil, a Vara da Fazenda Pública concede tutela liminar e, posteriormente, o Município suscita a incompetência desse juízo. Atuando como fiscal da ordem jurídica, qual parecer a senhora apresentaria e qual é a vara competente para processar e julgar a demanda?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "meio",
+          "materia": "Direito da Infância e Juventude",
+          "tema": "Competência",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "A competência da Vara da Infância e da Juventude para julgar ação destinada à obtenção de vaga em creche é absoluta?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Ação civil pública",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Segundo a jurisprudência do Superior Tribunal de Justiça, pode-se exigir do Ministério Público o adiantamento de honorários periciais em ação civil pública? Essa orientação foi alterada pela entrada em vigor do Código de Processo Civil de 2015?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Mandado de segurança coletivo",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A Defensoria Pública tem legitimidade ativa para impetrar mandado de segurança coletivo?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Mandado de segurança coletivo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "O Superior Tribunal de Justiça reconhece a legitimidade ativa da Defensoria Pública para impetrar mandado de segurança coletivo, apesar de ela não estar expressamente incluída no rol constitucional e legal de legitimados?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Mandado de segurança coletivo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Segundo o entendimento do Superior Tribunal de Justiça, tanto a Defensoria Pública quanto o Ministério Público têm legitimidade ativa para impetrar mandado de segurança coletivo?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos fundamentais",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Na visão da senhora, existem direitos fundamentais fora da Constituição Federal?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos fundamentais",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Podem existir direitos fundamentais tanto em acordos internacionais quanto em leis ordinárias?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos fundamentais",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora poderia dar um exemplo de direito fundamental previsto em lei ordinária que concretize um direito constitucional?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Dolo",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia esclarecer a distinção central entre o dolo direto de primeiro grau e o dolo direto de segundo grau?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Dolo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "No dolo direto de segundo grau, é necessário que o agente tenha certeza de que o resultado principal ocorrerá, ou basta que saiba que, caso seu plano tenha êxito, a consequência colateral será necessária? Considere o caso Thomas, em que o agente instala uma bomba em um navio para destruí-lo e receber o seguro, sem certeza de que o artefato funcionará, mas sabendo que, se o plano se consumar nas condições previstas, os tripulantes morrerão. Há dolo direto de segundo grau quanto às mortes?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Dolo",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora poderia conceituar dolo generalis, também denominado dolo geral?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Dolo generalis",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Em hipótese de dolo generalis, o agente espanca violentamente a vítima com intenção de matá-la e, supondo que ela já esteja morta, incendeia o corpo para ocultá-lo, mas a morte ocorre apenas em razão do incêndio. O resultado deve ser imputado a título de dolo, configurando homicídio doloso consumado, ou o agente responde por tentativa de homicídio em concurso com eventual homicídio culposo?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Dolo generalis",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "No caso em que o agente, com dolo direto de primeiro grau, agride a vítima para matá-la, acredita equivocadamente que ela já morreu e, em seguida, incendeia o corpo para ocultá-lo, embora a morte somente ocorra em razão do incêndio, aplica-se a solução do dolo geral, com imputação de homicídio doloso consumado?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Dolo generalis",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Se o agente, em uma agressão, não pretende diretamente matar, mas atua com dolo eventual, acredita equivocadamente que a vítima morreu e, para desfazer-se do suposto cadáver, incendeia o corpo, causando somente então a morte, o senhor considera configurado homicídio doloso consumado?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Para solucionar os casos de dolo geral em que a morte decorre de um segundo ato praticado pelo agente, a senhora considera útil o critério da realização do plano, segundo o qual haverá homicídio doloso consumado se o segundo ato permanecer na esfera do plano global, mas não se estiver fora dele?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Roubo",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "No crime de roubo, a incidência da causa de aumento pelo emprego de arma de fogo depende de sua apreensão e perícia, ou pode ser demonstrada por outros meios de prova sem inversão do ônus probatório? Se a arma for apreendida e a perícia constatar tratar-se de simulacro ou de artefato absolutamente ineficaz, a senhora imputaria essa causa de aumento?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Roubo",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora considera correta a orientação jurisprudencial minoritária segundo a qual o emprego de simulacro de arma de fogo autoriza a incidência da causa de aumento do roubo relativa ao emprego de arma de fogo? Na condição de promotora de Justiça, a senhora imputaria essa majorante em caso de simulacro comprovado?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "fim",
+          "materia": "Direito Processual Penal",
+          "tema": "Correlação entre denúncia e sentença",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Se a denúncia por roubo narrar o emprego comprovado de um simulacro e o Ministério Público esclarecer expressamente que não imputa a causa de aumento relativa à arma de fogo, o juiz poderá reconhecê-la na sentença a título de emendatio libelli, sob o fundamento de que o acusado se defende dos fatos, ou isso exigiria mutatio libelli?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "fim",
+          "materia": "Direito Processual Penal",
+          "tema": "Tribunal do Júri",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "No procedimento do Tribunal do Júri, se uma primeira apelação fundada no art. 593, III, d, do Código de Processo Penal for provida para determinar novo julgamento, a senhora entende ser cabível, após o segundo júri, nova apelação também fundada em decisão manifestamente contrária à prova dos autos, embora baseada em argumento fático distinto?"
+        },
+        {
+          "id": "q0027",
+          "ordem": 27,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Excludentes de ilicitude",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Para que o consentimento do ofendido opere como causa supralegal de exclusão da ilicitude, é necessário que o agente tenha conhecimento desse consentimento?"
+        },
+        {
+          "id": "q0028",
+          "ordem": 28,
+          "momento": "fim",
+          "materia": "Direito Penal",
+          "tema": "Exclusão da ilicitude",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora sustenta que o conhecimento da situação justificante é exigido nas causas legais de exclusão da ilicitude, como a legítima defesa, mas dispensado no consentimento do ofendido por se tratar de causa supralegal?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2023_01",
+      "edicao": "LIX",
+      "ano": 2023,
+      "grupo_tematico": null,
+      "n_questoes_origem": 52,
+      "n_elegiveis": 42,
+      "n_questoes": 21,
+      "n_cadeias": 7,
+      "n_reabilitadas": 3,
+      "score_medio": 117.38,
+      "materias": [
+        "Direito Civil",
+        "Direito Constitucional",
+        "Direito Penal",
+        "Direito Processual Penal",
+        "Direito do Consumidor",
+        "Direitos Humanos"
+      ],
+      "distribuicao_materia": {
+        "Direito Processual Penal": 6,
+        "Direito Constitucional": 4,
+        "Direito Penal": 4,
+        "Direito Civil": 4,
+        "Direitos Humanos": 2,
+        "Direito do Consumidor": 1
+      },
+      "distribuicao_dificuldade": {
+        "media": 14,
+        "dificil": 7
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Constitucional",
+          "tema": "Nacionalidade",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia esclarecer em que condições a Constituição Federal autoriza a extradição de brasileiros, distinguindo o brasileiro nato do naturalizado?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Constitucional",
+          "tema": "Princípio da inafastabilidade",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia indicar quando o princípio da inafastabilidade da jurisdição foi positivado no constitucionalismo brasileiro?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Constitucional",
+          "tema": "Princípio da inafastabilidade",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "O princípio da inafastabilidade da jurisdição sofreu alterações ao longo da história constitucional brasileira? Em caso positivo, o senhor poderia explicar em que medida?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito Constitucional",
+          "tema": "Princípio da inafastabilidade",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "O senhor poderia indicar se houve, no passado remoto ou recente, norma infraconstitucional considerada violadora do princípio da inafastabilidade da jurisdição?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Crimes contra a ordem tributária",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Para a incidência do princípio da insignificância nos crimes de sonegação fiscal, o senhor poderia indicar qual valor deve ser considerado diminuto?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Crimes contra a ordem tributária",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Havendo depósito integral do montante do tributo em ação anulatória, a respectiva ação penal deve ser suspensa?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Crimes contra a ordem tributária",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O depósito integral do tributo em ação anulatória determina a suspensão da respectiva ação penal?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Excludentes de ilicitude",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Durante um tiroteio grave, um policial em serviço, incumbido de proteger os cidadãos atingidos pela situação, percebe que sua esposa e seu filho também estão em perigo. O senhor entende que ele pode dar preferência ao salvamento de seus familiares, deixando os demais cidadãos desprotegidos?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Qual é, segundo o senhor, o sentido da expressão “no último caso” empregada no art. 5º, XII, da Constituição Federal, após a enumeração do sigilo da correspondência, das comunicações telegráficas, de dados e das comunicações telefônicas?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Entre o sigilo da correspondência, o sigilo das comunicações telegráficas, o sigilo de dados e o sigilo das comunicações telefônicas, qual deles constitui o “último caso” mencionado no art. 5º, XII, da Constituição Federal e está abrangido pela ressalva expressa de interceptação mediante ordem judicial?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia diferenciar prova atípica, prova anômala e prova irritual?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O art. 155, parágrafo único, do Código de Processo Penal dispõe que somente quanto ao estado das pessoas serão observadas as restrições estabelecidas na lei civil, e o art. 158 estabelece que, quando a infração deixar vestígios, será indispensável o exame de corpo de delito. Na avaliação do senhor, esses dispositivos constituem concessões ao sistema das provas tarifadas?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia explicar em que consiste a quebra da cadeia de custódia e quais são as suas consequências no processo penal?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O que o senhor entende por busca exploratória no processo penal?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Seguro de vida e sucessões",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Uma pessoa contratou seguro de vida e indicou um sobrinho como beneficiário. Posteriormente, por testamento público, destinou o capital do seguro a três sobrinhos, entre eles o beneficiário originalmente indicado. Qual solução jurídica o senhor daria ao caso?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Seguro de vida e sucessões",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O capital devido em razão de seguro de vida por morte do segurado ingressa no inventário e compõe o acervo hereditário?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Direito das sucessões",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Um pai, casado pelo regime da separação obrigatória de bens e com dois filhos, foi acometido por doença degenerativa grave, embora permanecesse plenamente capaz. Depois de perder os movimentos dos braços e das pernas, um dos filhos deixou de visitá-lo e de lhe prestar qualquer assistência material ou imaterial. Que solução jurídica o senhor indicaria para que o pai exclua esse filho da sucessão?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Direito das sucessões",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Como o pai deve formalizar a deserdação do filho por desamparo durante grave enfermidade?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "fim",
+          "materia": "Direitos Humanos",
+          "tema": "Identidade de gênero",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Atuando em uma comarca, o senhor é procurado por uma adolescente transgênero à qual foi negado o acesso ao banheiro feminino. Que solução jurídica e institucional poderia adotar?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "fim",
+          "materia": "Direito do Consumidor",
+          "tema": "Superendividamento",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Como se configura o dano por assédio nas situações de superendividamento do consumidor?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "fim",
+          "materia": "Direitos Humanos",
+          "tema": "Controle de convencionalidade",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em quais hipóteses o Ministério Público atua na aferição e no controle de convencionalidade?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2023_02",
+      "edicao": "LIX",
+      "ano": 2023,
+      "grupo_tematico": null,
+      "n_questoes_origem": 73,
+      "n_elegiveis": 62,
+      "n_questoes": 31,
+      "n_cadeias": 10,
+      "n_reabilitadas": 0,
+      "score_medio": 114.04,
+      "materias": [
+        "Direito Ambiental",
+        "Direito Empresarial",
+        "Direito Institucional do Ministério Público",
+        "Direito Penal",
+        "Direito Processual Penal",
+        "Direito Tributário",
+        "Direito do Consumidor"
+      ],
+      "distribuicao_materia": {
+        "Direito Penal": 9,
+        "Direito Institucional do Ministério Público": 8,
+        "Direito do Consumidor": 5,
+        "Direito Tributário": 3,
+        "Direito Processual Penal": 3,
+        "Direito Ambiental": 2,
+        "Direito Empresarial": 1
+      },
+      "distribuicao_dificuldade": {
+        "media": 12,
+        "dificil": 17,
+        "facil": 2
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Tributário",
+          "tema": "Processo judicial tributário",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Na execução fiscal, por quais meios processuais pode a senhora indicar que o contribuinte executado se defenda?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Tributário",
+          "tema": "Repetição de indébito tributário",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Considerando que o município recebe cinquenta por cento do produto da arrecadação do IPVA, esclareça a senhora se ele deve integrar o polo passivo da ação de repetição de indébito ajuizada pelo contribuinte."
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Tributário",
+          "tema": "Repetição de indébito tributário",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Na ação de repetição de indébito de IPVA, o município apenas não precisa integrar um litisconsórcio passivo necessário ou efetivamente carece de legitimidade passiva?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "No âmbito da participação por auxílio, quais são os principais critérios doutrinários para imputar ou afastar a responsabilidade penal quando a contribuição é prestada por meio de uma ação neutra?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Duas pessoas, agindo segundo um plano comum de matar a vítima por envenenamento, dividem as tarefas: uma coloca veneno em um copo de água e a outra em uma taça de vinho, sem saber qual bebida será ingerida. A vítima bebe apenas a água e morre. A senhora pode imputar o homicídio consumado também à pessoa que envenenou o vinho? Por quê?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "No caso em que dois coautores envenenam, respectivamente, a água e o vinho destinados à vítima, mas ela ingere somente a água, qual é o fundamento normativo para imputar o homicídio consumado também ao agente cuja conduta individual de envenenar o vinho não causou fisicamente a morte?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Crimes culposos",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Duas pessoas, atuando conjuntamente e sem intenção de matar, lançam objetos pesados do alto de um prédio em violação ao dever objetivo de cuidado. Um dos objetos atinge e mata uma vítima, mas não é possível determinar qual dos agentes o lançou. A senhora pode imputar o resultado a ambos ou a incerteza causal impede a responsabilização pelo homicídio culposo?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Crimes culposos",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Na hipótese em que duas pessoas, sem intenção de matar, atuam conjuntamente no lançamento imprudente de objetos pesados do alto de um prédio, a que se refere o plano comum exigido pela corrente que admite a coautoria culposa: ao resultado morte ou a outro elemento?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Crimes culposos",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "No caso em que duas pessoas lançam conjuntamente objetos pesados do alto de um prédio, causando culposamente uma morte, sem que se possa identificar quem lançou o objeto fatal, a senhora adotaria a corrente que permite imputar o resultado a ambos?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Crimes culposos",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega ao cirurgião, que não tinha condições de perceber a contaminação e atua sem dolo ou culpa. O instrumento é utilizado na cirurgia, o paciente sofre uma infecção e morre. A senhora pode responsabilizar penalmente o enfermeiro e, em caso afirmativo, a que título?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Crimes culposos",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Um enfermeiro, violando o dever objetivo de cuidado, deixa de esterilizar um bisturi e o entrega a um cirurgião que, sem culpa e sem condições de perceber a contaminação, utiliza-o em cirurgia, causando a morte do paciente. A doutrina majoritária imputa o resultado ao enfermeiro? A atuação posterior do médico encerra a relevância da violação do dever de cuidado pelo enfermeiro?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Autoria em crimes culposos",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora entende ser possível a autoria mediata em crime culposo?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Assistente de acusação",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O assistente de acusação pode recorrer de uma sentença condenatória, inclusive para buscar o agravamento da situação penal do réu?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Inquérito policial",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "O assistente de acusação pode atuar formalmente durante a fase do inquérito policial?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Provas no processo penal",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "À luz do sistema acusatório e da doutrina atual, a determinação de produção de provas de ofício pelo juiz viola necessariamente a imparcialidade judicial?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Atuação do Ministério Público",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Qual é a fundamentação constitucional da atuação do Ministério Público no processo civil?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Legitimidade do Ministério Público",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Nas ações coletivas destinadas à tutela de direitos individuais, o Ministério Público possui legitimidade para atuar? Qual é o fundamento dessa legitimidade?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Legitimidade do Ministério Público",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia explicar e diferenciar a legitimação autônoma do Ministério Público e sua atuação como substituto processual?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Ação civil pública",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Considerando a vedação do art. 1º, parágrafo único, da Lei da Ação Civil Pública quanto à veiculação de pretensões que envolvam tributos, o Ministério Público tem legitimidade para ajuizar ação civil pública destinada a anular incentivo fiscal milionário concedido a uma empresa? Qual é o fundamento?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Intervenção do Ministério Público",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O Ministério Público deve intervir em processo de reconhecimento de união estável entre partes maiores e capazes?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Intervenção do Ministério Público",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em ação de reconhecimento de união estável post mortem, na qual todos os interessados sejam maiores e capazes, é obrigatória a intervenção do Ministério Público?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Intervenção do Ministério Público",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O Ministério Público pode manifestar-se em sentido contrário ao interesse de incapaz no processo em que intervém? Qual é o fundamento desse entendimento?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "meio",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Intervenção do Ministério Público",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Diante da divergência sobre a atuação do Ministério Público no processo em que há interesse de incapaz, qual entendimento a senhora adota quanto à possibilidade de manifestação contrária à pretensão sustentada em favor do incapaz?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "fim",
+          "materia": "Direito Ambiental",
+          "tema": "Conceito de meio ambiente",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "Considerando as classificações civis dos bens, em qual delas se insere o meio ambiente?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "fim",
+          "materia": "Direito Empresarial",
+          "tema": "Recuperação judicial e falência",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "É admissível a recuperação judicial ou a falência de associações e fundações?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "fim",
+          "materia": "Direito Ambiental",
+          "tema": "Meio ambiente",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "O meio ambiente pode ser considerado um macrobem?"
+        },
+        {
+          "id": "q0027",
+          "ordem": 27,
+          "momento": "fim",
+          "materia": "Direito do Consumidor",
+          "tema": "Responsabilidade do fornecedor",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Uma decisão proferida contra a matriz por atos prejudiciais aos consumidores pode produzir efeitos em relação às suas filiais, ainda que elas tenham inscrições próprias no CNPJ?"
+        },
+        {
+          "id": "q0028",
+          "ordem": 28,
+          "momento": "fim",
+          "materia": "Direito do Consumidor",
+          "tema": "Responsabilidade do fornecedor",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "É possível redirecionar às filiais a condenação imposta à matriz, ainda que elas tenham inscrições próprias no CNPJ?"
+        },
+        {
+          "id": "q0029",
+          "ordem": 29,
+          "momento": "fim",
+          "materia": "Direito do Consumidor",
+          "tema": "Tutela coletiva",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "É possível estender os efeitos de uma sentença penal condenatória para promover a liquidação e a execução coletiva previstas no Código de Defesa do Consumidor?"
+        },
+        {
+          "id": "q0030",
+          "ordem": 30,
+          "momento": "fim",
+          "materia": "Direito do Consumidor",
+          "tema": "Tutela coletiva",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em quais hipóteses os efeitos de uma sentença penal condenatória podem ser estendidos para fins de liquidação e execução coletiva no regime do Código de Defesa do Consumidor?"
+        },
+        {
+          "id": "q0031",
+          "ordem": 31,
+          "momento": "fim",
+          "materia": "Direito do Consumidor",
+          "tema": "Tutela coletiva",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A sentença penal condenatória transitada em julgado que reconheça fato danoso aos consumidores pode ser executada na esfera cível, inclusive coletivamente?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2023_03",
+      "edicao": "LIX",
+      "ano": 2023,
+      "grupo_tematico": "IV",
+      "n_questoes_origem": 89,
+      "n_elegiveis": 71,
+      "n_questoes": 36,
+      "n_cadeias": 11,
+      "n_reabilitadas": 1,
+      "score_medio": 114.48,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Empresarial",
+        "Direito Institucional do Ministério Público",
+        "Direito Penal",
+        "Direito Processual Civil",
+        "Direito Processual Penal",
+        "Direito Tributário",
+        "Direito do Consumidor",
+        "Direitos Difusos e Coletivos"
+      ],
+      "distribuicao_materia": {
+        "Direito do Consumidor": 7,
+        "Direito Penal": 7,
+        "Direito Institucional do Ministério Público": 6,
+        "Direito Administrativo": 5,
+        "Direito Tributário": 4,
+        "Direitos Difusos e Coletivos": 2,
+        "Direito Processual Penal": 2,
+        "Direito Processual Civil": 2,
+        "Direito Empresarial": 1
+      },
+      "distribuicao_dificuldade": {
+        "dificil": 11,
+        "media": 22,
+        "facil": 3
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Processo coletivo",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O que o senhor entende por demanda de valor esperado negativo no âmbito do processo coletivo?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Processo coletivo",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O senhor entende que a tutela coletiva é inadequada quando as pretensões individuais envolvidas apresentam valor esperado negativo?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito do Consumidor",
+          "tema": "Consumidor por equiparação",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O senhor considera possível ajuizar ação para tutelar interesse de consumidor por equiparação quando houver apenas vício do produto ou do serviço?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito do Consumidor",
+          "tema": "Ônus da prova",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Em ação coletiva proposta pelo Ministério Público como substituto processual dos consumidores, o senhor entende cabível a inversão do ônus da prova?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito do Consumidor",
+          "tema": "Ônus da prova",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Na ação coletiva proposta pelo Ministério Público em defesa dos consumidores, a hipossuficiência é requisito indispensável para a inversão do ônus da prova? O Ministério Público pode ser considerado hipossuficiente para esse fim?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direito do Consumidor",
+          "tema": "Coisa julgada coletiva",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "A decisão coletiva proferida contra a matriz por atos prejudiciais aos consumidores é extensível às suas filiais, ainda que elas possuam inscrições distintas no CNPJ?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "inicio",
+          "materia": "Direito do Consumidor",
+          "tema": "Coisa julgada coletiva",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Como o senhor fundamenta, no direito do consumidor e no processo coletivo, a extensão às filiais dos efeitos de uma decisão coletiva proferida contra a matriz?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "inicio",
+          "materia": "Direito do Consumidor",
+          "tema": "Execução coletiva",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "É possível redirecionar a execução de uma condenação imposta à matriz para as suas filiais?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "inicio",
+          "materia": "Direito do Consumidor",
+          "tema": "Execução coletiva",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A utilização da sentença penal condenatória como título para a execução coletiva consumerista limita-se às hipóteses em que o próprio juízo criminal tenha fixado valor mínimo para a indenização?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Licitações",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Durante o período de transição da Lei nº 8.666/1993 para a Lei nº 14.133/2021, admite-se a aplicação simultânea dos dois regimes jurídicos em um mesmo processo de licitação e contratação?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Licitações",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "Quais modalidades de licitação previstas na Lei nº 8.666/1993 não foram contempladas pela Lei nº 14.133/2021?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Licitações",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Em que consiste a alteração promovida pela Lei nº 14.133/2021 que tem sido denominada “apregoamento da concorrência”?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Licitações",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Por que se afirma que houve o “apregoamento da concorrência” quanto ao momento do julgamento das propostas e da habilitação dos licitantes?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Pregão",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O pregão destina-se à contratação de quais bens e serviços e quais critérios de julgamento são admitidos nessa modalidade pela Lei nº 14.133/2021?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Tributário",
+          "tema": "Execução fiscal",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "Na execução fiscal, por quais meios processuais o contribuinte executado pode apresentar sua defesa?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Tributário",
+          "tema": "Execução fiscal",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Na execução fiscal de crédito tributário, quais são os pressupostos para a configuração da prescrição intercorrente?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Tributário",
+          "tema": "Execução fiscal",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "Qual é o prazo da prescrição intercorrente na execução fiscal de crédito tributário?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direito Tributário",
+          "tema": "Repetição de indébito",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Considerando que o Município recebe cinquenta por cento do produto da arrecadação do IPVA relativo aos veículos licenciados em seu território, ele deve integrar o polo passivo da ação de repetição de indébito ajuizada pelo contribuinte para obter a restituição desse imposto?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Erro",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O que o senhor entende por erro mandamental no Direito Penal?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Erro",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O que o senhor entende por erro de proibição indireto e como ele se distingue do erro sobre os pressupostos fáticos de uma causa de justificação?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Na hipótese de duas pessoas que atuam conjuntamente de maneira contrária ao dever objetivo de cuidado e causam um resultado típico, é possível reconhecer coautoria em crime culposo?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Duas pessoas, atuando conjuntamente no alto de um prédio, lançam objetos pesados para baixo, e um deles mata um transeunte, sem que seja possível identificar qual agente lançou o objeto fatal. A morte pode ser imputada a ambos, ainda que se afirme que, no crime culposo, cada agente falha por si?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Nexo causal",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Na hipótese em que duas pessoas atuam conjuntamente de forma culposa, mas não se consegue identificar qual delas praticou o ato físico que produziu a morte, a imputação do resultado a ambas exige nexo causal?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Duas pessoas, atuando de forma coordenada no alto de um prédio, lançam objetos pesados para baixo, e um deles mata um transeunte, sem que se saiba qual agente lançou o objeto fatal. A imputação recíproca utilizada na coautoria dolosa também pode ser aplicada ao crime culposo e, em caso afirmativo, como se justifica a imputação da morte a ambos?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Admitida a imputação da morte às duas pessoas que, atuando conjuntamente e com violação do dever de cuidado, lançaram objetos de um prédio, sem que se identifique qual delas lançou o objeto fatal, elas respondem a título de autoria individual ou de coautoria culposa?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Recursos",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O assistente de acusação pode interpor recurso contra uma sentença condenatória?"
+        },
+        {
+          "id": "q0027",
+          "ordem": 27,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Recursos",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "A que título o assistente de acusação pode recorrer de uma sentença condenatória? Há divergência quanto ao fundamento de seu interesse recursal?"
+        },
+        {
+          "id": "q0028",
+          "ordem": 28,
+          "momento": "fim",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Legitimação processual",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Explique o senhor a diferença entre a legitimação autônoma do Ministério Público para a condução do processo coletivo e sua atuação como substituto processual."
+        },
+        {
+          "id": "q0029",
+          "ordem": 29,
+          "momento": "fim",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Legitimação processual",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Dê o senhor um exemplo de atuação do Ministério Público mediante legitimação autônoma para a condução do processo coletivo e outro de atuação como substituto processual."
+        },
+        {
+          "id": "q0030",
+          "ordem": 30,
+          "momento": "fim",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Ação civil pública",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Considerando a vedação prevista no art. 1º, parágrafo único, da Lei da Ação Civil Pública para pretensões que envolvam tributos, o Ministério Público tem legitimidade para ajuizar ação civil pública destinada a anular incentivo fiscal milionário concedido a determinada empresa? Qual é o fundamento dessa atuação?"
+        },
+        {
+          "id": "q0031",
+          "ordem": 31,
+          "momento": "fim",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Intervenção no processo civil",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor entende que o Ministério Público deve intervir em processo cujo objeto seja o reconhecimento de união estável entre partes maiores e capazes?"
+        },
+        {
+          "id": "q0032",
+          "ordem": 32,
+          "momento": "fim",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Intervenção no processo civil",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A intervenção do Ministério Público passa a ser obrigatória se a ação tiver por objeto o reconhecimento post mortem de união estável?"
+        },
+        {
+          "id": "q0033",
+          "ordem": 33,
+          "momento": "fim",
+          "materia": "Direito Processual Civil",
+          "tema": "Intervenção do Ministério Público",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Diante da divergência doutrinária sobre a vinculação do Ministério Público à pretensão do incapaz, qual posição o senhor adota: a instituição deve sempre defender o pedido formulado pelo incapaz ou pode manifestar-se em sentido contrário?"
+        },
+        {
+          "id": "q0034",
+          "ordem": 34,
+          "momento": "fim",
+          "materia": "Direito Processual Civil",
+          "tema": "Atuação ministerial",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Ao assumir uma Promotoria de Justiça de comarca de vara única e encontrar, entre outros, processos de alvará para venda de imóvel de menor, conhecimento e execução de alimentos, ação civil pública em defesa do patrimônio público, divórcio, reconhecimento de união estável e curatela de pessoa idosa, qual dinâmica o senhor adotaria para priorizar a atuação ministerial? O que significa tratamento adequado dos conflitos?"
+        },
+        {
+          "id": "q0035",
+          "ordem": 35,
+          "momento": "fim",
+          "materia": "Direito Institucional do Ministério Público",
+          "tema": "Atuação do Ministério Público",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em relação à política de tratamento adequado dos conflitos instituída por ato do CNJ, o senhor conhece ato semelhante no âmbito do CNMP?"
+        },
+        {
+          "id": "q0036",
+          "ordem": 36,
+          "momento": "fim",
+          "materia": "Direito Empresarial",
+          "tema": "Recuperação judicial e falência",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O senhor considera admissíveis a recuperação judicial e a falência de associações e fundações?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2023_04",
+      "edicao": "LIX",
+      "ano": 2023,
+      "grupo_tematico": "II",
+      "n_questoes_origem": 60,
+      "n_elegiveis": 54,
+      "n_questoes": 27,
+      "n_cadeias": 11,
+      "n_reabilitadas": 0,
+      "score_medio": 112.8,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Civil",
+        "Direito Penal",
+        "Direito Processual Penal",
+        "Direito Tributário",
+        "Direitos Humanos"
+      ],
+      "distribuicao_materia": {
+        "Direito Penal": 9,
+        "Direito Administrativo": 6,
+        "Direito Processual Penal": 4,
+        "Direitos Humanos": 3,
+        "Direito Tributário": 3,
+        "Direito Civil": 2
+      },
+      "distribuicao_dificuldade": {
+        "facil": 7,
+        "media": 17,
+        "dificil": 3
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Aborto",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "Quais são os dois casos em que o Código Penal expressamente não pune o aborto praticado por médico?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Aborto",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Nas hipóteses de aborto necessário e de aborto decorrente de estupro, a senhora entende que há exclusão da tipicidade, da ilicitude ou da culpabilidade?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Aborto",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora esclareça se uma enfermeira pode realizar o aborto necessário e o aborto decorrente de estupro sem responder criminalmente."
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Aborto",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Por que a enfermeira não responderia criminalmente ao realizar o aborto necessário ou o aborto decorrente de estupro?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Aborto",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Há previsão legal que autorize expressamente uma enfermeira a realizar o aborto necessário ou o aborto decorrente de estupro?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Aborto",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O que a senhora quer dizer, exatamente, com interpretação sistemática para admitir que uma enfermeira realize um aborto legal na ausência de médico?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Aborto",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Na ausência de médico, a senhora entende que uma enfermeira pode realizar o aborto tanto para afastar perigo à vida da gestante quanto em caso de gravidez decorrente de estupro? Indique o fundamento jurídico aplicável a cada hipótese."
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do crime",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora entende que uma enfermeira está absolutamente impedida, em qualquer hipótese, de realizar aborto em gravidez decorrente de estupro, ou pode haver algum fundamento excludente em circunstâncias excepcionais?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Teoria do crime",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia indicar os elementos estruturantes do tipo doloso e do tipo culposo?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Princípios processuais penais",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia explicar o conteúdo axiológico tridimensional da presunção de inocência?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Princípios processuais penais",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia diferenciar a ampla defesa da plenitude de defesa no processo penal?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Princípios processuais penais",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "No procedimento comum, é vedado à defesa utilizar argumentos metajurídicos, de natureza moral ou religiosa, para pedir ao juiz togado uma absolvição por clemência?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Sistemas processuais",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Segundo Canotilho e Vital Moreira, a densificação semântica da estrutura acusatória pode ser compreendida em uma dimensão material e em uma dimensão orgânico-subjetiva. A senhora poderia explicar essas duas dimensões?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Direito de Família",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "A senhora poderia explicar o que são famílias coparentais?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Direito das Sucessões",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Qual tratamento jurídico a senhora entende que deve ser conferido ao conteúdo inserido nas redes sociais pelo autor da herança?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Em matéria de improbidade administrativa, quais inovações a Lei nº 14.230/2021 introduziu quanto ao elemento subjetivo doloso?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direitos Humanos",
+          "tema": "Igualdade e discriminação",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Em relação ao racismo, a senhora entende ser juridicamente adequada a expressão “racismo reverso”?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direitos Humanos",
+          "tema": "Direitos da pessoa idosa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Quanto à proteção da pessoa idosa, a senhora poderia citar quatro prioridades expressamente previstas em lei?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direitos Humanos",
+          "tema": "Direitos da pessoa idosa",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A senhora considera que a prioridade legal conferida à pessoa idosa constitui privilégio? Justifique."
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Lei Anticorrupção",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Nos casos previstos na Lei Anticorrupção, é cabível a desconsideração da personalidade jurídica no âmbito administrativo?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Lei Anticorrupção",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "No processo administrativo de responsabilização previsto na Lei Anticorrupção, é possível desconsiderar a personalidade jurídica?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Lei Anticorrupção",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O Ministério Público pode celebrar o acordo de leniência previsto na Lei Anticorrupção?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Lei Anticorrupção",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Se o Ministério Público discordar das cláusulas de acordo de leniência celebrado pela autoridade competente, poderá questioná-las judicialmente?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Lei Anticorrupção",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "Qual é o prazo prescricional das infrações previstas na Lei Anticorrupção?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "fim",
+          "materia": "Direito Tributário",
+          "tema": "Sistema Tributário Nacional",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "No atual Sistema Tributário Nacional, quantas e quais são as espécies tributárias?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "fim",
+          "materia": "Direito Tributário",
+          "tema": "Espécies tributárias",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "Quais tributos são vinculados a uma atuação estatal relativa ao contribuinte?"
+        },
+        {
+          "id": "q0027",
+          "ordem": 27,
+          "momento": "fim",
+          "materia": "Direito Tributário",
+          "tema": "Taxas",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O serviço de iluminação pública pode ser remunerado mediante taxa?"
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2024_01",
+      "edicao": "LX",
+      "ano": 2024,
+      "grupo_tematico": "IV",
+      "n_questoes_origem": 93,
+      "n_elegiveis": 72,
+      "n_questoes": 36,
+      "n_cadeias": 13,
+      "n_reabilitadas": 2,
+      "score_medio": 114.7,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Civil",
+        "Direito Constitucional",
+        "Direito Eleitoral",
+        "Direito Empresarial",
+        "Direito Penal",
+        "Direito Processual Civil",
+        "Direito Processual Penal",
+        "Direito Tributário",
+        "Direito da Infância e Juventude",
+        "Direito do Consumidor",
+        "Direitos Difusos e Coletivos"
+      ],
+      "distribuicao_materia": {
+        "Direitos Difusos e Coletivos": 9,
+        "Direito Penal": 5,
+        "Direito Processual Penal": 5,
+        "Direito do Consumidor": 4,
+        "Direito Civil": 3,
+        "Direito Constitucional": 2,
+        "Direito Tributário": 2,
+        "Direito Empresarial": 2,
+        "Direito Administrativo": 1,
+        "Direito da Infância e Juventude": 1,
+        "Direito Eleitoral": 1,
+        "Direito Processual Civil": 1
+      },
+      "distribuicao_dificuldade": {
+        "media": 19,
+        "dificil": 15,
+        "facil": 2
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Licitações",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O senhor poderia indicar três hipóteses de dispensa de licitação previstas na Lei nº 14.133/2021?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Inquérito civil e TAC",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Se o promotor de Justiça celebra termo de ajustamento de conduta no curso de inquérito civil, é necessária a homologação judicial desse compromisso?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Inquérito civil e TAC",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Na hipótese de termo de ajustamento de conduta celebrado em inquérito civil e posteriormente homologado judicialmente, o controle do arquivamento cabe apenas ao Poder Judiciário ou subsiste o controle interno do Conselho Superior do Ministério Público?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Inquérito civil e TAC",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "O senhor entende que a homologação judicial do termo de ajustamento de conduta dispensa o controle do Conselho Superior do Ministério Público sobre o arquivamento do inquérito civil?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Inquérito civil e TAC",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Se um termo de ajustamento de conduta for homologado judicialmente, mas o Conselho Superior do Ministério Público não homologar o arquivamento do inquérito civil, como deve ser solucionada essa aparente divergência?"
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Inquérito civil e TAC",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Ao analisar um inquérito civil, o senhor verifica que uma associação de proteção ao meio ambiente, constituída há mais de um ano, firmou extrajudicialmente com uma empresa poluidora um instrumento denominado termo de ajustamento de conduta, cujo conteúdo prevê a reparação integral do dano ambiental. A empresa junta o documento e requer o arquivamento do inquérito civil. Como o senhor deve proceder?"
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Inquérito civil e TAC",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "No âmbito de um inquérito civil, uma associação civil de proteção ambiental, constituída há mais de um ano, apresenta ajuste extrajudicial firmado com uma empresa poluidora, denominado termo de ajustamento de conduta e prevendo a reparação integral do dano ambiental. A associação tem legitimidade para celebrar esse TAC extrajudicial?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Inquérito civil",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Considerando que o ajuste extrajudicial firmado pela associação civil com a empresa poluidora não constitui TAC válido, o senhor arquivaria o inquérito civil com fundamento nesse instrumento?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "inicio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "TAC",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Reconhecido que o ajuste extrajudicial firmado pela associação civil não constitui TAC e recusando-se a empresa poluidora a celebrar termo de ajustamento de conduta com o Ministério Público, como o senhor procederia no inquérito civil?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito do Consumidor",
+          "tema": "PROCON-MG",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Em processo administrativo do PROCON-MG instaurado contra empresa de telefonia por infração ao Código de Defesa do Consumidor, a defesa alega bis in idem porque a empresa já sofreu sanção em processo administrativo perante a Anatel. Como o senhor analisaria essa alegação na qualidade de promotor de Justiça e autoridade administrativa do PROCON?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito do Consumidor",
+          "tema": "Sanções administrativas",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Comprovada, em processo administrativo do PROCON-MG, a prática de infração leve, pode o senhor, como autoridade administrativa, aplicar advertência em substituição à multa?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito do Consumidor",
+          "tema": "Fiscalização do PROCON",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "No exercício das funções em promotoria de Justiça única, o senhor recebe representação informando que um supermercado comercializa alimentos sem observar os padrões mínimos de higiene exigidos pelas normas de vigilância sanitária, inclusive com produtos vencidos. Quais providências o senhor adotaria na condição de autoridade administrativa do PROCON-MG?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito do Consumidor",
+          "tema": "Fiscalização do PROCON",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Como o senhor procederia, na condição de autoridade administrativa do PROCON-MG, em relação aos alimentos expostos à comercialização que não atendam aos padrões exigidos pelas normas de vigilância sanitária?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito da Infância e Juventude",
+          "tema": "Proteção de criança vítima",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Um menino de quatro anos teve a mãe vítima de feminicídio praticado pelo pai, que está preso, e passou a residir com os avós maternos, autores de ação de destituição do poder familiar. Diante de aproximações insistentes e potencialmente prejudiciais de familiares paternos, os avós solicitam ao Ministério Público o ajuizamento de medida protetiva que proíba o contato e a aproximação desses familiares em relação à criança e à família materna, inclusive com fundamento na Lei Maria da Penha. Considerando a proteção integral e o direito à convivência familiar, como o senhor avaliaria esse pedido?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos fundamentais",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Em que consiste o princípio da razoabilidade aplicado aos direitos fundamentais? Apresente também um exemplo concreto de sua incidência."
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Constitucional",
+          "tema": "Direitos fundamentais",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Em que consiste a proteção do conteúdo essencial dos direitos fundamentais e como esse instituto se relaciona com o conceito de garantia dupla?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Tributário",
+          "tema": "Prescrição tributária",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Com o objetivo de aumentar a arrecadação, uma lei estadual pode ampliar o prazo de prescrição dos créditos tributários do respectivo Estado?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direito Tributário",
+          "tema": "Decadência tributária",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Há relação entre a contagem do prazo de decadência tributária e as diferentes modalidades de lançamento do crédito tributário?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direito Eleitoral",
+          "tema": "Ações eleitorais",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Suponha que um partido político ajuíze ação de impugnação de mandato eletivo e, em seguida, requeira a desistência. O Ministério Público pode assumir o polo ativo e prosseguir com a ação?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Abuso de autoridade",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A Lei de Abuso de Autoridade criminaliza o cumprimento de mandado de busca e apreensão domiciliar após as 21 horas ou antes das 5 horas. O senhor poderia ampliar esse limite para imputar o crime ao agente público que cumpriu o mandado às 5h30, sob o fundamento de que, naquele local, ainda era noite?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Após prestar contribuição dolosa para um homicídio, mediante a entrega da arma ao executor, o partícipe pode ser exonerado apenas porque desistiu? E qual é a consequência se ele tentar seriamente impedir o resultado, mas não conseguir evitá-lo?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Erro de proibição",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "No erro de proibição, a dúvida do agente sobre a ilicitude da conduta afasta, por si só, o erro, ou o senhor ainda deve examinar outros aspectos para verificar sua configuração?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Um caminhoneiro trafega com a lanterna traseira queimada e é parado por um guarda rodoviário. O guarda instala uma sinalização luminosa vermelha, autoriza o caminhoneiro a seguir até o próximo posto para realizar o conserto e, antes de o caminhão partir, retira a sinalização, momento em que ocorre uma colisão fatal. Qual discussão esse caso suscita, em relação ao caminhoneiro, no plano da imputação objetiva?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "No caso do caminhoneiro com a lanterna traseira queimada, em que o guarda rodoviário assumiu a sinalização do veículo e a retirou antes de o caminhão partir, ocasionando colisão fatal, o senhor imputaria o resultado ao caminhoneiro em razão da causalidade material ou afastaria sua responsabilidade com fundamento na imputação objetiva?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Lei de Drogas",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "A que finalidade se destina o laudo preliminar de constatação previsto na Lei de Drogas?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Lei de Drogas",
+          "dificuldade": "facil",
+          "tipo": "desdobramento",
+          "pergunta": "Considerando especificamente o laudo preliminar previsto na Lei de Drogas, e não o laudo toxicológico definitivo, o senhor mantém que ele identifica a substância e estabelece a materialidade? Esclareça a diferença de função entre ambos."
+        },
+        {
+          "id": "q0027",
+          "ordem": 27,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Lei de Drogas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "O laudo preliminar de constatação dispensa a produção do laudo toxicológico definitivo? Em caso afirmativo, em quais hipóteses isso é admitido?"
+        },
+        {
+          "id": "q0028",
+          "ordem": 28,
+          "momento": "fim",
+          "materia": "Direito Processual Penal",
+          "tema": "Lei de Drogas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "O senhor considera possível a condenação pelo crime de tráfico de drogas sem a existência de qualquer laudo pericial sobre a substância?"
+        },
+        {
+          "id": "q0029",
+          "ordem": 29,
+          "momento": "fim",
+          "materia": "Direito Processual Penal",
+          "tema": "Prova no tráfico de drogas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "É possível condenar alguém por tráfico de drogas mesmo que nenhuma substância entorpecente tenha sido apreendida e vinculada ao acusado?"
+        },
+        {
+          "id": "q0030",
+          "ordem": 30,
+          "momento": "fim",
+          "materia": "Direito Empresarial",
+          "tema": "Microempreendedor individual",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "O microempreendedor individual poderá contratar empregados?"
+        },
+        {
+          "id": "q0031",
+          "ordem": 31,
+          "momento": "fim",
+          "materia": "Direito Empresarial",
+          "tema": "Microempreendedor individual",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Há limitação quanto ao número de empregados que o microempreendedor individual pode contratar sem perder esse enquadramento?"
+        },
+        {
+          "id": "q0032",
+          "ordem": 32,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Posse",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Quando mais de uma pessoa se afirmar possuidora da mesma coisa, quem deverá permanecer provisoriamente na posse?"
+        },
+        {
+          "id": "q0033",
+          "ordem": 33,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Capacidade civil",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia indicar todas as hipóteses de cessação da incapacidade dos menores previstas no Código Civil?"
+        },
+        {
+          "id": "q0034",
+          "ordem": 34,
+          "momento": "fim",
+          "materia": "Direito Civil",
+          "tema": "Direito das Sucessões",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Qual é a consequência jurídica para o herdeiro que dolosamente sonega bens da herança que estejam em seu poder?"
+        },
+        {
+          "id": "q0035",
+          "ordem": 35,
+          "momento": "fim",
+          "materia": "Direito Processual Civil",
+          "tema": "Execução",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Em uma execução de alimentos em favor de incapaz, quais providências de pesquisa e constrição patrimonial o senhor poderia requerer, como membro do Ministério Público interveniente, antes da citação do executado?"
+        },
+        {
+          "id": "q0036",
+          "ordem": 36,
+          "momento": "fim",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Termo de ajustamento de conduta",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Ao ajuizar ação de conhecimento apesar da existência de termo de ajustamento de conduta, o Ministério Público pode requerer tutela liminar com fundamento nesse ajuste? O senhor esclareça."
+        }
+      ]
+    },
+    {
+      "prova_id": "prova_2024_02",
+      "edicao": "LX",
+      "ano": 2024,
+      "grupo_tematico": "I",
+      "n_questoes_origem": 94,
+      "n_elegiveis": 70,
+      "n_questoes": 35,
+      "n_cadeias": 16,
+      "n_reabilitadas": 0,
+      "score_medio": 113.51,
+      "materias": [
+        "Direito Administrativo",
+        "Direito Ambiental",
+        "Direito Civil",
+        "Direito Constitucional",
+        "Direito Empresarial",
+        "Direito Penal",
+        "Direito Processual Penal",
+        "Direito Tributário",
+        "Direitos Difusos e Coletivos",
+        "Direitos Humanos"
+      ],
+      "distribuicao_materia": {
+        "Direito Penal": 7,
+        "Direito Administrativo": 6,
+        "Direitos Difusos e Coletivos": 5,
+        "Direito Ambiental": 4,
+        "Direito Civil": 4,
+        "Direito Processual Penal": 3,
+        "Direito Tributário": 2,
+        "Direito Empresarial": 2,
+        "Direitos Humanos": 1,
+        "Direito Constitucional": 1
+      },
+      "distribuicao_dificuldade": {
+        "dificil": 12,
+        "media": 21,
+        "facil": 2
+      },
+      "questoes": [
+        {
+          "id": "q0001",
+          "ordem": 1,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Responsabilidade administrativa",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O senhor considera possível utilizar a analogia para atribuir a alguém responsabilidade administrativa pela prática de infração?"
+        },
+        {
+          "id": "q0002",
+          "ordem": 2,
+          "momento": "inicio",
+          "materia": "Direito Administrativo",
+          "tema": "Responsabilidade administrativa sancionadora",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O senhor poderia indicar um exemplo de interpretação analógica ou de emprego da analogia no âmbito da responsabilização administrativa por infrações?"
+        },
+        {
+          "id": "q0003",
+          "ordem": 3,
+          "momento": "inicio",
+          "materia": "Direito Ambiental",
+          "tema": "Responsabilidade ambiental",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia explicar a natureza da responsabilidade administrativa pela prática de infração ambiental e diferenciá-la da responsabilidade civil ambiental?"
+        },
+        {
+          "id": "q0004",
+          "ordem": 4,
+          "momento": "inicio",
+          "materia": "Direito Ambiental",
+          "tema": "Sanção administrativa ambiental",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Nesse regime de responsabilidade, o senhor entende ser possível aplicar multa administrativa ambiental ao proprietário de área de preservação permanente na qual ocorreu incêndio provocado por pessoas desconhecidas, sem participação do proprietário?"
+        },
+        {
+          "id": "q0005",
+          "ordem": 5,
+          "momento": "inicio",
+          "materia": "Direito Tributário",
+          "tema": "IPTU",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Um proprietário está há muitos anos privado da posse de seu imóvel, que foi invadido e permanece clandestinamente ocupado por movimentos sociais, mas continua recebendo cobranças de IPTU. O senhor considera devido o imposto nessas circunstâncias? Explique."
+        },
+        {
+          "id": "q0006",
+          "ordem": 6,
+          "momento": "inicio",
+          "materia": "Direito Tributário",
+          "tema": "ISS",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Incide ISS sobre a atividade de locação de bens móveis, como veículos, máquinas e materiais de festa? Explique."
+        },
+        {
+          "id": "q0007",
+          "ordem": 7,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Lei de Drogas",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Se o preso solicita à sua companheira que leve droga para o estabelecimento prisional e se considera atípica a mera solicitação feita por ele, por qual crime ela responde ao adquirir e transportar a substância?"
+        },
+        {
+          "id": "q0008",
+          "ordem": 8,
+          "momento": "inicio",
+          "materia": "Direito Penal",
+          "tema": "Excludentes de ilicitude",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Se o médico realiza procedimento no qual poderia ter obtido o consentimento efetivo do paciente, mas não o fez e pretende valer-se do consentimento hipotético, o senhor considera cabível que um terceiro atue em legítima defesa do paciente para impedir a intervenção?"
+        },
+        {
+          "id": "q0009",
+          "ordem": 9,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Erro de tipo",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Na situação em que o agente danifica conscientemente coisa alheia, mas, em razão de erro provocado por terceiro, acredita que o objeto pertence a particular quando, na realidade, integra o patrimônio público, por qual crime responde o executor material?"
+        },
+        {
+          "id": "q0010",
+          "ordem": 10,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Excludentes de ilicitude",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O executor que, querendo danificar coisa alheia, erra apenas quanto à natureza pública do bem deixa de responder também pelo crime de dano simples?"
+        },
+        {
+          "id": "q0011",
+          "ordem": 11,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Concurso de pessoas",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Na hipótese em que um agente induz terceiro a danificar bem público, fazendo-o acreditar que se trata de bem particular, pelo que responde o agente que provocou o erro e a que título?"
+        },
+        {
+          "id": "q0012",
+          "ordem": 12,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "Um agente, com dolo homicida, fere a vítima no abdômen. No hospital, uma atuação médica negligente ou imperita contribui para a morte. Esse erro médico afasta a imputação do resultado ao primeiro agente, que responderia apenas por tentativa, ou ele responde por homicídio consumado? Em quais contextos a solução pode variar?"
+        },
+        {
+          "id": "q0013",
+          "ordem": 13,
+          "momento": "meio",
+          "materia": "Direito Penal",
+          "tema": "Imputação objetiva",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "No caso em que um agente, com dolo homicida, fere a vítima e um erro médico posterior contribui para a morte, qual é a consequência da elevação quantitativa e da alteração qualitativa do risco para a imputação do resultado ao primeiro agente?"
+        },
+        {
+          "id": "q0014",
+          "ordem": 14,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Medidas cautelares reais",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "No âmbito das medidas assecuratórias do processo penal, é possível ao juiz decretar de ofício o sequestro de bens?"
+        },
+        {
+          "id": "q0015",
+          "ordem": 15,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Medidas assecuratórias",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "A legislação processual penal prevê expressamente a possibilidade de o juiz decretar de ofício o sequestro de bens?"
+        },
+        {
+          "id": "q0016",
+          "ordem": 16,
+          "momento": "meio",
+          "materia": "Direito Processual Penal",
+          "tema": "Medidas assecuratórias",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia indicar em quais hipóteses legais deve ser levantado o sequestro de bens decretado no processo penal?"
+        },
+        {
+          "id": "q0017",
+          "ordem": 17,
+          "momento": "meio",
+          "materia": "Direito Empresarial",
+          "tema": "Sociedades",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "No âmbito das sociedades limitadas, em que hipótese o sócio minoritário pode ser excluído extrajudicialmente da sociedade?"
+        },
+        {
+          "id": "q0018",
+          "ordem": 18,
+          "momento": "meio",
+          "materia": "Direito Empresarial",
+          "tema": "Recuperação judicial",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Quem são os legitimados para requerer a recuperação judicial?"
+        },
+        {
+          "id": "q0019",
+          "ordem": 19,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Contratos",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Os contratos de compra e venda e de doação têm eficácia real, isto é, são por si sós translativos da propriedade?"
+        },
+        {
+          "id": "q0020",
+          "ordem": 20,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Responsabilidade civil",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Na responsabilidade civil objetiva fundada no risco, é possível a responsabilização por fato de terceiro?"
+        },
+        {
+          "id": "q0021",
+          "ordem": 21,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Responsabilidade civil",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "As hipóteses de responsabilidade dos pais pelos filhos menores e dos tutores ou curadores pelos pupilos ou curatelados constituem responsabilidade objetiva fundada no risco?"
+        },
+        {
+          "id": "q0022",
+          "ordem": 22,
+          "momento": "meio",
+          "materia": "Direito Civil",
+          "tema": "Bem de família",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "José passou a trabalhar em Brasília e locou seu único imóvel residencial, situado em Belo Horizonte, utilizando integralmente os aluguéis recebidos para pagar a locação do imóvel em que reside em Brasília. O imóvel de Belo Horizonte pode ser penhorado para saldar suas obrigações?"
+        },
+        {
+          "id": "q0023",
+          "ordem": 23,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Integridade institucional",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "O senhor sabe dizer o que é um programa de integridade?"
+        },
+        {
+          "id": "q0024",
+          "ordem": 24,
+          "momento": "meio",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Integridade institucional",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Um órgão interno de integridade de uma instituição possui, necessariamente, poder sancionatório?"
+        },
+        {
+          "id": "q0025",
+          "ordem": 25,
+          "momento": "meio",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "O prefeito que nomeia um parente para o cargo de secretário municipal pratica nepotismo e ato de improbidade administrativa?"
+        },
+        {
+          "id": "q0026",
+          "ordem": 26,
+          "momento": "meio",
+          "materia": "Direitos Humanos",
+          "tema": "Discriminação racial",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "O senhor poderia explicar o que é racismo recreativo?"
+        },
+        {
+          "id": "q0027",
+          "ordem": 27,
+          "momento": "fim",
+          "materia": "Direito Ambiental",
+          "tema": "Direitos dos animais",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "No ordenamento jurídico brasileiro, os animais são sujeitos de direito?"
+        },
+        {
+          "id": "q0028",
+          "ordem": 28,
+          "momento": "fim",
+          "materia": "Direito Ambiental",
+          "tema": "Direitos da natureza",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Assim como se discute em relação aos animais, a natureza pode ser considerada sujeito de direitos?"
+        },
+        {
+          "id": "q0029",
+          "ordem": 29,
+          "momento": "fim",
+          "materia": "Direito Constitucional",
+          "tema": "Direito à saúde",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "O senhor poderia dar um exemplo concreto de matéria que pode ser objeto de deliberação por um conselho municipal de saúde?"
+        },
+        {
+          "id": "q0030",
+          "ordem": 30,
+          "momento": "fim",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Processo coletivo",
+          "dificuldade": "facil",
+          "tipo": "principal",
+          "pergunta": "O que são entes intermediários no processo coletivo?"
+        },
+        {
+          "id": "q0031",
+          "ordem": 31,
+          "momento": "fim",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Processo coletivo",
+          "dificuldade": "media",
+          "tipo": "desdobramento",
+          "pergunta": "Todo legitimado ativo para o processo coletivo é um ente intermediário?"
+        },
+        {
+          "id": "q0032",
+          "ordem": 32,
+          "momento": "fim",
+          "materia": "Direitos Difusos e Coletivos",
+          "tema": "Acordos coletivos",
+          "dificuldade": "dificil",
+          "tipo": "principal",
+          "pergunta": "No âmbito dos acordos em processos coletivos, em que consiste o problema do chamado leilão reverso?"
+        },
+        {
+          "id": "q0033",
+          "ordem": 33,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "media",
+          "tipo": "principal",
+          "pergunta": "Uma procuradoria municipal pode celebrar acordo de não persecução cível em matéria de improbidade administrativa?"
+        },
+        {
+          "id": "q0034",
+          "ordem": 34,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Na condição de membro do Ministério Público, se o senhor considerar inadequadas ou ilegais as cláusulas de um acordo de não persecução cível celebrado por uma procuradoria municipal e já homologado judicialmente, qual procedimento deverá adotar?"
+        },
+        {
+          "id": "q0035",
+          "ordem": 35,
+          "momento": "fim",
+          "materia": "Direito Administrativo",
+          "tema": "Improbidade administrativa",
+          "dificuldade": "dificil",
+          "tipo": "desdobramento",
+          "pergunta": "Se o outro acordante recusar a renegociação e o acordo de não persecução cível celebrado pela procuradoria municipal já tiver sido homologado judicialmente, qual medida judicial o senhor deverá adotar para impugnar cláusulas que considere inadequadas ou ilegais?"
+        }
+      ]
+    }
+  ]
+}

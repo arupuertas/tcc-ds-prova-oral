@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2022_03/q0015",
+  "id": "q0015",
+  "prova_id": "prova_2022_03",
+  "ordem": 15,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "A prescrição da pretensão de aplicação das sanções por improbidade administrativa alcança também a pretensão de ressarcimento do dano ao erário?",
+  "resposta": "A prescrição da pretensão sancionatória não alcança automaticamente a pretensão de ressarcimento. Segundo o STF, são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa. Fora dessa hipótese, inclusive quando se tratar de ilícito meramente culposo, a pretensão de ressarcimento é prescritível e se submete ao regime aplicável. Como a legislação atual exige dolo para todas as modalidades de improbidade, a conduta culposa não configura mais ato de improbidade, embora possa gerar responsabilidade civil em outra via.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: difícil\nPergunta: A prescrição da pretensão de aplicação das sanções por improbidade administrativa alcança também a pretensão de ressarcimento do dano ao erário?\nResposta: A prescrição da pretensão sancionatória não alcança automaticamente a pretensão de ressarcimento. Segundo o STF, são imprescritíveis as ações de ressarcimento ao erário fundadas na prática de ato doloso tipificado na Lei de Improbidade Administrativa. Fora dessa hipótese, inclusive quando se tratar de ilícito meramente culposo, a pretensão de ressarcimento é prescritível e se submete ao regime aplicável. Como a legislação atual exige dolo para todas as modalidades de improbidade, a conduta culposa não configura mais ato de improbidade, embora possa gerar responsabilidade civil em outra via.",
+  "_meta": {
+    "subtema": "Prescrição da reparação do dano",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Autonomia entre pretensão sancionatória e ressarcitória",
+      "Imprescritibilidade do ressarcimento por ato doloso tipificado como improbidade",
+      "Prescritibilidade do ressarcimento decorrente de ilícito culposo",
+      "Exigência atual de dolo para configuração da improbidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 37, § 5º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "Tema 897 da repercussão geral do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1º, §§ 1º a 3º, da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Tema 897",
+        "art. 1 — Lei 8.429"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_8712085f23"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0041",
+    "id_origem": "q0041",
+    "ordem_origem": 41,
+    "bloco_origem": "cadeia_8712085f23",
+    "score": 127.43,
+    "reabilitada": false
+  }
+}

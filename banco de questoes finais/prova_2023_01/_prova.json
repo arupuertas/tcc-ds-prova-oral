@@ -1,0 +1,244 @@
+{
+  "prova_id": "prova_2023_01",
+  "edicao": "LIX",
+  "ano": 2023,
+  "grupo_tematico": null,
+  "n_questoes_origem": 52,
+  "n_elegiveis": 42,
+  "n_questoes": 21,
+  "n_cadeias": 7,
+  "n_reabilitadas": 3,
+  "score_medio": 117.38,
+  "materias": [
+    "Direito Civil",
+    "Direito Constitucional",
+    "Direito Penal",
+    "Direito Processual Penal",
+    "Direito do Consumidor",
+    "Direitos Humanos"
+  ],
+  "distribuicao_materia": {
+    "Direito Processual Penal": 6,
+    "Direito Constitucional": 4,
+    "Direito Penal": 4,
+    "Direito Civil": 4,
+    "Direitos Humanos": 2,
+    "Direito do Consumidor": 1
+  },
+  "distribuicao_dificuldade": {
+    "media": 14,
+    "dificil": 7
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Constitucional",
+      "tema": "Nacionalidade",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia esclarecer em que condições a Constituição Federal autoriza a extradição de brasileiros, distinguindo o brasileiro nato do naturalizado?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direito Constitucional",
+      "tema": "Princípio da inafastabilidade",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia indicar quando o princípio da inafastabilidade da jurisdição foi positivado no constitucionalismo brasileiro?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito Constitucional",
+      "tema": "Princípio da inafastabilidade",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "O princípio da inafastabilidade da jurisdição sofreu alterações ao longo da história constitucional brasileira? Em caso positivo, o senhor poderia explicar em que medida?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direito Constitucional",
+      "tema": "Princípio da inafastabilidade",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "O senhor poderia indicar se houve, no passado remoto ou recente, norma infraconstitucional considerada violadora do princípio da inafastabilidade da jurisdição?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Crimes contra a ordem tributária",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Para a incidência do princípio da insignificância nos crimes de sonegação fiscal, o senhor poderia indicar qual valor deve ser considerado diminuto?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Crimes contra a ordem tributária",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Havendo depósito integral do montante do tributo em ação anulatória, a respectiva ação penal deve ser suspensa?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Crimes contra a ordem tributária",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O depósito integral do tributo em ação anulatória determina a suspensão da respectiva ação penal?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Excludentes de ilicitude",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Durante um tiroteio grave, um policial em serviço, incumbido de proteger os cidadãos atingidos pela situação, percebe que sua esposa e seu filho também estão em perigo. O senhor entende que ele pode dar preferência ao salvamento de seus familiares, deixando os demais cidadãos desprotegidos?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Provas",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Qual é, segundo o senhor, o sentido da expressão “no último caso” empregada no art. 5º, XII, da Constituição Federal, após a enumeração do sigilo da correspondência, das comunicações telegráficas, de dados e das comunicações telefônicas?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Provas",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Entre o sigilo da correspondência, o sigilo das comunicações telegráficas, o sigilo de dados e o sigilo das comunicações telefônicas, qual deles constitui o “último caso” mencionado no art. 5º, XII, da Constituição Federal e está abrangido pela ressalva expressa de interceptação mediante ordem judicial?"
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Provas",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia diferenciar prova atípica, prova anômala e prova irritual?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Provas",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O art. 155, parágrafo único, do Código de Processo Penal dispõe que somente quanto ao estado das pessoas serão observadas as restrições estabelecidas na lei civil, e o art. 158 estabelece que, quando a infração deixar vestígios, será indispensável o exame de corpo de delito. Na avaliação do senhor, esses dispositivos constituem concessões ao sistema das provas tarifadas?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Provas",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia explicar em que consiste a quebra da cadeia de custódia e quais são as suas consequências no processo penal?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Provas",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O que o senhor entende por busca exploratória no processo penal?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Seguro de vida e sucessões",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Uma pessoa contratou seguro de vida e indicou um sobrinho como beneficiário. Posteriormente, por testamento público, destinou o capital do seguro a três sobrinhos, entre eles o beneficiário originalmente indicado. Qual solução jurídica o senhor daria ao caso?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Seguro de vida e sucessões",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O capital devido em razão de seguro de vida por morte do segurado ingressa no inventário e compõe o acervo hereditário?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Direito das sucessões",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Um pai, casado pelo regime da separação obrigatória de bens e com dois filhos, foi acometido por doença degenerativa grave, embora permanecesse plenamente capaz. Depois de perder os movimentos dos braços e das pernas, um dos filhos deixou de visitá-lo e de lhe prestar qualquer assistência material ou imaterial. Que solução jurídica o senhor indicaria para que o pai exclua esse filho da sucessão?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Direito das sucessões",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Como o pai deve formalizar a deserdação do filho por desamparo durante grave enfermidade?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "fim",
+      "materia": "Direitos Humanos",
+      "tema": "Identidade de gênero",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Atuando em uma comarca, o senhor é procurado por uma adolescente transgênero à qual foi negado o acesso ao banheiro feminino. Que solução jurídica e institucional poderia adotar?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "fim",
+      "materia": "Direito do Consumidor",
+      "tema": "Superendividamento",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Como se configura o dano por assédio nas situações de superendividamento do consumidor?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "fim",
+      "materia": "Direitos Humanos",
+      "tema": "Controle de convencionalidade",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Em quais hipóteses o Ministério Público atua na aferição e no controle de convencionalidade?"
+    }
+  ]
+}

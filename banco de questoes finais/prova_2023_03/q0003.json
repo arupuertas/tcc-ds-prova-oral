@@ -1,0 +1,90 @@
+{
+  "uid": "prova_2023_03/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2023_03",
+  "ordem": 3,
+  "materia": "Direito do Consumidor",
+  "tema": "Consumidor por equiparação",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "O senhor considera possível ajuizar ação para tutelar interesse de consumidor por equiparação quando houver apenas vício do produto ou do serviço?",
+  "resposta": "Em regra, não, quando a equiparação invocada é a aplicável às vítimas do evento danoso. Essa equiparação alcança as vítimas do fato ou acidente de consumo, e não terceiros atingidos por mero vício de qualidade ou quantidade do produto ou do serviço. As pretensões decorrentes do vício pertencem aos consumidores que adquiriram ou utilizaram o produto ou o serviço, sem prejuízo de sua tutela coletiva pelos legitimados legais. A equiparação decorrente da exposição às práticas comerciais possui âmbito próprio e não transforma, por si só, terceiro não adquirente em titular das pretensões específicas decorrentes de simples vício.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Consumidor por equiparação\nDificuldade: difícil\nPergunta: O senhor considera possível ajuizar ação para tutelar interesse de consumidor por equiparação quando houver apenas vício do produto ou do serviço?\nResposta: Em regra, não, quando a equiparação invocada é a aplicável às vítimas do evento danoso. Essa equiparação alcança as vítimas do fato ou acidente de consumo, e não terceiros atingidos por mero vício de qualidade ou quantidade do produto ou do serviço. As pretensões decorrentes do vício pertencem aos consumidores que adquiriram ou utilizaram o produto ou o serviço, sem prejuízo de sua tutela coletiva pelos legitimados legais. A equiparação decorrente da exposição às práticas comerciais possui âmbito próprio e não transforma, por si só, terceiro não adquirente em titular das pretensões específicas decorrentes de simples vício.",
+  "_meta": {
+    "subtema": "Vício do produto ou serviço",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Distinção entre vício e fato do produto ou do serviço",
+      "Equiparação das vítimas restrita ao acidente de consumo",
+      "Possibilidade de tutela coletiva dos consumidores adquirentes ou usuários",
+      "Âmbito próprio da equiparação por exposição a práticas comerciais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 2º do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 12 a 14 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 17 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 18 a 20 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 29 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 12,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 12 — CDC",
+        "art. 14 — CDC",
+        "art. 17 — CDC",
+        "art. 18 — CDC",
+        "art. 2 — CDC",
+        "art. 20 — CDC",
+        "art. 29 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a6e7e7c9fe"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0016",
+    "id_origem": "q0016",
+    "ordem_origem": 16,
+    "bloco_origem": "cadeia_a6e7e7c9fe",
+    "score": 120.65,
+    "reabilitada": false
+  }
+}

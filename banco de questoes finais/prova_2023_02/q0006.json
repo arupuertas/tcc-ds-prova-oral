@@ -1,0 +1,63 @@
+{
+  "uid": "prova_2023_02/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2023_02",
+  "ordem": 6,
+  "materia": "Direito Penal",
+  "tema": "Concurso de pessoas",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "No caso em que dois coautores envenenam, respectivamente, a água e o vinho destinados à vítima, mas ela ingere somente a água, qual é o fundamento normativo para imputar o homicídio consumado também ao agente cuja conduta individual de envenenar o vinho não causou fisicamente a morte?",
+  "resposta": "O fundamento normativo é o art. 29, caput, do Código Penal, que funciona como norma de extensão pessoal da tipicidade ao estabelecer que quem, de qualquer modo, concorre para o crime incide nas penas a ele cominadas, na medida de sua culpabilidade. Na coautoria, essa norma fundamenta a imputação recíproca das contribuições integradas ao plano comum. Ela não elimina a necessidade de causalidade entre a atuação conjunta e o resultado, mas permite que o coautor responda pela obra comum sem que sua contribuição individual tenha sido a causa física imediata da morte.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: média\nPergunta: No caso em que dois coautores envenenam, respectivamente, a água e o vinho destinados à vítima, mas ela ingere somente a água, qual é o fundamento normativo para imputar o homicídio consumado também ao agente cuja conduta individual de envenenar o vinho não causou fisicamente a morte?\nResposta: O fundamento normativo é o art. 29, caput, do Código Penal, que funciona como norma de extensão pessoal da tipicidade ao estabelecer que quem, de qualquer modo, concorre para o crime incide nas penas a ele cominadas, na medida de sua culpabilidade. Na coautoria, essa norma fundamenta a imputação recíproca das contribuições integradas ao plano comum. Ela não elimina a necessidade de causalidade entre a atuação conjunta e o resultado, mas permite que o coautor responda pela obra comum sem que sua contribuição individual tenha sido a causa física imediata da morte.",
+  "_meta": {
+    "subtema": "Fundamento normativo da imputação",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "art. 29 do Código Penal",
+      "norma de extensão pessoal da tipicidade",
+      "imputação recíproca",
+      "causalidade da atuação conjunta",
+      "responsabilidade na medida da culpabilidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 29, caput, do Código Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0020",
+    "id_origem": "q0020",
+    "ordem_origem": 20,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 113.41,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2022_02/q0021",
+  "id": "q0021",
+  "prova_id": "prova_2022_02",
+  "ordem": 21,
+  "materia": "Direito Processual Penal",
+  "tema": "Tribunal do Júri",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "É possível ao jurado recusar-se a servir no Tribunal do Júri?",
+  "resposta": "Em regra, não, pois o serviço do júri é obrigatório e a recusa injustificada sujeita o jurado a multa. Admite-se a recusa de consciência fundada em crença religiosa ou em convicção filosófica ou política, mas ela impõe o cumprimento de serviço alternativo, sob pena de suspensão dos direitos políticos enquanto a obrigação não for cumprida. Também pode haver dispensa nas hipóteses legais de isenção ou quando o jurado demonstrar justo impedimento, a ser apreciado pelo juiz presidente. Impedimentos e suspeições afastam o jurado de determinado julgamento, enquanto as recusas peremptórias são exercidas pelas partes e não constituem recusa pessoal do jurado ao serviço.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Tribunal do Júri\nDificuldade: média\nPergunta: É possível ao jurado recusar-se a servir no Tribunal do Júri?\nResposta: Em regra, não, pois o serviço do júri é obrigatório e a recusa injustificada sujeita o jurado a multa. Admite-se a recusa de consciência fundada em crença religiosa ou em convicção filosófica ou política, mas ela impõe o cumprimento de serviço alternativo, sob pena de suspensão dos direitos políticos enquanto a obrigação não for cumprida. Também pode haver dispensa nas hipóteses legais de isenção ou quando o jurado demonstrar justo impedimento, a ser apreciado pelo juiz presidente. Impedimentos e suspeições afastam o jurado de determinado julgamento, enquanto as recusas peremptórias são exercidas pelas partes e não constituem recusa pessoal do jurado ao serviço.",
+  "_meta": {
+    "subtema": "Recusa ao serviço de jurado",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Obrigatoriedade do serviço do júri",
+      "Multa pela recusa injustificada",
+      "Recusa de consciência e serviço alternativo",
+      "Isenções legais e justo impedimento",
+      "Distinção entre dispensa, impedimento e recusa peremptória"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, VIII, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "arts. 436, § 2º, 437 e 438 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 468 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 436 — CPP",
+        "art. 468 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6557dbf0a2"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0040",
+    "id_origem": "q0040",
+    "ordem_origem": 40,
+    "bloco_origem": "cadeia_6557dbf0a2",
+    "score": 120.93,
+    "reabilitada": false
+  }
+}

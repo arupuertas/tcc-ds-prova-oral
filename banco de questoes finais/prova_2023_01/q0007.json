@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_01/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2023_01",
+  "ordem": 7,
+  "materia": "Direito Penal",
+  "tema": "Crimes contra a ordem tributária",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O depósito integral do tributo em ação anulatória determina a suspensão da respectiva ação penal?",
+  "resposta": "Não. O depósito integral apenas suspende a exigibilidade do crédito tributário, sem anular o lançamento definitivo ou suspender automaticamente a persecução penal. Como não equivale ao pagamento, a materialidade do crime tributário já constituído não desaparece por esse único motivo. Eventual suspensão do processo criminal dependerá de decisão fundamentada e do preenchimento dos requisitos próprios das questões prejudiciais, não sendo consequência necessária do depósito.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes contra a ordem tributária\nDificuldade: média\nPergunta: O depósito integral do tributo em ação anulatória determina a suspensão da respectiva ação penal?\nResposta: Não. O depósito integral apenas suspende a exigibilidade do crédito tributário, sem anular o lançamento definitivo ou suspender automaticamente a persecução penal. Como não equivale ao pagamento, a materialidade do crime tributário já constituído não desaparece por esse único motivo. Eventual suspensão do processo criminal dependerá de decisão fundamentada e do preenchimento dos requisitos próprios das questões prejudiciais, não sendo consequência necessária do depósito.",
+  "_meta": {
+    "subtema": "Depósito do tributo em ação anulatória e suspensão da ação penal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Suspensão da exigibilidade do crédito tributário",
+      "Ausência de suspensão automática da ação penal",
+      "Depósito não equivale a pagamento",
+      "Suspensão facultativa por questão prejudicial"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 151, inciso II, do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 93 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 151 — CTN",
+        "art. 93 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_36fa52f504"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0009",
+    "id_origem": "q0009",
+    "ordem_origem": 9,
+    "bloco_origem": "cadeia_36fa52f504",
+    "score": 120.65,
+    "reabilitada": false
+  }
+}

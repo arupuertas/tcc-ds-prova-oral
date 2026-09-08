@@ -1,0 +1,86 @@
+{
+  "uid": "prova_2022_02/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2022_02",
+  "ordem": 20,
+  "materia": "Direito Processual Penal",
+  "tema": "Tribunal do Júri",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "O senhor poderia indicar, objetivamente, três diferenças procedimentais entre o procedimento ordinário e a primeira fase do procedimento do Tribunal do Júri?",
+  "resposta": "A primeira diferença é que o procedimento do júri é bifásico, destinando-se sua primeira fase ao juízo de admissibilidade da acusação, enquanto o procedimento ordinário conduz diretamente ao julgamento do mérito pelo juiz togado. A segunda é que, segundo o entendimento predominante, não há no rito do júri absolvição sumária imediatamente após a resposta à acusação, pois ela ocorre ao término da instrução; existe, contudo, corrente que admite a aplicação dessa etapa inicial em razão da regra geral do Código de Processo Penal. A terceira é que a primeira fase do júri pode terminar por pronúncia, impronúncia, desclassificação ou absolvição sumária, ao passo que o rito ordinário normalmente culmina em sentença condenatória ou absolutória. Na pronúncia, ademais, a cognição judicial é limitada à admissibilidade da acusação, sem o exame exauriente próprio da sentença de mérito.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Tribunal do Júri\nDificuldade: média\nPergunta: O senhor poderia indicar, objetivamente, três diferenças procedimentais entre o procedimento ordinário e a primeira fase do procedimento do Tribunal do Júri?\nResposta: A primeira diferença é que o procedimento do júri é bifásico, destinando-se sua primeira fase ao juízo de admissibilidade da acusação, enquanto o procedimento ordinário conduz diretamente ao julgamento do mérito pelo juiz togado. A segunda é que, segundo o entendimento predominante, não há no rito do júri absolvição sumária imediatamente após a resposta à acusação, pois ela ocorre ao término da instrução; existe, contudo, corrente que admite a aplicação dessa etapa inicial em razão da regra geral do Código de Processo Penal. A terceira é que a primeira fase do júri pode terminar por pronúncia, impronúncia, desclassificação ou absolvição sumária, ao passo que o rito ordinário normalmente culmina em sentença condenatória ou absolutória. Na pronúncia, ademais, a cognição judicial é limitada à admissibilidade da acusação, sem o exame exauriente próprio da sentença de mérito.",
+  "_meta": {
+    "subtema": "Diferenças procedimentais em relação ao rito ordinário",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Caráter bifásico do procedimento do júri",
+      "Juízo de admissibilidade na primeira fase",
+      "Controvérsia sobre a aplicação da absolvição sumária inicial",
+      "Pronúncia, impronúncia, desclassificação e absolvição sumária",
+      "Cognição limitada na decisão de pronúncia"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, XXXVIII, da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "arts. 394, § 4º, e 397 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 406 a 421 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 413, 414, 415 e 419 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 13,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 394 — CPP",
+        "art. 406 — CPP",
+        "art. 413 — CPP",
+        "art. 414 — CPP",
+        "art. 415 — CPP",
+        "art. 419 — CPP",
+        "art. 421 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.9
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6557dbf0a2"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0039",
+    "id_origem": "q0039",
+    "ordem_origem": 39,
+    "bloco_origem": "cadeia_6557dbf0a2",
+    "score": 120.79,
+    "reabilitada": false
+  }
+}

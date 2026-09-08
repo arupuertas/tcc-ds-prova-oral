@@ -1,0 +1,67 @@
+{
+  "uid": "prova_2024_01/q0002",
+  "id": "q0002",
+  "prova_id": "prova_2024_01",
+  "ordem": 2,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Inquérito civil e TAC",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Se o promotor de Justiça celebra termo de ajustamento de conduta no curso de inquérito civil, é necessária a homologação judicial desse compromisso?",
+  "resposta": "A homologação judicial não é requisito de validade ou eficácia do termo de ajustamento de conduta, pois o compromisso regularmente tomado pelo Ministério Público já possui eficácia de título executivo extrajudicial. A submissão ao Poder Judiciário é facultativa e, se houver homologação, o acordo passará a constituir título executivo judicial. Encerrada a investigação em razão da solução consensual, o promotor deverá promover fundamentadamente o arquivamento do inquérito civil e remeter os autos ao Conselho Superior do Ministério Público no prazo legal. Esse controle interno do arquivamento não se confunde com a homologação judicial facultativa do TAC.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Inquérito civil e TAC\nDificuldade: média\nPergunta: Se o promotor de Justiça celebra termo de ajustamento de conduta no curso de inquérito civil, é necessária a homologação judicial desse compromisso?\nResposta: A homologação judicial não é requisito de validade ou eficácia do termo de ajustamento de conduta, pois o compromisso regularmente tomado pelo Ministério Público já possui eficácia de título executivo extrajudicial. A submissão ao Poder Judiciário é facultativa e, se houver homologação, o acordo passará a constituir título executivo judicial. Encerrada a investigação em razão da solução consensual, o promotor deverá promover fundamentadamente o arquivamento do inquérito civil e remeter os autos ao Conselho Superior do Ministério Público no prazo legal. Esse controle interno do arquivamento não se confunde com a homologação judicial facultativa do TAC.",
+  "_meta": {
+    "subtema": "Homologação judicial e arquivamento",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Homologação judicial facultativa",
+      "TAC como título executivo extrajudicial",
+      "Arquivamento fundamentado do inquérito civil",
+      "Remessa ao Conselho Superior em três dias"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 9º, caput e § 1º, da Lei nº 7.347/1985",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_581a26884e"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0019",
+    "id_origem": "q0019",
+    "ordem_origem": 19,
+    "bloco_origem": "cadeia_581a26884e",
+    "score": 115.71,
+    "reabilitada": false
+  }
+}

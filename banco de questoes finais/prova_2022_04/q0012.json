@@ -1,0 +1,89 @@
+{
+  "uid": "prova_2022_04/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2022_04",
+  "ordem": 12,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Mandado de segurança coletivo",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Segundo o entendimento do Superior Tribunal de Justiça, tanto a Defensoria Pública quanto o Ministério Público têm legitimidade ativa para impetrar mandado de segurança coletivo?",
+  "resposta": "Sim. O Ministério Público pode impetrar mandado de segurança coletivo para tutelar direitos compatíveis com sua missão de defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis. A Defensoria Pública também possui legitimidade quando a impetração estiver relacionada às suas funções constitucionais, especialmente à proteção de necessitados e grupos vulneráveis. A ausência dessas instituições no rol expresso do mandado de segurança coletivo não impede o reconhecimento da legitimidade decorrente de suas atribuições constitucionais e legais.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Mandado de segurança coletivo\nDificuldade: difícil\nPergunta: Segundo o entendimento do Superior Tribunal de Justiça, tanto a Defensoria Pública quanto o Ministério Público têm legitimidade ativa para impetrar mandado de segurança coletivo?\nResposta: Sim. O Ministério Público pode impetrar mandado de segurança coletivo para tutelar direitos compatíveis com sua missão de defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis. A Defensoria Pública também possui legitimidade quando a impetração estiver relacionada às suas funções constitucionais, especialmente à proteção de necessitados e grupos vulneráveis. A ausência dessas instituições no rol expresso do mandado de segurança coletivo não impede o reconhecimento da legitimidade decorrente de suas atribuições constitucionais e legais.",
+  "_meta": {
+    "subtema": "Legitimidade da Defensoria e do Ministério Público",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Legitimidade do Ministério Público",
+      "Legitimidade da Defensoria Pública",
+      "Pertinência institucional",
+      "Ausência de caráter excludente do rol expresso"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 127 e 129, II, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 134 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, LXX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 21 da Lei nº 12.016/2009",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 4º, VII, da Lei Complementar nº 80/1994",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.82,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 11,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "LC 80",
+        "art. 127 — CF",
+        "art. 129 — CF",
+        "art. 134 — CF",
+        "art. 21 — Lei 12.016",
+        "art. 4 — LC 80"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.91
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4228bf2081"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0030",
+    "id_origem": "q0030",
+    "ordem_origem": 30,
+    "bloco_origem": "cadeia_4228bf2081",
+    "score": 119.53,
+    "reabilitada": false
+  }
+}

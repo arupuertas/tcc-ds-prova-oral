@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2022_03/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2022_03",
+  "ordem": 8,
+  "materia": "Direito Constitucional",
+  "tema": "Direito à saúde",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Em uma comarca do interior, uma criança necessita de medicamento de altíssimo custo para o tratamento de um linfoma. Diante da crítica de que o consequencialismo substitui a ética dos fundamentos por uma ética dos resultados e emprega argumentos econômicos para restringir direitos conquistados, como a senhora deve analisar juridicamente o caso?",
+  "resposta": "O caso não pode ser resolvido nem pela afirmação abstrata do direito à saúde, sem exame das circunstâncias concretas, nem pela invocação genérica de limitações orçamentárias. Devem ser considerados o direito fundamental à vida e à saúde da criança, sua prioridade constitucional e os deveres estatais, mas também a eficácia e a segurança do medicamento, a existência de alternativas terapêuticas no SUS e os impactos distributivos da decisão. As consequências práticas integram a fundamentação, porém não autorizam que argumentos econômicos esvaziem o conteúdo essencial do direito. A alegação de comprometimento do orçamento deve ser demonstrada concretamente pelo poder público, com transparência sobre a política sanitária e os recursos disponíveis. A atuação ministerial deve buscar informações médicas e técnicas, verificar a resposta administrativa e, se preenchidos os requisitos jurídicos, promover as medidas necessárias ao fornecimento.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direito à saúde\nDificuldade: difícil\nPergunta: Em uma comarca do interior, uma criança necessita de medicamento de altíssimo custo para o tratamento de um linfoma. Diante da crítica de que o consequencialismo substitui a ética dos fundamentos por uma ética dos resultados e emprega argumentos econômicos para restringir direitos conquistados, como a senhora deve analisar juridicamente o caso?\nResposta: O caso não pode ser resolvido nem pela afirmação abstrata do direito à saúde, sem exame das circunstâncias concretas, nem pela invocação genérica de limitações orçamentárias. Devem ser considerados o direito fundamental à vida e à saúde da criança, sua prioridade constitucional e os deveres estatais, mas também a eficácia e a segurança do medicamento, a existência de alternativas terapêuticas no SUS e os impactos distributivos da decisão. As consequências práticas integram a fundamentação, porém não autorizam que argumentos econômicos esvaziem o conteúdo essencial do direito. A alegação de comprometimento do orçamento deve ser demonstrada concretamente pelo poder público, com transparência sobre a política sanitária e os recursos disponíveis. A atuação ministerial deve buscar informações médicas e técnicas, verificar a resposta administrativa e, se preenchidos os requisitos jurídicos, promover as medidas necessárias ao fornecimento.",
+  "_meta": {
+    "subtema": "Medicamento de alto custo e orçamento público",
+    "tipo": "principal",
+    "pontos_chave": [
+      "direito fundamental à saúde e à vida",
+      "prioridade da criança",
+      "consequências práticas e impactos distributivos",
+      "insuficiência de alegação orçamentária genérica",
+      "necessidade de instrução médica e técnica"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 6º da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 196 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 227 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 20 da LINDB",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 196 — CF",
+        "art. 20 — LINDB",
+        "art. 227 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a4f1112f03"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0019",
+    "id_origem": "q0019",
+    "ordem_origem": 19,
+    "bloco_origem": "cadeia_a4f1112f03",
+    "score": 114.38,
+    "reabilitada": false
+  }
+}

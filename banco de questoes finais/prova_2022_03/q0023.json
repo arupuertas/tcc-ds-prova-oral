@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2022_03/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2022_03",
+  "ordem": 23,
+  "materia": "Direito Penal",
+  "tema": "Crimes tributários",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "O princípio da insignificância pode ser aplicado aos crimes tributários?",
+  "resposta": "Sim, mas sua aplicação não é automática nem alcança indistintamente todos os crimes tributários. Nos crimes tributários materiais federais, a jurisprudência utiliza como parâmetro o valor abaixo do qual a União deixa ordinariamente de ajuizar a execução fiscal, que, à época, era de R$ 20 mil, sem prejuízo da análise das circunstâncias concretas e da eventual reiteração delitiva. Quanto aos tributos estaduais ou municipais, deve-se considerar o limite estabelecido pela legislação do respectivo ente, não sendo automática a transposição do parâmetro federal. Nos delitos formais, em que a ofensividade não se mede pelo valor de um crédito tributário definitivamente constituído, esse critério quantitativo não pode ser simplesmente reproduzido. A orientação predominante também afasta a insignificância na apropriação indébita previdenciária, em razão da especial relevância do custeio da Previdência Social. Nos crimes materiais contra a ordem tributária, a constituição definitiva do crédito é necessária à própria tipificação.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes tributários\nDificuldade: difícil\nPergunta: O princípio da insignificância pode ser aplicado aos crimes tributários?\nResposta: Sim, mas sua aplicação não é automática nem alcança indistintamente todos os crimes tributários. Nos crimes tributários materiais federais, a jurisprudência utiliza como parâmetro o valor abaixo do qual a União deixa ordinariamente de ajuizar a execução fiscal, que, à época, era de R$ 20 mil, sem prejuízo da análise das circunstâncias concretas e da eventual reiteração delitiva. Quanto aos tributos estaduais ou municipais, deve-se considerar o limite estabelecido pela legislação do respectivo ente, não sendo automática a transposição do parâmetro federal. Nos delitos formais, em que a ofensividade não se mede pelo valor de um crédito tributário definitivamente constituído, esse critério quantitativo não pode ser simplesmente reproduzido. A orientação predominante também afasta a insignificância na apropriação indébita previdenciária, em razão da especial relevância do custeio da Previdência Social. Nos crimes materiais contra a ordem tributária, a constituição definitiva do crédito é necessária à própria tipificação.",
+  "_meta": {
+    "subtema": "Princípio da insignificância",
+    "tipo": "principal",
+    "pontos_chave": [
+      "aplicação possível, mas não automática",
+      "parâmetro federal de R$ 20 mil à época",
+      "necessidade de observar o limite do ente tributante",
+      "distinção entre crimes materiais e formais",
+      "reiteração delitiva pode afastar a insignificância",
+      "inaplicabilidade predominante à apropriação indébita previdenciária"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1º da Lei nº 8.137/1990",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 20 da Lei nº 10.522/2002",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 168-A do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula Vinculante nº 24",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 10.522",
+        "Súmula Vinculante 24",
+        "art. 168a — CP",
+        "art. 20 — Lei 10.522"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.9
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6f8c7a1fb7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0057",
+    "id_origem": "q0057",
+    "ordem_origem": 57,
+    "bloco_origem": "cadeia_6f8c7a1fb7",
+    "score": 120.7,
+    "reabilitada": false
+  }
+}

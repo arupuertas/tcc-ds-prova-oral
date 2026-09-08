@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_02/q0009",
+  "id": "q0009",
+  "prova_id": "prova_2023_02",
+  "ordem": 9,
+  "materia": "Direito Penal",
+  "tema": "Crimes culposos",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "No caso em que duas pessoas lançam conjuntamente objetos pesados do alto de um prédio, causando culposamente uma morte, sem que se possa identificar quem lançou o objeto fatal, a senhora adotaria a corrente que permite imputar o resultado a ambos?",
+  "resposta": "Sim. Admitida a coautoria culposa, eu imputaria a ambos o homicídio culposo, pois houve execução consciente e conjunta da conduta imprudente, com violação comum do dever objetivo de cuidado. A imputação recíproca fundada na coautoria supera a incerteza sobre qual dos agentes lançou o objeto fatal, sem exigir que o plano comum abrangesse o resultado morte.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: média\nPergunta: No caso em que duas pessoas lançam conjuntamente objetos pesados do alto de um prédio, causando culposamente uma morte, sem que se possa identificar quem lançou o objeto fatal, a senhora adotaria a corrente que permite imputar o resultado a ambos?\nResposta: Sim. Admitida a coautoria culposa, eu imputaria a ambos o homicídio culposo, pois houve execução consciente e conjunta da conduta imprudente, com violação comum do dever objetivo de cuidado. A imputação recíproca fundada na coautoria supera a incerteza sobre qual dos agentes lançou o objeto fatal, sem exigir que o plano comum abrangesse o resultado morte.",
+  "_meta": {
+    "subtema": "Imputação em coautoria culposa",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "adoção da coautoria culposa",
+      "homicídio culposo imputado a ambos",
+      "conduta imprudente conjunta",
+      "imputação recíproca",
+      "plano comum não abrangente do resultado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 29, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 121, § 3º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.89,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 121 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.87
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0023",
+    "id_origem": "q0023",
+    "ordem_origem": 23,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 104.54,
+    "reabilitada": false
+  }
+}

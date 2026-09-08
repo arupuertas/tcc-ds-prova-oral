@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2022_04/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2022_04",
+  "ordem": 1,
+  "materia": "Direito Administrativo",
+  "tema": "Agentes públicos",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Em quais situações podem ser criados cargos em comissão na Administração Pública?",
+  "resposta": "Os cargos em comissão somente podem ser criados para o exercício de atribuições de direção, chefia ou assessoramento que exijam especial relação de confiança entre a autoridade nomeante e o agente nomeado. Eles não podem ser destinados ao desempenho de atividades meramente técnicas, burocráticas, operacionais ou rotineiras, para as quais se exige, em regra, o provimento efetivo mediante concurso público. Sua criação deve ocorrer por lei, que precisa descrever de maneira clara e objetiva as respectivas atribuições, e a quantidade de cargos deve guardar proporcionalidade com a necessidade administrativa e com o número de servidores efetivos. A livre nomeação e exoneração não autoriza o uso desses cargos para contornar a regra constitucional do concurso público.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Agentes públicos\nDificuldade: média\nPergunta: Em quais situações podem ser criados cargos em comissão na Administração Pública?\nResposta: Os cargos em comissão somente podem ser criados para o exercício de atribuições de direção, chefia ou assessoramento que exijam especial relação de confiança entre a autoridade nomeante e o agente nomeado. Eles não podem ser destinados ao desempenho de atividades meramente técnicas, burocráticas, operacionais ou rotineiras, para as quais se exige, em regra, o provimento efetivo mediante concurso público. Sua criação deve ocorrer por lei, que precisa descrever de maneira clara e objetiva as respectivas atribuições, e a quantidade de cargos deve guardar proporcionalidade com a necessidade administrativa e com o número de servidores efetivos. A livre nomeação e exoneração não autoriza o uso desses cargos para contornar a regra constitucional do concurso público.",
+  "_meta": {
+    "subtema": "Criação de cargos em comissão",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "atribuições exclusivas de direção, chefia e assessoramento",
+      "especial vínculo de confiança",
+      "vedação para atividades técnicas, burocráticas ou operacionais",
+      "descrição legal clara das atribuições",
+      "proporcionalidade na quantidade de cargos",
+      "impossibilidade de burla ao concurso público"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 37, II e V, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Tema 1.010 da repercussão geral do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Tema 1",
+        "art. 37 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4a7f54be5a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0017",
+    "id_origem": "q0017",
+    "ordem_origem": 17,
+    "bloco_origem": "cadeia_4a7f54be5a",
+    "score": 113.44,
+    "reabilitada": false
+  }
+}

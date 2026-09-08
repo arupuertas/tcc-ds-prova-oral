@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_02/q0002",
+  "id": "q0002",
+  "prova_id": "prova_2024_02",
+  "ordem": 2,
+  "materia": "Direito Administrativo",
+  "tema": "Responsabilidade administrativa sancionadora",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "O senhor poderia indicar um exemplo de interpretação analógica ou de emprego da analogia no âmbito da responsabilização administrativa por infrações?",
+  "resposta": "Um exemplo de interpretação analógica encontra-se na norma disciplinar que proíbe ao servidor receber “propina, comissão, presente ou vantagem de qualquer espécie” em razão de suas atribuições. Se o servidor recebe uma viagem custeada ou outro benefício indevido não designado especificamente como propina, comissão ou presente, o enquadramento na expressão genérica “vantagem de qualquer espécie” decorre de interpretação analógica autorizada pelo próprio texto legal. Isso não permite punir, por mera semelhança, uma conduta que não esteja abrangida pelo tipo, pois tal operação constituiria analogia in malam partem.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Responsabilidade administrativa sancionadora\nDificuldade: média\nPergunta: O senhor poderia indicar um exemplo de interpretação analógica ou de emprego da analogia no âmbito da responsabilização administrativa por infrações?\nResposta: Um exemplo de interpretação analógica encontra-se na norma disciplinar que proíbe ao servidor receber “propina, comissão, presente ou vantagem de qualquer espécie” em razão de suas atribuições. Se o servidor recebe uma viagem custeada ou outro benefício indevido não designado especificamente como propina, comissão ou presente, o enquadramento na expressão genérica “vantagem de qualquer espécie” decorre de interpretação analógica autorizada pelo próprio texto legal. Isso não permite punir, por mera semelhança, uma conduta que não esteja abrangida pelo tipo, pois tal operação constituiria analogia in malam partem.",
+  "_meta": {
+    "subtema": "Interpretação analógica e analogia",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Exemplo legal de interpretação analógica",
+      "Enumeração seguida de cláusula genérica",
+      "Enquadramento dentro dos limites do texto",
+      "Vedação à criação de infração por semelhança"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 117, XII, da Lei nº 8.112/1990",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, II, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 8.112",
+        "art. 117 — Lei 8.112",
+        "art. 5 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_276f0ed36d"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0002",
+    "id_origem": "q0002",
+    "ordem_origem": 2,
+    "bloco_origem": "cadeia_276f0ed36d",
+    "score": 109.9,
+    "reabilitada": false
+  }
+}

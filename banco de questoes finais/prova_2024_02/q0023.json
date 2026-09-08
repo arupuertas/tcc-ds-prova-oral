@@ -1,0 +1,73 @@
+{
+  "uid": "prova_2024_02/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2024_02",
+  "ordem": 23,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Integridade institucional",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "O senhor sabe dizer o que é um programa de integridade?",
+  "resposta": "Programa de integridade é o conjunto estruturado de mecanismos e procedimentos internos destinados a prevenir, detectar e sanar desvios, fraudes, irregularidades e atos ilícitos no âmbito de uma organização. Ele compreende, entre outras medidas, auditoria, controles internos, canais de denúncia, gestão de riscos e aplicação efetiva de códigos de ética, conduta, políticas e diretrizes. Deve ser efetivamente aplicado, periodicamente atualizado e adequado às características, às atividades e aos riscos da instituição, promovendo uma cultura organizacional de integridade.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Integridade institucional\nDificuldade: fácil\nPergunta: O senhor sabe dizer o que é um programa de integridade?\nResposta: Programa de integridade é o conjunto estruturado de mecanismos e procedimentos internos destinados a prevenir, detectar e sanar desvios, fraudes, irregularidades e atos ilícitos no âmbito de uma organização. Ele compreende, entre outras medidas, auditoria, controles internos, canais de denúncia, gestão de riscos e aplicação efetiva de códigos de ética, conduta, políticas e diretrizes. Deve ser efetivamente aplicado, periodicamente atualizado e adequado às características, às atividades e aos riscos da instituição, promovendo uma cultura organizacional de integridade.",
+  "_meta": {
+    "subtema": "Conceito de programa de integridade",
+    "tipo": "principal",
+    "pontos_chave": [
+      "prevenção, detecção e correção de ilícitos",
+      "auditoria e controles internos",
+      "canais de denúncia",
+      "códigos de ética e conduta",
+      "cultura de integridade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 56 do Decreto nº 11.129/2022",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 7º, VIII, da Lei nº 12.846/2013",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Decreto 11.129",
+        "Lei 12.846",
+        "art. 56 — Decreto 11.129",
+        "art. 7 — Lei 12.846"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3a7c98edcd"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0075",
+    "id_origem": "q0075",
+    "ordem_origem": 75,
+    "bloco_origem": "cadeia_3a7c98edcd",
+    "score": 108.22,
+    "reabilitada": false
+  }
+}

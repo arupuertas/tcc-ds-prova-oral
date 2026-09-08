@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_04/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2022_04",
+  "ordem": 20,
+  "materia": "Direito Penal",
+  "tema": "Dolo generalis",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "No caso em que o agente, com dolo direto de primeiro grau, agride a vítima para matá-la, acredita equivocadamente que ela já morreu e, em seguida, incendeia o corpo para ocultá-lo, embora a morte somente ocorra em razão do incêndio, aplica-se a solução do dolo geral, com imputação de homicídio doloso consumado?",
+  "resposta": "Sim. Trata-se do exemplo clássico de dolo geral ou erro sucessivo sobre o curso causal: o agente pretende diretamente a morte, acredita tê-la produzido com o primeiro ato e pratica o segundo ato para ocultar o resultado, mas é este que efetivamente causa a morte. Se o segundo ato integra a execução do plano global e o desvio causal não é essencial, o resultado morte é imputado ao dolo inicial, configurando homicídio doloso consumado.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Dolo generalis\nDificuldade: fácil\nPergunta: No caso em que o agente, com dolo direto de primeiro grau, agride a vítima para matá-la, acredita equivocadamente que ela já morreu e, em seguida, incendeia o corpo para ocultá-lo, embora a morte somente ocorra em razão do incêndio, aplica-se a solução do dolo geral, com imputação de homicídio doloso consumado?\nResposta: Sim. Trata-se do exemplo clássico de dolo geral ou erro sucessivo sobre o curso causal: o agente pretende diretamente a morte, acredita tê-la produzido com o primeiro ato e pratica o segundo ato para ocultar o resultado, mas é este que efetivamente causa a morte. Se o segundo ato integra a execução do plano global e o desvio causal não é essencial, o resultado morte é imputado ao dolo inicial, configurando homicídio doloso consumado.",
+  "_meta": {
+    "subtema": "Dolo direto de primeiro grau no primeiro ato",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "dolo direto de primeiro grau no primeiro ato",
+      "erro sucessivo sobre o curso causal",
+      "segundo ato inserido no plano global",
+      "homicídio doloso consumado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 121, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 121 — CP",
+        "art. 13 — CP",
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0049",
+    "id_origem": "q0049",
+    "ordem_origem": 49,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 107.52,
+    "reabilitada": false
+  }
+}

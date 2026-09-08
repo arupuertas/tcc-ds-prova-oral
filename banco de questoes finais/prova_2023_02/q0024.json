@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_02/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2023_02",
+  "ordem": 24,
+  "materia": "Direito Ambiental",
+  "tema": "Conceito de meio ambiente",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "Considerando as classificações civis dos bens, em qual delas se insere o meio ambiente?",
+  "resposta": "O meio ambiente ecologicamente equilibrado é constitucionalmente qualificado como bem de uso comum do povo e essencial à sadia qualidade de vida. Essa expressão, contudo, não significa que o meio ambiente, considerado como macrobem, seja um bem público patrimonial pertencente ao Estado nos moldes da classificação do Código Civil. Trata-se de bem jurídico difuso, transindividual, indivisível e titularizado pela coletividade, embora os elementos materiais que o compõem possam, individualmente, pertencer a pessoas públicas ou particulares.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Conceito de meio ambiente\nDificuldade: fácil\nPergunta: Considerando as classificações civis dos bens, em qual delas se insere o meio ambiente?\nResposta: O meio ambiente ecologicamente equilibrado é constitucionalmente qualificado como bem de uso comum do povo e essencial à sadia qualidade de vida. Essa expressão, contudo, não significa que o meio ambiente, considerado como macrobem, seja um bem público patrimonial pertencente ao Estado nos moldes da classificação do Código Civil. Trata-se de bem jurídico difuso, transindividual, indivisível e titularizado pela coletividade, embora os elementos materiais que o compõem possam, individualmente, pertencer a pessoas públicas ou particulares.",
+  "_meta": {
+    "subtema": "Natureza jurídica do meio ambiente",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Bem de uso comum do povo",
+      "Essencialidade à sadia qualidade de vida",
+      "Natureza difusa e transindividual",
+      "Distinção entre macrobem ambiental e propriedade dos recursos individuais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 225, caput, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 81, parágrafo único, inciso I, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 98 e 99 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 81 — CDC",
+        "art. 98 — CC",
+        "art. 99 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a76fccc556"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0047",
+    "id_origem": "q0047",
+    "ordem_origem": 47,
+    "bloco_origem": "cadeia_a76fccc556",
+    "score": 111.98,
+    "reabilitada": false
+  }
+}

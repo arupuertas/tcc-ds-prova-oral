@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2022_04/q0026",
+  "id": "q0026",
+  "prova_id": "prova_2022_04",
+  "ordem": 26,
+  "materia": "Direito Processual Penal",
+  "tema": "Tribunal do Júri",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "No procedimento do Tribunal do Júri, se uma primeira apelação fundada no art. 593, III, d, do Código de Processo Penal for provida para determinar novo julgamento, a senhora entende ser cabível, após o segundo júri, nova apelação também fundada em decisão manifestamente contrária à prova dos autos, embora baseada em argumento fático distinto?",
+  "resposta": "Não. Provida a primeira apelação para submeter o réu a novo julgamento, não se admite segunda apelação pelo fundamento de que a decisão dos jurados foi manifestamente contrária à prova dos autos. A apresentação de argumento fático distinto não contorna a vedação, pois o que a lei impede é a reiteração do mesmo fundamento legal de impugnação. Permanecem cabíveis, se configuradas, apelações fundadas nas demais hipóteses legais previstas para as decisões do Tribunal do Júri.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Tribunal do Júri\nDificuldade: média\nPergunta: No procedimento do Tribunal do Júri, se uma primeira apelação fundada no art. 593, III, d, do Código de Processo Penal for provida para determinar novo julgamento, a senhora entende ser cabível, após o segundo júri, nova apelação também fundada em decisão manifestamente contrária à prova dos autos, embora baseada em argumento fático distinto?\nResposta: Não. Provida a primeira apelação para submeter o réu a novo julgamento, não se admite segunda apelação pelo fundamento de que a decisão dos jurados foi manifestamente contrária à prova dos autos. A apresentação de argumento fático distinto não contorna a vedação, pois o que a lei impede é a reiteração do mesmo fundamento legal de impugnação. Permanecem cabíveis, se configuradas, apelações fundadas nas demais hipóteses legais previstas para as decisões do Tribunal do Júri.",
+  "_meta": {
+    "subtema": "Nova apelação por decisão contrária à prova dos autos",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Apelação do júri possui fundamentação vinculada",
+      "A apelação por decisão manifestamente contrária à prova dos autos somente pode ser utilizada uma vez",
+      "Argumento fático diferente não afasta a vedação à segunda apelação pelo mesmo fundamento legal",
+      "São possíveis recursos fundados em outras hipóteses legais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 593, III, d, do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 593, § 3º, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 593 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [
+        "art. 593, III, d, do Código de Processo Penal"
+      ],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0055",
+    "id_origem": "q0055",
+    "ordem_origem": 55,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 102.87,
+    "reabilitada": false
+  }
+}

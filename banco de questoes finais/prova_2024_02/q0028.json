@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2024_02/q0028",
+  "id": "q0028",
+  "prova_id": "prova_2024_02",
+  "ordem": 28,
+  "materia": "Direito Ambiental",
+  "tema": "Direitos da natureza",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Assim como se discute em relação aos animais, a natureza pode ser considerada sujeito de direitos?",
+  "resposta": "Também há divergência sobre a possibilidade de reconhecer a natureza como sujeito de direitos. Na compreensão predominante no direito brasileiro, o meio ambiente é um macrobem jurídico autônomo, de natureza difusa, cujo titular é a coletividade, mas não possui personalidade nem é, em regra, tratado como sujeito de direitos. Isso não impede que seus componentes sejam protegidos por seu valor intrínseco e independentemente de uma utilidade econômica imediata para o ser humano. A corrente biocêntrica ou ecocêntrica, por sua vez, sustenta que a natureza e seus elementos podem titularizar direitos próprios, como os direitos à existência, à manutenção e à regeneração de seus ciclos vitais. Essa concepção já recebeu reconhecimento expresso em alguns ordenamentos latino-americanos, mas ainda não corresponde à posição predominante na legislação, na doutrina e na jurisprudência brasileiras.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Direitos da natureza\nDificuldade: difícil\nPergunta: Assim como se discute em relação aos animais, a natureza pode ser considerada sujeito de direitos?\nResposta: Também há divergência sobre a possibilidade de reconhecer a natureza como sujeito de direitos. Na compreensão predominante no direito brasileiro, o meio ambiente é um macrobem jurídico autônomo, de natureza difusa, cujo titular é a coletividade, mas não possui personalidade nem é, em regra, tratado como sujeito de direitos. Isso não impede que seus componentes sejam protegidos por seu valor intrínseco e independentemente de uma utilidade econômica imediata para o ser humano. A corrente biocêntrica ou ecocêntrica, por sua vez, sustenta que a natureza e seus elementos podem titularizar direitos próprios, como os direitos à existência, à manutenção e à regeneração de seus ciclos vitais. Essa concepção já recebeu reconhecimento expresso em alguns ordenamentos latino-americanos, mas ainda não corresponde à posição predominante na legislação, na doutrina e na jurisprudência brasileiras.",
+  "_meta": {
+    "subtema": "Natureza como sujeito de direito",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "meio ambiente como macrobem jurídico difuso",
+      "titularidade da coletividade na posição predominante",
+      "valor intrínseco da natureza",
+      "corrente biocêntrica ou ecocêntrica",
+      "direitos da natureza no direito comparado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 225, caput, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 225 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3a7c98edcd"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0080",
+    "id_origem": "q0080",
+    "ordem_origem": 80,
+    "bloco_origem": "cadeia_3a7c98edcd",
+    "score": 109.39,
+    "reabilitada": false
+  }
+}

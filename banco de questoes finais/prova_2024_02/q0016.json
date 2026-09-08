@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2024_02/q0016",
+  "id": "q0016",
+  "prova_id": "prova_2024_02",
+  "ordem": 16,
+  "materia": "Direito Processual Penal",
+  "tema": "Medidas assecuratórias",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O senhor poderia indicar em quais hipóteses legais deve ser levantado o sequestro de bens decretado no processo penal?",
+  "resposta": "O sequestro será levantado se a ação penal não for proposta no prazo de sessenta dias, contado da conclusão da diligência. Também será levantado se o terceiro a quem os bens foram transferidos prestar caução suficiente para assegurar eventual perdimento. Por fim, a medida será levantada se a punibilidade for julgada extinta ou se o réu for absolvido, exigindo-se, nessas hipóteses, sentença transitada em julgado.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Medidas assecuratórias\nDificuldade: média\nPergunta: O senhor poderia indicar em quais hipóteses legais deve ser levantado o sequestro de bens decretado no processo penal?\nResposta: O sequestro será levantado se a ação penal não for proposta no prazo de sessenta dias, contado da conclusão da diligência. Também será levantado se o terceiro a quem os bens foram transferidos prestar caução suficiente para assegurar eventual perdimento. Por fim, a medida será levantada se a punibilidade for julgada extinta ou se o réu for absolvido, exigindo-se, nessas hipóteses, sentença transitada em julgado.",
+  "_meta": {
+    "subtema": "Levantamento do sequestro",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Ausência de ação penal no prazo de sessenta dias",
+      "Caução prestada pelo terceiro adquirente",
+      "Extinção da punibilidade",
+      "Absolvição transitada em julgado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 131 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 131 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_0d357670c8"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0051",
+    "id_origem": "q0051",
+    "ordem_origem": 51,
+    "bloco_origem": "cadeia_0d357670c8",
+    "score": 113.04,
+    "reabilitada": false
+  }
+}

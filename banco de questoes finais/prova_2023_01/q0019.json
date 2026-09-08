@@ -1,0 +1,87 @@
+{
+  "uid": "prova_2023_01/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2023_01",
+  "ordem": 19,
+  "materia": "Direitos Humanos",
+  "tema": "Identidade de gênero",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Atuando em uma comarca, o senhor é procurado por uma adolescente transgênero à qual foi negado o acesso ao banheiro feminino. Que solução jurídica e institucional poderia adotar?",
+  "resposta": "A providência deve buscar assegurar à adolescente o uso do banheiro correspondente à sua identidade de gênero, pois uma proibição genérica viola a dignidade, a igualdade, a privacidade, o livre desenvolvimento da personalidade e a proteção integral. Inicialmente, deve-se acolher a adolescente com preservação de sua intimidade, apurar os fatos e ouvir a instituição responsável, podendo o Ministério Público expedir recomendação, promover mediação ou celebrar compromisso de ajustamento para cessar a discriminação e adequar as práticas institucionais. A disponibilização de banheiro neutro pode ser oferecida como alternativa voluntária, mas não imposta exclusivamente à adolescente de modo segregador ou estigmatizante. Havendo resistência ou risco de continuidade da lesão, cabe ajuizar ação civil pública, inclusive com pedido de tutela de urgência e de reparação dos danos pertinentes. O reconhecimento da identidade de gênero é declaratório e não pode ser condicionado à realização de cirurgia, tratamento médico ou prévia alteração do registro civil, devendo prevalecer ainda o melhor interesse e a prioridade absoluta assegurados à adolescente.",
+  "embedding_text": "Matéria: Direitos Humanos\nTema: Identidade de gênero\nDificuldade: difícil\nPergunta: Atuando em uma comarca, o senhor é procurado por uma adolescente transgênero à qual foi negado o acesso ao banheiro feminino. Que solução jurídica e institucional poderia adotar?\nResposta: A providência deve buscar assegurar à adolescente o uso do banheiro correspondente à sua identidade de gênero, pois uma proibição genérica viola a dignidade, a igualdade, a privacidade, o livre desenvolvimento da personalidade e a proteção integral. Inicialmente, deve-se acolher a adolescente com preservação de sua intimidade, apurar os fatos e ouvir a instituição responsável, podendo o Ministério Público expedir recomendação, promover mediação ou celebrar compromisso de ajustamento para cessar a discriminação e adequar as práticas institucionais. A disponibilização de banheiro neutro pode ser oferecida como alternativa voluntária, mas não imposta exclusivamente à adolescente de modo segregador ou estigmatizante. Havendo resistência ou risco de continuidade da lesão, cabe ajuizar ação civil pública, inclusive com pedido de tutela de urgência e de reparação dos danos pertinentes. O reconhecimento da identidade de gênero é declaratório e não pode ser condicionado à realização de cirurgia, tratamento médico ou prévia alteração do registro civil, devendo prevalecer ainda o melhor interesse e a prioridade absoluta assegurados à adolescente.",
+  "_meta": {
+    "subtema": "Acesso de adolescente trans a banheiro feminino",
+    "tipo": "principal",
+    "pontos_chave": [
+      "acesso conforme a identidade de gênero",
+      "dignidade, igualdade e não discriminação",
+      "proteção integral e melhor interesse da adolescente",
+      "recomendação, mediação e compromisso de ajustamento",
+      "ação civil pública e tutela de urgência",
+      "identidade de gênero independente de cirurgia ou alteração registral"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 1º, inciso III, 3º, inciso IV, 5º, caput, e 227 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 15, 17 e 18 do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 201, inciso V, do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 10,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "ECA",
+        "art. 1 — CF",
+        "art. 15 — ECA",
+        "art. 17 — ECA",
+        "art. 18 — ECA",
+        "art. 201 — ECA",
+        "art. 5 — Lei 7.347"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_fb80111c03"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0042",
+    "id_origem": "q0042",
+    "ordem_origem": 42,
+    "bloco_origem": "cadeia_fb80111c03",
+    "score": 117.4,
+    "reabilitada": false
+  }
+}

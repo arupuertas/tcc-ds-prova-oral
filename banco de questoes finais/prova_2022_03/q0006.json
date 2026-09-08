@@ -1,0 +1,68 @@
+{
+  "uid": "prova_2022_03/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2022_03",
+  "ordem": 6,
+  "materia": "Direito Administrativo",
+  "tema": "Consequencialismo na LINDB",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "A alteração promovida pela Lei nº 13.655/2018 na LINDB restringiu o consequencialismo às decisões judiciais ou o estendeu a outros âmbitos decisórios?",
+  "resposta": "A alteração não se restringiu às decisões judiciais. A LINDB determina expressamente a consideração das consequências práticas nas esferas administrativa, controladora e judicial. Assim, a orientação alcança decisões da Administração Pública, dos órgãos de controle, como os Tribunais de Contas, e do Poder Judiciário. Em todas essas esferas, a análise consequencialista integra o dever de motivação e não afasta a sujeição da decisão ao ordenamento jurídico.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Consequencialismo na LINDB\nDificuldade: média\nPergunta: A alteração promovida pela Lei nº 13.655/2018 na LINDB restringiu o consequencialismo às decisões judiciais ou o estendeu a outros âmbitos decisórios?\nResposta: A alteração não se restringiu às decisões judiciais. A LINDB determina expressamente a consideração das consequências práticas nas esferas administrativa, controladora e judicial. Assim, a orientação alcança decisões da Administração Pública, dos órgãos de controle, como os Tribunais de Contas, e do Poder Judiciário. Em todas essas esferas, a análise consequencialista integra o dever de motivação e não afasta a sujeição da decisão ao ordenamento jurídico.",
+  "_meta": {
+    "subtema": "Âmbito judicial, administrativo e controlador",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Incidência nas esferas administrativa, controladora e judicial",
+      "Aplicação aos Tribunais de Contas",
+      "Consequencialismo como elemento da motivação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Lei nº 13.655/2018",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 20 da Lei de Introdução às Normas do Direito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 20 — LINDB"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a4f1112f03"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0017",
+    "id_origem": "q0017",
+    "ordem_origem": 17,
+    "bloco_origem": "cadeia_a4f1112f03",
+    "score": 115.46,
+    "reabilitada": false
+  }
+}

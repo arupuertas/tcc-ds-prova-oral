@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_01/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2023_01",
+  "ordem": 20,
+  "materia": "Direito do Consumidor",
+  "tema": "Superendividamento",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Como se configura o dano por assédio nas situações de superendividamento do consumidor?",
+  "resposta": "O dano por assédio decorre da oferta de crédito realizada mediante pressão insistente, agressiva ou exploratória, capaz de comprometer a liberdade de escolha do consumidor e induzi-lo a contratar obrigação incompatível com sua capacidade de pagamento. O CDC proíbe expressa ou implicitamente o assédio ou a pressão para contratação, especialmente quando dirigidos a pessoa idosa, analfabeta, doente ou em situação de vulnerabilidade agravada. A ilicitude da conduta não depende da efetiva consumação do superendividamento, embora a contratação e o agravamento da situação financeira sejam relevantes para a demonstração e a quantificação dos danos. O descumprimento desses deveres pode acarretar redução judicial dos juros e encargos, dilação do prazo de pagamento e indenização por danos patrimoniais ou morais, conforme o dano e o nexo causal. Se a prática atingir coletivamente os consumidores e apresentar gravidade suficiente, poderá também caracterizar dano moral coletivo, não bastando para isso a mera irregularidade isolada.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Superendividamento\nDificuldade: média\nPergunta: Como se configura o dano por assédio nas situações de superendividamento do consumidor?\nResposta: O dano por assédio decorre da oferta de crédito realizada mediante pressão insistente, agressiva ou exploratória, capaz de comprometer a liberdade de escolha do consumidor e induzi-lo a contratar obrigação incompatível com sua capacidade de pagamento. O CDC proíbe expressa ou implicitamente o assédio ou a pressão para contratação, especialmente quando dirigidos a pessoa idosa, analfabeta, doente ou em situação de vulnerabilidade agravada. A ilicitude da conduta não depende da efetiva consumação do superendividamento, embora a contratação e o agravamento da situação financeira sejam relevantes para a demonstração e a quantificação dos danos. O descumprimento desses deveres pode acarretar redução judicial dos juros e encargos, dilação do prazo de pagamento e indenização por danos patrimoniais ou morais, conforme o dano e o nexo causal. Se a prática atingir coletivamente os consumidores e apresentar gravidade suficiente, poderá também caracterizar dano moral coletivo, não bastando para isso a mera irregularidade isolada.",
+  "_meta": {
+    "subtema": "Dano por assédio",
+    "tipo": "principal",
+    "pontos_chave": [
+      "pressão ou assédio na oferta de crédito",
+      "violação da liberdade de escolha do consumidor",
+      "proteção reforçada da vulnerabilidade agravada",
+      "superendividamento efetivo não é indispensável à ilicitude",
+      "redução de encargos e indenização",
+      "possibilidade de dano moral coletivo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 54-C, IV, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 54-D, parágrafo único, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 187 do Código Civil",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 54c — CDC",
+        "art. 54d — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_fb80111c03"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0043",
+    "id_origem": "q0043",
+    "ordem_origem": 43,
+    "bloco_origem": "cadeia_fb80111c03",
+    "score": 122.71,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_02/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2023_02",
+  "ordem": 3,
+  "materia": "Direito Tributário",
+  "tema": "Repetição de indébito tributário",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Na ação de repetição de indébito de IPVA, o município apenas não precisa integrar um litisconsórcio passivo necessário ou efetivamente carece de legitimidade passiva?",
+  "resposta": "O município carece de legitimidade passiva. Embora seja destinatário de parcela do produto da arrecadação do IPVA, ele não integra a relação jurídico-tributária estabelecida com o contribuinte, da qual o Estado é o sujeito ativo. A consequência é a exclusão do município do polo passivo, e não uma simples facultatividade quanto à formação do litisconsórcio.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Repetição de indébito tributário\nDificuldade: média\nPergunta: Na ação de repetição de indébito de IPVA, o município apenas não precisa integrar um litisconsórcio passivo necessário ou efetivamente carece de legitimidade passiva?\nResposta: O município carece de legitimidade passiva. Embora seja destinatário de parcela do produto da arrecadação do IPVA, ele não integra a relação jurídico-tributária estabelecida com o contribuinte, da qual o Estado é o sujeito ativo. A consequência é a exclusão do município do polo passivo, e não uma simples facultatividade quanto à formação do litisconsórcio.",
+  "_meta": {
+    "subtema": "Legitimidade passiva do município no IPVA",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Ilegitimidade passiva do município",
+      "Estado como sujeito ativo",
+      "Repartição de receitas não altera a relação tributária"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 155, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 158, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 119 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTN",
+        "art. 119 — CTN",
+        "art. 155 — CF",
+        "art. 158 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_b72606a96f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0011",
+    "id_origem": "q0011",
+    "ordem_origem": 11,
+    "bloco_origem": "cadeia_b72606a96f",
+    "score": 109.58,
+    "reabilitada": false
+  }
+}

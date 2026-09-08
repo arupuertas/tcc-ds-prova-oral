@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_02/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2023_02",
+  "ordem": 8,
+  "materia": "Direito Penal",
+  "tema": "Crimes culposos",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Na hipótese em que duas pessoas, sem intenção de matar, atuam conjuntamente no lançamento imprudente de objetos pesados do alto de um prédio, a que se refere o plano comum exigido pela corrente que admite a coautoria culposa: ao resultado morte ou a outro elemento?",
+  "resposta": "O plano comum refere-se à realização conjunta da conduta perigosa e à forma coordenada de sua execução, não ao resultado morte. Em crimes culposos, os agentes não precisam querer nem aceitar o resultado, mas devem atuar conscientemente em conjunto na atividade que viola o dever objetivo de cuidado. A morte é consequência não pretendida e objetivamente imputável ao risco proibido criado pela atuação comum. Se o acordo abrangesse a produção ou a aceitação da morte, a imputação deixaria de ser culposa e passaria ao campo do dolo.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: difícil\nPergunta: Na hipótese em que duas pessoas, sem intenção de matar, atuam conjuntamente no lançamento imprudente de objetos pesados do alto de um prédio, a que se refere o plano comum exigido pela corrente que admite a coautoria culposa: ao resultado morte ou a outro elemento?\nResposta: O plano comum refere-se à realização conjunta da conduta perigosa e à forma coordenada de sua execução, não ao resultado morte. Em crimes culposos, os agentes não precisam querer nem aceitar o resultado, mas devem atuar conscientemente em conjunto na atividade que viola o dever objetivo de cuidado. A morte é consequência não pretendida e objetivamente imputável ao risco proibido criado pela atuação comum. Se o acordo abrangesse a produção ou a aceitação da morte, a imputação deixaria de ser culposa e passaria ao campo do dolo.",
+  "_meta": {
+    "subtema": "Plano comum na coautoria culposa",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "plano comum relativo à conduta",
+      "ausência de acordo sobre o resultado",
+      "execução conjunta da atividade perigosa",
+      "violação do dever objetivo de cuidado",
+      "distinção entre culpa e dolo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, incisos I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 29, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0022",
+    "id_origem": "q0022",
+    "ordem_origem": 22,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 118.44,
+    "reabilitada": false
+  }
+}

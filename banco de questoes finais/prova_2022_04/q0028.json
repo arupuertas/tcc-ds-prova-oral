@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2022_04/q0028",
+  "id": "q0028",
+  "prova_id": "prova_2022_04",
+  "ordem": 28,
+  "materia": "Direito Penal",
+  "tema": "Exclusão da ilicitude",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "A senhora sustenta que o conhecimento da situação justificante é exigido nas causas legais de exclusão da ilicitude, como a legítima defesa, mas dispensado no consentimento do ofendido por se tratar de causa supralegal?",
+  "resposta": "Não se deve estabelecer essa distinção apenas em razão de a causa de justificação ser legal ou supralegal. Para a concepção objetivo-subjetiva, todas as causas de exclusão da ilicitude, inclusive o consentimento do ofendido, exigem que o agente conheça a situação permissiva. Para a concepção puramente objetiva, a presença dos pressupostos objetivos basta, seja a justificante legal ou supralegal. A análise será distinta quando o consentimento excluir a própria tipicidade por incidir sobre um elemento expresso ou implícito do tipo penal.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Exclusão da ilicitude\nDificuldade: difícil\nPergunta: A senhora sustenta que o conhecimento da situação justificante é exigido nas causas legais de exclusão da ilicitude, como a legítima defesa, mas dispensado no consentimento do ofendido por se tratar de causa supralegal?\nResposta: Não se deve estabelecer essa distinção apenas em razão de a causa de justificação ser legal ou supralegal. Para a concepção objetivo-subjetiva, todas as causas de exclusão da ilicitude, inclusive o consentimento do ofendido, exigem que o agente conheça a situação permissiva. Para a concepção puramente objetiva, a presença dos pressupostos objetivos basta, seja a justificante legal ou supralegal. A análise será distinta quando o consentimento excluir a própria tipicidade por incidir sobre um elemento expresso ou implícito do tipo penal.",
+  "_meta": {
+    "subtema": "Consentimento do ofendido e conhecimento da causa supralegal",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "A fonte legal ou supralegal não determina, por si só, a exigência de conhecimento",
+      "Unidade de tratamento das causas de justificação na teoria objetivo-subjetiva",
+      "Teoria puramente objetiva",
+      "Consentimento como eventual excludente da tipicidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 23 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 25 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 23 — CP",
+        "art. 25 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_399d2f7a36"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0059",
+    "id_origem": "q0059",
+    "ordem_origem": 59,
+    "bloco_origem": "cadeia_399d2f7a36",
+    "score": 113.52,
+    "reabilitada": false
+  }
+}

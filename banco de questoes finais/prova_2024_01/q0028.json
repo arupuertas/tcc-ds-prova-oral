@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2024_01/q0028",
+  "id": "q0028",
+  "prova_id": "prova_2024_01",
+  "ordem": 28,
+  "materia": "Direito Processual Penal",
+  "tema": "Lei de Drogas",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "O senhor considera possível a condenação pelo crime de tráfico de drogas sem a existência de qualquer laudo pericial sobre a substância?",
+  "resposta": "Se a substância foi apreendida, a regra é que a condenação exige exame pericial, mediante laudo definitivo ou, excepcionalmente, laudo preliminar dotado de igual certeza técnica, não podendo depoimentos ou confissão substituir arbitrariamente o exame direto. Situação distinta ocorre quando nenhuma droga foi apreendida e, por isso, não foi possível realizar a perícia. Nessa hipótese, há precedentes que admitem excepcionalmente a condenação com base em um conjunto probatório robusto e inequívoco, como interceptações telefônicas regularmente produzidas e corroboradas por outros elementos que demonstrem atos concretos de tráfico. Também existe orientação restritiva segundo a qual, sem apreensão e identificação técnica da substância, não se comprova com segurança a materialidade do tráfico.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Lei de Drogas\nDificuldade: difícil\nPergunta: O senhor considera possível a condenação pelo crime de tráfico de drogas sem a existência de qualquer laudo pericial sobre a substância?\nResposta: Se a substância foi apreendida, a regra é que a condenação exige exame pericial, mediante laudo definitivo ou, excepcionalmente, laudo preliminar dotado de igual certeza técnica, não podendo depoimentos ou confissão substituir arbitrariamente o exame direto. Situação distinta ocorre quando nenhuma droga foi apreendida e, por isso, não foi possível realizar a perícia. Nessa hipótese, há precedentes que admitem excepcionalmente a condenação com base em um conjunto probatório robusto e inequívoco, como interceptações telefônicas regularmente produzidas e corroboradas por outros elementos que demonstrem atos concretos de tráfico. Também existe orientação restritiva segundo a qual, sem apreensão e identificação técnica da substância, não se comprova com segurança a materialidade do tráfico.",
+  "_meta": {
+    "subtema": "Condenação por tráfico sem laudo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Indispensabilidade da perícia quando há apreensão",
+      "Possível equivalência do laudo preliminar ao definitivo",
+      "Distinção entre ausência de laudo e ausência de apreensão",
+      "Admissão excepcional de outras provas robustas",
+      "Existência de orientação jurisprudencial restritiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 158 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 167 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 155 do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 50, § 1º, da Lei nº 11.343/2006",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 158 — CPP",
+        "art. 167 — CPP",
+        "art. 50 — Lei 11.343"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A resposta distingue a falta do laudo apesar da apreensão da hipótese em que nenhuma substância foi apreendida.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_94f9ee4d70"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0056",
+    "id_origem": "q0056",
+    "ordem_origem": 56,
+    "bloco_origem": "cadeia_94f9ee4d70",
+    "score": 115.92,
+    "reabilitada": false
+  }
+}

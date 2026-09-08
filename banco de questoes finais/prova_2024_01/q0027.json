@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_01/q0027",
+  "id": "q0027",
+  "prova_id": "prova_2024_01",
+  "ordem": 27,
+  "materia": "Direito Processual Penal",
+  "tema": "Lei de Drogas",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O laudo preliminar de constatação dispensa a produção do laudo toxicológico definitivo? Em caso afirmativo, em quais hipóteses isso é admitido?",
+  "resposta": "Em regra, o laudo preliminar não dispensa a produção do laudo toxicológico definitivo, pois este é o meio ordinário de comprovação conclusiva da materialidade. Excepcionalmente, a jurisprudência admite que o laudo preliminar o substitua quando tiver sido elaborado por perito oficial, mediante exame tecnicamente idôneo, e apresentar grau de certeza equivalente ao do laudo definitivo quanto à natureza da substância. Não basta, portanto, um documento meramente sumário ou subscrito apenas por pessoa idônea na falta de perito oficial. A ausência de contraditório contemporâneo à perícia não a invalida, pois a prova pericial pode ser submetida a contraditório diferido no processo.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Lei de Drogas\nDificuldade: difícil\nPergunta: O laudo preliminar de constatação dispensa a produção do laudo toxicológico definitivo? Em caso afirmativo, em quais hipóteses isso é admitido?\nResposta: Em regra, o laudo preliminar não dispensa a produção do laudo toxicológico definitivo, pois este é o meio ordinário de comprovação conclusiva da materialidade. Excepcionalmente, a jurisprudência admite que o laudo preliminar o substitua quando tiver sido elaborado por perito oficial, mediante exame tecnicamente idôneo, e apresentar grau de certeza equivalente ao do laudo definitivo quanto à natureza da substância. Não basta, portanto, um documento meramente sumário ou subscrito apenas por pessoa idônea na falta de perito oficial. A ausência de contraditório contemporâneo à perícia não a invalida, pois a prova pericial pode ser submetida a contraditório diferido no processo.",
+  "_meta": {
+    "subtema": "Dispensa do laudo definitivo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Regra de necessidade do laudo definitivo",
+      "Substituição excepcional pelo laudo preliminar",
+      "Elaboração por perito oficial",
+      "Idoneidade e certeza técnica equivalentes",
+      "Contraditório diferido"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 50, §§ 1º e 2º, da Lei nº 11.343/2006",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 158 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 158 — CPP",
+        "art. 50 — Lei 11.343"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_94f9ee4d70"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0055",
+    "id_origem": "q0055",
+    "ordem_origem": 55,
+    "bloco_origem": "cadeia_94f9ee4d70",
+    "score": 123.05,
+    "reabilitada": false
+  }
+}

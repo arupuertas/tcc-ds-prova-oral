@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2024_01/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2024_01",
+  "ordem": 22,
+  "materia": "Direito Penal",
+  "tema": "Erro de proibição",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "No erro de proibição, a dúvida do agente sobre a ilicitude da conduta afasta, por si só, o erro, ou o senhor ainda deve examinar outros aspectos para verificar sua configuração?",
+  "resposta": "Segundo a posição dominante, a dúvida concreta acerca da ilicitude revela potencial consciência da ilicitude e, por isso, afasta o erro de proibição, cabendo ao agente esclarecer-se antes de atuar. Há, contudo, corrente segundo a qual dúvida e conhecimento são conceitos distintos, de modo que quem apenas duvida ainda se encontra em erro sobre a proibição. Nessa segunda compreensão, é necessário verificar se o erro era evitável ou inevitável, considerando se havia razões para o agente buscar informação e se estavam disponíveis meios confiáveis e acessíveis para obtê-la. Se inevitável, o erro exclui a culpabilidade; se evitável, permite a redução da pena nos termos legais.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Erro de proibição\nDificuldade: difícil\nPergunta: No erro de proibição, a dúvida do agente sobre a ilicitude da conduta afasta, por si só, o erro, ou o senhor ainda deve examinar outros aspectos para verificar sua configuração?\nResposta: Segundo a posição dominante, a dúvida concreta acerca da ilicitude revela potencial consciência da ilicitude e, por isso, afasta o erro de proibição, cabendo ao agente esclarecer-se antes de atuar. Há, contudo, corrente segundo a qual dúvida e conhecimento são conceitos distintos, de modo que quem apenas duvida ainda se encontra em erro sobre a proibição. Nessa segunda compreensão, é necessário verificar se o erro era evitável ou inevitável, considerando se havia razões para o agente buscar informação e se estavam disponíveis meios confiáveis e acessíveis para obtê-la. Se inevitável, o erro exclui a culpabilidade; se evitável, permite a redução da pena nos termos legais.",
+  "_meta": {
+    "subtema": "Dúvida sobre a ilicitude",
+    "tipo": "principal",
+    "pontos_chave": [
+      "posição dominante: dúvida como potencial consciência da ilicitude",
+      "corrente minoritária: dúvida como espécie de erro",
+      "dever de buscar informação",
+      "erro evitável ou inevitável",
+      "efeitos sobre a culpabilidade e a pena"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 21 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 21 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.9
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_feaa26bd53"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0050",
+    "id_origem": "q0050",
+    "ordem_origem": 50,
+    "bloco_origem": "cadeia_feaa26bd53",
+    "score": 118.23,
+    "reabilitada": false
+  }
+}

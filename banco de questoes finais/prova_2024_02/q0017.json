@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2024_02/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2024_02",
+  "ordem": 17,
+  "materia": "Direito Empresarial",
+  "tema": "Sociedades",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "No âmbito das sociedades limitadas, em que hipótese o sócio minoritário pode ser excluído extrajudicialmente da sociedade?",
+  "resposta": "O sócio minoritário pode ser excluído extrajudicialmente por justa causa quando atos de inegável gravidade põem em risco a continuidade da empresa, desde que o contrato social preveja essa forma de exclusão e seja observado o quórum legal. Salvo no caso de sociedade composta por apenas dois sócios, a exclusão deve ser deliberada em reunião ou assembleia especialmente convocada, com ciência tempestiva do acusado e oportunidade de comparecimento e exercício do direito de defesa. A exclusão é formalizada mediante alteração do contrato social, e a mera alegação de quebra da affectio societatis, sem a demonstração concreta de falta grave, não é suficiente.",
+  "embedding_text": "Matéria: Direito Empresarial\nTema: Sociedades\nDificuldade: média\nPergunta: No âmbito das sociedades limitadas, em que hipótese o sócio minoritário pode ser excluído extrajudicialmente da sociedade?\nResposta: O sócio minoritário pode ser excluído extrajudicialmente por justa causa quando atos de inegável gravidade põem em risco a continuidade da empresa, desde que o contrato social preveja essa forma de exclusão e seja observado o quórum legal. Salvo no caso de sociedade composta por apenas dois sócios, a exclusão deve ser deliberada em reunião ou assembleia especialmente convocada, com ciência tempestiva do acusado e oportunidade de comparecimento e exercício do direito de defesa. A exclusão é formalizada mediante alteração do contrato social, e a mera alegação de quebra da affectio societatis, sem a demonstração concreta de falta grave, não é suficiente.",
+  "_meta": {
+    "subtema": "Exclusão de sócio minoritário",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Atos de inegável gravidade que ponham em risco a continuidade da empresa",
+      "Previsão da exclusão por justa causa no contrato social",
+      "Observância do quórum legal",
+      "Convocação específica e exercício do direito de defesa",
+      "Insuficiência da mera quebra da affectio societatis"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.085 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1085 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_f4e188010a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0069",
+    "id_origem": "q0069",
+    "ordem_origem": 69,
+    "bloco_origem": "cadeia_f4e188010a",
+    "score": 106.1,
+    "reabilitada": false
+  }
+}

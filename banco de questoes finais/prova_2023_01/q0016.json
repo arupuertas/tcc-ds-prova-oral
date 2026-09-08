@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_01/q0016",
+  "id": "q0016",
+  "prova_id": "prova_2023_01",
+  "ordem": 16,
+  "materia": "Direito Civil",
+  "tema": "Seguro de vida e sucessões",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "O capital devido em razão de seguro de vida por morte do segurado ingressa no inventário e compõe o acervo hereditário?",
+  "resposta": "Não. O capital estipulado no seguro de vida para o caso de morte não se considera herança para nenhum efeito jurídico e é transmitido diretamente ao beneficiário, razão pela qual não integra o inventário. Também não se submete às dívidas do segurado nem ao cálculo da legítima, independentemente de seu valor.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Seguro de vida e sucessões\nDificuldade: média\nPergunta: O capital devido em razão de seguro de vida por morte do segurado ingressa no inventário e compõe o acervo hereditário?\nResposta: Não. O capital estipulado no seguro de vida para o caso de morte não se considera herança para nenhum efeito jurídico e é transmitido diretamente ao beneficiário, razão pela qual não integra o inventário. Também não se submete às dívidas do segurado nem ao cálculo da legítima, independentemente de seu valor.",
+  "_meta": {
+    "subtema": "Integração do seguro de vida ao inventário",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "capital segurado não integra a herança",
+      "pagamento direto ao beneficiário",
+      "não sujeição às dívidas do segurado",
+      "não incidência dos limites da legítima"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 794 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 794 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_854a71d41c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0026",
+    "id_origem": "q0026",
+    "ordem_origem": 26,
+    "bloco_origem": "cadeia_854a71d41c",
+    "score": 113.08,
+    "reabilitada": false
+  }
+}

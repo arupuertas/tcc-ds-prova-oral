@@ -1,0 +1,79 @@
+{
+  "uid": "prova_2022_03/q0016",
+  "id": "q0016",
+  "prova_id": "prova_2022_03",
+  "ordem": 16,
+  "materia": "Direito Ambiental",
+  "tema": "Código Florestal",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "A senhora conceitue o instituto da reserva legal ambiental e indique sua finalidade e seus percentuais básicos.",
+  "resposta": "A reserva legal é a área localizada no interior de imóvel rural que deve ser mantida com cobertura de vegetação nativa, com a função de assegurar o uso econômico sustentável dos recursos naturais, auxiliar a conservação e a reabilitação dos processos ecológicos e promover a biodiversidade e a proteção da fauna e da flora. Trata-se de limitação legal ao uso do imóvel rural e não se confunde com a área de preservação permanente. Na Amazônia Legal, a reserva corresponde a 80% do imóvel situado em área de floresta, a 35% do imóvel situado em área de cerrado e a 20% do imóvel situado em área de campos gerais. Nas demais regiões do País, corresponde, em regra, a 20% da área do imóvel. Sua exploração econômica somente é admitida mediante manejo sustentável, observadas as exigências do Código Florestal.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Código Florestal\nDificuldade: fácil\nPergunta: A senhora conceitue o instituto da reserva legal ambiental e indique sua finalidade e seus percentuais básicos.\nResposta: A reserva legal é a área localizada no interior de imóvel rural que deve ser mantida com cobertura de vegetação nativa, com a função de assegurar o uso econômico sustentável dos recursos naturais, auxiliar a conservação e a reabilitação dos processos ecológicos e promover a biodiversidade e a proteção da fauna e da flora. Trata-se de limitação legal ao uso do imóvel rural e não se confunde com a área de preservação permanente. Na Amazônia Legal, a reserva corresponde a 80% do imóvel situado em área de floresta, a 35% do imóvel situado em área de cerrado e a 20% do imóvel situado em área de campos gerais. Nas demais regiões do País, corresponde, em regra, a 20% da área do imóvel. Sua exploração econômica somente é admitida mediante manejo sustentável, observadas as exigências do Código Florestal.",
+  "_meta": {
+    "subtema": "Conceito de reserva legal",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Área situada no interior de imóvel rural",
+      "Conservação da vegetação nativa e dos processos ecológicos",
+      "Distinção entre reserva legal e área de preservação permanente",
+      "Percentuais de 80%, 35% e 20% na Amazônia Legal",
+      "Percentual geral de 20% nas demais regiões",
+      "Admissibilidade de manejo sustentável"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 3º, III, da Lei nº 12.651/2012",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 12 da Lei nº 12.651/2012",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 17 da Lei nº 12.651/2012",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 12.651",
+        "art. 12 — Lei 12.651",
+        "art. 17 — Lei 12.651",
+        "art. 3 — Lei 12.651"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_8712085f23"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0042",
+    "id_origem": "q0042",
+    "ordem_origem": 42,
+    "bloco_origem": "cadeia_8712085f23",
+    "score": 112.95,
+    "reabilitada": false
+  }
+}

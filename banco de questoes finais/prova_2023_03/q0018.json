@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_03/q0018",
+  "id": "q0018",
+  "prova_id": "prova_2023_03",
+  "ordem": 18,
+  "materia": "Direito Tributário",
+  "tema": "Repetição de indébito",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Considerando que o Município recebe cinquenta por cento do produto da arrecadação do IPVA relativo aos veículos licenciados em seu território, ele deve integrar o polo passivo da ação de repetição de indébito ajuizada pelo contribuinte para obter a restituição desse imposto?",
+  "resposta": "Não. O Estado é o ente competente para instituir o IPVA e o sujeito ativo da relação jurídico-tributária, razão pela qual possui legitimidade passiva para a ação de repetição do indébito. A participação constitucional do Município no produto da arrecadação constitui repartição de receitas tributárias e não lhe transfere competência tributária nem capacidade para exigir o imposto. Por isso, o Município não é litisconsorte passivo necessário na demanda restitutória.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Repetição de indébito\nDificuldade: difícil\nPergunta: Considerando que o Município recebe cinquenta por cento do produto da arrecadação do IPVA relativo aos veículos licenciados em seu território, ele deve integrar o polo passivo da ação de repetição de indébito ajuizada pelo contribuinte para obter a restituição desse imposto?\nResposta: Não. O Estado é o ente competente para instituir o IPVA e o sujeito ativo da relação jurídico-tributária, razão pela qual possui legitimidade passiva para a ação de repetição do indébito. A participação constitucional do Município no produto da arrecadação constitui repartição de receitas tributárias e não lhe transfere competência tributária nem capacidade para exigir o imposto. Por isso, o Município não é litisconsorte passivo necessário na demanda restitutória.",
+  "_meta": {
+    "subtema": "Legitimidade passiva em restituição de IPVA",
+    "tipo": "principal",
+    "pontos_chave": [
+      "legitimidade passiva do Estado",
+      "repartição constitucional de receitas",
+      "ausência de transferência da competência tributária",
+      "Município não é litisconsorte necessário"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 155, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 158, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 119 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTN",
+        "art. 119 — CTN",
+        "art. 155 — CF",
+        "art. 158 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_340248b5c5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0033",
+    "id_origem": "q0033",
+    "ordem_origem": 33,
+    "bloco_origem": "cadeia_340248b5c5",
+    "score": 127.48,
+    "reabilitada": false
+  }
+}

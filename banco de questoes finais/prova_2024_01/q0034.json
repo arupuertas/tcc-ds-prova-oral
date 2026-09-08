@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2024_01/q0034",
+  "id": "q0034",
+  "prova_id": "prova_2024_01",
+  "ordem": 34,
+  "materia": "Direito Civil",
+  "tema": "Direito das Sucessões",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Qual é a consequência jurídica para o herdeiro que dolosamente sonega bens da herança que estejam em seu poder?",
+  "resposta": "O herdeiro que dolosamente sonega bens da herança perde o direito que lhe caberia sobre os bens sonegados, sem perder a qualidade de herdeiro ou sua participação nos demais bens. A pena de sonegados deve ser requerida em ação promovida pelos herdeiros ou pelos credores da herança, e a sentença aproveita aos demais interessados. Se os bens não puderem ser restituídos porque já não estão em poder do sonegador, este deverá pagar o respectivo valor, além de perdas e danos. Caso o herdeiro sonegador também exerça a inventariança, poderá ainda ser removido dessa função.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Direito das Sucessões\nDificuldade: média\nPergunta: Qual é a consequência jurídica para o herdeiro que dolosamente sonega bens da herança que estejam em seu poder?\nResposta: O herdeiro que dolosamente sonega bens da herança perde o direito que lhe caberia sobre os bens sonegados, sem perder a qualidade de herdeiro ou sua participação nos demais bens. A pena de sonegados deve ser requerida em ação promovida pelos herdeiros ou pelos credores da herança, e a sentença aproveita aos demais interessados. Se os bens não puderem ser restituídos porque já não estão em poder do sonegador, este deverá pagar o respectivo valor, além de perdas e danos. Caso o herdeiro sonegador também exerça a inventariança, poderá ainda ser removido dessa função.",
+  "_meta": {
+    "subtema": "Pena de sonegados",
+    "tipo": "principal",
+    "pontos_chave": [
+      "necessidade de dolo",
+      "perda do direito sobre os bens sonegados",
+      "ação de sonegados",
+      "legitimidade dos herdeiros e credores da herança",
+      "restituição do valor e perdas e danos",
+      "remoção do inventariante sonegador"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.992 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.993 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.994 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.995 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1992 — CC",
+        "art. 1993 — CC",
+        "art. 1994 — CC",
+        "art. 1995 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_72eb1a1fe6"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0075",
+    "id_origem": "q0075",
+    "ordem_origem": 75,
+    "bloco_origem": "cadeia_72eb1a1fe6",
+    "score": 116.88,
+    "reabilitada": false
+  }
+}

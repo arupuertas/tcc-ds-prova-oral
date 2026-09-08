@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2024_02/q0026",
+  "id": "q0026",
+  "prova_id": "prova_2024_02",
+  "ordem": 26,
+  "materia": "Direitos Humanos",
+  "tema": "Discriminação racial",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O senhor poderia explicar o que é racismo recreativo?",
+  "resposta": "Racismo recreativo é a utilização do humor, de brincadeiras ou de práticas de entretenimento para reproduzir estereótipos, humilhar pessoas racializadas e preservar relações de hierarquia e dominação racial. A aparência de descontração não elimina o caráter discriminatório da conduta, que frequentemente procura apresentar a ofensa racial como simples piada socialmente aceitável. A legislação penal prevê aumento de pena quando os crimes de racismo forem praticados em contexto ou com intuito de descontração, diversão ou recreação.",
+  "embedding_text": "Matéria: Direitos Humanos\nTema: Discriminação racial\nDificuldade: média\nPergunta: O senhor poderia explicar o que é racismo recreativo?\nResposta: Racismo recreativo é a utilização do humor, de brincadeiras ou de práticas de entretenimento para reproduzir estereótipos, humilhar pessoas racializadas e preservar relações de hierarquia e dominação racial. A aparência de descontração não elimina o caráter discriminatório da conduta, que frequentemente procura apresentar a ofensa racial como simples piada socialmente aceitável. A legislação penal prevê aumento de pena quando os crimes de racismo forem praticados em contexto ou com intuito de descontração, diversão ou recreação.",
+  "_meta": {
+    "subtema": "Racismo recreativo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "racismo apresentado como humor ou brincadeira",
+      "reprodução de estereótipos raciais",
+      "humilhação e dominação racial",
+      "contexto de descontração, diversão ou recreação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20-A da Lei nº 7.716/1989",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 7.716",
+        "art. 20a — Lei 7.716"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3a7c98edcd"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0078",
+    "id_origem": "q0078",
+    "ordem_origem": 78,
+    "bloco_origem": "cadeia_3a7c98edcd",
+    "score": 105.19,
+    "reabilitada": false
+  }
+}

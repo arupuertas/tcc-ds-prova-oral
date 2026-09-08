@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2022_01/q0010",
+  "id": "q0010",
+  "prova_id": "prova_2022_01",
+  "ordem": 10,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Pessoa idosa",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "Para fins da proteção conferida pelo ordenamento jurídico brasileiro, quem a senhora considera pessoa idosa?",
+  "resposta": "Pessoa idosa é aquela com idade igual ou superior a 60 anos, conforme o critério cronológico adotado pelo Estatuto da Pessoa Idosa. Essa qualificação independe da capacidade civil, da autonomia ou da situação de dependência da pessoa. A prioridade especial assegurada às pessoas com mais de 80 anos não altera o conceito legal de pessoa idosa, mas estabelece preferência entre as próprias pessoas idosas.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Pessoa idosa\nDificuldade: fácil\nPergunta: Para fins da proteção conferida pelo ordenamento jurídico brasileiro, quem a senhora considera pessoa idosa?\nResposta: Pessoa idosa é aquela com idade igual ou superior a 60 anos, conforme o critério cronológico adotado pelo Estatuto da Pessoa Idosa. Essa qualificação independe da capacidade civil, da autonomia ou da situação de dependência da pessoa. A prioridade especial assegurada às pessoas com mais de 80 anos não altera o conceito legal de pessoa idosa, mas estabelece preferência entre as próprias pessoas idosas.",
+  "_meta": {
+    "subtema": "Conceito legal de idoso",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Idade igual ou superior a 60 anos",
+      "Critério cronológico",
+      "Conceito independente de incapacidade ou dependência",
+      "Prioridade especial para maiores de 80 anos"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1º da Lei 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 3º, § 2º, da Lei 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1 — Lei 10.741"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_ae78163dac"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0020",
+    "id_origem": "q0020",
+    "ordem_origem": 20,
+    "bloco_origem": "cadeia_ae78163dac",
+    "score": 117.46,
+    "reabilitada": false
+  }
+}

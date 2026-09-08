@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_02/q0029",
+  "id": "q0029",
+  "prova_id": "prova_2023_02",
+  "ordem": 29,
+  "materia": "Direito do Consumidor",
+  "tema": "Tutela coletiva",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "É possível estender os efeitos de uma sentença penal condenatória para promover a liquidação e a execução coletiva previstas no Código de Defesa do Consumidor?",
+  "resposta": "Sim. O Código de Defesa do Consumidor determina a aplicação à sentença penal condenatória do transporte in utilibus da coisa julgada, permitindo que seus efeitos beneficiem as vítimas e seus sucessores para fins de liquidação e execução civil. A execução coletiva pode ser promovida pelos legitimados coletivos, inclusive pelo Ministério Público, e abranger as vítimas cujas indenizações tenham sido fixadas em liquidação. Isso não dispensa a individualização dos beneficiários e dos respectivos danos quando o título penal não contiver os valores devidos. A legitimidade para a execução genuinamente coletiva não se confunde com a representação, pelo Ministério Público, de uma vítima determinada em execução estritamente individual e destituída de relevância social.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Tutela coletiva\nDificuldade: difícil\nPergunta: É possível estender os efeitos de uma sentença penal condenatória para promover a liquidação e a execução coletiva previstas no Código de Defesa do Consumidor?\nResposta: Sim. O Código de Defesa do Consumidor determina a aplicação à sentença penal condenatória do transporte in utilibus da coisa julgada, permitindo que seus efeitos beneficiem as vítimas e seus sucessores para fins de liquidação e execução civil. A execução coletiva pode ser promovida pelos legitimados coletivos, inclusive pelo Ministério Público, e abranger as vítimas cujas indenizações tenham sido fixadas em liquidação. Isso não dispensa a individualização dos beneficiários e dos respectivos danos quando o título penal não contiver os valores devidos. A legitimidade para a execução genuinamente coletiva não se confunde com a representação, pelo Ministério Público, de uma vítima determinada em execução estritamente individual e destituída de relevância social.",
+  "_meta": {
+    "subtema": "Extensão de sentença penal condenatória para execução coletiva",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Transporte in utilibus dos efeitos da condenação penal",
+      "Benefício às vítimas e aos sucessores",
+      "Possibilidade de liquidação e execução coletiva",
+      "Legitimidade dos entes coletivos, inclusive do Ministério Público",
+      "Necessidade de individualizar beneficiários e valores"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 103, §§ 3º e 4º, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 97 e 98 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 82, I, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 103 — CDC",
+        "art. 82 — CDC",
+        "art. 97 — CDC",
+        "art. 98 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4584fa1ecc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0070",
+    "id_origem": "q0070",
+    "ordem_origem": 70,
+    "bloco_origem": "cadeia_4584fa1ecc",
+    "score": 121.24,
+    "reabilitada": false
+  }
+}

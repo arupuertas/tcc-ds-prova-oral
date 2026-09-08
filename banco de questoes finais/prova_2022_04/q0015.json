@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2022_04/q0015",
+  "id": "q0015",
+  "prova_id": "prova_2022_04",
+  "ordem": 15,
+  "materia": "Direito Constitucional",
+  "tema": "Direitos fundamentais",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora poderia dar um exemplo de direito fundamental previsto em lei ordinária que concretize um direito constitucional?",
+  "resposta": "Um exemplo é o direito ao nome, expressamente disciplinado pelo Código Civil como direito da personalidade. Embora não esteja enunciado de maneira autônoma no catálogo constitucional, ele concretiza a dignidade da pessoa humana e a proteção constitucional da identidade, da vida privada e da personalidade. Sua disciplina infraconstitucional revela e especifica um direito materialmente fundamental decorrente da ordem constitucional.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direitos fundamentais\nDificuldade: média\nPergunta: A senhora poderia dar um exemplo de direito fundamental previsto em lei ordinária que concretize um direito constitucional?\nResposta: Um exemplo é o direito ao nome, expressamente disciplinado pelo Código Civil como direito da personalidade. Embora não esteja enunciado de maneira autônoma no catálogo constitucional, ele concretiza a dignidade da pessoa humana e a proteção constitucional da identidade, da vida privada e da personalidade. Sua disciplina infraconstitucional revela e especifica um direito materialmente fundamental decorrente da ordem constitucional.",
+  "_meta": {
+    "subtema": "Exemplo de direito fundamental previsto em lei",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "direito ao nome",
+      "direito da personalidade",
+      "concretização da dignidade da pessoa humana",
+      "fundamentalidade material"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 16 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1º, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, § 2º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1 — CF",
+        "art. 16 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7e3da438a6"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0033",
+    "id_origem": "q0033",
+    "ordem_origem": 33,
+    "bloco_origem": "cadeia_7e3da438a6",
+    "score": 111.8,
+    "reabilitada": false
+  }
+}

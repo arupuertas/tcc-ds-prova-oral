@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2022_01/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2022_01",
+  "ordem": 4,
+  "materia": "Direito Processual Civil",
+  "tema": "Tutela provisória",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Nas tutelas provisórias, como fica a observância do princípio do contraditório?",
+  "resposta": "A regra continua sendo o contraditório prévio, mas a tutela provisória pode, nas hipóteses legalmente admitidas, ser concedida liminarmente, sem a oitiva inicial da parte contrária. Não há supressão do contraditório, mas seu diferimento para momento posterior, especialmente quando a prévia ciência do demandado puder comprometer a efetividade da medida urgente. A parte atingida deverá ser prontamente cientificada e poderá impugnar a decisão, produzir provas e requerer sua modificação ou revogação. A postergação deve ser excepcional, fundamentada e limitada ao necessário para assegurar a utilidade da tutela jurisdicional.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Tutela provisória\nDificuldade: média\nPergunta: Nas tutelas provisórias, como fica a observância do princípio do contraditório?\nResposta: A regra continua sendo o contraditório prévio, mas a tutela provisória pode, nas hipóteses legalmente admitidas, ser concedida liminarmente, sem a oitiva inicial da parte contrária. Não há supressão do contraditório, mas seu diferimento para momento posterior, especialmente quando a prévia ciência do demandado puder comprometer a efetividade da medida urgente. A parte atingida deverá ser prontamente cientificada e poderá impugnar a decisão, produzir provas e requerer sua modificação ou revogação. A postergação deve ser excepcional, fundamentada e limitada ao necessário para assegurar a utilidade da tutela jurisdicional.",
+  "_meta": {
+    "subtema": "Contraditório diferido",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "regra do contraditório prévio",
+      "contraditório diferido",
+      "concessão liminar",
+      "ausência de supressão do contraditório",
+      "posterior impugnação",
+      "excepcionalidade e fundamentação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, LV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 9º, parágrafo único, I e II, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 296 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 300, § 2º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 296 — CPC",
+        "art. 300 — CPC",
+        "art. 5 — CF",
+        "art. 9 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_0897c5346a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0004",
+    "id_origem": "q0004",
+    "ordem_origem": 4,
+    "bloco_origem": "cadeia_0897c5346a",
+    "score": 124.94,
+    "reabilitada": false
+  }
+}

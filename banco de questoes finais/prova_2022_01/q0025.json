@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2022_01/q0025",
+  "id": "q0025",
+  "prova_id": "prova_2022_01",
+  "ordem": 25,
+  "materia": "Direito Penal",
+  "tema": "Erro de tipo permissivo",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Uma vez reconhecida a ocorrência de erro de tipo permissivo, o dolo fica automaticamente afastado, ou isso ainda depende de o erro ser escusável ou inescusável?",
+  "resposta": "Segundo a teoria limitada da culpabilidade, o erro de tipo permissivo afasta o dolo, ainda que seja evitável. O caráter escusável ou inescusável do erro repercute na possibilidade de responsabilização por culpa, e não na subsistência do dolo. Se o erro for plenamente justificado pelas circunstâncias, excluem-se dolo e culpa; se decorrer de culpa, o agente poderá responder por crime culposo, desde que exista previsão dessa modalidade. Portanto, reconhecido efetivamente o erro sobre os pressupostos fáticos de uma causa de justificação, o dolo fica afastado.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Erro de tipo permissivo\nDificuldade: difícil\nPergunta: Uma vez reconhecida a ocorrência de erro de tipo permissivo, o dolo fica automaticamente afastado, ou isso ainda depende de o erro ser escusável ou inescusável?\nResposta: Segundo a teoria limitada da culpabilidade, o erro de tipo permissivo afasta o dolo, ainda que seja evitável. O caráter escusável ou inescusável do erro repercute na possibilidade de responsabilização por culpa, e não na subsistência do dolo. Se o erro for plenamente justificado pelas circunstâncias, excluem-se dolo e culpa; se decorrer de culpa, o agente poderá responder por crime culposo, desde que exista previsão dessa modalidade. Portanto, reconhecido efetivamente o erro sobre os pressupostos fáticos de uma causa de justificação, o dolo fica afastado.",
+  "_meta": {
+    "subtema": "Afastamento automático do dolo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "afastamento automático do dolo",
+      "irrelevância da evitabilidade para a exclusão do dolo",
+      "erro inevitável exclui dolo e culpa",
+      "erro evitável permite punição culposa se prevista"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20, § 1º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 20 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c2bd604864"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0061",
+    "id_origem": "q0061",
+    "ordem_origem": 61,
+    "bloco_origem": "cadeia_c2bd604864",
+    "score": 111.3,
+    "reabilitada": false
+  }
+}

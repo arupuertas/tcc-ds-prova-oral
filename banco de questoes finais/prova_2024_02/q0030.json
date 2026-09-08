@@ -1,0 +1,85 @@
+{
+  "uid": "prova_2024_02/q0030",
+  "id": "q0030",
+  "prova_id": "prova_2024_02",
+  "ordem": 30,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Processo coletivo",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "O que são entes intermediários no processo coletivo?",
+  "resposta": "Entes ou corpos intermediários são organizações sociais situadas entre o indivíduo e o Estado, como associações e sindicatos, por meio das quais determinados grupos articulam e defendem interesses comuns. No processo coletivo, esses entes podem receber legitimidade para levar a juízo a posição jurídica do grupo ou da coletividade, ampliando o acesso à justiça e a participação dos interessados. Conforme o regime jurídico aplicável, sua atuação pode ocorrer por representação processual ou por legitimação extraordinária autônoma, institutos que não se confundem. O elemento caracterizador é a função de intermediação e a representatividade social, e não a simples presença da entidade no rol legal de legitimados ativos.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Processo coletivo\nDificuldade: fácil\nPergunta: O que são entes intermediários no processo coletivo?\nResposta: Entes ou corpos intermediários são organizações sociais situadas entre o indivíduo e o Estado, como associações e sindicatos, por meio das quais determinados grupos articulam e defendem interesses comuns. No processo coletivo, esses entes podem receber legitimidade para levar a juízo a posição jurídica do grupo ou da coletividade, ampliando o acesso à justiça e a participação dos interessados. Conforme o regime jurídico aplicável, sua atuação pode ocorrer por representação processual ou por legitimação extraordinária autônoma, institutos que não se confundem. O elemento caracterizador é a função de intermediação e a representatividade social, e não a simples presença da entidade no rol legal de legitimados ativos.",
+  "_meta": {
+    "subtema": "Entes intermediários",
+    "tipo": "principal",
+    "pontos_chave": [
+      "organizações entre o indivíduo e o Estado",
+      "associações e sindicatos",
+      "defesa judicial de interesses coletivos",
+      "representação processual e legitimação extraordinária",
+      "representatividade social"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, XXI e LXX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 8º, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, V, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 82, IV, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CDC",
+        "Lei 7.347",
+        "art. 5 — CF",
+        "art. 5 — Lei 7.347",
+        "art. 8 — CF",
+        "art. 82 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_198b5d6e0f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0083",
+    "id_origem": "q0083",
+    "ordem_origem": 83,
+    "bloco_origem": "cadeia_198b5d6e0f",
+    "score": 106.1,
+    "reabilitada": false
+  }
+}

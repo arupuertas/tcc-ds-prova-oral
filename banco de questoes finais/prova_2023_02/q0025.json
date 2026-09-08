@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_02/q0025",
+  "id": "q0025",
+  "prova_id": "prova_2023_02",
+  "ordem": 25,
+  "materia": "Direito Empresarial",
+  "tema": "Recuperação judicial e falência",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "É admissível a recuperação judicial ou a falência de associações e fundações?",
+  "resposta": "Pela regra geral da Lei de Recuperação Judicial e Falência, associações e fundações não se submetem à recuperação judicial nem à falência, pois a lei delimita seu âmbito de incidência ao empresário e à sociedade empresária. A ausência dessas pessoas jurídicas no rol de exclusões legais não basta para incluí-las, uma vez que o âmbito subjetivo da lei é definido positivamente. O Superior Tribunal de Justiça, contudo, já admitiu excepcionalmente a recuperação judicial de associações civis sem fins lucrativos que exerçam, de modo organizado e relevante, atividade econômica materialmente empresarial, interpretação que não autoriza a submissão indistinta de qualquer associação ao regime. Não há orientação geral consolidada que estenda automaticamente essa exceção às fundações. A falência direta também não é cabível apenas porque a associação ou a fundação desenvolve alguma atividade econômica, ressalvada a incidência de lei especial ou a prévia e excepcional submissão da entidade ao regime recuperacional, hipótese em que poderá ocorrer a convolação da recuperação em falência. Fora dessas situações, aplicam-se os regimes civis de dissolução, liquidação e insolvência.",
+  "embedding_text": "Matéria: Direito Empresarial\nTema: Recuperação judicial e falência\nDificuldade: difícil\nPergunta: É admissível a recuperação judicial ou a falência de associações e fundações?\nResposta: Pela regra geral da Lei de Recuperação Judicial e Falência, associações e fundações não se submetem à recuperação judicial nem à falência, pois a lei delimita seu âmbito de incidência ao empresário e à sociedade empresária. A ausência dessas pessoas jurídicas no rol de exclusões legais não basta para incluí-las, uma vez que o âmbito subjetivo da lei é definido positivamente. O Superior Tribunal de Justiça, contudo, já admitiu excepcionalmente a recuperação judicial de associações civis sem fins lucrativos que exerçam, de modo organizado e relevante, atividade econômica materialmente empresarial, interpretação que não autoriza a submissão indistinta de qualquer associação ao regime. Não há orientação geral consolidada que estenda automaticamente essa exceção às fundações. A falência direta também não é cabível apenas porque a associação ou a fundação desenvolve alguma atividade econômica, ressalvada a incidência de lei especial ou a prévia e excepcional submissão da entidade ao regime recuperacional, hipótese em que poderá ocorrer a convolação da recuperação em falência. Fora dessas situações, aplicam-se os regimes civis de dissolução, liquidação e insolvência.",
+  "_meta": {
+    "subtema": "Associações e fundações",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Âmbito subjetivo restrito ao empresário e à sociedade empresária",
+      "Silêncio do rol de exclusões não implica inclusão",
+      "Admissão jurisprudencial excepcional da recuperação de determinadas associações",
+      "Inexistência de extensão geral às fundações",
+      "Falência somente em hipóteses excepcionais ou legalmente autorizadas"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1º da Lei nº 11.101/2005",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 2º da Lei nº 11.101/2005",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 73 da Lei nº 11.101/2005",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.82,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 11.101",
+        "art. 1 — Lei 11.101",
+        "art. 2 — Lei 11.101",
+        "art. 73 — Lei 11.101"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A jurisprudência excepcional relativa a associações não elimina a regra legal nem permite generalização para todas as entidades sem fins lucrativos.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e73a7e1059"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0050",
+    "id_origem": "q0050",
+    "ordem_origem": 50,
+    "bloco_origem": "cadeia_e73a7e1059",
+    "score": 109.62,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2022_03/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2022_03",
+  "ordem": 3,
+  "materia": "Direito Processual Penal",
+  "tema": "Procedimento comum ordinário",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "É possível interrogar o réu enquanto estiver pendente o cumprimento de carta precatória destinada à oitiva de testemunha?",
+  "resposta": "Sim, prevalece o entendimento de que a pendência de carta precatória não impede o prosseguimento da instrução nem a realização do interrogatório. Há corrente doutrinária contrária, segundo a qual, por ser o interrogatório meio de defesa e o último ato da instrução, o acusado deveria conhecer previamente todo o conteúdo da prova oral. A posição predominante concilia essa regra com a disposição específica segundo a qual a expedição da carta precatória não suspende a instrução criminal. A realização do interrogatório antes da devolução da carta, portanto, não gera nulidade por si só, sem prejuízo da análise de eventual cerceamento defensivo concretamente demonstrado.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Procedimento comum ordinário\nDificuldade: difícil\nPergunta: É possível interrogar o réu enquanto estiver pendente o cumprimento de carta precatória destinada à oitiva de testemunha?\nResposta: Sim, prevalece o entendimento de que a pendência de carta precatória não impede o prosseguimento da instrução nem a realização do interrogatório. Há corrente doutrinária contrária, segundo a qual, por ser o interrogatório meio de defesa e o último ato da instrução, o acusado deveria conhecer previamente todo o conteúdo da prova oral. A posição predominante concilia essa regra com a disposição específica segundo a qual a expedição da carta precatória não suspende a instrução criminal. A realização do interrogatório antes da devolução da carta, portanto, não gera nulidade por si só, sem prejuízo da análise de eventual cerceamento defensivo concretamente demonstrado.",
+  "_meta": {
+    "subtema": "Interrogatório do réu com precatória pendente",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Interrogatório possível antes do retorno da carta precatória",
+      "Divergência decorrente da natureza defensiva do interrogatório",
+      "Carta precatória não suspende a instrução",
+      "Inexistência de nulidade automática"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 222, §§ 1º e 2º, do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 400, caput, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 563 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 400 — CPP",
+        "art. 563 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.9
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7cfd9d9213"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0014",
+    "id_origem": "q0014",
+    "ordem_origem": 14,
+    "bloco_origem": "cadeia_7cfd9d9213",
+    "score": 121.16,
+    "reabilitada": false
+  }
+}

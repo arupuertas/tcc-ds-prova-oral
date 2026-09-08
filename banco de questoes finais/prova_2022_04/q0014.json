@@ -1,0 +1,68 @@
+{
+  "uid": "prova_2022_04/q0014",
+  "id": "q0014",
+  "prova_id": "prova_2022_04",
+  "ordem": 14,
+  "materia": "Direito Constitucional",
+  "tema": "Direitos fundamentais",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Podem existir direitos fundamentais tanto em acordos internacionais quanto em leis ordinárias?",
+  "resposta": "Os tratados internacionais podem enunciar direitos materialmente fundamentais quando seu conteúdo se referir à proteção da pessoa humana e houver incorporação válida ao direito brasileiro. O caráter bilateral ou multilateral do acordo, isoladamente, não determina sua fundamentalidade, que depende sobretudo do conteúdo e de sua relação com a ordem constitucional. A hierarquia interna variará conforme a forma de incorporação: os tratados de direitos humanos aprovados pelo procedimento qualificado equivalem às emendas constitucionais, enquanto os demais possuem, segundo o STF, hierarquia supralegal. As leis ordinárias também podem explicitar, concretizar ou revelar direitos fundamentais implícitos, mas a previsão legal, por si só, não atribui ao texto hierarquia constitucional. Sem fundamento no regime, nos princípios ou nos direitos constitucionais, haverá apenas um direito de natureza legal, e não um direito fundamental em sentido constitucional.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direitos fundamentais\nDificuldade: difícil\nPergunta: Podem existir direitos fundamentais tanto em acordos internacionais quanto em leis ordinárias?\nResposta: Os tratados internacionais podem enunciar direitos materialmente fundamentais quando seu conteúdo se referir à proteção da pessoa humana e houver incorporação válida ao direito brasileiro. O caráter bilateral ou multilateral do acordo, isoladamente, não determina sua fundamentalidade, que depende sobretudo do conteúdo e de sua relação com a ordem constitucional. A hierarquia interna variará conforme a forma de incorporação: os tratados de direitos humanos aprovados pelo procedimento qualificado equivalem às emendas constitucionais, enquanto os demais possuem, segundo o STF, hierarquia supralegal. As leis ordinárias também podem explicitar, concretizar ou revelar direitos fundamentais implícitos, mas a previsão legal, por si só, não atribui ao texto hierarquia constitucional. Sem fundamento no regime, nos princípios ou nos direitos constitucionais, haverá apenas um direito de natureza legal, e não um direito fundamental em sentido constitucional.",
+  "_meta": {
+    "subtema": "Direitos fundamentais em tratados e leis ordinárias",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "direitos fundamentais em tratados de direitos humanos",
+      "irrelevância isolada do caráter bilateral ou multilateral",
+      "hierarquia dependente da forma de incorporação",
+      "concretização legislativa de direitos fundamentais",
+      "lei ordinária não adquire hierarquia constitucional"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, § 2º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 5º, § 3º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7e3da438a6"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0032",
+    "id_origem": "q0032",
+    "ordem_origem": 32,
+    "bloco_origem": "cadeia_7e3da438a6",
+    "score": 117.33,
+    "reabilitada": false
+  }
+}

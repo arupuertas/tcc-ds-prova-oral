@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2023_02/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2023_02",
+  "ordem": 1,
+  "materia": "Direito Tributário",
+  "tema": "Processo judicial tributário",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Na execução fiscal, por quais meios processuais pode a senhora indicar que o contribuinte executado se defenda?",
+  "resposta": "Os meios típicos de defesa na própria execução fiscal são os embargos do executado e a exceção de pré-executividade, também denominada objeção de não executividade. Os embargos dependem, no regime da Lei de Execução Fiscal, da garantia da execução e comportam cognição ampla, permitindo a alegação de toda matéria útil à defesa. A exceção de pré-executividade independe de garantia, mas se restringe às matérias cognoscíveis de ofício que possam ser demonstradas por prova pré-constituída, sem dilação probatória. A ação anulatória e o mandado de segurança podem, em hipóteses próprias, coexistir com a execução fiscal, mas são ações autônomas, e não meios incidentais de defesa na própria execução.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Processo judicial tributário\nDificuldade: média\nPergunta: Na execução fiscal, por quais meios processuais pode a senhora indicar que o contribuinte executado se defenda?\nResposta: Os meios típicos de defesa na própria execução fiscal são os embargos do executado e a exceção de pré-executividade, também denominada objeção de não executividade. Os embargos dependem, no regime da Lei de Execução Fiscal, da garantia da execução e comportam cognição ampla, permitindo a alegação de toda matéria útil à defesa. A exceção de pré-executividade independe de garantia, mas se restringe às matérias cognoscíveis de ofício que possam ser demonstradas por prova pré-constituída, sem dilação probatória. A ação anulatória e o mandado de segurança podem, em hipóteses próprias, coexistir com a execução fiscal, mas são ações autônomas, e não meios incidentais de defesa na própria execução.",
+  "_meta": {
+    "subtema": "Meios de defesa na execução fiscal",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Embargos à execução fiscal",
+      "Necessidade de garantia para os embargos",
+      "Exceção de pré-executividade sem garantia",
+      "Matéria cognoscível de ofício e ausência de dilação probatória",
+      "Distinção entre defesa incidental e ações autônomas"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 16, caput e § 1º, da Lei nº 6.830/1980",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 393 do STJ",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 6.830",
+        "Súmula 393 do STJ",
+        "art. 16 — Lei 6.830"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_b72606a96f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0007",
+    "id_origem": "q0007",
+    "ordem_origem": 7,
+    "bloco_origem": "cadeia_b72606a96f",
+    "score": 116.3,
+    "reabilitada": false
+  }
+}

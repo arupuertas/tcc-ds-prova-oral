@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2023_02/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2023_02",
+  "ordem": 19,
+  "materia": "Direito Institucional do Ministério Público",
+  "tema": "Ação civil pública",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Considerando a vedação do art. 1º, parágrafo único, da Lei da Ação Civil Pública quanto à veiculação de pretensões que envolvam tributos, o Ministério Público tem legitimidade para ajuizar ação civil pública destinada a anular incentivo fiscal milionário concedido a uma empresa? Qual é o fundamento?",
+  "resposta": "Sim. A vedação legal alcança pretensões tributárias voltadas à tutela de interesses individuais de contribuintes determináveis, mas não impede a ação civil pública destinada a invalidar a concessão de benefício fiscal lesivo ao patrimônio público. Nessa hipótese, o objeto imediato da demanda é o controle da legalidade do ato concessivo e a proteção do patrimônio público e social, e não a defesa de uma pretensão tributária individual. A legitimidade do Ministério Público decorre diretamente de sua atribuição constitucional para promover ação civil pública em defesa desse patrimônio, entendimento reconhecido pela jurisprudência dos tribunais superiores.",
+  "embedding_text": "Matéria: Direito Institucional do Ministério Público\nTema: Ação civil pública\nDificuldade: difícil\nPergunta: Considerando a vedação do art. 1º, parágrafo único, da Lei da Ação Civil Pública quanto à veiculação de pretensões que envolvam tributos, o Ministério Público tem legitimidade para ajuizar ação civil pública destinada a anular incentivo fiscal milionário concedido a uma empresa? Qual é o fundamento?\nResposta: Sim. A vedação legal alcança pretensões tributárias voltadas à tutela de interesses individuais de contribuintes determináveis, mas não impede a ação civil pública destinada a invalidar a concessão de benefício fiscal lesivo ao patrimônio público. Nessa hipótese, o objeto imediato da demanda é o controle da legalidade do ato concessivo e a proteção do patrimônio público e social, e não a defesa de uma pretensão tributária individual. A legitimidade do Ministério Público decorre diretamente de sua atribuição constitucional para promover ação civil pública em defesa desse patrimônio, entendimento reconhecido pela jurisprudência dos tribunais superiores.",
+  "_meta": {
+    "subtema": "Incentivo fiscal e patrimônio público",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Interpretação restritiva da vedação relativa a tributos",
+      "Distinção entre pretensão tributária individual e tutela do patrimônio público",
+      "Controle da legalidade do incentivo fiscal",
+      "Legitimidade constitucional do Ministério Público"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1º, parágrafo único, da Lei nº 7.347/1985",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 129, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 1º, VIII, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c78be4fcbc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0033",
+    "id_origem": "q0033",
+    "ordem_origem": 33,
+    "bloco_origem": "cadeia_c78be4fcbc",
+    "score": 115.68,
+    "reabilitada": false
+  }
+}

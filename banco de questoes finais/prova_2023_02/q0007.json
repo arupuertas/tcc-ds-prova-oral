@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_02/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2023_02",
+  "ordem": 7,
+  "materia": "Direito Penal",
+  "tema": "Crimes culposos",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Duas pessoas, atuando conjuntamente e sem intenção de matar, lançam objetos pesados do alto de um prédio em violação ao dever objetivo de cuidado. Um dos objetos atinge e mata uma vítima, mas não é possível determinar qual dos agentes o lançou. A senhora pode imputar o resultado a ambos ou a incerteza causal impede a responsabilização pelo homicídio culposo?",
+  "resposta": "A solução depende da corrente adotada quanto à coautoria em crimes culposos. Para a corrente que a admite, o acordo para a execução conjunta da conduta descuidada e a violação comum do dever de cuidado permitem imputar reciprocamente o resultado a ambos, ainda que não se identifique quem lançou o objeto fatal. O plano comum recai sobre a conduta perigosa, e a morte é imputada como realização do risco proibido conjuntamente criado. Para a corrente que rejeita a coautoria culposa, haveria autorias colaterais e seria indispensável provar qual conduta causou o resultado. Persistindo a dúvida causal, nenhum dos dois poderia ser condenado pelo homicídio culposo consumado, sem prejuízo de eventual responsabilização por outro delito cuja tipicidade estivesse demonstrada.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes culposos\nDificuldade: difícil\nPergunta: Duas pessoas, atuando conjuntamente e sem intenção de matar, lançam objetos pesados do alto de um prédio em violação ao dever objetivo de cuidado. Um dos objetos atinge e mata uma vítima, mas não é possível determinar qual dos agentes o lançou. A senhora pode imputar o resultado a ambos ou a incerteza causal impede a responsabilização pelo homicídio culposo?\nResposta: A solução depende da corrente adotada quanto à coautoria em crimes culposos. Para a corrente que a admite, o acordo para a execução conjunta da conduta descuidada e a violação comum do dever de cuidado permitem imputar reciprocamente o resultado a ambos, ainda que não se identifique quem lançou o objeto fatal. O plano comum recai sobre a conduta perigosa, e a morte é imputada como realização do risco proibido conjuntamente criado. Para a corrente que rejeita a coautoria culposa, haveria autorias colaterais e seria indispensável provar qual conduta causou o resultado. Persistindo a dúvida causal, nenhum dos dois poderia ser condenado pelo homicídio culposo consumado, sem prejuízo de eventual responsabilização por outro delito cuja tipicidade estivesse demonstrada.",
+  "_meta": {
+    "subtema": "Coautoria culposa e causalidade incerta",
+    "tipo": "principal",
+    "pontos_chave": [
+      "divergência sobre coautoria culposa",
+      "violação conjunta do dever de cuidado",
+      "imputação recíproca do resultado",
+      "autorias colaterais",
+      "dúvida sobre a causalidade individual"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 29, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 121, § 3º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 121 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.89
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 112.97,
+    "reabilitada": false
+  }
+}

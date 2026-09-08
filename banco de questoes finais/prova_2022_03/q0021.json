@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2022_03/q0021",
+  "id": "q0021",
+  "prova_id": "prova_2022_03",
+  "ordem": 21,
+  "materia": "Direito Constitucional",
+  "tema": "Direitos sociais",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Durante uma pandemia, é aprovada lei que concede benefício assistencial às famílias em situação de extrema pobreza e fixa expressamente seu valor em um salário mínimo. Essa forma de fixação é constitucional?",
+  "resposta": "A lei pode utilizar o salário mínimo vigente para quantificar o valor inicial do benefício, desde que não estabeleça uma vinculação permanente que gere reajustes automáticos. Se a expressão “um salário mínimo” importar atualização do benefício sempre que o salário mínimo for reajustado, haverá violação à vedação constitucional de sua vinculação para qualquer fim, ressalvadas as hipóteses previstas na própria Constituição. É possível preservar a concessão mediante interpretação que mantenha o valor correspondente ao salário mínimo na data da instituição, submetendo os reajustes posteriores a critério autônomo. A vedação busca impedir o efeito multiplicador que poderia dificultar a valorização do salário mínimo.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direitos sociais\nDificuldade: difícil\nPergunta: Durante uma pandemia, é aprovada lei que concede benefício assistencial às famílias em situação de extrema pobreza e fixa expressamente seu valor em um salário mínimo. Essa forma de fixação é constitucional?\nResposta: A lei pode utilizar o salário mínimo vigente para quantificar o valor inicial do benefício, desde que não estabeleça uma vinculação permanente que gere reajustes automáticos. Se a expressão “um salário mínimo” importar atualização do benefício sempre que o salário mínimo for reajustado, haverá violação à vedação constitucional de sua vinculação para qualquer fim, ressalvadas as hipóteses previstas na própria Constituição. É possível preservar a concessão mediante interpretação que mantenha o valor correspondente ao salário mínimo na data da instituição, submetendo os reajustes posteriores a critério autônomo. A vedação busca impedir o efeito multiplicador que poderia dificultar a valorização do salário mínimo.",
+  "_meta": {
+    "subtema": "Vinculação ao salário mínimo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "distinção entre fixação inicial e indexação permanente",
+      "vedação à vinculação automática ao salário mínimo",
+      "possibilidade de preservação do valor inicial",
+      "exceções previstas diretamente na Constituição"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 7º, IV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 203, V, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 203 — CF",
+        "art. 7 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6f8c7a1fb7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0055",
+    "id_origem": "q0055",
+    "ordem_origem": 55,
+    "bloco_origem": "cadeia_6f8c7a1fb7",
+    "score": 113.82,
+    "reabilitada": false
+  }
+}

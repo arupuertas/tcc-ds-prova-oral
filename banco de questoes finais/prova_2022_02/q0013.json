@@ -1,0 +1,65 @@
+{
+  "uid": "prova_2022_02/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2022_02",
+  "ordem": 13,
+  "materia": "Direito Penal",
+  "tema": "Teoria do dolo",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Conceitue o senhor o dolo geral, ou dolus generalis, e apresente um exemplo.",
+  "resposta": "O dolo geral, ou dolus generalis, corresponde ao erro sucessivo sobre o curso causal em que o agente pratica um primeiro ato com intenção de produzir o resultado, acredita equivocadamente tê-lo alcançado e realiza um segundo ato que efetivamente o causa. O exemplo clássico é o do agente que, supondo já ter matado a vítima, enterra-a para ocultar o cadáver, mas a morte ocorre por asfixia durante o enterro. O fenômeno não constitui propriamente uma espécie autônoma de dolo, sendo tratado como erro sobre o nexo causal ou desvio do curso causal. Sua relevância para a imputação depende de a divergência entre o curso causal representado e o efetivamente ocorrido ser essencial ou não.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Teoria do dolo\nDificuldade: média\nPergunta: Conceitue o senhor o dolo geral, ou dolus generalis, e apresente um exemplo.\nResposta: O dolo geral, ou dolus generalis, corresponde ao erro sucessivo sobre o curso causal em que o agente pratica um primeiro ato com intenção de produzir o resultado, acredita equivocadamente tê-lo alcançado e realiza um segundo ato que efetivamente o causa. O exemplo clássico é o do agente que, supondo já ter matado a vítima, enterra-a para ocultar o cadáver, mas a morte ocorre por asfixia durante o enterro. O fenômeno não constitui propriamente uma espécie autônoma de dolo, sendo tratado como erro sobre o nexo causal ou desvio do curso causal. Sua relevância para a imputação depende de a divergência entre o curso causal representado e o efetivamente ocorrido ser essencial ou não.",
+  "_meta": {
+    "subtema": "Dolo geral",
+    "tipo": "principal",
+    "pontos_chave": [
+      "erro sucessivo sobre o curso causal",
+      "falsa suposição de que o resultado já ocorreu",
+      "produção do resultado por ato posterior",
+      "exemplo do enterro da vítima ainda viva",
+      "relevância ou irrelevância do desvio causal"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_01a6849840"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0029",
+    "id_origem": "q0029",
+    "ordem_origem": 29,
+    "bloco_origem": "cadeia_01a6849840",
+    "score": 116.01,
+    "reabilitada": false
+  }
+}

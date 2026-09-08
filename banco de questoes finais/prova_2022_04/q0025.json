@@ -1,0 +1,83 @@
+{
+  "uid": "prova_2022_04/q0025",
+  "id": "q0025",
+  "prova_id": "prova_2022_04",
+  "ordem": 25,
+  "materia": "Direito Processual Penal",
+  "tema": "Correlação entre denúncia e sentença",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Se a denúncia por roubo narrar o emprego comprovado de um simulacro e o Ministério Público esclarecer expressamente que não imputa a causa de aumento relativa à arma de fogo, o juiz poderá reconhecê-la na sentença a título de emendatio libelli, sob o fundamento de que o acusado se defende dos fatos, ou isso exigiria mutatio libelli?",
+  "resposta": "O juiz não pode impor a causa de aumento nessa hipótese. Se considerar exatamente o fato narrado, isto é, o emprego de simulacro, a atribuição de nova definição jurídica teria formalmente natureza de emendatio libelli, mas seria materialmente inadmissível porque simulacro não constitui arma de fogo e a interpretação violaria a legalidade estrita. Se, para aplicar a majorante, o juiz afirmar que foi empregada uma verdadeira arma de fogo, estará acrescentando ou modificando circunstância fática relevante, o que caracteriza mutatio libelli e exige o procedimento de aditamento pelo Ministério Público. A afirmação de que o acusado se defende dos fatos não autoriza o magistrado a criar fato não imputado nem a ultrapassar os limites da legalidade penal, havendo ainda críticas doutrinárias à ampliação judicial da acusação à luz do sistema acusatório.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Correlação entre denúncia e sentença\nDificuldade: média\nPergunta: Se a denúncia por roubo narrar o emprego comprovado de um simulacro e o Ministério Público esclarecer expressamente que não imputa a causa de aumento relativa à arma de fogo, o juiz poderá reconhecê-la na sentença a título de emendatio libelli, sob o fundamento de que o acusado se defende dos fatos, ou isso exigiria mutatio libelli?\nResposta: O juiz não pode impor a causa de aumento nessa hipótese. Se considerar exatamente o fato narrado, isto é, o emprego de simulacro, a atribuição de nova definição jurídica teria formalmente natureza de emendatio libelli, mas seria materialmente inadmissível porque simulacro não constitui arma de fogo e a interpretação violaria a legalidade estrita. Se, para aplicar a majorante, o juiz afirmar que foi empregada uma verdadeira arma de fogo, estará acrescentando ou modificando circunstância fática relevante, o que caracteriza mutatio libelli e exige o procedimento de aditamento pelo Ministério Público. A afirmação de que o acusado se defende dos fatos não autoriza o magistrado a criar fato não imputado nem a ultrapassar os limites da legalidade penal, havendo ainda críticas doutrinárias à ampliação judicial da acusação à luz do sistema acusatório.",
+  "_meta": {
+    "subtema": "Emendatio libelli e mutatio libelli",
+    "tipo": "principal",
+    "pontos_chave": [
+      "impossibilidade de aplicar a majorante ao simulacro",
+      "distinção entre emendatio libelli e mutatio libelli",
+      "necessidade de aditamento para nova circunstância fática",
+      "princípio da correlação",
+      "legalidade estrita e sistema acusatório"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 383 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 384 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 157, § 2º-A, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XXXIX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.84,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 157 — CP",
+        "art. 383 — CPP",
+        "art. 384 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0054",
+    "id_origem": "q0054",
+    "ordem_origem": 54,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 115.41,
+    "reabilitada": false
+  }
+}

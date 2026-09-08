@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2022_02/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2022_02",
+  "ordem": 11,
+  "materia": "Direito Penal",
+  "tema": "Teoria do dolo",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "No dolo direto de segundo grau, o agente precisa representar como certa a ocorrência do resultado principal? Se ele não considerar certa a explosão de uma bomba, ainda assim poderá atuar com dolo direto de segundo grau quanto às consequências colaterais?",
+  "resposta": "Sim, poderá, segundo a concepção que distingue a incerteza quanto ao êxito do plano da certeza condicional da consequência colateral. A certeza exigida no dolo direto de segundo grau recai sobre a vinculação necessária entre o êxito do curso causal escolhido e a consequência colateral, e não sobre a efetiva ocorrência do resultado principal. Assim, o agente pode não saber se a bomba instalada em um navio explodirá, mas, se representa que, ocorrendo a explosão nas condições planejadas, a morte dos ocupantes será inevitável, atua com dolo direto de segundo grau quanto a essas mortes. Se a consequência colateral for representada apenas como possível ou provável, poderá haver dolo eventual, desde que o agente assuma o risco de sua produção.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Teoria do dolo\nDificuldade: difícil\nPergunta: No dolo direto de segundo grau, o agente precisa representar como certa a ocorrência do resultado principal? Se ele não considerar certa a explosão de uma bomba, ainda assim poderá atuar com dolo direto de segundo grau quanto às consequências colaterais?\nResposta: Sim, poderá, segundo a concepção que distingue a incerteza quanto ao êxito do plano da certeza condicional da consequência colateral. A certeza exigida no dolo direto de segundo grau recai sobre a vinculação necessária entre o êxito do curso causal escolhido e a consequência colateral, e não sobre a efetiva ocorrência do resultado principal. Assim, o agente pode não saber se a bomba instalada em um navio explodirá, mas, se representa que, ocorrendo a explosão nas condições planejadas, a morte dos ocupantes será inevitável, atua com dolo direto de segundo grau quanto a essas mortes. Se a consequência colateral for representada apenas como possível ou provável, poderá haver dolo eventual, desde que o agente assuma o risco de sua produção.",
+  "_meta": {
+    "subtema": "Representação do resultado no dolo direto de segundo grau",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "incerteza possível quanto ao êxito do plano",
+      "certeza condicional da consequência colateral",
+      "vinculação necessária entre o resultado principal e o colateral",
+      "distinção em relação ao dolo eventual"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_01a6849840"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0027",
+    "id_origem": "q0027",
+    "ordem_origem": 27,
+    "bloco_origem": "cadeia_01a6849840",
+    "score": 114.26,
+    "reabilitada": false
+  }
+}

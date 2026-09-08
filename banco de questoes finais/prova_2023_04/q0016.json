@@ -1,0 +1,81 @@
+{
+  "uid": "prova_2023_04/q0016",
+  "id": "q0016",
+  "prova_id": "prova_2023_04",
+  "ordem": 16,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Em matéria de improbidade administrativa, quais inovações a Lei nº 14.230/2021 introduziu quanto ao elemento subjetivo doloso?",
+  "resposta": "A Lei nº 14.230/2021 passou a exigir conduta dolosa para todas as modalidades de improbidade administrativa, eliminando a modalidade culposa anteriormente admitida para determinados atos causadores de prejuízo ao erário. Dolo é a vontade livre e consciente de alcançar o resultado ilícito tipificado na lei, não bastando a mera voluntariedade do agente, a ilegalidade do ato ou o exercício irregular da função. Exige-se finalidade ilícita, razão pela qual se costuma afirmar que a reforma consagrou o dolo específico, inclusive com a demonstração do fim de obter proveito ou benefício indevido nos termos legais. Essa finalidade deve ser relacionada ao tipo praticado, não correspondendo necessariamente, em todas as modalidades, à intenção de causar prejuízo ao erário.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: média\nPergunta: Em matéria de improbidade administrativa, quais inovações a Lei nº 14.230/2021 introduziu quanto ao elemento subjetivo doloso?\nResposta: A Lei nº 14.230/2021 passou a exigir conduta dolosa para todas as modalidades de improbidade administrativa, eliminando a modalidade culposa anteriormente admitida para determinados atos causadores de prejuízo ao erário. Dolo é a vontade livre e consciente de alcançar o resultado ilícito tipificado na lei, não bastando a mera voluntariedade do agente, a ilegalidade do ato ou o exercício irregular da função. Exige-se finalidade ilícita, razão pela qual se costuma afirmar que a reforma consagrou o dolo específico, inclusive com a demonstração do fim de obter proveito ou benefício indevido nos termos legais. Essa finalidade deve ser relacionada ao tipo praticado, não correspondendo necessariamente, em todas as modalidades, à intenção de causar prejuízo ao erário.",
+  "_meta": {
+    "subtema": "Dolo na Lei 14.230",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Exclusão da improbidade culposa",
+      "Insuficiência da mera voluntariedade ou ilegalidade",
+      "Necessidade de vontade consciente de alcançar o resultado ilícito e de finalidade ilícita"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Lei nº 14.230/2021",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 1º, §§ 1º a 3º, da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 9º, 10 e 11 da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 11, §§ 1º e 2º, da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 10,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1 — Lei 8.429",
+        "art. 10 — Lei 8.429",
+        "art. 11 — Lei 8.429",
+        "art. 9 — Lei 8.429"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e9c37ceb8c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0038",
+    "id_origem": "q0038",
+    "ordem_origem": 38,
+    "bloco_origem": "cadeia_e9c37ceb8c",
+    "score": 114.25,
+    "reabilitada": false
+  }
+}

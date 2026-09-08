@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_03/q0005",
+  "id": "q0005",
+  "prova_id": "prova_2022_03",
+  "ordem": 5,
+  "materia": "Direito Administrativo",
+  "tema": "Consequencialismo jurídico",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "A senhora poderia localizar e explicar o emprego de argumentos consequencialistas na formação da decisão jurídica?",
+  "resposta": "O consequencialismo jurídico determina que o julgador ou controlador considere os efeitos práticos, jurídicos e administrativos das alternativas decisórias, em vez de se limitar à invocação abstrata de princípios ou valores. Na LINDB, essa orientação aparece especialmente na vedação a decisões fundadas em valores jurídicos abstratos sem consideração de suas consequências práticas e no dever de demonstrar a necessidade e a adequação da medida adotada. Ao invalidar ato, contrato, ajuste, processo ou norma administrativa, a decisão deve indicar expressamente suas consequências e, quando cabível, estabelecer condições proporcionais para a regularização. Também devem ser consideradas as dificuldades reais do gestor e as exigências das políticas públicas, sem prejuízo dos direitos dos administrados. O consequencialismo não autoriza decisão contra a lei nem mera escolha utilitarista, mas qualifica a motivação por meio de uma análise juridicamente controlável dos efeitos da decisão.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Consequencialismo jurídico\nDificuldade: média\nPergunta: A senhora poderia localizar e explicar o emprego de argumentos consequencialistas na formação da decisão jurídica?\nResposta: O consequencialismo jurídico determina que o julgador ou controlador considere os efeitos práticos, jurídicos e administrativos das alternativas decisórias, em vez de se limitar à invocação abstrata de princípios ou valores. Na LINDB, essa orientação aparece especialmente na vedação a decisões fundadas em valores jurídicos abstratos sem consideração de suas consequências práticas e no dever de demonstrar a necessidade e a adequação da medida adotada. Ao invalidar ato, contrato, ajuste, processo ou norma administrativa, a decisão deve indicar expressamente suas consequências e, quando cabível, estabelecer condições proporcionais para a regularização. Também devem ser consideradas as dificuldades reais do gestor e as exigências das políticas públicas, sem prejuízo dos direitos dos administrados. O consequencialismo não autoriza decisão contra a lei nem mera escolha utilitarista, mas qualifica a motivação por meio de uma análise juridicamente controlável dos efeitos da decisão.",
+  "_meta": {
+    "subtema": "Argumentos consequencialistas na decisão",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Consideração das consequências práticas da decisão",
+      "Vedação à fundamentação baseada apenas em valores abstratos",
+      "Dever de explicitar efeitos da invalidação",
+      "Consideração das dificuldades reais da gestão pública",
+      "Consequencialismo submetido à legalidade e à motivação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20 da Lei de Introdução às Normas do Direito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 21 da Lei de Introdução às Normas do Direito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 22 da Lei de Introdução às Normas do Direito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 20 — LINDB",
+        "art. 21 — LINDB",
+        "art. 22 — LINDB"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a4f1112f03"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0016",
+    "id_origem": "q0016",
+    "ordem_origem": 16,
+    "bloco_origem": "cadeia_a4f1112f03",
+    "score": 120.64,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2022_01/q0015",
+  "id": "q0015",
+  "prova_id": "prova_2022_01",
+  "ordem": 15,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Pessoa idosa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora sabe indicar como se inicia o procedimento para imposição de penalidade administrativa por infração às normas de proteção à pessoa idosa?",
+  "resposta": "Trata-se de procedimento administrativo. Nos termos do Estatuto da Pessoa Idosa, ele se inicia por requisição do Ministério Público ou por auto de infração elaborado por servidor efetivo e assinado, se possível, por duas testemunhas. Quando decorrer da constatação direta da infração, o auto deve ser lavrado imediatamente após a verificação ou, havendo motivo justificado, no prazo de vinte e quatro horas.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Pessoa idosa\nDificuldade: média\nPergunta: A senhora sabe indicar como se inicia o procedimento para imposição de penalidade administrativa por infração às normas de proteção à pessoa idosa?\nResposta: Trata-se de procedimento administrativo. Nos termos do Estatuto da Pessoa Idosa, ele se inicia por requisição do Ministério Público ou por auto de infração elaborado por servidor efetivo e assinado, se possível, por duas testemunhas. Quando decorrer da constatação direta da infração, o auto deve ser lavrado imediatamente após a verificação ou, havendo motivo justificado, no prazo de vinte e quatro horas.",
+  "_meta": {
+    "subtema": "Procedimento para penalidade administrativa",
+    "tipo": "principal",
+    "pontos_chave": [
+      "natureza administrativa do procedimento",
+      "início por requisição do Ministério Público",
+      "início por auto de infração elaborado por servidor efetivo",
+      "assinatura, se possível, de duas testemunhas"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 60 do Estatuto da Pessoa Idosa",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 60 — Lei 10.741"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_ae78163dac"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0025",
+    "id_origem": "q0025",
+    "ordem_origem": 25,
+    "bloco_origem": "cadeia_ae78163dac",
+    "score": 113.26,
+    "reabilitada": false
+  }
+}

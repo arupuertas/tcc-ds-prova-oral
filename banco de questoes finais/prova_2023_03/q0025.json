@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2023_03/q0025",
+  "id": "q0025",
+  "prova_id": "prova_2023_03",
+  "ordem": 25,
+  "materia": "Direito Penal",
+  "tema": "Concurso de pessoas",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Admitida a imputação da morte às duas pessoas que, atuando conjuntamente e com violação do dever de cuidado, lançaram objetos de um prédio, sem que se identifique qual delas lançou o objeto fatal, elas respondem a título de autoria individual ou de coautoria culposa?",
+  "resposta": "Pela corrente que admite a imputação recíproca em crimes culposos, ambas respondem a título de coautoria culposa. A classificação decorre da execução conjunta da conduta violadora do dever objetivo de cuidado e permite atribuir a cada agente o resultado causado pela atuação comum. Não se trata de duas autorias individuais ou colaterais, pois, nessa hipótese, seria necessário demonstrar o nexo causal entre a conduta de cada agente e a morte. Para a corrente que rejeita a coautoria culposa, cada agente somente poderia ser considerado autor individual se comprovado que sua própria conduta causou o resultado.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: Admitida a imputação da morte às duas pessoas que, atuando conjuntamente e com violação do dever de cuidado, lançaram objetos de um prédio, sem que se identifique qual delas lançou o objeto fatal, elas respondem a título de autoria individual ou de coautoria culposa?\nResposta: Pela corrente que admite a imputação recíproca em crimes culposos, ambas respondem a título de coautoria culposa. A classificação decorre da execução conjunta da conduta violadora do dever objetivo de cuidado e permite atribuir a cada agente o resultado causado pela atuação comum. Não se trata de duas autorias individuais ou colaterais, pois, nessa hipótese, seria necessário demonstrar o nexo causal entre a conduta de cada agente e a morte. Para a corrente que rejeita a coautoria culposa, cada agente somente poderia ser considerado autor individual se comprovado que sua própria conduta causou o resultado.",
+  "_meta": {
+    "subtema": "Autoria ou coautoria em crime culposo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Coautoria culposa na hipótese de atuação conjunta",
+      "Imputação recíproca do resultado",
+      "Distinção entre coautoria e autoria colateral",
+      "Necessidade de causalidade individual para a corrente divergente"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 29 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 13, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1032faa5c6"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0053",
+    "id_origem": "q0053",
+    "ordem_origem": 53,
+    "bloco_origem": "cadeia_1032faa5c6",
+    "score": 114.11,
+    "reabilitada": false
+  }
+}

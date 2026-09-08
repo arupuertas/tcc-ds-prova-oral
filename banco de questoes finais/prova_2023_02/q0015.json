@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2023_02/q0015",
+  "id": "q0015",
+  "prova_id": "prova_2023_02",
+  "ordem": 15,
+  "materia": "Direito Processual Penal",
+  "tema": "Provas no processo penal",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "À luz do sistema acusatório e da doutrina atual, a determinação de produção de provas de ofício pelo juiz viola necessariamente a imparcialidade judicial?",
+  "resposta": "Não necessariamente, embora haja relevante divergência doutrinária. Uma corrente sustenta que a iniciativa probatória judicial compromete a imparcialidade e a separação entre as funções de acusar e julgar, especialmente quando o magistrado atua na investigação ou supre a insuficiência probatória da acusação. Outra posição, acolhida de forma limitada pela legislação e pela jurisprudência constitucional, admite que o juiz determine pontualmente diligências suplementares durante a instrução para esclarecer dúvida sobre questão relevante, desde que o faça de maneira fundamentada, com respeito ao contraditório e sem substituir a atuação probatória das partes. O sistema acusatório veda a iniciativa judicial na fase investigatória e a assunção do papel da acusação. Se a prova acusatória for insuficiente, a dúvida não autoriza atividade inquisitorial destinada a evitar a absolvição, devendo incidir a presunção de inocência.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Provas no processo penal\nDificuldade: difícil\nPergunta: À luz do sistema acusatório e da doutrina atual, a determinação de produção de provas de ofício pelo juiz viola necessariamente a imparcialidade judicial?\nResposta: Não necessariamente, embora haja relevante divergência doutrinária. Uma corrente sustenta que a iniciativa probatória judicial compromete a imparcialidade e a separação entre as funções de acusar e julgar, especialmente quando o magistrado atua na investigação ou supre a insuficiência probatória da acusação. Outra posição, acolhida de forma limitada pela legislação e pela jurisprudência constitucional, admite que o juiz determine pontualmente diligências suplementares durante a instrução para esclarecer dúvida sobre questão relevante, desde que o faça de maneira fundamentada, com respeito ao contraditório e sem substituir a atuação probatória das partes. O sistema acusatório veda a iniciativa judicial na fase investigatória e a assunção do papel da acusação. Se a prova acusatória for insuficiente, a dúvida não autoriza atividade inquisitorial destinada a evitar a absolvição, devendo incidir a presunção de inocência.",
+  "_meta": {
+    "subtema": "Produção de provas de ofício pelo juiz",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Divergência doutrinária sobre iniciativa probatória judicial",
+      "Sistema acusatório e imparcialidade",
+      "Vedação à iniciativa judicial na investigação",
+      "Admissibilidade limitada de diligências suplementares",
+      "Proibição de substituir a atividade probatória da acusação",
+      "Contraditório, fundamentação e presunção de inocência"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 3º-A do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 156, II, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 156 — CPP",
+        "art. 3a — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_b030fce3ed"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0029",
+    "id_origem": "q0029",
+    "ordem_origem": 29,
+    "bloco_origem": "cadeia_b030fce3ed",
+    "score": 123.31,
+    "reabilitada": false
+  }
+}

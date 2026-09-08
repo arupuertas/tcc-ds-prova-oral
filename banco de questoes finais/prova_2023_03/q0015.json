@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_03/q0015",
+  "id": "q0015",
+  "prova_id": "prova_2023_03",
+  "ordem": 15,
+  "materia": "Direito Tributário",
+  "tema": "Execução fiscal",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "Na execução fiscal, por quais meios processuais o contribuinte executado pode apresentar sua defesa?",
+  "resposta": "O executado pode defender-se por meio de embargos à execução fiscal e de exceção de pré-executividade. Os embargos constituem ação incidental, pressupõem a garantia da execução e permitem ao executado alegar as matérias úteis à sua defesa, observadas as limitações legais. A exceção de pré-executividade é apresentada por simples petição nos próprios autos, independentemente de garantia do juízo. Segundo a jurisprudência, ela se restringe às matérias cognoscíveis de ofício que não demandem dilação probatória.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Execução fiscal\nDificuldade: fácil\nPergunta: Na execução fiscal, por quais meios processuais o contribuinte executado pode apresentar sua defesa?\nResposta: O executado pode defender-se por meio de embargos à execução fiscal e de exceção de pré-executividade. Os embargos constituem ação incidental, pressupõem a garantia da execução e permitem ao executado alegar as matérias úteis à sua defesa, observadas as limitações legais. A exceção de pré-executividade é apresentada por simples petição nos próprios autos, independentemente de garantia do juízo. Segundo a jurisprudência, ela se restringe às matérias cognoscíveis de ofício que não demandem dilação probatória.",
+  "_meta": {
+    "subtema": "Meios de defesa do executado",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Embargos à execução fiscal",
+      "Necessidade de garantia para os embargos",
+      "Exceção de pré-executividade",
+      "Desnecessidade de garantia e de dilação probatória"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 16 da Lei nº 6.830/1980",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 393 do Superior Tribunal de Justiça",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 6.830",
+        "Súmula 393",
+        "art. 16 — Lei 6.830"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_340248b5c5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0030",
+    "id_origem": "q0030",
+    "ordem_origem": 30,
+    "bloco_origem": "cadeia_340248b5c5",
+    "score": 116.49,
+    "reabilitada": false
+  }
+}

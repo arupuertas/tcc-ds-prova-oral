@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2024_02/q0033",
+  "id": "q0033",
+  "prova_id": "prova_2024_02",
+  "ordem": 33,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Uma procuradoria municipal pode celebrar acordo de não persecução cível em matéria de improbidade administrativa?",
+  "resposta": "A procuradoria municipal pode celebrar, em nome do Município interessado, acordo de não persecução cível. A redação da Lei de Improbidade Administrativa que concentrava essa legitimidade no Ministério Público recebeu interpretação conforme do Supremo Tribunal Federal, restabelecendo a legitimidade concorrente e disjuntiva das pessoas jurídicas interessadas tanto para a ação de improbidade quanto para o acordo. Como o Município atua em juízo e fora dele por sua representação jurídica, a procuradoria pode negociar e subscrever o ajuste, observadas suas regras de competência e autorização interna. O acordo deve cumprir os requisitos materiais e procedimentais da Lei de Improbidade Administrativa, inclusive a homologação judicial.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: média\nPergunta: Uma procuradoria municipal pode celebrar acordo de não persecução cível em matéria de improbidade administrativa?\nResposta: A procuradoria municipal pode celebrar, em nome do Município interessado, acordo de não persecução cível. A redação da Lei de Improbidade Administrativa que concentrava essa legitimidade no Ministério Público recebeu interpretação conforme do Supremo Tribunal Federal, restabelecendo a legitimidade concorrente e disjuntiva das pessoas jurídicas interessadas tanto para a ação de improbidade quanto para o acordo. Como o Município atua em juízo e fora dele por sua representação jurídica, a procuradoria pode negociar e subscrever o ajuste, observadas suas regras de competência e autorização interna. O acordo deve cumprir os requisitos materiais e procedimentais da Lei de Improbidade Administrativa, inclusive a homologação judicial.",
+  "_meta": {
+    "subtema": "Legitimidade para ANPC",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Legitimidade da pessoa jurídica interessada",
+      "Representação do Município pela procuradoria",
+      "Legitimidade concorrente e disjuntiva com o Ministério Público",
+      "Interpretação conforme do STF",
+      "Observância dos requisitos legais do ANPC"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 17-B da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "STF, ADIs 7.042 e 7.043",
+        "origem": "modelo",
+        "origem_verificada": "nao_verificavel"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 17b — Lei 8.429"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": [
+        "STF, ADIs 7.042 e 7.043"
+      ]
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_198b5d6e0f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0086",
+    "id_origem": "q0086",
+    "ordem_origem": 86,
+    "bloco_origem": "cadeia_198b5d6e0f",
+    "score": 108.89,
+    "reabilitada": false
+  }
+}

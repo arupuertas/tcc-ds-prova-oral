@@ -1,0 +1,299 @@
+{
+  "prova_id": "prova_2022_03",
+  "edicao": "LVIII",
+  "ano": 2022,
+  "grupo_tematico": "II",
+  "n_questoes_origem": 75,
+  "n_elegiveis": 51,
+  "n_questoes": 26,
+  "n_cadeias": 11,
+  "n_reabilitadas": 1,
+  "score_medio": 116.46,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Ambiental",
+    "Direito Constitucional",
+    "Direito Penal",
+    "Direito Processual Civil",
+    "Direito Processual Penal",
+    "Direito Tributário",
+    "Direitos Humanos"
+  ],
+  "distribuicao_materia": {
+    "Direito Administrativo": 7,
+    "Direito Constitucional": 6,
+    "Direito Processual Civil": 4,
+    "Direito Processual Penal": 3,
+    "Direito Penal": 2,
+    "Direito Ambiental": 2,
+    "Direitos Humanos": 1,
+    "Direito Tributário": 1
+  },
+  "distribuicao_dificuldade": {
+    "media": 12,
+    "dificil": 10,
+    "facil": 4
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Em uma cirurgia realizada por equipe, a incidência do princípio da confiança se altera se a violação do dever de segurança for praticada pela enfermeira, e não pelo cirurgião-chefe?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direito Processual Penal",
+      "tema": "Provas em espécie",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Partindo da premissa de que foram integralmente observadas as formalidades do art. 226 do Código de Processo Penal, o reconhecimento pessoal realizado em juízo por videoconferência possui valor equivalente ao reconhecimento presencial?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito Processual Penal",
+      "tema": "Procedimento comum ordinário",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "É possível interrogar o réu enquanto estiver pendente o cumprimento de carta precatória destinada à oitiva de testemunha?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direito Processual Penal",
+      "tema": "Procedimento comum ordinário",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Qual é o entendimento atual dos tribunais superiores sobre a realização do interrogatório do réu antes do retorno de carta precatória destinada à oitiva de testemunha?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Consequencialismo jurídico",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia localizar e explicar o emprego de argumentos consequencialistas na formação da decisão jurídica?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Consequencialismo na LINDB",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A alteração promovida pela Lei nº 13.655/2018 na LINDB restringiu o consequencialismo às decisões judiciais ou o estendeu a outros âmbitos decisórios?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Controle da administração",
+      "dificuldade": "facil",
+      "tipo": "desdobramento",
+      "pergunta": "Além dos Tribunais de Contas, o Ministério Público pode atuar como órgão controlador para fins da aplicação das normas consequencialistas da LINDB?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direito à saúde",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Em uma comarca do interior, uma criança necessita de medicamento de altíssimo custo para o tratamento de um linfoma. Diante da crítica de que o consequencialismo substitui a ética dos fundamentos por uma ética dos resultados e emprega argumentos econômicos para restringir direitos conquistados, como a senhora deve analisar juridicamente o caso?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direito à saúde",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Ao decidir sobre o fornecimento de medicamento de alto custo, como a senhora aplicaria a estratégia de olhar para trás, olhar para cima e olhar para frente?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direito Processual Civil",
+      "tema": "Recursos excepcionais",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Quanto aos recursos especial e extraordinário, diferencie, por favor, o prequestionamento explícito, o prequestionamento implícito e o prequestionamento ficto."
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direito Processual Civil",
+      "tema": "Recursos excepcionais",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Segundo a jurisprudência do Superior Tribunal de Justiça, a senhora diria que, para a admissibilidade do recurso especial, exige-se prequestionamento explícito ou se admite o prequestionamento implícito?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direito Processual Civil",
+      "tema": "Recursos excepcionais",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Segundo a jurisprudência do Supremo Tribunal Federal, a senhora diria que se exige prequestionamento explícito da questão constitucional ou se admite o prequestionamento implícito?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito Processual Civil",
+      "tema": "Recursos excepcionais",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A senhora considera cabível a interposição de recurso extraordinário diretamente contra uma sentença?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora poderia esclarecer se a prescrição prevista na Lei de Improbidade Administrativa incide sobre a pretensão de aplicação das sanções por improbidade?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "A prescrição da pretensão de aplicação das sanções por improbidade administrativa alcança também a pretensão de ressarcimento do dano ao erário?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direito Ambiental",
+      "tema": "Código Florestal",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "A senhora conceitue o instituto da reserva legal ambiental e indique sua finalidade e seus percentuais básicos."
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direito Ambiental",
+      "tema": "Código Florestal",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "No cálculo do percentual da reserva legal, a senhora incluiria a área de preservação permanente?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direitos Humanos",
+      "tema": "Pessoas com deficiência",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A substituição da expressão “pessoa portadora de deficiência” por “pessoa com deficiência” decorre apenas de uma evolução do ordenamento jurídico brasileiro ou tem origem no âmbito internacional?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos sociais",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Existem direitos sociais fora do texto da Constituição Federal? É possível afirmar que todos os direitos sociais são cláusulas pétreas?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "fim",
+      "materia": "Direito Constitucional",
+      "tema": "Bloco de constitucionalidade",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Como se explica a relação entre a existência de direitos sociais fora do texto da Constituição Federal e o bloco de constitucionalidade, especialmente quanto aos tratados internacionais de direitos humanos?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "fim",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos sociais",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Durante uma pandemia, é aprovada lei que concede benefício assistencial às famílias em situação de extrema pobreza e fixa expressamente seu valor em um salário mínimo. Essa forma de fixação é constitucional?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "fim",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos fundamentais",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "Os direitos sociais são necessariamente direitos coletivos?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Crimes tributários",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O princípio da insignificância pode ser aplicado aos crimes tributários?"
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "fim",
+      "materia": "Direito Tributário",
+      "tema": "Crédito tributário",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O crédito tributário cujo valor fica abaixo do limite administrativo para o ajuizamento de execução fiscal deixa de ser cobrado ou é perdoado?"
+    },
+    {
+      "id": "q0025",
+      "ordem": 25,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Servidores públicos",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia explicar em que consiste o instituto da estabilização financeira aplicável aos servidores públicos?"
+    },
+    {
+      "id": "q0026",
+      "ordem": 26,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Servidores públicos",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Em 2022, ao analisar uma lei municipal que prevê a estabilização financeira mediante incorporação de vantagens vinculadas ao exercício de cargo em comissão ou função de confiança, como a senhora se manifestaria sobre sua constitucionalidade?"
+    }
+  ]
+}

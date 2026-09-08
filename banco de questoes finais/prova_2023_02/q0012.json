@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_02/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2023_02",
+  "ordem": 12,
+  "materia": "Direito Penal",
+  "tema": "Autoria em crimes culposos",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora entende ser possível a autoria mediata em crime culposo?",
+  "resposta": "A posição majoritária rejeita a autoria mediata nos crimes culposos, pois essa forma de autoria pressupõe a utilização consciente de outra pessoa como instrumento para a realização do delito. Como o tipo culposo se estrutura sobre a violação pessoal do dever objetivo de cuidado, aquele que cria o risco proibido e causa o resultado é tratado como autor imediato, ainda que a execução material final passe por terceiro sem culpa. Há entendimento minoritário que admite a construção da autoria mediata culposa quando o resultado é produzido por intermédio de pessoa que atua sem responsabilidade penal.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Autoria em crimes culposos\nDificuldade: média\nPergunta: A senhora entende ser possível a autoria mediata em crime culposo?\nResposta: A posição majoritária rejeita a autoria mediata nos crimes culposos, pois essa forma de autoria pressupõe a utilização consciente de outra pessoa como instrumento para a realização do delito. Como o tipo culposo se estrutura sobre a violação pessoal do dever objetivo de cuidado, aquele que cria o risco proibido e causa o resultado é tratado como autor imediato, ainda que a execução material final passe por terceiro sem culpa. Há entendimento minoritário que admite a construção da autoria mediata culposa quando o resultado é produzido por intermédio de pessoa que atua sem responsabilidade penal.",
+  "_meta": {
+    "subtema": "Autoria imediata em crime culposo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Posição majoritária contrária à autoria mediata culposa",
+      "Instrumentalização consciente de terceiro",
+      "Autor imediato como aquele que viola o dever de cuidado",
+      "Existência de entendimento minoritário favorável"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 18 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "Pelo contexto jurídico, a expressão aparentemente transcrita como “autoria imediata” foi corrigida para “autoria mediata”.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0026",
+    "id_origem": "q0026",
+    "ordem_origem": 26,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 104.64,
+    "reabilitada": false
+  }
+}

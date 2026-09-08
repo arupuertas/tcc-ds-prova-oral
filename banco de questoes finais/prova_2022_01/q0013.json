@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2022_01/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2022_01",
+  "ordem": 13,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Pessoa idosa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "É possível transacionar sobre os alimentos devidos a uma pessoa idosa? Como a senhora, na condição de promotora de Justiça, deverá proceder se a pessoa idosa e o devedor comparecerem ao gabinete interessados em celebrar a transação?",
+  "resposta": "É possível celebrar transação relativa aos alimentos perante o Ministério Público ou a Defensoria Pública, sem necessidade de prévia homologação judicial. O ajuste referendado pelo promotor de Justiça terá eficácia de título executivo extrajudicial. Como o direito aos alimentos é irrenunciável, a transação pode disciplinar o valor, a forma e os prazos de pagamento, mas não pode importar renúncia que comprometa a subsistência da pessoa idosa. O promotor deverá verificar a capacidade e a liberdade de manifestação das partes, a legalidade do acordo e a adequação entre as necessidades da pessoa idosa e as possibilidades do alimentante, formalizando-o e referendando-o se não houver prejuízo. Como a obrigação alimentar em favor da pessoa idosa é solidária, ela pode optar por um dos prestadores legalmente obrigados.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Pessoa idosa\nDificuldade: média\nPergunta: É possível transacionar sobre os alimentos devidos a uma pessoa idosa? Como a senhora, na condição de promotora de Justiça, deverá proceder se a pessoa idosa e o devedor comparecerem ao gabinete interessados em celebrar a transação?\nResposta: É possível celebrar transação relativa aos alimentos perante o Ministério Público ou a Defensoria Pública, sem necessidade de prévia homologação judicial. O ajuste referendado pelo promotor de Justiça terá eficácia de título executivo extrajudicial. Como o direito aos alimentos é irrenunciável, a transação pode disciplinar o valor, a forma e os prazos de pagamento, mas não pode importar renúncia que comprometa a subsistência da pessoa idosa. O promotor deverá verificar a capacidade e a liberdade de manifestação das partes, a legalidade do acordo e a adequação entre as necessidades da pessoa idosa e as possibilidades do alimentante, formalizando-o e referendando-o se não houver prejuízo. Como a obrigação alimentar em favor da pessoa idosa é solidária, ela pode optar por um dos prestadores legalmente obrigados.",
+  "_meta": {
+    "subtema": "Transação de alimentos",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Possibilidade de transação relativa aos alimentos",
+      "Referendo pelo Ministério Público",
+      "Formação de título executivo extrajudicial",
+      "Irrenunciabilidade do direito aos alimentos",
+      "Controle de legalidade e adequação do acordo",
+      "Solidariedade e escolha do prestador pela pessoa idosa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13 da Lei 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 12 da Lei 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.707 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 784, IV, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 12 — Lei 10.741",
+        "art. 13 — Lei 10.741",
+        "art. 1707 — CC",
+        "art. 784 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_ae78163dac"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0023",
+    "id_origem": "q0023",
+    "ordem_origem": 23,
+    "bloco_origem": "cadeia_ae78163dac",
+    "score": 124.64,
+    "reabilitada": false
+  }
+}

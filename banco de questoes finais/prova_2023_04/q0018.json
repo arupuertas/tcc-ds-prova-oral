@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_04/q0018",
+  "id": "q0018",
+  "prova_id": "prova_2023_04",
+  "ordem": 18,
+  "materia": "Direitos Humanos",
+  "tema": "Direitos da pessoa idosa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Quanto à proteção da pessoa idosa, a senhora poderia citar quatro prioridades expressamente previstas em lei?",
+  "resposta": "A lei assegura à pessoa idosa atendimento preferencial imediato e individualizado perante órgãos públicos e privados prestadores de serviços à população. Também prevê preferência na formulação e na execução de políticas sociais públicas específicas e destinação privilegiada de recursos públicos para as áreas relacionadas à sua proteção. Como quarta prioridade, estabelece o atendimento da pessoa idosa por sua própria família em detrimento do atendimento asilar, ressalvadas as hipóteses de inexistência da família ou de falta de condições para sua manutenção.",
+  "embedding_text": "Matéria: Direitos Humanos\nTema: Direitos da pessoa idosa\nDificuldade: média\nPergunta: Quanto à proteção da pessoa idosa, a senhora poderia citar quatro prioridades expressamente previstas em lei?\nResposta: A lei assegura à pessoa idosa atendimento preferencial imediato e individualizado perante órgãos públicos e privados prestadores de serviços à população. Também prevê preferência na formulação e na execução de políticas sociais públicas específicas e destinação privilegiada de recursos públicos para as áreas relacionadas à sua proteção. Como quarta prioridade, estabelece o atendimento da pessoa idosa por sua própria família em detrimento do atendimento asilar, ressalvadas as hipóteses de inexistência da família ou de falta de condições para sua manutenção.",
+  "_meta": {
+    "subtema": "Prioridades legais da pessoa idosa",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Atendimento preferencial imediato e individualizado",
+      "Preferência em políticas sociais e destinação privilegiada de recursos",
+      "Priorização do atendimento familiar em relação ao asilar"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 3º, § 1º, I, II, III e V, da Lei nº 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 10.741",
+        "art. 3 — Lei 10.741"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e9c37ceb8c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0040",
+    "id_origem": "q0040",
+    "ordem_origem": 40,
+    "bloco_origem": "cadeia_e9c37ceb8c",
+    "score": 107.47,
+    "reabilitada": false
+  }
+}

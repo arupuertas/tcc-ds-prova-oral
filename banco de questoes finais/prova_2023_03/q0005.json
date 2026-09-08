@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_03/q0005",
+  "id": "q0005",
+  "prova_id": "prova_2023_03",
+  "ordem": 5,
+  "materia": "Direito do Consumidor",
+  "tema": "Ônus da prova",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Na ação coletiva proposta pelo Ministério Público em defesa dos consumidores, a hipossuficiência é requisito indispensável para a inversão do ônus da prova? O Ministério Público pode ser considerado hipossuficiente para esse fim?",
+  "resposta": "A hipossuficiência não é requisito indispensável, pois a lei admite a inversão diante da verossimilhança das alegações ou da hipossuficiência, em caráter alternativo. Quando a inversão se fundamentar na hipossuficiência, ela deve ser aferida em relação aos consumidores substituídos, especialmente quanto à dificuldade técnica, informacional ou probatória. O Ministério Público não precisa demonstrar hipossuficiência própria, pois atua em nome próprio na defesa de direitos dos consumidores. Sua capacidade institucional, portanto, não impede a incidência da regra de facilitação probatória em favor dos substituídos.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Ônus da prova\nDificuldade: média\nPergunta: Na ação coletiva proposta pelo Ministério Público em defesa dos consumidores, a hipossuficiência é requisito indispensável para a inversão do ônus da prova? O Ministério Público pode ser considerado hipossuficiente para esse fim?\nResposta: A hipossuficiência não é requisito indispensável, pois a lei admite a inversão diante da verossimilhança das alegações ou da hipossuficiência, em caráter alternativo. Quando a inversão se fundamentar na hipossuficiência, ela deve ser aferida em relação aos consumidores substituídos, especialmente quanto à dificuldade técnica, informacional ou probatória. O Ministério Público não precisa demonstrar hipossuficiência própria, pois atua em nome próprio na defesa de direitos dos consumidores. Sua capacidade institucional, portanto, não impede a incidência da regra de facilitação probatória em favor dos substituídos.",
+  "_meta": {
+    "subtema": "Hipossuficiência do substituído",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Alternatividade entre verossimilhança e hipossuficiência",
+      "Hipossuficiência dos consumidores substituídos",
+      "Irrelevância da capacidade institucional do Ministério Público",
+      "Dimensões técnica, informacional e probatória da hipossuficiência"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 6º, VIII, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 6 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a6e7e7c9fe"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0018",
+    "id_origem": "q0018",
+    "ordem_origem": 18,
+    "bloco_origem": "cadeia_a6e7e7c9fe",
+    "score": 108.72,
+    "reabilitada": false
+  }
+}

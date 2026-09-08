@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_03/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2023_03",
+  "ordem": 7,
+  "materia": "Direito do Consumidor",
+  "tema": "Coisa julgada coletiva",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Como o senhor fundamenta, no direito do consumidor e no processo coletivo, a extensão às filiais dos efeitos de uma decisão coletiva proferida contra a matriz?",
+  "resposta": "O fundamento não é uma analogia com o direito tributário, mas a identidade da pessoa jurídica que figurou no processo e os limites subjetivos e objetivos da coisa julgada. A sentença vincula a pessoa jurídica demandada, e suas filiais, por serem meros estabelecimentos, não constituem terceiros em relação ao título. O Código de Defesa do Consumidor disciplina a extensão da coisa julgada coletiva conforme a natureza do interesse tutelado, enquanto o alcance concreto da obrigação deve ser extraído do próprio comando judicial. Se a obrigação foi imposta à empresa sem restrição a determinado estabelecimento, seu cumprimento pode ser exigido em todas as filiais, sem que isso represente inclusão de novo devedor.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Coisa julgada coletiva\nDificuldade: média\nPergunta: Como o senhor fundamenta, no direito do consumidor e no processo coletivo, a extensão às filiais dos efeitos de uma decisão coletiva proferida contra a matriz?\nResposta: O fundamento não é uma analogia com o direito tributário, mas a identidade da pessoa jurídica que figurou no processo e os limites subjetivos e objetivos da coisa julgada. A sentença vincula a pessoa jurídica demandada, e suas filiais, por serem meros estabelecimentos, não constituem terceiros em relação ao título. O Código de Defesa do Consumidor disciplina a extensão da coisa julgada coletiva conforme a natureza do interesse tutelado, enquanto o alcance concreto da obrigação deve ser extraído do próprio comando judicial. Se a obrigação foi imposta à empresa sem restrição a determinado estabelecimento, seu cumprimento pode ser exigido em todas as filiais, sem que isso represente inclusão de novo devedor.",
+  "_meta": {
+    "subtema": "Fundamento para extensão às filiais",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Identidade da pessoa jurídica demandada",
+      "Filial não é terceiro em relação à coisa julgada",
+      "Alcance da coisa julgada coletiva conforme o CDC",
+      "Inexistência de inclusão de novo devedor"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 103 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 503 e 506 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 103 — CDC",
+        "art. 503 — CPC",
+        "art. 506 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a6e7e7c9fe"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0020",
+    "id_origem": "q0020",
+    "ordem_origem": 20,
+    "bloco_origem": "cadeia_a6e7e7c9fe",
+    "score": 113.13,
+    "reabilitada": false
+  }
+}

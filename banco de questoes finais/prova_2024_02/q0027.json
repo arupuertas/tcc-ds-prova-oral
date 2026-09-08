@@ -1,0 +1,85 @@
+{
+  "uid": "prova_2024_02/q0027",
+  "id": "q0027",
+  "prova_id": "prova_2024_02",
+  "ordem": 27,
+  "materia": "Direito Ambiental",
+  "tema": "Direitos dos animais",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "No ordenamento jurídico brasileiro, os animais são sujeitos de direito?",
+  "resposta": "Não há resposta unívoca, pois a natureza jurídica dos animais é objeto de divergência. No plano civil tradicional, eles não possuem personalidade jurídica e são submetidos, em regra, ao regime dos bens móveis semoventes, embora sofram limitações decorrentes da legislação protetiva. A Constituição, contudo, veda práticas cruéis contra animais, conferindo-lhes proteção por seu valor intrínseco, e não apenas em razão da utilidade para o ser humano. A jurisprudência do Superior Tribunal de Justiça reconhece que são seres sencientes e que não podem ser tratados sob perspectiva exclusivamente patrimonial, sem que isso, por si só, lhes atribua personalidade jurídica. Parte relevante da doutrina, em perspectiva biocêntrica, sustenta que os animais são sujeitos de direitos despersonificados, especialmente do direito à existência, à integridade e à proteção contra a crueldade. Assim, prevalece no direito positivo civil a ausência de personalidade, mas há crescente reconhecimento doutrinário e jurisprudencial de uma condição jurídica própria e de direitos diretamente relacionados à proteção animal.",
+  "embedding_text": "Matéria: Direito Ambiental\nTema: Direitos dos animais\nDificuldade: difícil\nPergunta: No ordenamento jurídico brasileiro, os animais são sujeitos de direito?\nResposta: Não há resposta unívoca, pois a natureza jurídica dos animais é objeto de divergência. No plano civil tradicional, eles não possuem personalidade jurídica e são submetidos, em regra, ao regime dos bens móveis semoventes, embora sofram limitações decorrentes da legislação protetiva. A Constituição, contudo, veda práticas cruéis contra animais, conferindo-lhes proteção por seu valor intrínseco, e não apenas em razão da utilidade para o ser humano. A jurisprudência do Superior Tribunal de Justiça reconhece que são seres sencientes e que não podem ser tratados sob perspectiva exclusivamente patrimonial, sem que isso, por si só, lhes atribua personalidade jurídica. Parte relevante da doutrina, em perspectiva biocêntrica, sustenta que os animais são sujeitos de direitos despersonificados, especialmente do direito à existência, à integridade e à proteção contra a crueldade. Assim, prevalece no direito positivo civil a ausência de personalidade, mas há crescente reconhecimento doutrinário e jurisprudencial de uma condição jurídica própria e de direitos diretamente relacionados à proteção animal.",
+  "_meta": {
+    "subtema": "Animais como sujeitos de direito",
+    "tipo": "principal",
+    "pontos_chave": [
+      "divergência sobre a natureza jurídica dos animais",
+      "regime civil dos bens móveis semoventes",
+      "proteção constitucional contra a crueldade",
+      "reconhecimento da senciência pelo STJ",
+      "corrente dos sujeitos de direitos despersonificados"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 82 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 225, § 1º, VII, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 32 da Lei nº 9.605/1998",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "jurisprudência do Superior Tribunal de Justiça sobre a senciência e o valor intrínseco dos animais",
+        "origem": "transcricao",
+        "origem_verificada": "nao_verificavel"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 9.605",
+        "art. 225 — CF",
+        "art. 32 — Lei 9.605",
+        "art. 82 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": [
+        "jurisprudência do Superior Tribunal de Justiça sobre a senciência e o valor intrínseco dos animais"
+      ]
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3a7c98edcd"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0079",
+    "id_origem": "q0079",
+    "ordem_origem": 79,
+    "bloco_origem": "cadeia_3a7c98edcd",
+    "score": 115.38,
+    "reabilitada": false
+  }
+}

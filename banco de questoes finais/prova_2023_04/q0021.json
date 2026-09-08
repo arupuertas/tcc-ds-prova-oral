@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_04/q0021",
+  "id": "q0021",
+  "prova_id": "prova_2023_04",
+  "ordem": 21,
+  "materia": "Direito Administrativo",
+  "tema": "Lei Anticorrupção",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "No processo administrativo de responsabilização previsto na Lei Anticorrupção, é possível desconsiderar a personalidade jurídica?",
+  "resposta": "Sim. A desconsideração pode ocorrer no próprio processo administrativo de responsabilização quando a personalidade jurídica for utilizada com abuso de direito para facilitar, encobrir ou dissimular os atos ilícitos previstos na lei ou para provocar confusão patrimonial. Nesse caso, os efeitos das sanções aplicadas à pessoa jurídica são estendidos aos administradores e aos sócios com poderes de administração. Devem ser assegurados aos atingidos o contraditório e a ampla defesa.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Lei Anticorrupção\nDificuldade: média\nPergunta: No processo administrativo de responsabilização previsto na Lei Anticorrupção, é possível desconsiderar a personalidade jurídica?\nResposta: Sim. A desconsideração pode ocorrer no próprio processo administrativo de responsabilização quando a personalidade jurídica for utilizada com abuso de direito para facilitar, encobrir ou dissimular os atos ilícitos previstos na lei ou para provocar confusão patrimonial. Nesse caso, os efeitos das sanções aplicadas à pessoa jurídica são estendidos aos administradores e aos sócios com poderes de administração. Devem ser assegurados aos atingidos o contraditório e a ampla defesa.",
+  "_meta": {
+    "subtema": "Desconsideração da personalidade jurídica no PAR",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Possibilidade de desconsideração no próprio PAR",
+      "Abuso de direito ou confusão patrimonial",
+      "Extensão das sanções aos administradores e sócios com poderes de administração",
+      "Contraditório e ampla defesa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 14 da Lei nº 12.846/2013",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 14 — Lei 12.846"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_13edd68be7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0043",
+    "id_origem": "q0043",
+    "ordem_origem": 43,
+    "bloco_origem": "cadeia_13edd68be7",
+    "score": 113.07,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_01/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2023_01",
+  "ordem": 6,
+  "materia": "Direito Penal",
+  "tema": "Crimes contra a ordem tributária",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Havendo depósito integral do montante do tributo em ação anulatória, a respectiva ação penal deve ser suspensa?",
+  "resposta": "Não. O depósito integral realizado na ação anulatória suspende a exigibilidade do crédito tributário, mas não desconstitui o lançamento definitivo nem suspende automaticamente a pretensão punitiva estatal. Ele também não se confunde com o pagamento ou com outra causa de extinção do crédito e, por si só, não elimina a justa causa da ação penal. Em razão da independência relativa das instâncias, a simples existência da ação anulatória tampouco produz suspensão obrigatória do processo criminal. O juiz penal poderá suspender o processo se estiver configurada uma questão prejudicial extrapenal séria e de difícil solução, nos termos da legislação processual, mas essa providência é facultativa e não decorre automaticamente do depósito.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Crimes contra a ordem tributária\nDificuldade: média\nPergunta: Havendo depósito integral do montante do tributo em ação anulatória, a respectiva ação penal deve ser suspensa?\nResposta: Não. O depósito integral realizado na ação anulatória suspende a exigibilidade do crédito tributário, mas não desconstitui o lançamento definitivo nem suspende automaticamente a pretensão punitiva estatal. Ele também não se confunde com o pagamento ou com outra causa de extinção do crédito e, por si só, não elimina a justa causa da ação penal. Em razão da independência relativa das instâncias, a simples existência da ação anulatória tampouco produz suspensão obrigatória do processo criminal. O juiz penal poderá suspender o processo se estiver configurada uma questão prejudicial extrapenal séria e de difícil solução, nos termos da legislação processual, mas essa providência é facultativa e não decorre automaticamente do depósito.",
+  "_meta": {
+    "subtema": "Depósito do tributo em ação anulatória e suspensão da ação penal",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Depósito integral suspende apenas a exigibilidade do crédito",
+      "Inexistência de suspensão automática da ação penal",
+      "Depósito não equivale a pagamento",
+      "Possibilidade facultativa de suspensão por questão prejudicial"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 151, inciso II, do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 93 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 151 — CTN",
+        "art. 93 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_36fa52f504"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0008",
+    "id_origem": "q0008",
+    "ordem_origem": 8,
+    "bloco_origem": "cadeia_36fa52f504",
+    "score": 115.76,
+    "reabilitada": false
+  }
+}

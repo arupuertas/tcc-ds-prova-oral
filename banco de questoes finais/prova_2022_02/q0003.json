@@ -1,0 +1,74 @@
+{
+  "uid": "prova_2022_02/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2022_02",
+  "ordem": 3,
+  "materia": "Direito Administrativo",
+  "tema": "Agentes políticos",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Um cidadão apresenta ao Ministério Público informações extraídas da internet indicando que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como o senhor entende que o Ministério Público deve proceder diante dessa notícia?",
+  "resposta": "O Ministério Público deve registrar a notícia e verificar a autenticidade das informações, confirmando a condição de integrante da Mesa Diretora e a efetiva prática de atos privativos da advocacia. O membro da Mesa do Poder Legislativo está sujeito a incompatibilidade total com a advocacia, inclusive em causa própria, enquanto os demais vereadores estão, em regra, apenas impedidos de advogar contra ou a favor das entidades públicas e demais pessoas jurídicas indicadas no Estatuto da OAB. Confirmados os fatos, deve-se encaminhar representação à Ordem dos Advogados do Brasil para a adoção das providências de sua competência e buscar a cessação da atividade incompatível. Também deverá ser apurado se houve emprego de servidores, informações privilegiadas, instalações ou outros recursos públicos em benefício da atividade profissional. O exercício incompatível da advocacia não configura automaticamente improbidade administrativa, que dependerá da presença de conduta dolosa expressamente tipificada e dos demais requisitos legais.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Agentes políticos\nDificuldade: média\nPergunta: Um cidadão apresenta ao Ministério Público informações extraídas da internet indicando que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como o senhor entende que o Ministério Público deve proceder diante dessa notícia?\nResposta: O Ministério Público deve registrar a notícia e verificar a autenticidade das informações, confirmando a condição de integrante da Mesa Diretora e a efetiva prática de atos privativos da advocacia. O membro da Mesa do Poder Legislativo está sujeito a incompatibilidade total com a advocacia, inclusive em causa própria, enquanto os demais vereadores estão, em regra, apenas impedidos de advogar contra ou a favor das entidades públicas e demais pessoas jurídicas indicadas no Estatuto da OAB. Confirmados os fatos, deve-se encaminhar representação à Ordem dos Advogados do Brasil para a adoção das providências de sua competência e buscar a cessação da atividade incompatível. Também deverá ser apurado se houve emprego de servidores, informações privilegiadas, instalações ou outros recursos públicos em benefício da atividade profissional. O exercício incompatível da advocacia não configura automaticamente improbidade administrativa, que dependerá da presença de conduta dolosa expressamente tipificada e dos demais requisitos legais.",
+  "_meta": {
+    "subtema": "Vereador e exercício da advocacia",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Verificação da autenticidade das informações",
+      "Incompatibilidade total do integrante da Mesa Diretora",
+      "Distinção entre incompatibilidade e impedimento dos demais vereadores",
+      "Representação à OAB",
+      "Apuração do eventual uso da estrutura pública",
+      "Ausência de improbidade automática"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 27 e 28, I, da Lei nº 8.906/1994",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 30, II, da Lei nº 8.906/1994",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 8.906",
+        "art. 27 — Lei 8.906",
+        "art. 28 — Lei 8.906",
+        "art. 30 — Lei 8.906"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_2022c88bff"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0005",
+    "id_origem": "q0005",
+    "ordem_origem": 5,
+    "bloco_origem": "cadeia_2022c88bff",
+    "score": 112.44,
+    "reabilitada": false
+  }
+}

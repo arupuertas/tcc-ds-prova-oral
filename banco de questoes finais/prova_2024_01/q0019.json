@@ -1,0 +1,79 @@
+{
+  "uid": "prova_2024_01/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2024_01",
+  "ordem": 19,
+  "materia": "Direito Eleitoral",
+  "tema": "Ações eleitorais",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Suponha que um partido político ajuíze ação de impugnação de mandato eletivo e, em seguida, requeira a desistência. O Ministério Público pode assumir o polo ativo e prosseguir com a ação?",
+  "resposta": "Sim. A ação de impugnação de mandato eletivo tutela a legitimidade e a normalidade das eleições, de modo que seu objeto possui natureza pública e indisponível, não ficando o encerramento do processo sujeito apenas à vontade do autor originário. Como possui legitimidade ativa autônoma, o Ministério Público deve ser ouvido antes da homologação da desistência e pode assumir o polo ativo para prosseguir com a demanda. A legislação eleitoral reforça que o ajuizamento de ação por candidato ou partido político não impede a atuação do Ministério Público no mesmo sentido. Desse modo, a desistência do partido não pode ser utilizada para frustrar a apuração judicial de abuso do poder econômico, corrupção ou fraude eleitoral.",
+  "embedding_text": "Matéria: Direito Eleitoral\nTema: Ações eleitorais\nDificuldade: média\nPergunta: Suponha que um partido político ajuíze ação de impugnação de mandato eletivo e, em seguida, requeira a desistência. O Ministério Público pode assumir o polo ativo e prosseguir com a ação?\nResposta: Sim. A ação de impugnação de mandato eletivo tutela a legitimidade e a normalidade das eleições, de modo que seu objeto possui natureza pública e indisponível, não ficando o encerramento do processo sujeito apenas à vontade do autor originário. Como possui legitimidade ativa autônoma, o Ministério Público deve ser ouvido antes da homologação da desistência e pode assumir o polo ativo para prosseguir com a demanda. A legislação eleitoral reforça que o ajuizamento de ação por candidato ou partido político não impede a atuação do Ministério Público no mesmo sentido. Desse modo, a desistência do partido não pode ser utilizada para frustrar a apuração judicial de abuso do poder econômico, corrupção ou fraude eleitoral.",
+  "_meta": {
+    "subtema": "Desistência da ação e assunção pelo Ministério Público",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Natureza pública e indisponível da AIME",
+      "Legitimidade ativa autônoma do Ministério Público",
+      "Possibilidade de assunção do polo ativo",
+      "Necessidade de o Ministério Público ser ouvido",
+      "Impossibilidade de desistência estratégica frustrar a tutela eleitoral"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 14, § 10, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 96-B, § 1º, da Lei nº 9.504/1997",
+        "origem": "transcricao",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 127 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 127 — CF",
+        "art. 14 — CF",
+        "art. 96b — Lei 9.504"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [
+        "art. 96-B, § 1º, da Lei nº 9.504/1997"
+      ],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1940935a0c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0042",
+    "id_origem": "q0042",
+    "ordem_origem": 42,
+    "bloco_origem": "cadeia_1940935a0c",
+    "score": 107.8,
+    "reabilitada": false
+  }
+}

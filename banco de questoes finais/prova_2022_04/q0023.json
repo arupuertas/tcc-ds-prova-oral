@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2022_04/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2022_04",
+  "ordem": 23,
+  "materia": "Direito Penal",
+  "tema": "Roubo",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "No crime de roubo, a incidência da causa de aumento pelo emprego de arma de fogo depende de sua apreensão e perícia, ou pode ser demonstrada por outros meios de prova sem inversão do ônus probatório? Se a arma for apreendida e a perícia constatar tratar-se de simulacro ou de artefato absolutamente ineficaz, a senhora imputaria essa causa de aumento?",
+  "resposta": "A apreensão e a perícia não são indispensáveis, desde que outros elementos probatórios seguros, como os depoimentos da vítima e de testemunhas, demonstrem o emprego de verdadeira arma de fogo. Isso não representa inversão do ônus da prova, pois incumbe à acusação demonstrar a circunstância majorante, e eventual dúvida razoável sobre a natureza do objeto deve favorecer o acusado. Se a perícia comprovar que o objeto era um simulacro, estará caracterizada a grave ameaça própria do roubo, mas não a causa de aumento relativa à arma de fogo. Também deve ser afastada a majorante quando o laudo demonstrar a absoluta ineficácia do artefato, sem prejuízo da configuração do roubo pela intimidação produzida.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Roubo\nDificuldade: média\nPergunta: No crime de roubo, a incidência da causa de aumento pelo emprego de arma de fogo depende de sua apreensão e perícia, ou pode ser demonstrada por outros meios de prova sem inversão do ônus probatório? Se a arma for apreendida e a perícia constatar tratar-se de simulacro ou de artefato absolutamente ineficaz, a senhora imputaria essa causa de aumento?\nResposta: A apreensão e a perícia não são indispensáveis, desde que outros elementos probatórios seguros, como os depoimentos da vítima e de testemunhas, demonstrem o emprego de verdadeira arma de fogo. Isso não representa inversão do ônus da prova, pois incumbe à acusação demonstrar a circunstância majorante, e eventual dúvida razoável sobre a natureza do objeto deve favorecer o acusado. Se a perícia comprovar que o objeto era um simulacro, estará caracterizada a grave ameaça própria do roubo, mas não a causa de aumento relativa à arma de fogo. Também deve ser afastada a majorante quando o laudo demonstrar a absoluta ineficácia do artefato, sem prejuízo da configuração do roubo pela intimidação produzida.",
+  "_meta": {
+    "subtema": "Majorante do emprego de arma de fogo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "dispensa de apreensão e perícia",
+      "prova por depoimentos da vítima e de testemunhas",
+      "ônus probatório da acusação",
+      "simulacro configura grave ameaça, mas não a majorante",
+      "artefato absolutamente ineficaz"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 157, caput e § 2º-A, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 156 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 156 — CPP",
+        "art. 157 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0052",
+    "id_origem": "q0052",
+    "ordem_origem": 52,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 106.48,
+    "reabilitada": false
+  }
+}

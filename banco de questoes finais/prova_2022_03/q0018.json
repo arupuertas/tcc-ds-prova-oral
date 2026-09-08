@@ -1,0 +1,83 @@
+{
+  "uid": "prova_2022_03/q0018",
+  "id": "q0018",
+  "prova_id": "prova_2022_03",
+  "ordem": 18,
+  "materia": "Direitos Humanos",
+  "tema": "Pessoas com deficiência",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A substituição da expressão “pessoa portadora de deficiência” por “pessoa com deficiência” decorre apenas de uma evolução do ordenamento jurídico brasileiro ou tem origem no âmbito internacional?",
+  "resposta": "A mudança terminológica decorre principalmente da evolução internacional da proteção dos direitos das pessoas com deficiência e foi consolidada pela Convenção sobre os Direitos das Pessoas com Deficiência. A Convenção adotou expressamente a denominação “pessoa com deficiência” e o modelo social da deficiência, em substituição a concepções meramente médicas ou assistencialistas. No Brasil, a Convenção e seu Protocolo Facultativo foram aprovados pelo procedimento especial aplicável aos tratados de direitos humanos, adquirindo hierarquia equivalente à de emenda constitucional. Posteriormente, a Lei Brasileira de Inclusão incorporou e desenvolveu esse paradigma no plano infraconstitucional.",
+  "embedding_text": "Matéria: Direitos Humanos\nTema: Pessoas com deficiência\nDificuldade: média\nPergunta: A substituição da expressão “pessoa portadora de deficiência” por “pessoa com deficiência” decorre apenas de uma evolução do ordenamento jurídico brasileiro ou tem origem no âmbito internacional?\nResposta: A mudança terminológica decorre principalmente da evolução internacional da proteção dos direitos das pessoas com deficiência e foi consolidada pela Convenção sobre os Direitos das Pessoas com Deficiência. A Convenção adotou expressamente a denominação “pessoa com deficiência” e o modelo social da deficiência, em substituição a concepções meramente médicas ou assistencialistas. No Brasil, a Convenção e seu Protocolo Facultativo foram aprovados pelo procedimento especial aplicável aos tratados de direitos humanos, adquirindo hierarquia equivalente à de emenda constitucional. Posteriormente, a Lei Brasileira de Inclusão incorporou e desenvolveu esse paradigma no plano infraconstitucional.",
+  "_meta": {
+    "subtema": "Influência internacional na terminologia",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "origem internacional da mudança terminológica",
+      "Convenção sobre os Direitos das Pessoas com Deficiência",
+      "adoção do modelo social",
+      "hierarquia equivalente à de emenda constitucional",
+      "influência sobre a Lei Brasileira de Inclusão"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Convenção sobre os Direitos das Pessoas com Deficiência",
+        "origem": "transcricao",
+        "origem_verificada": "nao_verificavel"
+      },
+      {
+        "ref": "art. 5º, § 3º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "Decreto Legislativo nº 186/2008 e Decreto nº 6.949/2009",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 13.146/2015",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Dec. Legislativo 186",
+        "Decreto 6.949"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": [
+        "Convenção sobre os Direitos das Pessoas com Deficiência"
+      ]
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_ffd790b383"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0047",
+    "id_origem": "q0047",
+    "ordem_origem": 47,
+    "bloco_origem": "cadeia_ffd790b383",
+    "score": 121.51,
+    "reabilitada": false
+  }
+}

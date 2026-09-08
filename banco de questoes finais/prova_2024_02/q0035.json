@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2024_02/q0035",
+  "id": "q0035",
+  "prova_id": "prova_2024_02",
+  "ordem": 35,
+  "materia": "Direito Administrativo",
+  "tema": "Improbidade administrativa",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Se o outro acordante recusar a renegociação e o acordo de não persecução cível celebrado pela procuradoria municipal já tiver sido homologado judicialmente, qual medida judicial o senhor deverá adotar para impugnar cláusulas que considere inadequadas ou ilegais?",
+  "resposta": "Se ainda não houver trânsito em julgado, deve ser interposto o recurso cabível contra a decisão homologatória. Encerrada a via recursal, a impugnação de vício existente nas cláusulas ou no próprio acordo deve ser feita por ação anulatória, que tramita em primeiro grau, conforme a regra aplicável aos negócios jurídicos homologados judicialmente. A ação rescisória fica reservada à hipótese em que o vício seja imputado à própria decisão judicial e esteja presente uma das causas legais de rescindibilidade. Como o acordo homologado constitui título executivo judicial, ele não pode ser simplesmente ignorado nem tratado como mero título executivo extrajudicial.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Improbidade administrativa\nDificuldade: difícil\nPergunta: Se o outro acordante recusar a renegociação e o acordo de não persecução cível celebrado pela procuradoria municipal já tiver sido homologado judicialmente, qual medida judicial o senhor deverá adotar para impugnar cláusulas que considere inadequadas ou ilegais?\nResposta: Se ainda não houver trânsito em julgado, deve ser interposto o recurso cabível contra a decisão homologatória. Encerrada a via recursal, a impugnação de vício existente nas cláusulas ou no próprio acordo deve ser feita por ação anulatória, que tramita em primeiro grau, conforme a regra aplicável aos negócios jurídicos homologados judicialmente. A ação rescisória fica reservada à hipótese em que o vício seja imputado à própria decisão judicial e esteja presente uma das causas legais de rescindibilidade. Como o acordo homologado constitui título executivo judicial, ele não pode ser simplesmente ignorado nem tratado como mero título executivo extrajudicial.",
+  "_meta": {
+    "subtema": "Medida judicial contra ANPC homologado",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Recurso enquanto não houver trânsito em julgado",
+      "Ação anulatória do negócio jurídico homologado",
+      "Ação rescisória apenas contra vício da decisão",
+      "Competência de primeiro grau para a ação anulatória",
+      "Natureza de título executivo judicial"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 966, caput e § 4º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 515, II e III, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 17-B, § 1º, III, da Lei nº 8.429/1992",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 17b — Lei 8.429",
+        "art. 515 — CPC",
+        "art. 966 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_198b5d6e0f"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0089",
+    "id_origem": "q0089",
+    "ordem_origem": 89,
+    "bloco_origem": "cadeia_198b5d6e0f",
+    "score": 120.78,
+    "reabilitada": false
+  }
+}

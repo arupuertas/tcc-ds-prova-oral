@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2022_01/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2022_01",
+  "ordem": 23,
+  "materia": "Direito Penal",
+  "tema": "Erro de subsunção",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "A senhora considera possível que uma equivocada apreciação do agente quanto à relevância penal do fato não gere responsabilidade porque a conduta é objetivamente insignificante? Indique uma hipótese.",
+  "resposta": "Sim. Se o agente subtrai objeto que acredita ser joia de elevado valor, mas que, na realidade, é uma bijuteria de valor inexpressivo, sua crença subjetiva não cria tipicidade material inexistente. Poderá ser reconhecido o princípio da insignificância se, consideradas todas as circunstâncias concretas, estiverem presentes a mínima ofensividade da conduta, a ausência de periculosidade social, o reduzido grau de reprovabilidade e a inexpressividade da lesão. A exclusão da responsabilidade decorrerá da atipicidade material do fato, e não da regra geral de que o erro de subsunção afastaria o dolo. A aplicação do princípio não resulta automaticamente do pequeno valor econômico, devendo ser avaliados também o modo de execução e as demais circunstâncias do caso.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Erro de subsunção\nDificuldade: difícil\nPergunta: A senhora considera possível que uma equivocada apreciação do agente quanto à relevância penal do fato não gere responsabilidade porque a conduta é objetivamente insignificante? Indique uma hipótese.\nResposta: Sim. Se o agente subtrai objeto que acredita ser joia de elevado valor, mas que, na realidade, é uma bijuteria de valor inexpressivo, sua crença subjetiva não cria tipicidade material inexistente. Poderá ser reconhecido o princípio da insignificância se, consideradas todas as circunstâncias concretas, estiverem presentes a mínima ofensividade da conduta, a ausência de periculosidade social, o reduzido grau de reprovabilidade e a inexpressividade da lesão. A exclusão da responsabilidade decorrerá da atipicidade material do fato, e não da regra geral de que o erro de subsunção afastaria o dolo. A aplicação do princípio não resulta automaticamente do pequeno valor econômico, devendo ser avaliados também o modo de execução e as demais circunstâncias do caso.",
+  "_meta": {
+    "subtema": "Insignificância e irresponsabilidade do agente",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Crença subjetiva incapaz de criar tipicidade material",
+      "Subtração de objeto de valor efetivamente inexpressivo",
+      "Requisitos do princípio da insignificância",
+      "Atipicidade material como fundamento da exclusão"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 155, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.84,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 155 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.87
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c2bd604864"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0059",
+    "id_origem": "q0059",
+    "ordem_origem": 59,
+    "bloco_origem": "cadeia_c2bd604864",
+    "score": 114.03,
+    "reabilitada": false
+  }
+}

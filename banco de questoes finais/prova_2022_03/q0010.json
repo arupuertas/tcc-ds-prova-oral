@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2022_03/q0010",
+  "id": "q0010",
+  "prova_id": "prova_2022_03",
+  "ordem": 10,
+  "materia": "Direito Processual Civil",
+  "tema": "Recursos excepcionais",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Quanto aos recursos especial e extraordinário, diferencie, por favor, o prequestionamento explícito, o prequestionamento implícito e o prequestionamento ficto.",
+  "resposta": "O prequestionamento pressupõe que a questão constitucional ou federal tenha sido submetida ao tribunal de origem e decidida no acórdão recorrido, pois os recursos excepcionais se destinam a causas já decididas. É explícito quando o acórdão enfrenta expressamente a norma ou a tese jurídica pertinente, embora nem sempre seja indispensável a indicação numérica do dispositivo. É implícito quando o conteúdo da questão jurídica é efetivamente examinado e resolvido, mas sem menção expressa ao número ou ao texto do dispositivo legal ou constitucional. O prequestionamento ficto ocorre quando a parte suscita a matéria em embargos de declaração e, apesar da rejeição ou inadmissão dos embargos, ela é considerada incluída no acórdão para fins de recurso excepcional, desde que o tribunal superior reconheça a existência do vício apontado. A mera alegação da matéria nas razões das partes, sem decisão ou adequada provocação do tribunal de origem, não basta.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Recursos excepcionais\nDificuldade: média\nPergunta: Quanto aos recursos especial e extraordinário, diferencie, por favor, o prequestionamento explícito, o prequestionamento implícito e o prequestionamento ficto.\nResposta: O prequestionamento pressupõe que a questão constitucional ou federal tenha sido submetida ao tribunal de origem e decidida no acórdão recorrido, pois os recursos excepcionais se destinam a causas já decididas. É explícito quando o acórdão enfrenta expressamente a norma ou a tese jurídica pertinente, embora nem sempre seja indispensável a indicação numérica do dispositivo. É implícito quando o conteúdo da questão jurídica é efetivamente examinado e resolvido, mas sem menção expressa ao número ou ao texto do dispositivo legal ou constitucional. O prequestionamento ficto ocorre quando a parte suscita a matéria em embargos de declaração e, apesar da rejeição ou inadmissão dos embargos, ela é considerada incluída no acórdão para fins de recurso excepcional, desde que o tribunal superior reconheça a existência do vício apontado. A mera alegação da matéria nas razões das partes, sem decisão ou adequada provocação do tribunal de origem, não basta.",
+  "_meta": {
+    "subtema": "Prequestionamento explícito, implícito e ficto",
+    "tipo": "principal",
+    "pontos_chave": [
+      "questão decidida pelo tribunal de origem",
+      "prequestionamento explícito",
+      "prequestionamento implícito",
+      "prequestionamento ficto",
+      "embargos de declaração"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.025 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 102, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 105, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CPC",
+        "art. 102 — CF",
+        "art. 1025 — CPC",
+        "art. 105 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3743401fd5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0022",
+    "id_origem": "q0022",
+    "ordem_origem": 22,
+    "bloco_origem": "cadeia_3743401fd5",
+    "score": 115.22,
+    "reabilitada": false
+  }
+}

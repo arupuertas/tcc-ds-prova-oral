@@ -1,0 +1,393 @@
+{
+  "prova_id": "prova_2024_02",
+  "edicao": "LX",
+  "ano": 2024,
+  "grupo_tematico": "I",
+  "n_questoes_origem": 94,
+  "n_elegiveis": 70,
+  "n_questoes": 35,
+  "n_cadeias": 16,
+  "n_reabilitadas": 0,
+  "score_medio": 113.51,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Ambiental",
+    "Direito Civil",
+    "Direito Constitucional",
+    "Direito Empresarial",
+    "Direito Penal",
+    "Direito Processual Penal",
+    "Direito Tributário",
+    "Direitos Difusos e Coletivos",
+    "Direitos Humanos"
+  ],
+  "distribuicao_materia": {
+    "Direito Penal": 7,
+    "Direito Administrativo": 6,
+    "Direitos Difusos e Coletivos": 5,
+    "Direito Ambiental": 4,
+    "Direito Civil": 4,
+    "Direito Processual Penal": 3,
+    "Direito Tributário": 2,
+    "Direito Empresarial": 2,
+    "Direitos Humanos": 1,
+    "Direito Constitucional": 1
+  },
+  "distribuicao_dificuldade": {
+    "dificil": 12,
+    "media": 21,
+    "facil": 2
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Responsabilidade administrativa",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O senhor considera possível utilizar a analogia para atribuir a alguém responsabilidade administrativa pela prática de infração?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Responsabilidade administrativa sancionadora",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O senhor poderia indicar um exemplo de interpretação analógica ou de emprego da analogia no âmbito da responsabilização administrativa por infrações?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito Ambiental",
+      "tema": "Responsabilidade ambiental",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia explicar a natureza da responsabilidade administrativa pela prática de infração ambiental e diferenciá-la da responsabilidade civil ambiental?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direito Ambiental",
+      "tema": "Sanção administrativa ambiental",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Nesse regime de responsabilidade, o senhor entende ser possível aplicar multa administrativa ambiental ao proprietário de área de preservação permanente na qual ocorreu incêndio provocado por pessoas desconhecidas, sem participação do proprietário?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direito Tributário",
+      "tema": "IPTU",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Um proprietário está há muitos anos privado da posse de seu imóvel, que foi invadido e permanece clandestinamente ocupado por movimentos sociais, mas continua recebendo cobranças de IPTU. O senhor considera devido o imposto nessas circunstâncias? Explique."
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direito Tributário",
+      "tema": "ISS",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Incide ISS sobre a atividade de locação de bens móveis, como veículos, máquinas e materiais de festa? Explique."
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Lei de Drogas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Se o preso solicita à sua companheira que leve droga para o estabelecimento prisional e se considera atípica a mera solicitação feita por ele, por qual crime ela responde ao adquirir e transportar a substância?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Excludentes de ilicitude",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Se o médico realiza procedimento no qual poderia ter obtido o consentimento efetivo do paciente, mas não o fez e pretende valer-se do consentimento hipotético, o senhor considera cabível que um terceiro atue em legítima defesa do paciente para impedir a intervenção?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Erro de tipo",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Na situação em que o agente danifica conscientemente coisa alheia, mas, em razão de erro provocado por terceiro, acredita que o objeto pertence a particular quando, na realidade, integra o patrimônio público, por qual crime responde o executor material?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Excludentes de ilicitude",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O executor que, querendo danificar coisa alheia, erra apenas quanto à natureza pública do bem deixa de responder também pelo crime de dano simples?"
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Concurso de pessoas",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Na hipótese em que um agente induz terceiro a danificar bem público, fazendo-o acreditar que se trata de bem particular, pelo que responde o agente que provocou o erro e a que título?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Um agente, com dolo homicida, fere a vítima no abdômen. No hospital, uma atuação médica negligente ou imperita contribui para a morte. Esse erro médico afasta a imputação do resultado ao primeiro agente, que responderia apenas por tentativa, ou ele responde por homicídio consumado? Em quais contextos a solução pode variar?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "No caso em que um agente, com dolo homicida, fere a vítima e um erro médico posterior contribui para a morte, qual é a consequência da elevação quantitativa e da alteração qualitativa do risco para a imputação do resultado ao primeiro agente?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Medidas cautelares reais",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "No âmbito das medidas assecuratórias do processo penal, é possível ao juiz decretar de ofício o sequestro de bens?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Medidas assecuratórias",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A legislação processual penal prevê expressamente a possibilidade de o juiz decretar de ofício o sequestro de bens?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Medidas assecuratórias",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia indicar em quais hipóteses legais deve ser levantado o sequestro de bens decretado no processo penal?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direito Empresarial",
+      "tema": "Sociedades",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "No âmbito das sociedades limitadas, em que hipótese o sócio minoritário pode ser excluído extrajudicialmente da sociedade?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direito Empresarial",
+      "tema": "Recuperação judicial",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Quem são os legitimados para requerer a recuperação judicial?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Contratos",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Os contratos de compra e venda e de doação têm eficácia real, isto é, são por si sós translativos da propriedade?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Responsabilidade civil",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Na responsabilidade civil objetiva fundada no risco, é possível a responsabilização por fato de terceiro?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Responsabilidade civil",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "As hipóteses de responsabilidade dos pais pelos filhos menores e dos tutores ou curadores pelos pupilos ou curatelados constituem responsabilidade objetiva fundada no risco?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Bem de família",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "José passou a trabalhar em Brasília e locou seu único imóvel residencial, situado em Belo Horizonte, utilizando integralmente os aluguéis recebidos para pagar a locação do imóvel em que reside em Brasília. O imóvel de Belo Horizonte pode ser penhorado para saldar suas obrigações?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Integridade institucional",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "O senhor sabe dizer o que é um programa de integridade?"
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Integridade institucional",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Um órgão interno de integridade de uma instituição possui, necessariamente, poder sancionatório?"
+    },
+    {
+      "id": "q0025",
+      "ordem": 25,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O prefeito que nomeia um parente para o cargo de secretário municipal pratica nepotismo e ato de improbidade administrativa?"
+    },
+    {
+      "id": "q0026",
+      "ordem": 26,
+      "momento": "meio",
+      "materia": "Direitos Humanos",
+      "tema": "Discriminação racial",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia explicar o que é racismo recreativo?"
+    },
+    {
+      "id": "q0027",
+      "ordem": 27,
+      "momento": "fim",
+      "materia": "Direito Ambiental",
+      "tema": "Direitos dos animais",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "No ordenamento jurídico brasileiro, os animais são sujeitos de direito?"
+    },
+    {
+      "id": "q0028",
+      "ordem": 28,
+      "momento": "fim",
+      "materia": "Direito Ambiental",
+      "tema": "Direitos da natureza",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Assim como se discute em relação aos animais, a natureza pode ser considerada sujeito de direitos?"
+    },
+    {
+      "id": "q0029",
+      "ordem": 29,
+      "momento": "fim",
+      "materia": "Direito Constitucional",
+      "tema": "Direito à saúde",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O senhor poderia dar um exemplo concreto de matéria que pode ser objeto de deliberação por um conselho municipal de saúde?"
+    },
+    {
+      "id": "q0030",
+      "ordem": 30,
+      "momento": "fim",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Processo coletivo",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "O que são entes intermediários no processo coletivo?"
+    },
+    {
+      "id": "q0031",
+      "ordem": 31,
+      "momento": "fim",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Processo coletivo",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Todo legitimado ativo para o processo coletivo é um ente intermediário?"
+    },
+    {
+      "id": "q0032",
+      "ordem": 32,
+      "momento": "fim",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Acordos coletivos",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "No âmbito dos acordos em processos coletivos, em que consiste o problema do chamado leilão reverso?"
+    },
+    {
+      "id": "q0033",
+      "ordem": 33,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Uma procuradoria municipal pode celebrar acordo de não persecução cível em matéria de improbidade administrativa?"
+    },
+    {
+      "id": "q0034",
+      "ordem": 34,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Na condição de membro do Ministério Público, se o senhor considerar inadequadas ou ilegais as cláusulas de um acordo de não persecução cível celebrado por uma procuradoria municipal e já homologado judicialmente, qual procedimento deverá adotar?"
+    },
+    {
+      "id": "q0035",
+      "ordem": 35,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Se o outro acordante recusar a renegociação e o acordo de não persecução cível celebrado pela procuradoria municipal já tiver sido homologado judicialmente, qual medida judicial o senhor deverá adotar para impugnar cláusulas que considere inadequadas ou ilegais?"
+    }
+  ]
+}

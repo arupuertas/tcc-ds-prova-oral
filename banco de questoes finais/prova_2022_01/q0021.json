@@ -1,0 +1,90 @@
+{
+  "uid": "prova_2022_01/q0021",
+  "id": "q0021",
+  "prova_id": "prova_2022_01",
+  "ordem": 21,
+  "materia": "Direito Administrativo",
+  "tema": "Poder de polícia",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Qual é o fundamento jurídico para que as guardas municipais exerçam a fiscalização de trânsito? Essa atuação configuraria exercício indevido de função de segurança pública ou invasão de competência de outros órgãos?",
+  "resposta": "O fundamento está na competência municipal para organizar os assuntos de interesse local e exercer o poder de polícia de trânsito, em conjunto com a autorização constitucional para a instituição de guardas destinadas à proteção dos bens, serviços e instalações municipais. A fiscalização do trânsito constitui poder de polícia administrativa e pode ser atribuída às guardas municipais pela legislação local, nos termos do Código de Trânsito Brasileiro. Ainda que a segurança viária tenha interface com a segurança pública, essa atividade não corresponde ao exercício das funções típicas e exclusivas das polícias civil ou militar. Por isso, a atribuição não representa usurpação de competência, e o Supremo Tribunal Federal reconhece inclusive a constitucionalidade da imposição de sanções administrativas de trânsito pelas guardas municipais.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Poder de polícia\nDificuldade: média\nPergunta: Qual é o fundamento jurídico para que as guardas municipais exerçam a fiscalização de trânsito? Essa atuação configuraria exercício indevido de função de segurança pública ou invasão de competência de outros órgãos?\nResposta: O fundamento está na competência municipal para organizar os assuntos de interesse local e exercer o poder de polícia de trânsito, em conjunto com a autorização constitucional para a instituição de guardas destinadas à proteção dos bens, serviços e instalações municipais. A fiscalização do trânsito constitui poder de polícia administrativa e pode ser atribuída às guardas municipais pela legislação local, nos termos do Código de Trânsito Brasileiro. Ainda que a segurança viária tenha interface com a segurança pública, essa atividade não corresponde ao exercício das funções típicas e exclusivas das polícias civil ou militar. Por isso, a atribuição não representa usurpação de competência, e o Supremo Tribunal Federal reconhece inclusive a constitucionalidade da imposição de sanções administrativas de trânsito pelas guardas municipais.",
+  "_meta": {
+    "subtema": "Guarda municipal e fiscalização de trânsito",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Competência municipal sobre interesse local e trânsito",
+      "Proteção dos bens, serviços e instalações municipais",
+      "Natureza de poder de polícia administrativa",
+      "Inexistência de usurpação das funções das polícias estaduais",
+      "Constitucionalidade das sanções administrativas aplicadas pela guarda"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 30, I e V, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 144, §§ 8º e 10, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 24, VI, e 280, § 4º, do Código de Trânsito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Tema 472 da repercussão geral do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [
+      "CTB"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [
+        "CTB"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "CTB",
+        "Tema 472",
+        "art. 144 — CF",
+        "art. 24 — CTB",
+        "art. 30 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_69babca6dd"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0051",
+    "id_origem": "q0051",
+    "ordem_origem": 51,
+    "bloco_origem": "cadeia_69babca6dd",
+    "score": 124.63,
+    "reabilitada": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2023_04/q0025",
+  "id": "q0025",
+  "prova_id": "prova_2023_04",
+  "ordem": 25,
+  "materia": "Direito Tributário",
+  "tema": "Sistema Tributário Nacional",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "No atual Sistema Tributário Nacional, quantas e quais são as espécies tributárias?",
+  "resposta": "Segundo a classificação pentapartite, são cinco as espécies tributárias: impostos, taxas, contribuições de melhoria, empréstimos compulsórios e contribuições especiais. Estas últimas compreendem, entre outras, as contribuições sociais, as de intervenção no domínio econômico e as de interesse das categorias profissionais ou econômicas. A Constituição também prevê a contribuição para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Sistema Tributário Nacional\nDificuldade: fácil\nPergunta: No atual Sistema Tributário Nacional, quantas e quais são as espécies tributárias?\nResposta: Segundo a classificação pentapartite, são cinco as espécies tributárias: impostos, taxas, contribuições de melhoria, empréstimos compulsórios e contribuições especiais. Estas últimas compreendem, entre outras, as contribuições sociais, as de intervenção no domínio econômico e as de interesse das categorias profissionais ou econômicas. A Constituição também prevê a contribuição para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos.",
+  "_meta": {
+    "subtema": "Espécies de tributo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Teoria pentapartite",
+      "Impostos",
+      "Taxas",
+      "Contribuições de melhoria",
+      "Empréstimos compulsórios",
+      "Contribuições especiais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 145 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 148 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 149 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 149-A da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 9,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 145 — CF",
+        "art. 148 — CF",
+        "art. 149 — CF",
+        "art. 149a — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a8493aa96e"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0052",
+    "id_origem": "q0052",
+    "ordem_origem": 52,
+    "bloco_origem": "cadeia_a8493aa96e",
+    "score": 113.11,
+    "reabilitada": false
+  }
+}

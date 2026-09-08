@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2024_02/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2024_02",
+  "ordem": 20,
+  "materia": "Direito Civil",
+  "tema": "Responsabilidade civil",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Na responsabilidade civil objetiva fundada no risco, é possível a responsabilização por fato de terceiro?",
+  "resposta": "Sim, desde que haja fundamento legal de imputação ou que o fato do terceiro esteja compreendido no risco atribuído à atividade. O Código Civil estabelece responsabilidade objetiva por fato de outrem para pessoas legalmente indicadas, como pais, tutores, curadores, empregadores e comitentes, independentemente da demonstração de culpa própria do responsável indireto. Exigem-se o fato danoso, o dano, o nexo causal e a relação jurídica prevista em lei, mas não a prova de culpa in vigilando ou in eligendo. Diversamente, o fato exclusivo de terceiro inteiramente estranho e externo ao risco pode romper o nexo causal, ao passo que o fato de terceiro inserido no risco da atividade não exclui a responsabilidade.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Responsabilidade civil\nDificuldade: média\nPergunta: Na responsabilidade civil objetiva fundada no risco, é possível a responsabilização por fato de terceiro?\nResposta: Sim, desde que haja fundamento legal de imputação ou que o fato do terceiro esteja compreendido no risco atribuído à atividade. O Código Civil estabelece responsabilidade objetiva por fato de outrem para pessoas legalmente indicadas, como pais, tutores, curadores, empregadores e comitentes, independentemente da demonstração de culpa própria do responsável indireto. Exigem-se o fato danoso, o dano, o nexo causal e a relação jurídica prevista em lei, mas não a prova de culpa in vigilando ou in eligendo. Diversamente, o fato exclusivo de terceiro inteiramente estranho e externo ao risco pode romper o nexo causal, ao passo que o fato de terceiro inserido no risco da atividade não exclui a responsabilidade.",
+  "_meta": {
+    "subtema": "Responsabilidade objetiva por fato de terceiro fundada no risco",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Possibilidade de responsabilidade objetiva por fato de terceiro",
+      "Imputação legal aos responsáveis indiretos",
+      "Desnecessidade de culpa própria do responsável",
+      "Necessidade de dano e nexo causal",
+      "Distinção entre fato externo e fato inserido no risco da atividade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 927, parágrafo único, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 932 e 933 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 927 — CC",
+        "art. 932 — CC",
+        "art. 933 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_bfccfe5fa8"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0072",
+    "id_origem": "q0072",
+    "ordem_origem": 72,
+    "bloco_origem": "cadeia_bfccfe5fa8",
+    "score": 114.27,
+    "reabilitada": false
+  }
+}

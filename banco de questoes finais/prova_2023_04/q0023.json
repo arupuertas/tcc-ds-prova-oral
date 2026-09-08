@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_04/q0023",
+  "id": "q0023",
+  "prova_id": "prova_2023_04",
+  "ordem": 23,
+  "materia": "Direito Administrativo",
+  "tema": "Lei Anticorrupção",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Se o Ministério Público discordar das cláusulas de acordo de leniência celebrado pela autoridade competente, poderá questioná-las judicialmente?",
+  "resposta": "Sim, o Ministério Público possui legitimidade para questionar judicialmente cláusulas que afrontem a ordem jurídica, disponham indevidamente de direitos indisponíveis ou causem lesão ao patrimônio público. A mera discordância quanto à conveniência do ajuste não basta, devendo o controle judicial recair sobre sua juridicidade, como ocorreria diante de cláusula que afastasse indevidamente a reparação integral do dano. O Poder Judiciário não deve substituir a autoridade competente nas escolhas negociais legítimas, mas pode invalidar as disposições ilegais do acordo.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Lei Anticorrupção\nDificuldade: média\nPergunta: Se o Ministério Público discordar das cláusulas de acordo de leniência celebrado pela autoridade competente, poderá questioná-las judicialmente?\nResposta: Sim, o Ministério Público possui legitimidade para questionar judicialmente cláusulas que afrontem a ordem jurídica, disponham indevidamente de direitos indisponíveis ou causem lesão ao patrimônio público. A mera discordância quanto à conveniência do ajuste não basta, devendo o controle judicial recair sobre sua juridicidade, como ocorreria diante de cláusula que afastasse indevidamente a reparação integral do dano. O Poder Judiciário não deve substituir a autoridade competente nas escolhas negociais legítimas, mas pode invalidar as disposições ilegais do acordo.",
+  "_meta": {
+    "subtema": "Controle judicial de cláusulas de acordo de leniência",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Legitimidade do Ministério Público para o controle judicial",
+      "Necessidade de ilegalidade ou lesão a interesse tutelado",
+      "Insuficiência da mera discordância sobre a conveniência",
+      "Limites do controle judicial"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 129, inciso III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 16, § 3º, da Lei nº 12.846/2013",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 19 da Lei nº 12.846/2013",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 129 — CF",
+        "art. 16 — Lei 12.846",
+        "art. 19 — Lei 12.846"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.91
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_13edd68be7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0046",
+    "id_origem": "q0046",
+    "ordem_origem": 46,
+    "bloco_origem": "cadeia_13edd68be7",
+    "score": 115.42,
+    "reabilitada": false
+  }
+}

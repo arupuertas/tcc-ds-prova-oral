@@ -1,0 +1,63 @@
+{
+  "uid": "prova_2023_04/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2023_04",
+  "ordem": 24,
+  "materia": "Direito Administrativo",
+  "tema": "Lei Anticorrupção",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "Qual é o prazo prescricional das infrações previstas na Lei Anticorrupção?",
+  "resposta": "O prazo prescricional das infrações previstas na Lei Anticorrupção é de cinco anos. Trata-se, portanto, de prazo quinquenal para o exercício das pretensões sancionatórias decorrentes da lei. A instauração de processo que tenha por objeto a apuração da infração interrompe a prescrição, tanto na esfera administrativa quanto na judicial.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Lei Anticorrupção\nDificuldade: fácil\nPergunta: Qual é o prazo prescricional das infrações previstas na Lei Anticorrupção?\nResposta: O prazo prescricional das infrações previstas na Lei Anticorrupção é de cinco anos. Trata-se, portanto, de prazo quinquenal para o exercício das pretensões sancionatórias decorrentes da lei. A instauração de processo que tenha por objeto a apuração da infração interrompe a prescrição, tanto na esfera administrativa quanto na judicial.",
+  "_meta": {
+    "subtema": "Prazo prescricional das infrações",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Prazo prescricional de cinco anos",
+      "Prazo quinquenal das infrações da Lei Anticorrupção",
+      "Interrupção pela instauração do processo de apuração"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 25 da Lei nº 12.846/2013",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 25 — Lei 12.846"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_13edd68be7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0047",
+    "id_origem": "q0047",
+    "ordem_origem": 47,
+    "bloco_origem": "cadeia_13edd68be7",
+    "score": 99.48,
+    "reabilitada": false
+  }
+}

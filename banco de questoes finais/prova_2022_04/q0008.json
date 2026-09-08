@@ -1,0 +1,83 @@
+{
+  "uid": "prova_2022_04/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2022_04",
+  "ordem": 8,
+  "materia": "Direito da Infância e Juventude",
+  "tema": "Competência",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "A competência da Vara da Infância e da Juventude para julgar ação destinada à obtenção de vaga em creche é absoluta?",
+  "resposta": "Sim. O Estatuto da Criança e do Adolescente qualifica como absoluta a competência do foro do local onde ocorreu ou deva ocorrer a ação ou omissão lesiva, em conjugação com a competência material da Vara da Infância e da Juventude. Por isso, a incompetência pode ser reconhecida de ofício, não se prorroga e pode ser alegada em qualquer grau de jurisdição enquanto não houver trânsito em julgado.",
+  "embedding_text": "Matéria: Direito da Infância e Juventude\nTema: Competência\nDificuldade: fácil\nPergunta: A competência da Vara da Infância e da Juventude para julgar ação destinada à obtenção de vaga em creche é absoluta?\nResposta: Sim. O Estatuto da Criança e do Adolescente qualifica como absoluta a competência do foro do local onde ocorreu ou deva ocorrer a ação ou omissão lesiva, em conjugação com a competência material da Vara da Infância e da Juventude. Por isso, a incompetência pode ser reconhecida de ofício, não se prorroga e pode ser alegada em qualquer grau de jurisdição enquanto não houver trânsito em julgado.",
+  "_meta": {
+    "subtema": "Competência absoluta",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Competência absoluta",
+      "Competência material da Vara da Infância e da Juventude",
+      "Possibilidade de reconhecimento de ofício",
+      "Impossibilidade de prorrogação"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 148, IV, do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 209 do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 64, § 1º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [
+      "ECA"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [
+        "ECA"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "ECA",
+        "art. 148 — ECA",
+        "art. 209 — ECA",
+        "art. 64 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_4228bf2081"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0026",
+    "id_origem": "q0026",
+    "ordem_origem": 26,
+    "bloco_origem": "cadeia_4228bf2081",
+    "score": 107.51,
+    "reabilitada": true
+  }
+}

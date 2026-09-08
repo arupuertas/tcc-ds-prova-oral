@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2022_01/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2022_01",
+  "ordem": 12,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Pessoa idosa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora poderia citar três obrigações legais das entidades de atendimento à pessoa idosa?",
+  "resposta": "As entidades de atendimento estão submetidas às obrigações previstas no Estatuto da Pessoa Idosa. Entre elas, devem oferecer instalações físicas em condições adequadas de habitabilidade e prestar atendimento personalizado. Devem, ainda, proporcionar os cuidados de saúde exigidos pelas necessidades da pessoa idosa.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Pessoa idosa\nDificuldade: média\nPergunta: A senhora poderia citar três obrigações legais das entidades de atendimento à pessoa idosa?\nResposta: As entidades de atendimento estão submetidas às obrigações previstas no Estatuto da Pessoa Idosa. Entre elas, devem oferecer instalações físicas em condições adequadas de habitabilidade e prestar atendimento personalizado. Devem, ainda, proporcionar os cuidados de saúde exigidos pelas necessidades da pessoa idosa.",
+  "_meta": {
+    "subtema": "Obrigações das entidades de atendimento",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Instalações adequadas à habitabilidade",
+      "Atendimento personalizado",
+      "Cuidados de saúde conforme as necessidades da pessoa idosa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 50, IV, da Lei 10.741/2003",
+        "origem": "transcricao",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 50, V, da Lei 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 50, VIII, da Lei 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 50 — Lei 10.741"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [
+        "art. 50, IV, da Lei 10.741/2003"
+      ],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_ae78163dac"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0022",
+    "id_origem": "q0022",
+    "ordem_origem": 22,
+    "bloco_origem": "cadeia_ae78163dac",
+    "score": 104.98,
+    "reabilitada": false
+  }
+}

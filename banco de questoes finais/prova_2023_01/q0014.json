@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_01/q0014",
+  "id": "q0014",
+  "prova_id": "prova_2023_01",
+  "ordem": 14,
+  "materia": "Direito Processual Penal",
+  "tema": "Provas",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O que o senhor entende por busca exploratória no processo penal?",
+  "resposta": "Busca exploratória, também denominada fishing expedition, é a diligência genérica e especulativa realizada sem justa causa concreta ou sem delimitação adequada de objeto, pessoas e finalidade, com o propósito de descobrir se existe algum crime ou elemento que possa sustentar uma acusação. Ela também se caracteriza quando a autoridade extrapola deliberadamente os limites de uma busca legitimamente autorizada para procurar elementos estranhos ao objeto da decisão judicial. A prática é vedada porque transforma a medida investigativa em devassa indiscriminada e esvazia as exigências de fundadas razões e de determinação do mandado. Não se confunde com o encontro fortuito de prova, que pode ser válido quando o elemento relativo a outro delito é descoberto casualmente durante diligência lícita, executada dentro de seus limites.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Provas\nDificuldade: média\nPergunta: O que o senhor entende por busca exploratória no processo penal?\nResposta: Busca exploratória, também denominada fishing expedition, é a diligência genérica e especulativa realizada sem justa causa concreta ou sem delimitação adequada de objeto, pessoas e finalidade, com o propósito de descobrir se existe algum crime ou elemento que possa sustentar uma acusação. Ela também se caracteriza quando a autoridade extrapola deliberadamente os limites de uma busca legitimamente autorizada para procurar elementos estranhos ao objeto da decisão judicial. A prática é vedada porque transforma a medida investigativa em devassa indiscriminada e esvazia as exigências de fundadas razões e de determinação do mandado. Não se confunde com o encontro fortuito de prova, que pode ser válido quando o elemento relativo a outro delito é descoberto casualmente durante diligência lícita, executada dentro de seus limites.",
+  "_meta": {
+    "subtema": "Busca exploratória",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Fishing expedition",
+      "Ausência de justa causa concreta",
+      "Indeterminação do objeto ou da finalidade",
+      "Extrapolação dos limites do mandado",
+      "Distinção do encontro fortuito de prova"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, XI, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 240, § 1º, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 243 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 240 — CPP",
+        "art. 243 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_22a3ce9624"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0022",
+    "id_origem": "q0022",
+    "ordem_origem": 22,
+    "bloco_origem": "cadeia_22a3ce9624",
+    "score": 116.01,
+    "reabilitada": false
+  }
+}

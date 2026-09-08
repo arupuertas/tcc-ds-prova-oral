@@ -1,0 +1,83 @@
+{
+  "uid": "prova_2022_03/q0026",
+  "id": "q0026",
+  "prova_id": "prova_2022_03",
+  "ordem": 26,
+  "materia": "Direito Administrativo",
+  "tema": "Servidores públicos",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Em 2022, ao analisar uma lei municipal que prevê a estabilização financeira mediante incorporação de vantagens vinculadas ao exercício de cargo em comissão ou função de confiança, como a senhora se manifestaria sobre sua constitucionalidade?",
+  "resposta": "A norma é incompatível com a ordem constitucional vigente na parte em que autoriza novas incorporações, independentemente de eventual discussão sobre vício de iniciativa. Desde a Emenda Constitucional nº 103/2019, a Constituição veda expressamente a incorporação, à remuneração do cargo efetivo, de vantagens temporárias ou vinculadas ao exercício de função de confiança ou cargo em comissão. Permanecem preservadas as parcelas efetivamente incorporadas até a entrada em vigor da emenda, assim como situações já consolidadas sob a proteção do direito adquirido. O servidor que ainda não havia preenchido os requisitos possui mera expectativa de direito e não pode obter a estabilização financeira posteriormente.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Servidores públicos\nDificuldade: média\nPergunta: Em 2022, ao analisar uma lei municipal que prevê a estabilização financeira mediante incorporação de vantagens vinculadas ao exercício de cargo em comissão ou função de confiança, como a senhora se manifestaria sobre sua constitucionalidade?\nResposta: A norma é incompatível com a ordem constitucional vigente na parte em que autoriza novas incorporações, independentemente de eventual discussão sobre vício de iniciativa. Desde a Emenda Constitucional nº 103/2019, a Constituição veda expressamente a incorporação, à remuneração do cargo efetivo, de vantagens temporárias ou vinculadas ao exercício de função de confiança ou cargo em comissão. Permanecem preservadas as parcelas efetivamente incorporadas até a entrada em vigor da emenda, assim como situações já consolidadas sob a proteção do direito adquirido. O servidor que ainda não havia preenchido os requisitos possui mera expectativa de direito e não pode obter a estabilização financeira posteriormente.",
+  "_meta": {
+    "subtema": "Constitucionalidade da estabilização financeira",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "inconstitucionalidade de novas incorporações",
+      "vedação expressa introduzida pela Emenda Constitucional nº 103/2019",
+      "irrelevância de eventual vício de iniciativa para o fundamento material",
+      "preservação das incorporações anteriores",
+      "mera expectativa de direito quando os requisitos não estavam preenchidos"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 39, § 9º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 13 da Emenda Constitucional nº 103/2019",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XXXVI, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [
+      "EC 103"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [
+        "EC 103"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "EC 103",
+        "art. 13 — EC 103",
+        "art. 39 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_dff31dd57d"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0060",
+    "id_origem": "q0060",
+    "ordem_origem": 60,
+    "bloco_origem": "cadeia_dff31dd57d",
+    "score": 120.89,
+    "reabilitada": true
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_02/q0009",
+  "id": "q0009",
+  "prova_id": "prova_2024_02",
+  "ordem": 9,
+  "materia": "Direito Penal",
+  "tema": "Erro de tipo",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Na situação em que o agente danifica conscientemente coisa alheia, mas, em razão de erro provocado por terceiro, acredita que o objeto pertence a particular quando, na realidade, integra o patrimônio público, por qual crime responde o executor material?",
+  "resposta": "O executor material responde pelo crime de dano simples. Seu erro quanto à natureza pública do objeto afasta o dolo relativo à qualificadora, mas não o dolo de danificar coisa alheia. Ainda que o erro sobre essa qualidade do bem seja inevitável, permanece íntegra a responsabilidade pelo tipo básico, pois o dano não admite modalidade culposa e o erro não alcança seus elementos constitutivos.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Erro de tipo\nDificuldade: média\nPergunta: Na situação em que o agente danifica conscientemente coisa alheia, mas, em razão de erro provocado por terceiro, acredita que o objeto pertence a particular quando, na realidade, integra o patrimônio público, por qual crime responde o executor material?\nResposta: O executor material responde pelo crime de dano simples. Seu erro quanto à natureza pública do objeto afasta o dolo relativo à qualificadora, mas não o dolo de danificar coisa alheia. Ainda que o erro sobre essa qualidade do bem seja inevitável, permanece íntegra a responsabilidade pelo tipo básico, pois o dano não admite modalidade culposa e o erro não alcança seus elementos constitutivos.",
+  "_meta": {
+    "subtema": "Dano e erro sobre natureza do bem",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "responsabilidade por dano simples",
+      "erro sobre a natureza pública do bem",
+      "exclusão apenas da qualificadora",
+      "subsistência do dolo do tipo básico"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 163, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 163 — CP",
+        "art. 20 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_90ab695ae0"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0039",
+    "id_origem": "q0039",
+    "ordem_origem": 39,
+    "bloco_origem": "cadeia_90ab695ae0",
+    "score": 111.78,
+    "reabilitada": false
+  }
+}

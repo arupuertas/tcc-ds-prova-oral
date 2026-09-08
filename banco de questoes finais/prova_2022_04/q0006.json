@@ -1,0 +1,57 @@
+{
+  "uid": "prova_2022_04/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2022_04",
+  "ordem": 6,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Processo coletivo",
+  "dificuldade": "facil",
+  "momento": "inicio",
+  "pergunta": "A senhora entende que há diferença entre os conceitos de litígio coletivo e processo coletivo?",
+  "resposta": "Sim. O litígio coletivo é o conflito material que envolve uma situação jurídica coletiva, ativa ou passiva, e uma coletividade considerada enquanto grupo, podendo existir independentemente de judicialização. O processo coletivo é o instrumento jurisdicional utilizado para tutelar essa situação jurídica, com regime de legitimação, representação adequada e coisa julgada apta a produzir efeitos em relação ao grupo. Assim, o litígio pertence ao plano material, enquanto o processo coletivo pertence ao plano processual, não bastando a mera multiplicidade de demandas individuais para que se confundam os dois conceitos.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Processo coletivo\nDificuldade: fácil\nPergunta: A senhora entende que há diferença entre os conceitos de litígio coletivo e processo coletivo?\nResposta: Sim. O litígio coletivo é o conflito material que envolve uma situação jurídica coletiva, ativa ou passiva, e uma coletividade considerada enquanto grupo, podendo existir independentemente de judicialização. O processo coletivo é o instrumento jurisdicional utilizado para tutelar essa situação jurídica, com regime de legitimação, representação adequada e coisa julgada apta a produzir efeitos em relação ao grupo. Assim, o litígio pertence ao plano material, enquanto o processo coletivo pertence ao plano processual, não bastando a mera multiplicidade de demandas individuais para que se confundam os dois conceitos.",
+  "_meta": {
+    "subtema": "Diferença entre processo coletivo e litígio coletivo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "litígio coletivo como conflito material",
+      "existência independentemente de judicialização",
+      "processo coletivo como instrumento jurisdicional",
+      "tutela de uma coletividade",
+      "distinção entre os planos material e processual"
+    ],
+    "fundamentos_legais": [],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 0,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4228bf2081"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0024",
+    "id_origem": "q0024",
+    "ordem_origem": 24,
+    "bloco_origem": "cadeia_4228bf2081",
+    "score": 99.77,
+    "reabilitada": false
+  }
+}

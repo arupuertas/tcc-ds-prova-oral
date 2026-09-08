@@ -1,0 +1,66 @@
+{
+  "uid": "prova_2022_01/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2022_01",
+  "ordem": 24,
+  "materia": "Direito Penal",
+  "tema": "Erro de tipo permissivo",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "Reconhecido o erro de tipo permissivo sobre os pressupostos fáticos de uma causa de justificação, ele sempre exclui o dolo ou esse efeito depende de o erro ser escusável?",
+  "resposta": "Segundo a teoria limitada da culpabilidade, acolhida pelo Código Penal, o erro de tipo permissivo exclui o dolo tanto quando inevitável quanto quando evitável. Se o erro for plenamente justificado pelas circunstâncias, ficam afastados dolo e culpa, com isenção de pena. Se decorrer de culpa e o fato admitir modalidade culposa, o agente responderá por crime culposo, na forma da denominada culpa imprópria. Portanto, a evitabilidade do erro determina a possibilidade de responsabilização culposa, e não a exclusão do dolo. Pela teoria extremada da culpabilidade, contudo, o erro seria tratado como erro de proibição indireto, preservando-se o dolo e variando apenas seus efeitos sobre a culpabilidade conforme a evitabilidade.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Erro de tipo permissivo\nDificuldade: difícil\nPergunta: Reconhecido o erro de tipo permissivo sobre os pressupostos fáticos de uma causa de justificação, ele sempre exclui o dolo ou esse efeito depende de o erro ser escusável?\nResposta: Segundo a teoria limitada da culpabilidade, acolhida pelo Código Penal, o erro de tipo permissivo exclui o dolo tanto quando inevitável quanto quando evitável. Se o erro for plenamente justificado pelas circunstâncias, ficam afastados dolo e culpa, com isenção de pena. Se decorrer de culpa e o fato admitir modalidade culposa, o agente responderá por crime culposo, na forma da denominada culpa imprópria. Portanto, a evitabilidade do erro determina a possibilidade de responsabilização culposa, e não a exclusão do dolo. Pela teoria extremada da culpabilidade, contudo, o erro seria tratado como erro de proibição indireto, preservando-se o dolo e variando apenas seus efeitos sobre a culpabilidade conforme a evitabilidade.",
+  "_meta": {
+    "subtema": "Exclusão do dolo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Erro sobre pressupostos fáticos de causa de justificação",
+      "Teoria limitada da culpabilidade",
+      "Exclusão do dolo mesmo no erro evitável",
+      "Erro inevitável exclui dolo e culpa",
+      "Erro evitável permite punição por culpa, se prevista",
+      "Divergência com a teoria extremada da culpabilidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20, § 1º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 20 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c2bd604864"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0060",
+    "id_origem": "q0060",
+    "ordem_origem": 60,
+    "bloco_origem": "cadeia_c2bd604864",
+    "score": 115.69,
+    "reabilitada": false
+  }
+}

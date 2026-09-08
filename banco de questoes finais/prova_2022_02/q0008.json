@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2022_02/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2022_02",
+  "ordem": 8,
+  "materia": "Direito Administrativo",
+  "tema": "Administração indireta",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "O senhor poderia explicar como é formada a Administração Pública indireta e qual é a finalidade de sua instituição?",
+  "resposta": "A Administração Pública indireta é formada por pessoas jurídicas dotadas de personalidade própria: autarquias, fundações públicas, empresas públicas e sociedades de economia mista. Sua instituição decorre da descentralização administrativa, mediante a atribuição a uma entidade especializada da execução de determinada atividade administrativa ou econômica. As autarquias e as fundações públicas de direito público são criadas diretamente por lei específica, enquanto a criação de empresas públicas, sociedades de economia mista e fundações públicas de direito privado é autorizada por lei específica e se completa com os atos de constituição. Essas entidades possuem autonomia administrativa e patrimonial e ficam sujeitas à vinculação e ao controle finalístico, e não à hierarquia, buscando especialização, eficiência e melhor desempenho das funções estatais.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Administração indireta\nDificuldade: fácil\nPergunta: O senhor poderia explicar como é formada a Administração Pública indireta e qual é a finalidade de sua instituição?\nResposta: A Administração Pública indireta é formada por pessoas jurídicas dotadas de personalidade própria: autarquias, fundações públicas, empresas públicas e sociedades de economia mista. Sua instituição decorre da descentralização administrativa, mediante a atribuição a uma entidade especializada da execução de determinada atividade administrativa ou econômica. As autarquias e as fundações públicas de direito público são criadas diretamente por lei específica, enquanto a criação de empresas públicas, sociedades de economia mista e fundações públicas de direito privado é autorizada por lei específica e se completa com os atos de constituição. Essas entidades possuem autonomia administrativa e patrimonial e ficam sujeitas à vinculação e ao controle finalístico, e não à hierarquia, buscando especialização, eficiência e melhor desempenho das funções estatais.",
+  "_meta": {
+    "subtema": "Composição e finalidade",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Autarquias, fundações públicas, empresas públicas e sociedades de economia mista",
+      "Descentralização administrativa",
+      "Personalidade jurídica própria",
+      "Criação ou autorização por lei específica",
+      "Autonomia sem subordinação hierárquica",
+      "Controle finalístico e busca de eficiência"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 37, XIX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 4º, II, do Decreto-Lei nº 200/1967",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 200",
+        "art. 4 — Lei 200"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1a191d2616"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_1a191d2616",
+    "score": 108.63,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "prova_id": "prova_2022_02",
+  "edicao": "LVIII",
+  "ano": 2022,
+  "grupo_tematico": null,
+  "n_questoes_origem": 61,
+  "n_elegiveis": 48,
+  "n_questoes": 24,
+  "n_cadeias": 7,
+  "n_reabilitadas": 0,
+  "score_medio": 114.47,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Civil",
+    "Direito Penal",
+    "Direito Processual Penal",
+    "Direito da Infância e Juventude",
+    "Direitos Difusos e Coletivos"
+  ],
+  "distribuicao_materia": {
+    "Direito Penal": 10,
+    "Direito Administrativo": 5,
+    "Direitos Difusos e Coletivos": 3,
+    "Direito Processual Penal": 3,
+    "Direito Civil": 2,
+    "Direito da Infância e Juventude": 1
+  },
+  "distribuicao_dificuldade": {
+    "media": 13,
+    "dificil": 9,
+    "facil": 2
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Servidores públicos",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Em quais circunstâncias a Constituição admite que a Administração Pública contrate servidores temporários sem concurso público?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Publicidade institucional",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "No caso de chefe do Poder Executivo que utiliza conta pessoal em rede social para divulgar atividades administrativas, quais elementos configurariam promoção pessoal irregular e quais circunstâncias afastariam essa irregularidade?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Agentes políticos",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Um cidadão apresenta ao Ministério Público informações extraídas da internet indicando que um vereador integrante da Mesa Diretora da Câmara Municipal estaria exercendo a advocacia. Como o senhor entende que o Ministério Público deve proceder diante dessa notícia?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Tutela coletiva",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Quais são, segundo a doutrina, as principais características do processo estrutural?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Processo coletivo",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia distinguir os conceitos de processo coletivo e litígio coletivo?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direito da Infância e Juventude",
+      "tema": "Competência",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Um colegitimado ajuíza ação civil pública na Vara da Fazenda Pública para suprir a falta de vagas na educação infantil, e o Município suscita a incompetência desse juízo. Qual deve ser o parecer do senhor sobre a competência para processar e julgar a demanda?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "meio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Ação civil pública",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Segundo o entendimento do STJ, é possível exigir do Ministério Público o adiantamento dos honorários periciais em ação civil pública? A vigência do Código de Processo Civil de 2015 alterou essa compreensão?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Administração indireta",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia explicar como é formada a Administração Pública indireta e qual é a finalidade de sua instituição?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Administração indireta",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Para a criação de subsidiárias de entidades da Administração Pública indireta, o senhor entende necessária a edição de lei?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do dolo",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Distinga o senhor o dolo direto de primeiro grau do dolo direto de segundo grau."
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do dolo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "No dolo direto de segundo grau, o agente precisa representar como certa a ocorrência do resultado principal? Se ele não considerar certa a explosão de uma bomba, ainda assim poderá atuar com dolo direto de segundo grau quanto às consequências colaterais?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do dolo",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Para a caracterização do dolo direto de segundo grau, o resultado principal buscado precisa ser representado como certo, ou a certeza exigida recai sobre a ocorrência da consequência colateral caso o plano tenha êxito?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do dolo",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Conceitue o senhor o dolo geral, ou dolus generalis, e apresente um exemplo."
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do dolo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "No caso de dolo geral em que o agente, após tentar matar a vítima, acredita que ela esteja morta e a enterra, sobrevindo a morte por asfixia, o senhor, como Promotor de Justiça, imputaria homicídio doloso consumado ou tentativa de homicídio em concurso com homicídio culposo?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do dolo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "No caso de dolo geral, suponha que o agente, em um primeiro ato, apenas assuma o risco de matar a vítima e, acreditando que ela já esteja morta, adote posteriormente uma decisão autônoma de ocultar o suposto cadáver, sendo esse segundo ato a causa efetiva da morte. O senhor daria a essa hipótese a mesma solução do dolo geral decorrente de um plano homicida executado em dois atos?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do dolo",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Na hipótese em que o agente atua com dolo eventual no primeiro ato e, acreditando que a vítima esteja morta, pratica um segundo ato que efetivamente causa a morte, como o senhor conciliaria a imputação do homicídio doloso consumado com o princípio da simultaneidade entre o dolo e o fato, inclusive sob uma concepção normativa do dolo associada a Ingeborg Puppe?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Roubo majorado",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "No crime de roubo praticado com emprego de arma de fogo, a apreensão e a perícia da arma são indispensáveis para o reconhecimento da causa de aumento prevista no Código Penal?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Roubo majorado",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Se o objeto empregado no roubo for apreendido e a perícia constatar que se trata de um simulacro de arma de fogo, o senhor reconheceria a causa de aumento relativa ao emprego de arma de fogo?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "fim",
+      "materia": "Direito Penal",
+      "tema": "Roubo majorado",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Para afastar a causa de aumento do roubo quando o objeto empregado é um simulacro, o fundamento central é a ausência de potencialidade lesiva ou a legalidade estrita?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "fim",
+      "materia": "Direito Processual Penal",
+      "tema": "Tribunal do Júri",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia indicar, objetivamente, três diferenças procedimentais entre o procedimento ordinário e a primeira fase do procedimento do Tribunal do Júri?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "fim",
+      "materia": "Direito Processual Penal",
+      "tema": "Tribunal do Júri",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "É possível ao jurado recusar-se a servir no Tribunal do Júri?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "fim",
+      "materia": "Direito Processual Penal",
+      "tema": "Tribunal do Júri",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O senhor atua como Promotor de Justiça em julgamento pelo Tribunal do Júri. A defesa sustenta a desclassificação do homicídio para lesão corporal seguida de morte e também a legítima defesa. O juiz presidente formula, nessa ordem, os quesitos sobre materialidade, autoria, absolvição genérica e, somente depois, desclassificação, invocando o art. 483, § 4º, do Código de Processo Penal. O senhor concordaria com essa ordem de quesitação? Em caso negativo, como deveria proceder?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Direito das obrigações",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Em execução judicial de termo de ajustamento de conduta, o executado apresenta um instrumento pelo qual terceiro assumiu sua dívida e demonstra que notificou o Ministério Público, que permaneceu silente. O executado sustenta que o silêncio importou aceitação da assunção e o exonerou da obrigação. O senhor concorda com essa tese?"
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Alimentos",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia esclarecer se, no pedido de alimentos fundado em vínculo familiar, há limite quanto ao grau de parentesco das pessoas que podem ser chamadas a prestar alimentos?"
+    }
+  ]
+}

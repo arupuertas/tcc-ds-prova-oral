@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_01/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2024_01",
+  "ordem": 13,
+  "materia": "Direito do Consumidor",
+  "tema": "Fiscalização do PROCON",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Como o senhor procederia, na condição de autoridade administrativa do PROCON-MG, em relação aos alimentos expostos à comercialização que não atendam aos padrões exigidos pelas normas de vigilância sanitária?",
+  "resposta": "Os alimentos devem ser imediatamente retirados da exposição e podem ser apreendidos cautelarmente, pois produtos vencidos ou em desacordo com normas regulamentares de fabricação, distribuição ou apresentação são impróprios ao uso e ao consumo. A apreensão pode ser determinada como medida cautelar antecedente ou incidente ao processo administrativo, especialmente diante de risco à saúde dos consumidores. Após a adequada constatação e, quando necessária, a análise técnica, poderá ser aplicada a sanção de inutilização dos produtos. A destruição não decorre automaticamente da apreensão e deve observar o procedimento administrativo e as exigências sanitárias pertinentes.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Fiscalização do PROCON\nDificuldade: média\nPergunta: Como o senhor procederia, na condição de autoridade administrativa do PROCON-MG, em relação aos alimentos expostos à comercialização que não atendam aos padrões exigidos pelas normas de vigilância sanitária?\nResposta: Os alimentos devem ser imediatamente retirados da exposição e podem ser apreendidos cautelarmente, pois produtos vencidos ou em desacordo com normas regulamentares de fabricação, distribuição ou apresentação são impróprios ao uso e ao consumo. A apreensão pode ser determinada como medida cautelar antecedente ou incidente ao processo administrativo, especialmente diante de risco à saúde dos consumidores. Após a adequada constatação e, quando necessária, a análise técnica, poderá ser aplicada a sanção de inutilização dos produtos. A destruição não decorre automaticamente da apreensão e deve observar o procedimento administrativo e as exigências sanitárias pertinentes.",
+  "_meta": {
+    "subtema": "Apreensão de produtos impróprios ao consumo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Retirada imediata dos alimentos da exposição",
+      "Apreensão cautelar",
+      "Caracterização dos alimentos como impróprios ao consumo",
+      "Possibilidade de posterior inutilização",
+      "Distinção entre apreensão e destruição"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18, § 6º, I e II, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 56, II e III, e parágrafo único, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 18 — CDC",
+        "art. 56 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_42553ba302"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0034",
+    "id_origem": "q0034",
+    "ordem_origem": 34,
+    "bloco_origem": "cadeia_42553ba302",
+    "score": 119.87,
+    "reabilitada": false
+  }
+}

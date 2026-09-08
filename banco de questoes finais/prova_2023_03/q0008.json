@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_03/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2023_03",
+  "ordem": 8,
+  "materia": "Direito do Consumidor",
+  "tema": "Execução coletiva",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "É possível redirecionar a execução de uma condenação imposta à matriz para as suas filiais?",
+  "resposta": "É possível exigir o cumprimento da obrigação e alcançar bens vinculados às filiais, mas, tecnicamente, não há redirecionamento para outro devedor. A matriz e as filiais integram a mesma pessoa jurídica, cujo patrimônio responde integralmente pelo cumprimento da obrigação. A existência de inscrições distintas no CNPJ não exige desconsideração da personalidade jurídica nem substituição processual do executado. A execução, contudo, deve permanecer nos limites objetivos e subjetivos do título judicial.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Execução coletiva\nDificuldade: média\nPergunta: É possível redirecionar a execução de uma condenação imposta à matriz para as suas filiais?\nResposta: É possível exigir o cumprimento da obrigação e alcançar bens vinculados às filiais, mas, tecnicamente, não há redirecionamento para outro devedor. A matriz e as filiais integram a mesma pessoa jurídica, cujo patrimônio responde integralmente pelo cumprimento da obrigação. A existência de inscrições distintas no CNPJ não exige desconsideração da personalidade jurídica nem substituição processual do executado. A execução, contudo, deve permanecer nos limites objetivos e subjetivos do título judicial.",
+  "_meta": {
+    "subtema": "Redirecionamento contra filiais",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Redirecionamento apenas aparente",
+      "Unidade patrimonial entre matriz e filiais",
+      "Desnecessidade de desconsideração da personalidade jurídica",
+      "Respeito aos limites do título executivo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 789 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 503 e 506 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 503 — CPC",
+        "art. 506 — CPC",
+        "art. 789 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a6e7e7c9fe"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_a6e7e7c9fe",
+    "score": 109.91,
+    "reabilitada": false
+  }
+}

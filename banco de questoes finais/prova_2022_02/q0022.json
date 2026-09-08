@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2022_02/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2022_02",
+  "ordem": 22,
+  "materia": "Direito Processual Penal",
+  "tema": "Tribunal do Júri",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "O senhor atua como Promotor de Justiça em julgamento pelo Tribunal do Júri. A defesa sustenta a desclassificação do homicídio para lesão corporal seguida de morte e também a legítima defesa. O juiz presidente formula, nessa ordem, os quesitos sobre materialidade, autoria, absolvição genérica e, somente depois, desclassificação, invocando o art. 483, § 4º, do Código de Processo Penal. O senhor concordaria com essa ordem de quesitação? Em caso negativo, como deveria proceder?",
+  "resposta": "A correção da ordem depende da hierarquia conferida pela defesa às suas teses, pois o quesito de desclassificação pode ser formulado depois do segundo ou do terceiro quesito. Se a desclassificação tiver sido apresentada como tese principal, ela deverá ser quesitada logo após materialidade e autoria, antes do quesito genérico de absolvição; nesse caso, não concordaria com a ordem proposta pelo juiz. Se a legítima defesa constituir a tese principal e a desclassificação for apenas subsidiária, o quesito absolutório poderá precedê-la. Havendo inversão da ordem correspondente às teses defensivas, o Promotor deverá impugnar imediatamente a quesitação e requerer o registro da insurgência em ata, para evitar a preclusão e viabilizar eventual alegação de nulidade, condicionada à demonstração de prejuízo.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Tribunal do Júri\nDificuldade: difícil\nPergunta: O senhor atua como Promotor de Justiça em julgamento pelo Tribunal do Júri. A defesa sustenta a desclassificação do homicídio para lesão corporal seguida de morte e também a legítima defesa. O juiz presidente formula, nessa ordem, os quesitos sobre materialidade, autoria, absolvição genérica e, somente depois, desclassificação, invocando o art. 483, § 4º, do Código de Processo Penal. O senhor concordaria com essa ordem de quesitação? Em caso negativo, como deveria proceder?\nResposta: A correção da ordem depende da hierarquia conferida pela defesa às suas teses, pois o quesito de desclassificação pode ser formulado depois do segundo ou do terceiro quesito. Se a desclassificação tiver sido apresentada como tese principal, ela deverá ser quesitada logo após materialidade e autoria, antes do quesito genérico de absolvição; nesse caso, não concordaria com a ordem proposta pelo juiz. Se a legítima defesa constituir a tese principal e a desclassificação for apenas subsidiária, o quesito absolutório poderá precedê-la. Havendo inversão da ordem correspondente às teses defensivas, o Promotor deverá impugnar imediatamente a quesitação e requerer o registro da insurgência em ata, para evitar a preclusão e viabilizar eventual alegação de nulidade, condicionada à demonstração de prejuízo.",
+  "_meta": {
+    "subtema": "Ordem de quesitação na desclassificação",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Ordem definida conforme a tese defensiva principal",
+      "Desclassificação principal após materialidade e autoria",
+      "Legítima defesa principal autoriza absolvição antes da desclassificação",
+      "Impugnação imediata da quesitação",
+      "Registro da insurgência em ata e demonstração de prejuízo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 483, III e § 4º, do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 571, VIII, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 563 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 563 — CPP",
+        "art. 571 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "A ordem entre o quesito absolutório e o desclassificatório varia conforme a tese apresentada como principal pela defesa.",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6557dbf0a2"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0042",
+    "id_origem": "q0042",
+    "ordem_origem": 42,
+    "bloco_origem": "cadeia_6557dbf0a2",
+    "score": 119.72,
+    "reabilitada": false
+  }
+}

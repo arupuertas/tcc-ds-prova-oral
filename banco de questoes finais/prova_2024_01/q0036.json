@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2024_01/q0036",
+  "id": "q0036",
+  "prova_id": "prova_2024_01",
+  "ordem": 36,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Termo de ajustamento de conduta",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Ao ajuizar ação de conhecimento apesar da existência de termo de ajustamento de conduta, o Ministério Público pode requerer tutela liminar com fundamento nesse ajuste? O senhor esclareça.",
+  "resposta": "Sim. O termo de ajustamento de conduta pode servir como elemento documental apto a demonstrar a probabilidade do direito, mas a concessão da tutela de urgência também exige perigo de dano ou risco ao resultado útil do processo. Na ação civil pública, a legislação admite expressamente a concessão de medida liminar, com ou sem justificação prévia. A tutela não é concedida automaticamente pela mera existência do TAC, devendo ser adequada ao objeto da demanda e estar presentes os respectivos pressupostos legais.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Termo de ajustamento de conduta\nDificuldade: média\nPergunta: Ao ajuizar ação de conhecimento apesar da existência de termo de ajustamento de conduta, o Ministério Público pode requerer tutela liminar com fundamento nesse ajuste? O senhor esclareça.\nResposta: Sim. O termo de ajustamento de conduta pode servir como elemento documental apto a demonstrar a probabilidade do direito, mas a concessão da tutela de urgência também exige perigo de dano ou risco ao resultado útil do processo. Na ação civil pública, a legislação admite expressamente a concessão de medida liminar, com ou sem justificação prévia. A tutela não é concedida automaticamente pela mera existência do TAC, devendo ser adequada ao objeto da demanda e estar presentes os respectivos pressupostos legais.",
+  "_meta": {
+    "subtema": "Liminar baseada em TAC",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Possibilidade de tutela liminar",
+      "TAC como elemento de probabilidade do direito",
+      "Necessidade de perigo de dano ou risco ao resultado útil",
+      "Liminar em ação civil pública"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 300 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 12 da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 785 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 12 — Lei 7.347",
+        "art. 300 — CPC",
+        "art. 785 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_82b4b09ca2"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0086",
+    "id_origem": "q0086",
+    "ordem_origem": 86,
+    "bloco_origem": "cadeia_82b4b09ca2",
+    "score": 116.0,
+    "reabilitada": false
+  }
+}

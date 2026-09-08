@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2022_04/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2022_04",
+  "ordem": 11,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Mandado de segurança coletivo",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O Superior Tribunal de Justiça reconhece a legitimidade ativa da Defensoria Pública para impetrar mandado de segurança coletivo, apesar de ela não estar expressamente incluída no rol constitucional e legal de legitimados?",
+  "resposta": "Sim. O Superior Tribunal de Justiça reconhece a legitimidade da Defensoria Pública mediante interpretação sistemática das normas do mandado de segurança coletivo, de sua missão constitucional e das atribuições estabelecidas em sua lei orgânica. A ausência de menção expressa no rol constitucional e legal não deve ser compreendida como proibição, nem exige propriamente a declaração de inconstitucionalidade desses dispositivos. A atuação deve permanecer vinculada às finalidades institucionais da Defensoria Pública e à tutela de necessitados ou grupos vulneráveis.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Mandado de segurança coletivo\nDificuldade: difícil\nPergunta: O Superior Tribunal de Justiça reconhece a legitimidade ativa da Defensoria Pública para impetrar mandado de segurança coletivo, apesar de ela não estar expressamente incluída no rol constitucional e legal de legitimados?\nResposta: Sim. O Superior Tribunal de Justiça reconhece a legitimidade da Defensoria Pública mediante interpretação sistemática das normas do mandado de segurança coletivo, de sua missão constitucional e das atribuições estabelecidas em sua lei orgânica. A ausência de menção expressa no rol constitucional e legal não deve ser compreendida como proibição, nem exige propriamente a declaração de inconstitucionalidade desses dispositivos. A atuação deve permanecer vinculada às finalidades institucionais da Defensoria Pública e à tutela de necessitados ou grupos vulneráveis.",
+  "_meta": {
+    "subtema": "Entendimento do STJ sobre legitimidade ativa",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Entendimento afirmativo do STJ",
+      "Rol não impeditivo da atuação da Defensoria Pública",
+      "Interpretação sistemática",
+      "Vinculação às funções institucionais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, LXX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 134 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 21 da Lei nº 12.016/2009",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 4º, VII, da Lei Complementar nº 80/1994",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.84,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "LC 80",
+        "art. 134 — CF",
+        "art. 21 — Lei 12.016",
+        "art. 4 — LC 80"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4228bf2081"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0029",
+    "id_origem": "q0029",
+    "ordem_origem": 29,
+    "bloco_origem": "cadeia_4228bf2081",
+    "score": 117.68,
+    "reabilitada": false
+  }
+}

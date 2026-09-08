@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2024_01/q0031",
+  "id": "q0031",
+  "prova_id": "prova_2024_01",
+  "ordem": 31,
+  "materia": "Direito Empresarial",
+  "tema": "Microempreendedor individual",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Há limitação quanto ao número de empregados que o microempreendedor individual pode contratar sem perder esse enquadramento?",
+  "resposta": "Sim. Como regra, o microempreendedor individual pode manter apenas um empregado, remunerado exclusivamente com um salário mínimo ou com o piso salarial da categoria. Admite-se a contratação temporária de substituto durante o afastamento legal do empregado único, apenas pelo período da substituição. Fora dessa hipótese, a manutenção de mais de um empregado impede a permanência no enquadramento próprio do microempreendedor individual.",
+  "embedding_text": "Matéria: Direito Empresarial\nTema: Microempreendedor individual\nDificuldade: média\nPergunta: Há limitação quanto ao número de empregados que o microempreendedor individual pode contratar sem perder esse enquadramento?\nResposta: Sim. Como regra, o microempreendedor individual pode manter apenas um empregado, remunerado exclusivamente com um salário mínimo ou com o piso salarial da categoria. Admite-se a contratação temporária de substituto durante o afastamento legal do empregado único, apenas pelo período da substituição. Fora dessa hipótese, a manutenção de mais de um empregado impede a permanência no enquadramento próprio do microempreendedor individual.",
+  "_meta": {
+    "subtema": "Limite de empregados",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "limite de um empregado",
+      "limite remuneratório",
+      "substituição temporária em afastamento legal",
+      "desenquadramento pelo excesso de empregados"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18-C da Lei Complementar nº 123/2006",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "regulamentação do Comitê Gestor do Simples Nacional relativa ao SIMEI",
+        "origem": "modelo",
+        "origem_verificada": "nao_verificavel"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "LC 123",
+        "art. 18c — LC 123"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": [
+        "regulamentação do Comitê Gestor do Simples Nacional relativa ao SIMEI"
+      ]
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c42eef7327"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0069",
+    "id_origem": "q0069",
+    "ordem_origem": 69,
+    "bloco_origem": "cadeia_c42eef7327",
+    "score": 109.32,
+    "reabilitada": false
+  }
+}

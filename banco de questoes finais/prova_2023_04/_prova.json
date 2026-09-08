@@ -1,0 +1,305 @@
+{
+  "prova_id": "prova_2023_04",
+  "edicao": "LIX",
+  "ano": 2023,
+  "grupo_tematico": "II",
+  "n_questoes_origem": 60,
+  "n_elegiveis": 54,
+  "n_questoes": 27,
+  "n_cadeias": 11,
+  "n_reabilitadas": 0,
+  "score_medio": 112.8,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Civil",
+    "Direito Penal",
+    "Direito Processual Penal",
+    "Direito Tributário",
+    "Direitos Humanos"
+  ],
+  "distribuicao_materia": {
+    "Direito Penal": 9,
+    "Direito Administrativo": 6,
+    "Direito Processual Penal": 4,
+    "Direitos Humanos": 3,
+    "Direito Tributário": 3,
+    "Direito Civil": 2
+  },
+  "distribuicao_dificuldade": {
+    "facil": 7,
+    "media": 17,
+    "dificil": 3
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Aborto",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "Quais são os dois casos em que o Código Penal expressamente não pune o aborto praticado por médico?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Aborto",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Nas hipóteses de aborto necessário e de aborto decorrente de estupro, a senhora entende que há exclusão da tipicidade, da ilicitude ou da culpabilidade?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Aborto",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora esclareça se uma enfermeira pode realizar o aborto necessário e o aborto decorrente de estupro sem responder criminalmente."
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Aborto",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Por que a enfermeira não responderia criminalmente ao realizar o aborto necessário ou o aborto decorrente de estupro?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Aborto",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Há previsão legal que autorize expressamente uma enfermeira a realizar o aborto necessário ou o aborto decorrente de estupro?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direito Penal",
+      "tema": "Aborto",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O que a senhora quer dizer, exatamente, com interpretação sistemática para admitir que uma enfermeira realize um aborto legal na ausência de médico?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Aborto",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Na ausência de médico, a senhora entende que uma enfermeira pode realizar o aborto tanto para afastar perigo à vida da gestante quanto em caso de gravidez decorrente de estupro? Indique o fundamento jurídico aplicável a cada hipótese."
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do crime",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora entende que uma enfermeira está absolutamente impedida, em qualquer hipótese, de realizar aborto em gravidez decorrente de estupro, ou pode haver algum fundamento excludente em circunstâncias excepcionais?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Teoria do crime",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia indicar os elementos estruturantes do tipo doloso e do tipo culposo?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Princípios processuais penais",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia explicar o conteúdo axiológico tridimensional da presunção de inocência?"
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Princípios processuais penais",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia diferenciar a ampla defesa da plenitude de defesa no processo penal?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Princípios processuais penais",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "No procedimento comum, é vedado à defesa utilizar argumentos metajurídicos, de natureza moral ou religiosa, para pedir ao juiz togado uma absolvição por clemência?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Sistemas processuais",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Segundo Canotilho e Vital Moreira, a densificação semântica da estrutura acusatória pode ser compreendida em uma dimensão material e em uma dimensão orgânico-subjetiva. A senhora poderia explicar essas duas dimensões?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Direito de Família",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "A senhora poderia explicar o que são famílias coparentais?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Civil",
+      "tema": "Direito das Sucessões",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Qual tratamento jurídico a senhora entende que deve ser conferido ao conteúdo inserido nas redes sociais pelo autor da herança?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Improbidade administrativa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Em matéria de improbidade administrativa, quais inovações a Lei nº 14.230/2021 introduziu quanto ao elemento subjetivo doloso?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direitos Humanos",
+      "tema": "Igualdade e discriminação",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Em relação ao racismo, a senhora entende ser juridicamente adequada a expressão “racismo reverso”?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direitos Humanos",
+      "tema": "Direitos da pessoa idosa",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Quanto à proteção da pessoa idosa, a senhora poderia citar quatro prioridades expressamente previstas em lei?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "meio",
+      "materia": "Direitos Humanos",
+      "tema": "Direitos da pessoa idosa",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A senhora considera que a prioridade legal conferida à pessoa idosa constitui privilégio? Justifique."
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Lei Anticorrupção",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Nos casos previstos na Lei Anticorrupção, é cabível a desconsideração da personalidade jurídica no âmbito administrativo?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Lei Anticorrupção",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "No processo administrativo de responsabilização previsto na Lei Anticorrupção, é possível desconsiderar a personalidade jurídica?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Lei Anticorrupção",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O Ministério Público pode celebrar o acordo de leniência previsto na Lei Anticorrupção?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Lei Anticorrupção",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Se o Ministério Público discordar das cláusulas de acordo de leniência celebrado pela autoridade competente, poderá questioná-las judicialmente?"
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "fim",
+      "materia": "Direito Administrativo",
+      "tema": "Lei Anticorrupção",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "Qual é o prazo prescricional das infrações previstas na Lei Anticorrupção?"
+    },
+    {
+      "id": "q0025",
+      "ordem": 25,
+      "momento": "fim",
+      "materia": "Direito Tributário",
+      "tema": "Sistema Tributário Nacional",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "No atual Sistema Tributário Nacional, quantas e quais são as espécies tributárias?"
+    },
+    {
+      "id": "q0026",
+      "ordem": 26,
+      "momento": "fim",
+      "materia": "Direito Tributário",
+      "tema": "Espécies tributárias",
+      "dificuldade": "facil",
+      "tipo": "desdobramento",
+      "pergunta": "Quais tributos são vinculados a uma atuação estatal relativa ao contribuinte?"
+    },
+    {
+      "id": "q0027",
+      "ordem": 27,
+      "momento": "fim",
+      "materia": "Direito Tributário",
+      "tema": "Taxas",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O serviço de iluminação pública pode ser remunerado mediante taxa?"
+    }
+  ]
+}

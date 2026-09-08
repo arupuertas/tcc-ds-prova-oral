@@ -1,0 +1,91 @@
+{
+  "uid": "prova_2023_01/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2023_01",
+  "ordem": 3,
+  "materia": "Direito Constitucional",
+  "tema": "Princípio da inafastabilidade",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "O princípio da inafastabilidade da jurisdição sofreu alterações ao longo da história constitucional brasileira? Em caso positivo, o senhor poderia explicar em que medida?",
+  "resposta": "Sim. A Constituição de 1946 vedava a exclusão judicial apenas quanto à lesão a direito individual, fórmula preservada, em essência, pela Constituição de 1967 e pela Emenda Constitucional nº 1/1969. A Emenda Constitucional nº 7/1977 passou a permitir que a lei condicionasse o ingresso em juízo ao prévio exaurimento das vias administrativas, desde que não fosse exigida garantia de instância nem ultrapassado o prazo de cento e oitenta dias para a decisão administrativa. A Constituição de 1988 suprimiu essa autorização geral e ampliou a garantia para alcançar lesão ou ameaça a qualquer direito, permitindo tutela preventiva e a proteção de direitos coletivos. Subsiste apenas em hipóteses constitucionais específicas, como nas ações relativas à disciplina e às competições desportivas, a exigência de prévio esgotamento das instâncias da Justiça Desportiva.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Princípio da inafastabilidade\nDificuldade: difícil\nPergunta: O princípio da inafastabilidade da jurisdição sofreu alterações ao longo da história constitucional brasileira? Em caso positivo, o senhor poderia explicar em que medida?\nResposta: Sim. A Constituição de 1946 vedava a exclusão judicial apenas quanto à lesão a direito individual, fórmula preservada, em essência, pela Constituição de 1967 e pela Emenda Constitucional nº 1/1969. A Emenda Constitucional nº 7/1977 passou a permitir que a lei condicionasse o ingresso em juízo ao prévio exaurimento das vias administrativas, desde que não fosse exigida garantia de instância nem ultrapassado o prazo de cento e oitenta dias para a decisão administrativa. A Constituição de 1988 suprimiu essa autorização geral e ampliou a garantia para alcançar lesão ou ameaça a qualquer direito, permitindo tutela preventiva e a proteção de direitos coletivos. Subsiste apenas em hipóteses constitucionais específicas, como nas ações relativas à disciplina e às competições desportivas, a exigência de prévio esgotamento das instâncias da Justiça Desportiva.",
+  "_meta": {
+    "subtema": "Evolução histórica do alcance",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Proteção inicial limitada à lesão a direito individual",
+      "Possibilidade de exigência de exaurimento administrativo introduzida em 1977",
+      "Supressão da exigência geral de exaurimento pela Constituição de 1988",
+      "Inclusão da ameaça a direito e dos direitos coletivos",
+      "Exceção constitucional relativa à Justiça Desportiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 141, § 4º, da Constituição de 1946",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 153, § 4º, da Constituição de 1967, na redação da Emenda Constitucional nº 7/1977",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XXXV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 217, § 1º, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [
+      "EC 1",
+      "EC 7"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 12,
+      "nao_ancoradas_resposta": [
+        "EC 1",
+        "EC 7"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "EC 7",
+        "art. 141 — CF",
+        "art. 153 — CF",
+        "art. 217 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_833e232842"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0003",
+    "id_origem": "q0003",
+    "ordem_origem": 3,
+    "bloco_origem": "cadeia_833e232842",
+    "score": 119.9,
+    "reabilitada": true
+  }
+}

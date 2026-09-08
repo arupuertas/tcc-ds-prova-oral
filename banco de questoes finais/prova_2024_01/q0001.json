@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2024_01/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2024_01",
+  "ordem": 1,
+  "materia": "Direito Administrativo",
+  "tema": "Licitações",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "O senhor poderia indicar três hipóteses de dispensa de licitação previstas na Lei nº 14.133/2021?",
+  "resposta": "Uma hipótese é a contratação necessária ao atendimento de situação de emergência ou de calamidade pública, nos limites do que for indispensável ao enfrentamento da situação. Outra é a contratação, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade da Administração Pública criado para essa finalidade específica, desde que o preço seja compatível com o mercado; a contratação do Serpro pode enquadrar-se nessa previsão quando satisfeitos os requisitos legais, não bastando o caráter sigiloso dos dados. Também é dispensável a licitação para materiais de uso das Forças Armadas quando a padronização logística assim o exigir e houver a autorização prevista em lei. Essa última hipótese exclui expressamente os materiais de uso pessoal e administrativo, de modo que não abrange, por esse fundamento, o simples fornecimento de fardamento pessoal.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Licitações\nDificuldade: média\nPergunta: O senhor poderia indicar três hipóteses de dispensa de licitação previstas na Lei nº 14.133/2021?\nResposta: Uma hipótese é a contratação necessária ao atendimento de situação de emergência ou de calamidade pública, nos limites do que for indispensável ao enfrentamento da situação. Outra é a contratação, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade da Administração Pública criado para essa finalidade específica, desde que o preço seja compatível com o mercado; a contratação do Serpro pode enquadrar-se nessa previsão quando satisfeitos os requisitos legais, não bastando o caráter sigiloso dos dados. Também é dispensável a licitação para materiais de uso das Forças Armadas quando a padronização logística assim o exigir e houver a autorização prevista em lei. Essa última hipótese exclui expressamente os materiais de uso pessoal e administrativo, de modo que não abrange, por esse fundamento, o simples fornecimento de fardamento pessoal.",
+  "_meta": {
+    "subtema": "Hipóteses de dispensa de licitação",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "emergência ou calamidade pública",
+      "contratação de órgão ou entidade administrativa criado para finalidade específica",
+      "compatibilidade do preço com o mercado",
+      "materiais das Forças Armadas necessários à padronização logística",
+      "exclusão de materiais de uso pessoal e administrativo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 75, IV, alínea g, da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 75, VIII, da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 75, IX, da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 75 — Lei 14.133"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_35b0dbdad9"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0009",
+    "id_origem": "q0009",
+    "ordem_origem": 9,
+    "bloco_origem": "cadeia_35b0dbdad9",
+    "score": 116.62,
+    "reabilitada": false
+  }
+}

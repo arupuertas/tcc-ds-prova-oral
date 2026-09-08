@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2024_01/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2024_01",
+  "ordem": 20,
+  "materia": "Direito Penal",
+  "tema": "Abuso de autoridade",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A Lei de Abuso de Autoridade criminaliza o cumprimento de mandado de busca e apreensão domiciliar após as 21 horas ou antes das 5 horas. O senhor poderia ampliar esse limite para imputar o crime ao agente público que cumpriu o mandado às 5h30, sob o fundamento de que, naquele local, ainda era noite?",
+  "resposta": "Não. O tipo penal adota um critério cronológico objetivo, de modo que o cumprimento realizado às 5h30 não se enquadra na descrição típica, ainda que naquele local permaneça escuro. Ampliar o período proibido com base no conceito de noite constituiria analogia in malam partem, incompatível com os princípios da legalidade e da taxatividade. A ausência de tipicidade objetiva torna desnecessário, para essa conclusão, examinar o especial fim de agir exigido pela Lei de Abuso de Autoridade.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Abuso de autoridade\nDificuldade: média\nPergunta: A Lei de Abuso de Autoridade criminaliza o cumprimento de mandado de busca e apreensão domiciliar após as 21 horas ou antes das 5 horas. O senhor poderia ampliar esse limite para imputar o crime ao agente público que cumpriu o mandado às 5h30, sob o fundamento de que, naquele local, ainda era noite?\nResposta: Não. O tipo penal adota um critério cronológico objetivo, de modo que o cumprimento realizado às 5h30 não se enquadra na descrição típica, ainda que naquele local permaneça escuro. Ampliar o período proibido com base no conceito de noite constituiria analogia in malam partem, incompatível com os princípios da legalidade e da taxatividade. A ausência de tipicidade objetiva torna desnecessário, para essa conclusão, examinar o especial fim de agir exigido pela Lei de Abuso de Autoridade.",
+  "_meta": {
+    "subtema": "Ampliação do horário típico por analogia",
+    "tipo": "principal",
+    "pontos_chave": [
+      "critério cronológico objetivo",
+      "cumprimento às 5h30 fora do tipo penal",
+      "vedação da analogia in malam partem",
+      "legalidade e taxatividade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 22, § 1º, III, da Lei nº 13.869/2019",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1º do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XXXIX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1 — CP",
+        "art. 22 — Lei 13.869"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_feaa26bd53"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0047",
+    "id_origem": "q0047",
+    "ordem_origem": 47,
+    "bloco_origem": "cadeia_feaa26bd53",
+    "score": 120.39,
+    "reabilitada": false
+  }
+}

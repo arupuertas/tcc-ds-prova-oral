@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2024_02/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2024_02",
+  "ordem": 1,
+  "materia": "Direito Administrativo",
+  "tema": "Responsabilidade administrativa",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "O senhor considera possível utilizar a analogia para atribuir a alguém responsabilidade administrativa pela prática de infração?",
+  "resposta": "A analogia não pode ser utilizada para criar infração administrativa, ampliar tipo sancionador ou atribuir responsabilidade em situação não abrangida pela lei, quando isso prejudicar o acusado. Essa vedação à analogia in malam partem decorre dos princípios da legalidade e da tipicidade aplicáveis ao direito administrativo sancionador. Admite-se, segundo a corrente majoritária, a analogia in bonam partem para suprir lacuna em benefício do acusado, desde que compatível com o regime legal. A analogia não se confunde com a interpretação analógica, na qual a própria norma, depois de enumerar hipóteses específicas, emprega uma fórmula genérica que permite alcançar casos pertencentes ao mesmo gênero. Há posição mais restritiva quanto ao emprego de qualquer analogia em matéria sancionadora, mas não se admite que ela seja usada em prejuízo do acusado para fundamentar nova hipótese de responsabilização.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Responsabilidade administrativa\nDificuldade: difícil\nPergunta: O senhor considera possível utilizar a analogia para atribuir a alguém responsabilidade administrativa pela prática de infração?\nResposta: A analogia não pode ser utilizada para criar infração administrativa, ampliar tipo sancionador ou atribuir responsabilidade em situação não abrangida pela lei, quando isso prejudicar o acusado. Essa vedação à analogia in malam partem decorre dos princípios da legalidade e da tipicidade aplicáveis ao direito administrativo sancionador. Admite-se, segundo a corrente majoritária, a analogia in bonam partem para suprir lacuna em benefício do acusado, desde que compatível com o regime legal. A analogia não se confunde com a interpretação analógica, na qual a própria norma, depois de enumerar hipóteses específicas, emprega uma fórmula genérica que permite alcançar casos pertencentes ao mesmo gênero. Há posição mais restritiva quanto ao emprego de qualquer analogia em matéria sancionadora, mas não se admite que ela seja usada em prejuízo do acusado para fundamentar nova hipótese de responsabilização.",
+  "_meta": {
+    "subtema": "Analogia em infrações administrativas",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Vedação à analogia in malam partem",
+      "Legalidade e tipicidade administrativa",
+      "Admissibilidade majoritária da analogia in bonam partem",
+      "Distinção entre analogia e interpretação analógica"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, II, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XXXIX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 4º da Lei de Introdução às Normas do Direito Brasileiro",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "LINDB",
+        "art. 4 — LINDB",
+        "art. 5 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_b85680d13c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0001",
+    "id_origem": "q0001",
+    "ordem_origem": 1,
+    "bloco_origem": "cadeia_b85680d13c",
+    "score": 118.49,
+    "reabilitada": false
+  }
+}

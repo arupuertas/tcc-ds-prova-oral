@@ -1,0 +1,86 @@
+{
+  "uid": "prova_2024_02/q0029",
+  "id": "q0029",
+  "prova_id": "prova_2024_02",
+  "ordem": 29,
+  "materia": "Direito Constitucional",
+  "tema": "Direito à saúde",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "O senhor poderia dar um exemplo concreto de matéria que pode ser objeto de deliberação por um conselho municipal de saúde?",
+  "resposta": "Um exemplo é a política municipal relativa à exigência de comprovante de residência para o atendimento, pela rede local do SUS, de pacientes domiciliados em municípios vizinhos. O conselho pode deliberar sobre estratégias que conciliem o acesso universal e igualitário com a regionalização, a pactuação interfederativa e a organização dos fluxos de referência e contrarreferência. Não se pode admitir a recusa indiscriminada de atendimento apenas em razão do domicílio, sobretudo em situações de urgência ou emergência, embora procedimentos eletivos possam ser organizados segundo os fluxos regionalizados do sistema. A deliberação do conselho deve orientar a formulação e o controle da política pública municipal, observada a homologação legalmente prevista.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direito à saúde\nDificuldade: média\nPergunta: O senhor poderia dar um exemplo concreto de matéria que pode ser objeto de deliberação por um conselho municipal de saúde?\nResposta: Um exemplo é a política municipal relativa à exigência de comprovante de residência para o atendimento, pela rede local do SUS, de pacientes domiciliados em municípios vizinhos. O conselho pode deliberar sobre estratégias que conciliem o acesso universal e igualitário com a regionalização, a pactuação interfederativa e a organização dos fluxos de referência e contrarreferência. Não se pode admitir a recusa indiscriminada de atendimento apenas em razão do domicílio, sobretudo em situações de urgência ou emergência, embora procedimentos eletivos possam ser organizados segundo os fluxos regionalizados do sistema. A deliberação do conselho deve orientar a formulação e o controle da política pública municipal, observada a homologação legalmente prevista.",
+  "_meta": {
+    "subtema": "Políticas públicas municipais de saúde",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "exigência de comprovante de residência",
+      "atendimento de pacientes de municípios vizinhos",
+      "universalidade e igualdade de acesso",
+      "regionalização e pactuação interfederativa",
+      "atuação deliberativa do conselho municipal de saúde"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 196 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 198, caput e III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 7º e 8º da Lei nº 8.080/1990",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1º, § 2º, da Lei nº 8.142/1990",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 9,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 8.080",
+        "Lei 8.142",
+        "art. 1 — Lei 8.142",
+        "art. 196 — CF",
+        "art. 198 — CF",
+        "art. 7 — Lei 8.080",
+        "art. 8 — Lei 8.080"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6e28bdc786"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0082",
+    "id_origem": "q0082",
+    "ordem_origem": 82,
+    "bloco_origem": "cadeia_6e28bdc786",
+    "score": 113.7,
+    "reabilitada": false
+  }
+}

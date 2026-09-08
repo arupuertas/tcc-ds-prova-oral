@@ -1,0 +1,84 @@
+{
+  "uid": "prova_2022_01/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2022_01",
+  "ordem": 3,
+  "materia": "Direito Processual Civil",
+  "tema": "Tutela provisória",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Considerando a necessidade de efetivação dos direitos fundamentais no processo, como deve ser compreendido o princípio do contraditório?",
+  "resposta": "O contraditório deve ser compreendido em sentido substancial, e não apenas como ciência formal dos atos processuais. Ele compreende os direitos de informação, manifestação e efetiva possibilidade de influência sobre a formação da decisão judicial. Abrange também a vedação à decisão-surpresa, de modo que o juiz não pode decidir com fundamento sobre o qual as partes não tenham tido oportunidade de se manifestar, ainda que se trate de matéria cognoscível de ofício. Exige-se, ainda, que os argumentos relevantes apresentados pelas partes sejam efetivamente considerados na fundamentação da decisão.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Tutela provisória\nDificuldade: média\nPergunta: Considerando a necessidade de efetivação dos direitos fundamentais no processo, como deve ser compreendido o princípio do contraditório?\nResposta: O contraditório deve ser compreendido em sentido substancial, e não apenas como ciência formal dos atos processuais. Ele compreende os direitos de informação, manifestação e efetiva possibilidade de influência sobre a formação da decisão judicial. Abrange também a vedação à decisão-surpresa, de modo que o juiz não pode decidir com fundamento sobre o qual as partes não tenham tido oportunidade de se manifestar, ainda que se trate de matéria cognoscível de ofício. Exige-se, ainda, que os argumentos relevantes apresentados pelas partes sejam efetivamente considerados na fundamentação da decisão.",
+  "_meta": {
+    "subtema": "Contraditório substancial",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "contraditório substancial",
+      "direito de informação",
+      "direito de manifestação",
+      "poder de influência",
+      "vedação à decisão-surpresa",
+      "consideração dos argumentos relevantes"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, LV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 9º do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 10 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 489, § 1º, IV, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 10 — CPC",
+        "art. 489 — CPC",
+        "art. 5 — CF",
+        "art. 9 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_0897c5346a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0003",
+    "id_origem": "q0003",
+    "ordem_origem": 3,
+    "bloco_origem": "cadeia_0897c5346a",
+    "score": 120.72,
+    "reabilitada": false
+  }
+}

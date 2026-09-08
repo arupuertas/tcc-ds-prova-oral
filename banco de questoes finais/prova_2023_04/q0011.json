@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_04/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2023_04",
+  "ordem": 11,
+  "materia": "Direito Processual Penal",
+  "tema": "Princípios processuais penais",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "A senhora poderia diferenciar a ampla defesa da plenitude de defesa no processo penal?",
+  "resposta": "A ampla defesa é assegurada aos acusados em geral e compreende a defesa técnica, exercida por profissional habilitado, e a autodefesa, permitindo o emprego dos meios e recursos lícitos pertinentes à resistência à acusação. A plenitude de defesa é garantia específica do Tribunal do Júri e possui extensão mais intensa do que a ampla defesa. Além dos argumentos estritamente jurídicos e técnicos, admite a utilização de razões extrajurídicas, como considerações morais, sociais ou emocionais, dirigidas aos jurados, que decidem segundo sua íntima convicção e sem fundamentação. Essa maior liberdade argumentativa permanece submetida à Constituição, à legalidade e às limitações estabelecidas para os debates em plenário.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Princípios processuais penais\nDificuldade: fácil\nPergunta: A senhora poderia diferenciar a ampla defesa da plenitude de defesa no processo penal?\nResposta: A ampla defesa é assegurada aos acusados em geral e compreende a defesa técnica, exercida por profissional habilitado, e a autodefesa, permitindo o emprego dos meios e recursos lícitos pertinentes à resistência à acusação. A plenitude de defesa é garantia específica do Tribunal do Júri e possui extensão mais intensa do que a ampla defesa. Além dos argumentos estritamente jurídicos e técnicos, admite a utilização de razões extrajurídicas, como considerações morais, sociais ou emocionais, dirigidas aos jurados, que decidem segundo sua íntima convicção e sem fundamentação. Essa maior liberdade argumentativa permanece submetida à Constituição, à legalidade e às limitações estabelecidas para os debates em plenário.",
+  "_meta": {
+    "subtema": "Ampla defesa e plenitude de defesa",
+    "tipo": "principal",
+    "pontos_chave": [
+      "ampla defesa nos processos em geral",
+      "defesa técnica e autodefesa",
+      "plenitude de defesa no Tribunal do Júri",
+      "admissibilidade de argumentos extrajurídicos",
+      "íntima convicção dos jurados",
+      "limites constitucionais e legais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, LV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XXXVIII, a, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 5 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_11b9407f44"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0015",
+    "id_origem": "q0015",
+    "ordem_origem": 15,
+    "bloco_origem": "cadeia_11b9407f44",
+    "score": 112.95,
+    "reabilitada": false
+  }
+}

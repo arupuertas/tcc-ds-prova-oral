@@ -1,0 +1,74 @@
+{
+  "uid": "prova_2022_03/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2022_03",
+  "ordem": 4,
+  "materia": "Direito Processual Penal",
+  "tema": "Procedimento comum ordinário",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Qual é o entendimento atual dos tribunais superiores sobre a realização do interrogatório do réu antes do retorno de carta precatória destinada à oitiva de testemunha?",
+  "resposta": "Os tribunais superiores admitem a realização do interrogatório antes do retorno da carta precatória. O fundamento é que a expedição da carta não suspende a instrução criminal, constituindo exceção específica à regra de que o interrogatório deve ocorrer ao final da instrução. A mera pendência da diligência deprecada não acarreta nulidade, sendo necessária a demonstração de efetivo prejuízo à defesa.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Procedimento comum ordinário\nDificuldade: difícil\nPergunta: Qual é o entendimento atual dos tribunais superiores sobre a realização do interrogatório do réu antes do retorno de carta precatória destinada à oitiva de testemunha?\nResposta: Os tribunais superiores admitem a realização do interrogatório antes do retorno da carta precatória. O fundamento é que a expedição da carta não suspende a instrução criminal, constituindo exceção específica à regra de que o interrogatório deve ocorrer ao final da instrução. A mera pendência da diligência deprecada não acarreta nulidade, sendo necessária a demonstração de efetivo prejuízo à defesa.",
+  "_meta": {
+    "subtema": "Jurisprudência sobre interrogatório com precatória pendente",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Admissibilidade do interrogatório antes do retorno da carta",
+      "Exceção à posição do interrogatório como último ato da instrução",
+      "Necessidade de demonstração de prejuízo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 222, §§ 1º e 2º, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 400, caput, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 563 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 400 — CPP",
+        "art. 563 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.9
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7cfd9d9213"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0015",
+    "id_origem": "q0015",
+    "ordem_origem": 15,
+    "bloco_origem": "cadeia_7cfd9d9213",
+    "score": 123.27,
+    "reabilitada": false
+  }
+}

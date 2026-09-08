@@ -1,0 +1,73 @@
+{
+  "uid": "prova_2022_02/q0018",
+  "id": "q0018",
+  "prova_id": "prova_2022_02",
+  "ordem": 18,
+  "materia": "Direito Penal",
+  "tema": "Roubo majorado",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Se o objeto empregado no roubo for apreendido e a perícia constatar que se trata de um simulacro de arma de fogo, o senhor reconheceria a causa de aumento relativa ao emprego de arma de fogo?",
+  "resposta": "Não. Comprovado que o objeto era um simulacro, não incide a causa de aumento relativa ao emprego de arma de fogo, pois o artefato não possui essa natureza. O simulacro, entretanto, é idôneo para caracterizar a grave ameaça quando utilizado para intimidar a vítima, razão pela qual subsiste, em regra, o crime de roubo na forma simples. Não se trata de crime impossível, pois o meio é apto à execução do roubo mediante intimidação; ocorre apenas o afastamento da majorante.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Roubo majorado\nDificuldade: média\nPergunta: Se o objeto empregado no roubo for apreendido e a perícia constatar que se trata de um simulacro de arma de fogo, o senhor reconheceria a causa de aumento relativa ao emprego de arma de fogo?\nResposta: Não. Comprovado que o objeto era um simulacro, não incide a causa de aumento relativa ao emprego de arma de fogo, pois o artefato não possui essa natureza. O simulacro, entretanto, é idôneo para caracterizar a grave ameaça quando utilizado para intimidar a vítima, razão pela qual subsiste, em regra, o crime de roubo na forma simples. Não se trata de crime impossível, pois o meio é apto à execução do roubo mediante intimidação; ocorre apenas o afastamento da majorante.",
+  "_meta": {
+    "subtema": "Simulacro e causa de aumento",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "simulacro não configura arma de fogo",
+      "afastamento da causa de aumento",
+      "simulacro como meio de grave ameaça",
+      "subsistência do roubo simples",
+      "não incidência do crime impossível"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 157, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 157, § 2º-A, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 17 do Código Penal (não incidência)",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_01a6849840"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0036",
+    "id_origem": "q0036",
+    "ordem_origem": 36,
+    "bloco_origem": "cadeia_01a6849840",
+    "score": 120.68,
+    "reabilitada": false
+  }
+}

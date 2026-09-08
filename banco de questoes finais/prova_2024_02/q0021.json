@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_02/q0021",
+  "id": "q0021",
+  "prova_id": "prova_2024_02",
+  "ordem": 21,
+  "materia": "Direito Civil",
+  "tema": "Responsabilidade civil",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "As hipóteses de responsabilidade dos pais pelos filhos menores e dos tutores ou curadores pelos pupilos ou curatelados constituem responsabilidade objetiva fundada no risco?",
+  "resposta": "São hipóteses de responsabilidade objetiva indireta, pois os responsáveis enumerados pelo Código Civil respondem ainda que não haja culpa de sua parte. Sua fundamentação doutrinária pode ser associada ao risco-dependência, ao risco-autoridade ou a um dever legal de garantia. Contudo, elas não dependem da demonstração de que o responsável desenvolva atividade normalmente arriscada, não se confundindo com a cláusula geral de responsabilidade objetiva por atividade de risco. Em regra, deve estar configurado o ato do terceiro que geraria sua responsabilidade, salvo quando também incidir sobre o autor material uma hipótese de responsabilidade objetiva.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Responsabilidade civil\nDificuldade: média\nPergunta: As hipóteses de responsabilidade dos pais pelos filhos menores e dos tutores ou curadores pelos pupilos ou curatelados constituem responsabilidade objetiva fundada no risco?\nResposta: São hipóteses de responsabilidade objetiva indireta, pois os responsáveis enumerados pelo Código Civil respondem ainda que não haja culpa de sua parte. Sua fundamentação doutrinária pode ser associada ao risco-dependência, ao risco-autoridade ou a um dever legal de garantia. Contudo, elas não dependem da demonstração de que o responsável desenvolva atividade normalmente arriscada, não se confundindo com a cláusula geral de responsabilidade objetiva por atividade de risco. Em regra, deve estar configurado o ato do terceiro que geraria sua responsabilidade, salvo quando também incidir sobre o autor material uma hipótese de responsabilidade objetiva.",
+  "_meta": {
+    "subtema": "Fato de terceiro em atividade de risco",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "responsabilidade objetiva indireta",
+      "responsabilidade por fato de terceiro",
+      "risco-dependência ou risco-autoridade",
+      "distinção em relação à atividade de risco"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 932 e 933 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 927, parágrafo único, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.86,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 927 — CC",
+        "art. 932 — CC",
+        "art. 933 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_bfccfe5fa8"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0073",
+    "id_origem": "q0073",
+    "ordem_origem": 73,
+    "bloco_origem": "cadeia_bfccfe5fa8",
+    "score": 107.98,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "uid": "prova_2022_04/q0009",
+  "id": "q0009",
+  "prova_id": "prova_2022_04",
+  "ordem": 9,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Ação civil pública",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Segundo a jurisprudência do Superior Tribunal de Justiça, pode-se exigir do Ministério Público o adiantamento de honorários periciais em ação civil pública? Essa orientação foi alterada pela entrada em vigor do Código de Processo Civil de 2015?",
+  "resposta": "Não se pode exigir do Ministério Público o adiantamento dos honorários periciais em ação civil pública. O Superior Tribunal de Justiça consolidou, em julgamento repetitivo, que a isenção não obriga o perito a trabalhar gratuitamente nem transfere ao réu o financiamento da prova, cabendo o custeio à Fazenda Pública à qual o Ministério Público esteja vinculado. A entrada em vigor do Código de Processo Civil de 2015 não alterou a conclusão de que o órgão ministerial não pode ser compelido a antecipar essa despesa. O Código admite que a perícia seja realizada por entidade pública ou que haja adiantamento quando existir previsão orçamentária, sem afastar a disciplina especial da ação civil pública.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Ação civil pública\nDificuldade: difícil\nPergunta: Segundo a jurisprudência do Superior Tribunal de Justiça, pode-se exigir do Ministério Público o adiantamento de honorários periciais em ação civil pública? Essa orientação foi alterada pela entrada em vigor do Código de Processo Civil de 2015?\nResposta: Não se pode exigir do Ministério Público o adiantamento dos honorários periciais em ação civil pública. O Superior Tribunal de Justiça consolidou, em julgamento repetitivo, que a isenção não obriga o perito a trabalhar gratuitamente nem transfere ao réu o financiamento da prova, cabendo o custeio à Fazenda Pública à qual o Ministério Público esteja vinculado. A entrada em vigor do Código de Processo Civil de 2015 não alterou a conclusão de que o órgão ministerial não pode ser compelido a antecipar essa despesa. O Código admite que a perícia seja realizada por entidade pública ou que haja adiantamento quando existir previsão orçamentária, sem afastar a disciplina especial da ação civil pública.",
+  "_meta": {
+    "subtema": "Adiantamento de honorários periciais pelo Ministério Público",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Impossibilidade de exigir adiantamento do Ministério Público",
+      "Custeio pela Fazenda Pública vinculada ao Ministério Público",
+      "Proteção da remuneração do perito",
+      "Manutenção do entendimento após o CPC de 2015"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 18 da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 91, §§ 1º e 2º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Tema 510 dos recursos repetitivos do Superior Tribunal de Justiça",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 232 do Superior Tribunal de Justiça",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 7.347",
+        "Súmula 232",
+        "Tema 510",
+        "art. 18 — Lei 7.347",
+        "art. 91 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4228bf2081"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0027",
+    "id_origem": "q0027",
+    "ordem_origem": 27,
+    "bloco_origem": "cadeia_4228bf2081",
+    "score": 115.98,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_03/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2023_03",
+  "ordem": 19,
+  "materia": "Direito Penal",
+  "tema": "Erro",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O que o senhor entende por erro mandamental no Direito Penal?",
+  "resposta": "Erro mandamental é o erro do agente a respeito da existência ou do alcance do dever jurídico de agir imposto por uma norma de comando, especialmente nos crimes omissivos. Nos crimes omissivos impróprios, ocorre quando o sujeito, embora conheça os fatos relevantes, desconhece ou interpreta equivocadamente seu dever jurídico de impedir o resultado na condição de garantidor. Por recair sobre a obrigatoriedade jurídica da atuação, recebe o tratamento do erro de proibição: se inevitável, exclui a culpabilidade; se evitável, autoriza a redução da pena. Não se confunde com o erro sobre os pressupostos fáticos da posição de garantidor ou sobre a possibilidade concreta de agir, que se situa no âmbito do erro de tipo.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Erro\nDificuldade: média\nPergunta: O que o senhor entende por erro mandamental no Direito Penal?\nResposta: Erro mandamental é o erro do agente a respeito da existência ou do alcance do dever jurídico de agir imposto por uma norma de comando, especialmente nos crimes omissivos. Nos crimes omissivos impróprios, ocorre quando o sujeito, embora conheça os fatos relevantes, desconhece ou interpreta equivocadamente seu dever jurídico de impedir o resultado na condição de garantidor. Por recair sobre a obrigatoriedade jurídica da atuação, recebe o tratamento do erro de proibição: se inevitável, exclui a culpabilidade; se evitável, autoriza a redução da pena. Não se confunde com o erro sobre os pressupostos fáticos da posição de garantidor ou sobre a possibilidade concreta de agir, que se situa no âmbito do erro de tipo.",
+  "_meta": {
+    "subtema": "Erro mandamental",
+    "tipo": "principal",
+    "pontos_chave": [
+      "erro sobre o dever jurídico de agir",
+      "crimes omissivos",
+      "posição de garantidor",
+      "tratamento como erro de proibição",
+      "distinção do erro sobre pressupostos fáticos"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, § 2º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 21 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP",
+        "art. 21 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_6a07b2a8d1"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0039",
+    "id_origem": "q0039",
+    "ordem_origem": 39,
+    "bloco_origem": "cadeia_6a07b2a8d1",
+    "score": 119.96,
+    "reabilitada": false
+  }
+}

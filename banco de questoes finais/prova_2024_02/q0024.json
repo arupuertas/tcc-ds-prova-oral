@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2024_02/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2024_02",
+  "ordem": 24,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Integridade institucional",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Um órgão interno de integridade de uma instituição possui, necessariamente, poder sancionatório?",
+  "resposta": "Não necessariamente. O programa de integridade deve prever consequências e medidas disciplinares para as violações, mas isso não significa que o órgão interno de integridade possua, por si só, competência para aplicar sanções. Essa competência deve decorrer da lei, do regulamento ou das normas estatutárias da instituição, podendo o órgão limitar-se a receber denúncias, apurar fatos, monitorar controles e recomendar providências à autoridade competente. Quando houver poder sancionatório, seu exercício deverá observar a competência, o procedimento previsto e, quando aplicáveis, o contraditório, a ampla defesa e a proporcionalidade.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Integridade institucional\nDificuldade: média\nPergunta: Um órgão interno de integridade de uma instituição possui, necessariamente, poder sancionatório?\nResposta: Não necessariamente. O programa de integridade deve prever consequências e medidas disciplinares para as violações, mas isso não significa que o órgão interno de integridade possua, por si só, competência para aplicar sanções. Essa competência deve decorrer da lei, do regulamento ou das normas estatutárias da instituição, podendo o órgão limitar-se a receber denúncias, apurar fatos, monitorar controles e recomendar providências à autoridade competente. Quando houver poder sancionatório, seu exercício deverá observar a competência, o procedimento previsto e, quando aplicáveis, o contraditório, a ampla defesa e a proporcionalidade.",
+  "_meta": {
+    "subtema": "Poder sancionatório em programa de integridade",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "inexistência de poder sancionatório inerente",
+      "necessidade de atribuição normativa de competência",
+      "distinção entre apuração e aplicação da sanção",
+      "devido processo sancionador"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, LIV e LV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 37, caput, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 37 — CF",
+        "art. 5 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_3a7c98edcd"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0076",
+    "id_origem": "q0076",
+    "ordem_origem": 76,
+    "bloco_origem": "cadeia_3a7c98edcd",
+    "score": 110.86,
+    "reabilitada": false
+  }
+}

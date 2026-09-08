@@ -1,0 +1,66 @@
+{
+  "uid": "prova_2024_02/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2024_02",
+  "ordem": 8,
+  "materia": "Direito Penal",
+  "tema": "Excludentes de ilicitude",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Se o médico realiza procedimento no qual poderia ter obtido o consentimento efetivo do paciente, mas não o fez e pretende valer-se do consentimento hipotético, o senhor considera cabível que um terceiro atue em legítima defesa do paciente para impedir a intervenção?",
+  "resposta": "Sim. Enquanto inexistirem consentimento real e válido ou outra causa independente de justificação, a intervenção médica não autorizada configura, em princípio, agressão injusta, atual ou iminente, à integridade corporal e à autodeterminação do paciente. O consentimento meramente hipotético, por decorrer de um juízo contrafactual posterior, não torna lícita de antemão a conduta nem impede a legítima defesa de terceiro, desde que empregados meios necessários e moderados. A conclusão será diferente se houver consentimento válido ou uma situação emergencial que justifique autonomamente o procedimento.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Excludentes de ilicitude\nDificuldade: difícil\nPergunta: Se o médico realiza procedimento no qual poderia ter obtido o consentimento efetivo do paciente, mas não o fez e pretende valer-se do consentimento hipotético, o senhor considera cabível que um terceiro atue em legítima defesa do paciente para impedir a intervenção?\nResposta: Sim. Enquanto inexistirem consentimento real e válido ou outra causa independente de justificação, a intervenção médica não autorizada configura, em princípio, agressão injusta, atual ou iminente, à integridade corporal e à autodeterminação do paciente. O consentimento meramente hipotético, por decorrer de um juízo contrafactual posterior, não torna lícita de antemão a conduta nem impede a legítima defesa de terceiro, desde que empregados meios necessários e moderados. A conclusão será diferente se houver consentimento válido ou uma situação emergencial que justifique autonomamente o procedimento.",
+  "_meta": {
+    "subtema": "Legítima defesa de terceiro e consentimento hipotético",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Intervenção médica não consentida como agressão injusta",
+      "Proteção da integridade corporal e da autodeterminação",
+      "Cabimento da legítima defesa de terceiro",
+      "Consentimento hipotético não opera previamente",
+      "Necessidade e moderação dos meios"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 25 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.89,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 25 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.84
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_f41addbb60"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0032",
+    "id_origem": "q0032",
+    "ordem_origem": 32,
+    "bloco_origem": "cadeia_f41addbb60",
+    "score": 112.4,
+    "reabilitada": false
+  }
+}

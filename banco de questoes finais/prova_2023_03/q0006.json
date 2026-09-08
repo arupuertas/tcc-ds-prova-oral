@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_03/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2023_03",
+  "ordem": 6,
+  "materia": "Direito do Consumidor",
+  "tema": "Coisa julgada coletiva",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "A decisão coletiva proferida contra a matriz por atos prejudiciais aos consumidores é extensível às suas filiais, ainda que elas possuam inscrições distintas no CNPJ?",
+  "resposta": "Sim, desde que o comando da sentença tenha sido dirigido à pessoa jurídica como um todo e comporte essa abrangência. Matriz e filiais são estabelecimentos da mesma pessoa jurídica, e a inscrição própria da filial no CNPJ, destinada a fins cadastrais e fiscais, não lhe confere personalidade jurídica nem patrimônio autônomo. Assim, a coisa julgada formada contra a pessoa jurídica alcança seus estabelecimentos, observados os limites objetivos do título coletivo. A conclusão seria diferente se se tratasse de sociedade controlada ou integrante do mesmo grupo econômico, mas dotada de personalidade jurídica própria.",
+  "embedding_text": "Matéria: Direito do Consumidor\nTema: Coisa julgada coletiva\nDificuldade: difícil\nPergunta: A decisão coletiva proferida contra a matriz por atos prejudiciais aos consumidores é extensível às suas filiais, ainda que elas possuam inscrições distintas no CNPJ?\nResposta: Sim, desde que o comando da sentença tenha sido dirigido à pessoa jurídica como um todo e comporte essa abrangência. Matriz e filiais são estabelecimentos da mesma pessoa jurídica, e a inscrição própria da filial no CNPJ, destinada a fins cadastrais e fiscais, não lhe confere personalidade jurídica nem patrimônio autônomo. Assim, a coisa julgada formada contra a pessoa jurídica alcança seus estabelecimentos, observados os limites objetivos do título coletivo. A conclusão seria diferente se se tratasse de sociedade controlada ou integrante do mesmo grupo econômico, mas dotada de personalidade jurídica própria.",
+  "_meta": {
+    "subtema": "Extensão da condenação da matriz às filiais",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Unidade da pessoa jurídica entre matriz e filiais",
+      "CNPJ distinto não confere personalidade jurídica à filial",
+      "Observância dos limites objetivos do título coletivo",
+      "Distinção entre filial e sociedade autônoma do mesmo grupo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 503 e 506 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 103 do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.91,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 103 — CDC",
+        "art. 503 — CPC",
+        "art. 506 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a6e7e7c9fe"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0019",
+    "id_origem": "q0019",
+    "ordem_origem": 19,
+    "bloco_origem": "cadeia_a6e7e7c9fe",
+    "score": 117.2,
+    "reabilitada": false
+  }
+}

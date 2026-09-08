@@ -1,0 +1,86 @@
+{
+  "uid": "prova_2022_01/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2022_01",
+  "ordem": 1,
+  "materia": "Direito Processual Civil",
+  "tema": "Tutela provisória",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Quais direitos fundamentais asseguram a tutela provisória no sistema jurídico brasileiro?",
+  "resposta": "A tutela provisória concretiza o direito fundamental à tutela jurisdicional adequada, efetiva e tempestiva, extraído da garantia de inafastabilidade da jurisdição. Também se fundamenta no devido processo legal, na igualdade processual e no direito à duração razoável do processo, pois o decurso do tempo não pode tornar inútil a proteção jurisdicional. O contraditório e a ampla defesa devem ser preservados, ainda que, em situações excepcionais, possam ser exercidos de forma diferida. Os objetivos constitucionais de justiça e solidariedade, assim como a proporcionalidade, funcionam como vetores interpretativos para a adequada distribuição dos ônus decorrentes do tempo do processo.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Tutela provisória\nDificuldade: média\nPergunta: Quais direitos fundamentais asseguram a tutela provisória no sistema jurídico brasileiro?\nResposta: A tutela provisória concretiza o direito fundamental à tutela jurisdicional adequada, efetiva e tempestiva, extraído da garantia de inafastabilidade da jurisdição. Também se fundamenta no devido processo legal, na igualdade processual e no direito à duração razoável do processo, pois o decurso do tempo não pode tornar inútil a proteção jurisdicional. O contraditório e a ampla defesa devem ser preservados, ainda que, em situações excepcionais, possam ser exercidos de forma diferida. Os objetivos constitucionais de justiça e solidariedade, assim como a proporcionalidade, funcionam como vetores interpretativos para a adequada distribuição dos ônus decorrentes do tempo do processo.",
+  "_meta": {
+    "subtema": "Fundamentos constitucionais",
+    "tipo": "principal",
+    "pontos_chave": [
+      "inafastabilidade da jurisdição",
+      "tutela jurisdicional adequada, efetiva e tempestiva",
+      "devido processo legal",
+      "duração razoável do processo",
+      "contraditório e ampla defesa",
+      "igualdade processual"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 3º, I, da Constituição Federal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 5º, XXXV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, LIV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, LV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, LXXVIII, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 10,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 5 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_0897c5346a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0001",
+    "id_origem": "q0001",
+    "ordem_origem": 1,
+    "bloco_origem": "cadeia_0897c5346a",
+    "score": 123.78,
+    "reabilitada": false
+  }
+}

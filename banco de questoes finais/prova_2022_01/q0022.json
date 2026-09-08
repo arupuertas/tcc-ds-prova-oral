@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_01/q0022",
+  "id": "q0022",
+  "prova_id": "prova_2022_01",
+  "ordem": 22,
+  "materia": "Direito Penal",
+  "tema": "Concurso de pessoas",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "A senhora poderia explicar se é possível a participação em crimes omissivos, distinguindo os crimes omissivos próprios dos impróprios e apresentando exemplos?",
+  "resposta": "Os crimes omissivos próprios são aqueles nos quais a própria abstenção está descrita no tipo penal, enquanto os omissivos impróprios, espúrios ou comissivos por omissão decorrem da imputação do resultado a quem tinha o dever jurídico de evitá-lo. Nos crimes omissivos impróprios, admite-se que terceiro sem posição de garantidor participe mediante induzimento, instigação ou auxílio à omissão dolosa do garante; é o caso de quem convence a mãe a deixar de alimentar o filho para causar-lhe a morte. Quanto aos crimes omissivos próprios, há divergência doutrinária. Uma corrente admite a participação por conduta comissiva, como na hipótese em que alguém instiga outra pessoa a não prestar socorro, embora somente esta esteja diante da situação geradora do dever de agir. Outra corrente rejeita a participação por considerar que quem está sujeito ao dever e se omite é autor, enquanto quem não possui esse dever não pode responder pelo delito omissivo. Se duas pessoas estão pessoalmente sujeitas ao mesmo dever e ambas se omitem, há, em regra, autorias paralelas, e não participação de uma na omissão da outra.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: A senhora poderia explicar se é possível a participação em crimes omissivos, distinguindo os crimes omissivos próprios dos impróprios e apresentando exemplos?\nResposta: Os crimes omissivos próprios são aqueles nos quais a própria abstenção está descrita no tipo penal, enquanto os omissivos impróprios, espúrios ou comissivos por omissão decorrem da imputação do resultado a quem tinha o dever jurídico de evitá-lo. Nos crimes omissivos impróprios, admite-se que terceiro sem posição de garantidor participe mediante induzimento, instigação ou auxílio à omissão dolosa do garante; é o caso de quem convence a mãe a deixar de alimentar o filho para causar-lhe a morte. Quanto aos crimes omissivos próprios, há divergência doutrinária. Uma corrente admite a participação por conduta comissiva, como na hipótese em que alguém instiga outra pessoa a não prestar socorro, embora somente esta esteja diante da situação geradora do dever de agir. Outra corrente rejeita a participação por considerar que quem está sujeito ao dever e se omite é autor, enquanto quem não possui esse dever não pode responder pelo delito omissivo. Se duas pessoas estão pessoalmente sujeitas ao mesmo dever e ambas se omitem, há, em regra, autorias paralelas, e não participação de uma na omissão da outra.",
+  "_meta": {
+    "subtema": "Participação em crimes omissivos",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Distinção entre crimes omissivos próprios e impróprios",
+      "Participação do terceiro na omissão dolosa do garantidor",
+      "Divergência sobre participação em crime omissivo próprio",
+      "Exemplo de instigação à omissão de socorro",
+      "Autoria paralela quando todos possuem dever de agir"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, § 2º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 29 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 135 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP",
+        "art. 135 — CP",
+        "art. 29 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_ad12dbaddc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_01/q0052",
+    "id_origem": "q0052",
+    "ordem_origem": 52,
+    "bloco_origem": "cadeia_ad12dbaddc",
+    "score": 122.09,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "prova_id": "prova_2023_03",
+  "edicao": "LIX",
+  "ano": 2023,
+  "grupo_tematico": "IV",
+  "n_questoes_origem": 89,
+  "n_elegiveis": 71,
+  "n_questoes": 36,
+  "n_cadeias": 11,
+  "n_reabilitadas": 1,
+  "score_medio": 114.48,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Empresarial",
+    "Direito Institucional do Ministério Público",
+    "Direito Penal",
+    "Direito Processual Civil",
+    "Direito Processual Penal",
+    "Direito Tributário",
+    "Direito do Consumidor",
+    "Direitos Difusos e Coletivos"
+  ],
+  "distribuicao_materia": {
+    "Direito do Consumidor": 7,
+    "Direito Penal": 7,
+    "Direito Institucional do Ministério Público": 6,
+    "Direito Administrativo": 5,
+    "Direito Tributário": 4,
+    "Direitos Difusos e Coletivos": 2,
+    "Direito Processual Penal": 2,
+    "Direito Processual Civil": 2,
+    "Direito Empresarial": 1
+  },
+  "distribuicao_dificuldade": {
+    "dificil": 11,
+    "media": 22,
+    "facil": 3
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Processo coletivo",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O que o senhor entende por demanda de valor esperado negativo no âmbito do processo coletivo?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Processo coletivo",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O senhor entende que a tutela coletiva é inadequada quando as pretensões individuais envolvidas apresentam valor esperado negativo?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direito do Consumidor",
+      "tema": "Consumidor por equiparação",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O senhor considera possível ajuizar ação para tutelar interesse de consumidor por equiparação quando houver apenas vício do produto ou do serviço?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direito do Consumidor",
+      "tema": "Ônus da prova",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Em ação coletiva proposta pelo Ministério Público como substituto processual dos consumidores, o senhor entende cabível a inversão do ônus da prova?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direito do Consumidor",
+      "tema": "Ônus da prova",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Na ação coletiva proposta pelo Ministério Público em defesa dos consumidores, a hipossuficiência é requisito indispensável para a inversão do ônus da prova? O Ministério Público pode ser considerado hipossuficiente para esse fim?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direito do Consumidor",
+      "tema": "Coisa julgada coletiva",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "A decisão coletiva proferida contra a matriz por atos prejudiciais aos consumidores é extensível às suas filiais, ainda que elas possuam inscrições distintas no CNPJ?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "inicio",
+      "materia": "Direito do Consumidor",
+      "tema": "Coisa julgada coletiva",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Como o senhor fundamenta, no direito do consumidor e no processo coletivo, a extensão às filiais dos efeitos de uma decisão coletiva proferida contra a matriz?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "inicio",
+      "materia": "Direito do Consumidor",
+      "tema": "Execução coletiva",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "É possível redirecionar a execução de uma condenação imposta à matriz para as suas filiais?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "inicio",
+      "materia": "Direito do Consumidor",
+      "tema": "Execução coletiva",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A utilização da sentença penal condenatória como título para a execução coletiva consumerista limita-se às hipóteses em que o próprio juízo criminal tenha fixado valor mínimo para a indenização?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Licitações",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Durante o período de transição da Lei nº 8.666/1993 para a Lei nº 14.133/2021, admite-se a aplicação simultânea dos dois regimes jurídicos em um mesmo processo de licitação e contratação?"
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Licitações",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "Quais modalidades de licitação previstas na Lei nº 8.666/1993 não foram contempladas pela Lei nº 14.133/2021?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Licitações",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Em que consiste a alteração promovida pela Lei nº 14.133/2021 que tem sido denominada “apregoamento da concorrência”?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Licitações",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Por que se afirma que houve o “apregoamento da concorrência” quanto ao momento do julgamento das propostas e da habilitação dos licitantes?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito Administrativo",
+      "tema": "Pregão",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O pregão destina-se à contratação de quais bens e serviços e quais critérios de julgamento são admitidos nessa modalidade pela Lei nº 14.133/2021?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Tributário",
+      "tema": "Execução fiscal",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "Na execução fiscal, por quais meios processuais o contribuinte executado pode apresentar sua defesa?"
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direito Tributário",
+      "tema": "Execução fiscal",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Na execução fiscal de crédito tributário, quais são os pressupostos para a configuração da prescrição intercorrente?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direito Tributário",
+      "tema": "Execução fiscal",
+      "dificuldade": "facil",
+      "tipo": "desdobramento",
+      "pergunta": "Qual é o prazo da prescrição intercorrente na execução fiscal de crédito tributário?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direito Tributário",
+      "tema": "Repetição de indébito",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Considerando que o Município recebe cinquenta por cento do produto da arrecadação do IPVA relativo aos veículos licenciados em seu território, ele deve integrar o polo passivo da ação de repetição de indébito ajuizada pelo contribuinte para obter a restituição desse imposto?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Erro",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O que o senhor entende por erro mandamental no Direito Penal?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Erro",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O que o senhor entende por erro de proibição indireto e como ele se distingue do erro sobre os pressupostos fáticos de uma causa de justificação?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Concurso de pessoas",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Na hipótese de duas pessoas que atuam conjuntamente de maneira contrária ao dever objetivo de cuidado e causam um resultado típico, é possível reconhecer coautoria em crime culposo?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Concurso de pessoas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Duas pessoas, atuando conjuntamente no alto de um prédio, lançam objetos pesados para baixo, e um deles mata um transeunte, sem que seja possível identificar qual agente lançou o objeto fatal. A morte pode ser imputada a ambos, ainda que se afirme que, no crime culposo, cada agente falha por si?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Nexo causal",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Na hipótese em que duas pessoas atuam conjuntamente de forma culposa, mas não se consegue identificar qual delas praticou o ato físico que produziu a morte, a imputação do resultado a ambas exige nexo causal?"
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Concurso de pessoas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Duas pessoas, atuando de forma coordenada no alto de um prédio, lançam objetos pesados para baixo, e um deles mata um transeunte, sem que se saiba qual agente lançou o objeto fatal. A imputação recíproca utilizada na coautoria dolosa também pode ser aplicada ao crime culposo e, em caso afirmativo, como se justifica a imputação da morte a ambos?"
+    },
+    {
+      "id": "q0025",
+      "ordem": 25,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Concurso de pessoas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Admitida a imputação da morte às duas pessoas que, atuando conjuntamente e com violação do dever de cuidado, lançaram objetos de um prédio, sem que se identifique qual delas lançou o objeto fatal, elas respondem a título de autoria individual ou de coautoria culposa?"
+    },
+    {
+      "id": "q0026",
+      "ordem": 26,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Recursos",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O assistente de acusação pode interpor recurso contra uma sentença condenatória?"
+    },
+    {
+      "id": "q0027",
+      "ordem": 27,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Recursos",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "A que título o assistente de acusação pode recorrer de uma sentença condenatória? Há divergência quanto ao fundamento de seu interesse recursal?"
+    },
+    {
+      "id": "q0028",
+      "ordem": 28,
+      "momento": "fim",
+      "materia": "Direito Institucional do Ministério Público",
+      "tema": "Legitimação processual",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Explique o senhor a diferença entre a legitimação autônoma do Ministério Público para a condução do processo coletivo e sua atuação como substituto processual."
+    },
+    {
+      "id": "q0029",
+      "ordem": 29,
+      "momento": "fim",
+      "materia": "Direito Institucional do Ministério Público",
+      "tema": "Legitimação processual",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Dê o senhor um exemplo de atuação do Ministério Público mediante legitimação autônoma para a condução do processo coletivo e outro de atuação como substituto processual."
+    },
+    {
+      "id": "q0030",
+      "ordem": 30,
+      "momento": "fim",
+      "materia": "Direito Institucional do Ministério Público",
+      "tema": "Ação civil pública",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Considerando a vedação prevista no art. 1º, parágrafo único, da Lei da Ação Civil Pública para pretensões que envolvam tributos, o Ministério Público tem legitimidade para ajuizar ação civil pública destinada a anular incentivo fiscal milionário concedido a determinada empresa? Qual é o fundamento dessa atuação?"
+    },
+    {
+      "id": "q0031",
+      "ordem": 31,
+      "momento": "fim",
+      "materia": "Direito Institucional do Ministério Público",
+      "tema": "Intervenção no processo civil",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor entende que o Ministério Público deve intervir em processo cujo objeto seja o reconhecimento de união estável entre partes maiores e capazes?"
+    },
+    {
+      "id": "q0032",
+      "ordem": 32,
+      "momento": "fim",
+      "materia": "Direito Institucional do Ministério Público",
+      "tema": "Intervenção no processo civil",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "A intervenção do Ministério Público passa a ser obrigatória se a ação tiver por objeto o reconhecimento post mortem de união estável?"
+    },
+    {
+      "id": "q0033",
+      "ordem": 33,
+      "momento": "fim",
+      "materia": "Direito Processual Civil",
+      "tema": "Intervenção do Ministério Público",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Diante da divergência doutrinária sobre a vinculação do Ministério Público à pretensão do incapaz, qual posição o senhor adota: a instituição deve sempre defender o pedido formulado pelo incapaz ou pode manifestar-se em sentido contrário?"
+    },
+    {
+      "id": "q0034",
+      "ordem": 34,
+      "momento": "fim",
+      "materia": "Direito Processual Civil",
+      "tema": "Atuação ministerial",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Ao assumir uma Promotoria de Justiça de comarca de vara única e encontrar, entre outros, processos de alvará para venda de imóvel de menor, conhecimento e execução de alimentos, ação civil pública em defesa do patrimônio público, divórcio, reconhecimento de união estável e curatela de pessoa idosa, qual dinâmica o senhor adotaria para priorizar a atuação ministerial? O que significa tratamento adequado dos conflitos?"
+    },
+    {
+      "id": "q0035",
+      "ordem": 35,
+      "momento": "fim",
+      "materia": "Direito Institucional do Ministério Público",
+      "tema": "Atuação do Ministério Público",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Em relação à política de tratamento adequado dos conflitos instituída por ato do CNJ, o senhor conhece ato semelhante no âmbito do CNMP?"
+    },
+    {
+      "id": "q0036",
+      "ordem": 36,
+      "momento": "fim",
+      "materia": "Direito Empresarial",
+      "tema": "Recuperação judicial e falência",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "O senhor considera admissíveis a recuperação judicial e a falência de associações e fundações?"
+    }
+  ]
+}

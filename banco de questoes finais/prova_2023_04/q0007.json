@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_04/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2023_04",
+  "ordem": 7,
+  "materia": "Direito Penal",
+  "tema": "Aborto",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Na ausência de médico, a senhora entende que uma enfermeira pode realizar o aborto tanto para afastar perigo à vida da gestante quanto em caso de gravidez decorrente de estupro? Indique o fundamento jurídico aplicável a cada hipótese.",
+  "resposta": "As duas hipóteses não recebem o mesmo tratamento. Havendo perigo atual à vida da gestante, inexistência de médico e ausência de outro meio de salvá-la, a enfermeira pode atuar amparada pelo estado de necessidade justificante, desde que satisfeitos os requisitos gerais dessa excludente. Na gravidez decorrente de estupro, a hipótese especial do Código Penal refere-se ao aborto praticado por médico e não autoriza automaticamente sua realização pela enfermeira. Em circunstâncias concretamente excepcionais, porém, pode-se cogitar de inexigibilidade de conduta diversa, também denominada estado de necessidade exculpante, que exclui a culpabilidade sem tornar lícita a conduta.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Aborto\nDificuldade: média\nPergunta: Na ausência de médico, a senhora entende que uma enfermeira pode realizar o aborto tanto para afastar perigo à vida da gestante quanto em caso de gravidez decorrente de estupro? Indique o fundamento jurídico aplicável a cada hipótese.\nResposta: As duas hipóteses não recebem o mesmo tratamento. Havendo perigo atual à vida da gestante, inexistência de médico e ausência de outro meio de salvá-la, a enfermeira pode atuar amparada pelo estado de necessidade justificante, desde que satisfeitos os requisitos gerais dessa excludente. Na gravidez decorrente de estupro, a hipótese especial do Código Penal refere-se ao aborto praticado por médico e não autoriza automaticamente sua realização pela enfermeira. Em circunstâncias concretamente excepcionais, porém, pode-se cogitar de inexigibilidade de conduta diversa, também denominada estado de necessidade exculpante, que exclui a culpabilidade sem tornar lícita a conduta.",
+  "_meta": {
+    "subtema": "Perigo de vida e gravidez decorrente de estupro",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Distinção entre aborto necessário e aborto decorrente de estupro",
+      "Estado de necessidade justificante no perigo à vida da gestante",
+      "Hipótese legal do aborto decorrente de estupro restrita ao médico",
+      "Possibilidade excepcional de inexigibilidade de conduta diversa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 23, I, e 24 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 128, I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 128 — CP",
+        "art. 23 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1a3734aff9"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0007",
+    "id_origem": "q0007",
+    "ordem_origem": 7,
+    "bloco_origem": "cadeia_1a3734aff9",
+    "score": 116.8,
+    "reabilitada": false
+  }
+}

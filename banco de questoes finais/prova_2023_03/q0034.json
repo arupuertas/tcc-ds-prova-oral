@@ -1,0 +1,96 @@
+{
+  "uid": "prova_2023_03/q0034",
+  "id": "q0034",
+  "prova_id": "prova_2023_03",
+  "ordem": 34,
+  "materia": "Direito Processual Civil",
+  "tema": "Atuação ministerial",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Ao assumir uma Promotoria de Justiça de comarca de vara única e encontrar, entre outros, processos de alvará para venda de imóvel de menor, conhecimento e execução de alimentos, ação civil pública em defesa do patrimônio público, divórcio, reconhecimento de união estável e curatela de pessoa idosa, qual dinâmica o senhor adotaria para priorizar a atuação ministerial? O que significa tratamento adequado dos conflitos?",
+  "resposta": "Inicialmente, faria uma triagem orientada pela urgência concreta, pelo risco de dano irreparável, pelos prazos em curso e pelas prioridades legais, sem adotar uma classificação meramente abstrata por matéria. Teriam precedência imediata, conforme as circunstâncias, processos relacionados à subsistência, à liberdade ou à proteção pessoal e patrimonial, como execução de alimentos, alvará urgente envolvendo patrimônio de menor e curatela em situação de risco, bem como medidas urgentes em ação coletiva destinada a impedir dano relevante ao erário. Em seguida, observaria a prioridade absoluta de crianças e adolescentes, a prioridade das pessoas idosas e a prioridade especial das maiores de oitenta anos, além de considerar a repercussão social e a amplitude subjetiva das demandas coletivas. Os processos sem urgência envolvendo apenas adultos capazes seriam organizados segundo os prazos, a antiguidade e a racionalização do acervo. Tratamento adequado dos conflitos significa diagnosticar a natureza do problema e escolher, entre as vias juridicamente disponíveis, aquela que ofereça resposta mais efetiva, tempestiva e proporcional. Isso compreende tanto a tutela adjudicada quanto negociação, conciliação, mediação e outros mecanismos consensuais, respeitadas a natureza dos direitos e as limitações legais. Trata-se da lógica do sistema de justiça multiportas, que não presume ser o processo judicial contencioso a solução mais adequada para todo conflito.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Atuação ministerial\nDificuldade: média\nPergunta: Ao assumir uma Promotoria de Justiça de comarca de vara única e encontrar, entre outros, processos de alvará para venda de imóvel de menor, conhecimento e execução de alimentos, ação civil pública em defesa do patrimônio público, divórcio, reconhecimento de união estável e curatela de pessoa idosa, qual dinâmica o senhor adotaria para priorizar a atuação ministerial? O que significa tratamento adequado dos conflitos?\nResposta: Inicialmente, faria uma triagem orientada pela urgência concreta, pelo risco de dano irreparável, pelos prazos em curso e pelas prioridades legais, sem adotar uma classificação meramente abstrata por matéria. Teriam precedência imediata, conforme as circunstâncias, processos relacionados à subsistência, à liberdade ou à proteção pessoal e patrimonial, como execução de alimentos, alvará urgente envolvendo patrimônio de menor e curatela em situação de risco, bem como medidas urgentes em ação coletiva destinada a impedir dano relevante ao erário. Em seguida, observaria a prioridade absoluta de crianças e adolescentes, a prioridade das pessoas idosas e a prioridade especial das maiores de oitenta anos, além de considerar a repercussão social e a amplitude subjetiva das demandas coletivas. Os processos sem urgência envolvendo apenas adultos capazes seriam organizados segundo os prazos, a antiguidade e a racionalização do acervo. Tratamento adequado dos conflitos significa diagnosticar a natureza do problema e escolher, entre as vias juridicamente disponíveis, aquela que ofereça resposta mais efetiva, tempestiva e proporcional. Isso compreende tanto a tutela adjudicada quanto negociação, conciliação, mediação e outros mecanismos consensuais, respeitadas a natureza dos direitos e as limitações legais. Trata-se da lógica do sistema de justiça multiportas, que não presume ser o processo judicial contencioso a solução mais adequada para todo conflito.",
+  "_meta": {
+    "subtema": "Priorização de processos e tratamento adequado de conflitos",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Triagem por urgência e risco concreto",
+      "Prioridade absoluta de crianças e adolescentes",
+      "Prioridade das pessoas idosas e superprioridade dos maiores de oitenta anos",
+      "Relevância social das demandas coletivas",
+      "Sistema de justiça multiportas",
+      "Escolha do mecanismo mais adequado ao conflito"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 227 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 4º do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 71, especialmente § 5º, do Estatuto da Pessoa Idosa",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 3º, §§ 2º e 3º, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Resolução CNJ nº 125/2010",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Resolução CNMP nº 118/2014",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 10,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Resolução CNJ 125",
+        "Resolução CNMP 118",
+        "art. 227 — CF",
+        "art. 3 — CPC",
+        "art. 4 — ECA",
+        "art. 71 — Lei 10.741"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_fbc20a978a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0072",
+    "id_origem": "q0072",
+    "ordem_origem": 72,
+    "bloco_origem": "cadeia_fbc20a978a",
+    "score": 112.21,
+    "reabilitada": false
+  }
+}

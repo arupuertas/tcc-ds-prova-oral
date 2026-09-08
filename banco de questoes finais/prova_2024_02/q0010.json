@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2024_02/q0010",
+  "id": "q0010",
+  "prova_id": "prova_2024_02",
+  "ordem": 10,
+  "materia": "Direito Penal",
+  "tema": "Excludentes de ilicitude",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O executor que, querendo danificar coisa alheia, erra apenas quanto à natureza pública do bem deixa de responder também pelo crime de dano simples?",
+  "resposta": "Não. O erro limitado à natureza pública do objeto exclui apenas o dolo referente à forma qualificada, sem eliminar a consciência e a vontade de danificar coisa alheia. O mero fato de o executor acreditar que o bem pertence a particular não implica consentimento do proprietário nem exclui a ilicitude. Ausente consentimento válido ou erro sobre uma situação que, se existente, tornaria a conduta lícita, ele responde pelo dano simples.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Excludentes de ilicitude\nDificuldade: média\nPergunta: O executor que, querendo danificar coisa alheia, erra apenas quanto à natureza pública do bem deixa de responder também pelo crime de dano simples?\nResposta: Não. O erro limitado à natureza pública do objeto exclui apenas o dolo referente à forma qualificada, sem eliminar a consciência e a vontade de danificar coisa alheia. O mero fato de o executor acreditar que o bem pertence a particular não implica consentimento do proprietário nem exclui a ilicitude. Ausente consentimento válido ou erro sobre uma situação que, se existente, tornaria a conduta lícita, ele responde pelo dano simples.",
+  "_meta": {
+    "subtema": "Consentimento do ofendido",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "subsistência do dano simples",
+      "erro limitado à qualificadora",
+      "inexistência de consentimento presumido",
+      "dolo de danificar coisa alheia"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 163, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 163 — CP",
+        "art. 20 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_b908f44be1"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0040",
+    "id_origem": "q0040",
+    "ordem_origem": 40,
+    "bloco_origem": "cadeia_b908f44be1",
+    "score": 112.34,
+    "reabilitada": false
+  }
+}

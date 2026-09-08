@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2024_01/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2024_01",
+  "ordem": 4,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Inquérito civil e TAC",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "O senhor entende que a homologação judicial do termo de ajustamento de conduta dispensa o controle do Conselho Superior do Ministério Público sobre o arquivamento do inquérito civil?",
+  "resposta": "Não. Mesmo que o TAC tenha sido homologado judicialmente, a promoção de arquivamento do inquérito civil deve ser submetida ao Conselho Superior do Ministério Público. Há, em sentido amplo, um duplo controle, mas tecnicamente não ocorre uma segunda homologação do mesmo ato: o Judiciário aprecia o acordo, enquanto o Conselho Superior examina o encerramento da investigação. A decisão administrativa do Conselho Superior não pode invalidar ou modificar o título judicial formado pela homologação do TAC.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Inquérito civil e TAC\nDificuldade: difícil\nPergunta: O senhor entende que a homologação judicial do termo de ajustamento de conduta dispensa o controle do Conselho Superior do Ministério Público sobre o arquivamento do inquérito civil?\nResposta: Não. Mesmo que o TAC tenha sido homologado judicialmente, a promoção de arquivamento do inquérito civil deve ser submetida ao Conselho Superior do Ministério Público. Há, em sentido amplo, um duplo controle, mas tecnicamente não ocorre uma segunda homologação do mesmo ato: o Judiciário aprecia o acordo, enquanto o Conselho Superior examina o encerramento da investigação. A decisão administrativa do Conselho Superior não pode invalidar ou modificar o título judicial formado pela homologação do TAC.",
+  "_meta": {
+    "subtema": "Duplo controle do TAC homologado judicialmente",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Homologação judicial não dispensa controle interno",
+      "Remessa obrigatória da promoção de arquivamento",
+      "Distinção entre controle do acordo e controle do arquivamento",
+      "Preservação do título judicial"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 9º, §§ 1º, 3º e 4º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 515, III, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 515 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_581a26884e"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_581a26884e",
+    "score": 116.68,
+    "reabilitada": false
+  }
+}

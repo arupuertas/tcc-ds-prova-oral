@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2022_03/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2022_03",
+  "ordem": 13,
+  "materia": "Direito Processual Civil",
+  "tema": "Recursos excepcionais",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora considera cabível a interposição de recurso extraordinário diretamente contra uma sentença?",
+  "resposta": "Sim, desde que a sentença constitua decisão proferida em única ou última instância e não haja recurso ordinário ainda cabível, pois o recurso extraordinário não exige necessariamente acórdão de tribunal. É possível, por exemplo, sua interposição contra decisão de juiz de primeiro grau nas causas de alçada, após o esgotamento dos meios ordinários pertinentes. Nos juizados especiais, porém, havendo recurso para a turma recursal, o recurso extraordinário não é interposto diretamente contra a sentença, mas contra a decisão da turma após o esgotamento da instância ordinária.",
+  "embedding_text": "Matéria: Direito Processual Civil\nTema: Recursos excepcionais\nDificuldade: média\nPergunta: A senhora considera cabível a interposição de recurso extraordinário diretamente contra uma sentença?\nResposta: Sim, desde que a sentença constitua decisão proferida em única ou última instância e não haja recurso ordinário ainda cabível, pois o recurso extraordinário não exige necessariamente acórdão de tribunal. É possível, por exemplo, sua interposição contra decisão de juiz de primeiro grau nas causas de alçada, após o esgotamento dos meios ordinários pertinentes. Nos juizados especiais, porém, havendo recurso para a turma recursal, o recurso extraordinário não é interposto diretamente contra a sentença, mas contra a decisão da turma após o esgotamento da instância ordinária.",
+  "_meta": {
+    "subtema": "Recurso extraordinário contra sentença",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Possibilidade de recurso extraordinário contra sentença",
+      "Exigência de decisão em única ou última instância",
+      "Esgotamento dos recursos ordinários",
+      "Nos juizados, recurso extraordinário contra decisão da turma recursal"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 102, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Súmula 640 do STF",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Súmula 640 do STF",
+        "art. 102 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_69f4e2814a"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0028",
+    "id_origem": "q0028",
+    "ordem_origem": 28,
+    "bloco_origem": "cadeia_69f4e2814a",
+    "score": 113.05,
+    "reabilitada": false
+  }
+}

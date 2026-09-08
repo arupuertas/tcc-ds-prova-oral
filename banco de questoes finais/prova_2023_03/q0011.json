@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2023_03/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2023_03",
+  "ordem": 11,
+  "materia": "Direito Administrativo",
+  "tema": "Licitações",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "Quais modalidades de licitação previstas na Lei nº 8.666/1993 não foram contempladas pela Lei nº 14.133/2021?",
+  "resposta": "As modalidades não contempladas pela Lei nº 14.133/2021 foram o convite e a tomada de preços. A concorrência, o concurso e o leilão foram mantidos, embora submetidos à disciplina da nova lei. O novo diploma também prevê o pregão e introduz o diálogo competitivo.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Licitações\nDificuldade: fácil\nPergunta: Quais modalidades de licitação previstas na Lei nº 8.666/1993 não foram contempladas pela Lei nº 14.133/2021?\nResposta: As modalidades não contempladas pela Lei nº 14.133/2021 foram o convite e a tomada de preços. A concorrência, o concurso e o leilão foram mantidos, embora submetidos à disciplina da nova lei. O novo diploma também prevê o pregão e introduz o diálogo competitivo.",
+  "_meta": {
+    "subtema": "Modalidades extintas na Lei 14.133/2021",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Extinção do convite",
+      "Extinção da tomada de preços",
+      "Modalidades previstas na nova Lei de Licitações"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 22 da Lei nº 8.666/1993",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 28 da Lei nº 14.133/2021",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 22 — Lei 8.666",
+        "art. 28 — Lei 14.133"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_51237dad45"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0026",
+    "id_origem": "q0026",
+    "ordem_origem": 26,
+    "bloco_origem": "cadeia_51237dad45",
+    "score": 111.14,
+    "reabilitada": false
+  }
+}

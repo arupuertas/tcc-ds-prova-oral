@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_01/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2023_01",
+  "ordem": 17,
+  "materia": "Direito Civil",
+  "tema": "Direito das sucessões",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Um pai, casado pelo regime da separação obrigatória de bens e com dois filhos, foi acometido por doença degenerativa grave, embora permanecesse plenamente capaz. Depois de perder os movimentos dos braços e das pernas, um dos filhos deixou de visitá-lo e de lhe prestar qualquer assistência material ou imaterial. Que solução jurídica o senhor indicaria para que o pai exclua esse filho da sucessão?",
+  "resposta": "Como o filho é herdeiro necessário, o pai não pode excluí-lo da legítima por simples disposição genérica, mas pode deserdá-lo por testamento. A causa deve ser expressamente declarada e pode consistir no desamparo do ascendente acometido de grave enfermidade, hipótese prevista taxativamente no Código Civil. A mera falta de afeto ou de visitas, isoladamente, não basta, mas a omissão completa de assistência material e pessoal durante a grave doença pode caracterizar o desamparo legal. Após a morte, a veracidade da causa deverá ser comprovada judicialmente por quem se beneficiar da deserdação.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Direito das sucessões\nDificuldade: média\nPergunta: Um pai, casado pelo regime da separação obrigatória de bens e com dois filhos, foi acometido por doença degenerativa grave, embora permanecesse plenamente capaz. Depois de perder os movimentos dos braços e das pernas, um dos filhos deixou de visitá-lo e de lhe prestar qualquer assistência material ou imaterial. Que solução jurídica o senhor indicaria para que o pai exclua esse filho da sucessão?\nResposta: Como o filho é herdeiro necessário, o pai não pode excluí-lo da legítima por simples disposição genérica, mas pode deserdá-lo por testamento. A causa deve ser expressamente declarada e pode consistir no desamparo do ascendente acometido de grave enfermidade, hipótese prevista taxativamente no Código Civil. A mera falta de afeto ou de visitas, isoladamente, não basta, mas a omissão completa de assistência material e pessoal durante a grave doença pode caracterizar o desamparo legal. Após a morte, a veracidade da causa deverá ser comprovada judicialmente por quem se beneficiar da deserdação.",
+  "_meta": {
+    "subtema": "Deserdação por abandono material e moral",
+    "tipo": "principal",
+    "pontos_chave": [
+      "filho como herdeiro necessário",
+      "deserdação por testamento",
+      "desamparo do ascendente em grave enfermidade",
+      "taxatividade das causas de deserdação",
+      "necessidade de prova judicial da causa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 1.961 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.962, IV, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.964 do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1961 — CC",
+        "art. 1962 — CC",
+        "art. 1964 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_854a71d41c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0027",
+    "id_origem": "q0027",
+    "ordem_origem": 27,
+    "bloco_origem": "cadeia_854a71d41c",
+    "score": 116.0,
+    "reabilitada": false
+  }
+}

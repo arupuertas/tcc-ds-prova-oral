@@ -1,0 +1,106 @@
+{
+  "uid": "prova_2024_01/q0014",
+  "id": "q0014",
+  "prova_id": "prova_2024_01",
+  "ordem": 14,
+  "materia": "Direito da Infância e Juventude",
+  "tema": "Proteção de criança vítima",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Um menino de quatro anos teve a mãe vítima de feminicídio praticado pelo pai, que está preso, e passou a residir com os avós maternos, autores de ação de destituição do poder familiar. Diante de aproximações insistentes e potencialmente prejudiciais de familiares paternos, os avós solicitam ao Ministério Público o ajuizamento de medida protetiva que proíba o contato e a aproximação desses familiares em relação à criança e à família materna, inclusive com fundamento na Lei Maria da Penha. Considerando a proteção integral e o direito à convivência familiar, como o senhor avaliaria esse pedido?",
+  "resposta": "A criança deve ser reconhecida como vítima indireta do feminicídio e, conforme os efeitos e as condutas posteriores, também como vítima direta de violência psicológica ou revitimização. O Ministério Público deve apurar os fatos com o apoio da rede de proteção e de avaliação psicossocial, sem condicionar eventual tutela urgente ao encerramento da apuração. Demonstrada situação atual de risco, é cabível requerer medida protetiva que proíba a aproximação e o contato dos familiares identificados, inclusive em relação à família materna, além de suspender ou regulamentar judicialmente eventual convivência. O fundamento imediato encontra-se no Estatuto da Criança e do Adolescente e na Lei Henry Borel, podendo a Lei Maria da Penha integrar o microssistema de proteção e orientar a interpretação, embora não seja, isoladamente, o regime diretamente aplicável ao menino. A convivência com a família extensa, inclusive eventual visitação dos avós paternos, não é absoluta e deve subordinar-se ao melhor interesse e à segurança da criança, não legitimando aproximações insistentes à margem de regulamentação judicial.",
+  "embedding_text": "Matéria: Direito da Infância e Juventude\nTema: Proteção de criança vítima\nDificuldade: difícil\nPergunta: Um menino de quatro anos teve a mãe vítima de feminicídio praticado pelo pai, que está preso, e passou a residir com os avós maternos, autores de ação de destituição do poder familiar. Diante de aproximações insistentes e potencialmente prejudiciais de familiares paternos, os avós solicitam ao Ministério Público o ajuizamento de medida protetiva que proíba o contato e a aproximação desses familiares em relação à criança e à família materna, inclusive com fundamento na Lei Maria da Penha. Considerando a proteção integral e o direito à convivência familiar, como o senhor avaliaria esse pedido?\nResposta: A criança deve ser reconhecida como vítima indireta do feminicídio e, conforme os efeitos e as condutas posteriores, também como vítima direta de violência psicológica ou revitimização. O Ministério Público deve apurar os fatos com o apoio da rede de proteção e de avaliação psicossocial, sem condicionar eventual tutela urgente ao encerramento da apuração. Demonstrada situação atual de risco, é cabível requerer medida protetiva que proíba a aproximação e o contato dos familiares identificados, inclusive em relação à família materna, além de suspender ou regulamentar judicialmente eventual convivência. O fundamento imediato encontra-se no Estatuto da Criança e do Adolescente e na Lei Henry Borel, podendo a Lei Maria da Penha integrar o microssistema de proteção e orientar a interpretação, embora não seja, isoladamente, o regime diretamente aplicável ao menino. A convivência com a família extensa, inclusive eventual visitação dos avós paternos, não é absoluta e deve subordinar-se ao melhor interesse e à segurança da criança, não legitimando aproximações insistentes à margem de regulamentação judicial.",
+  "_meta": {
+    "subtema": "Medida protetiva e convivência familiar",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Criança como vítima indireta do feminicídio e possível vítima direta de violência psicológica",
+      "Aplicação do microssistema de proteção de crianças e vítimas vulneráveis",
+      "Cabimento de proibição de aproximação e contato diante de risco concreto",
+      "Prevalência do melhor interesse sobre pretensão abstrata de convivência familiar",
+      "Utilização integrativa, mas não exclusiva, da Lei Maria da Penha"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Lei nº 11.340/2006",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "Lei nº 13.431/2017",
+        "origem": "transcricao",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 14.344/2022",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "arts. 98 e 101 do Estatuto da Criança e do Adolescente",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 227 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 1.589, parágrafo único, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.88,
+    "citacoes_nao_ancoradas": [
+      "ECA",
+      "Lei 14.344"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 13,
+      "nao_ancoradas_resposta": [
+        "ECA",
+        "Lei 14.344"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "ECA",
+        "Lei 13.431",
+        "Lei 14.344",
+        "art. 101 — ECA",
+        "art. 1589 — CC",
+        "art. 227 — CF",
+        "art. 98 — ECA"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [
+        "Lei nº 13.431/2017"
+      ],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_e8f2c12dfc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0037",
+    "id_origem": "q0037",
+    "ordem_origem": 37,
+    "bloco_origem": "cadeia_e8f2c12dfc",
+    "score": 105.7,
+    "reabilitada": true
+  }
+}

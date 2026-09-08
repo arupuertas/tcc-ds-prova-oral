@@ -1,0 +1,78 @@
+{
+  "uid": "prova_2023_01/q0013",
+  "id": "q0013",
+  "prova_id": "prova_2023_01",
+  "ordem": 13,
+  "materia": "Direito Processual Penal",
+  "tema": "Provas",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O senhor poderia explicar em que consiste a quebra da cadeia de custódia e quais são as suas consequências no processo penal?",
+  "resposta": "A quebra da cadeia de custódia consiste na inobservância ou na documentação inadequada dos procedimentos destinados a preservar e registrar a história cronológica do vestígio, comprometendo a possibilidade de rastrear sua coleta, posse, manuseio, armazenamento e descarte. Parte da doutrina sustenta que a ruptura capaz de impedir a comprovação da autenticidade ou da integridade torna a prova inadmissível, impondo seu desentranhamento e, conforme o caso, atingindo as provas dela derivadas. A orientação jurisprudencial predominante, entretanto, afasta consequência automática e exige análise concreta da confiabilidade da prova e da repercussão da irregularidade. Se a falha não comprometer a identidade ou a integridade do vestígio nem causar prejuízo, a prova poderá ser valorada em conjunto com os demais elementos. Demonstrada efetiva contaminação, adulteração ou impossibilidade de verificar a autenticidade, a prova deverá ser desconsiderada ou excluída.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Provas\nDificuldade: difícil\nPergunta: O senhor poderia explicar em que consiste a quebra da cadeia de custódia e quais são as suas consequências no processo penal?\nResposta: A quebra da cadeia de custódia consiste na inobservância ou na documentação inadequada dos procedimentos destinados a preservar e registrar a história cronológica do vestígio, comprometendo a possibilidade de rastrear sua coleta, posse, manuseio, armazenamento e descarte. Parte da doutrina sustenta que a ruptura capaz de impedir a comprovação da autenticidade ou da integridade torna a prova inadmissível, impondo seu desentranhamento e, conforme o caso, atingindo as provas dela derivadas. A orientação jurisprudencial predominante, entretanto, afasta consequência automática e exige análise concreta da confiabilidade da prova e da repercussão da irregularidade. Se a falha não comprometer a identidade ou a integridade do vestígio nem causar prejuízo, a prova poderá ser valorada em conjunto com os demais elementos. Demonstrada efetiva contaminação, adulteração ou impossibilidade de verificar a autenticidade, a prova deverá ser desconsiderada ou excluída.",
+  "_meta": {
+    "subtema": "Quebra da cadeia de custódia",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Perda de rastreabilidade do vestígio",
+      "Comprometimento da autenticidade ou integridade",
+      "Corrente favorável à inadmissibilidade",
+      "Ausência de nulidade automática na jurisprudência",
+      "Análise concreta da confiabilidade e do prejuízo"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "arts. 158-A a 158-F do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 13.964/2019",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 563 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 13.964",
+        "art. 158a — CPP",
+        "art. 158f — CPP",
+        "art. 563 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_22a3ce9624"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_22a3ce9624",
+    "score": 118.9,
+    "reabilitada": false
+  }
+}

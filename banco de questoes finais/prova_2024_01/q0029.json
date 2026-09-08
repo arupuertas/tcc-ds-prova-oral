@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2024_01/q0029",
+  "id": "q0029",
+  "prova_id": "prova_2024_01",
+  "ordem": 29,
+  "materia": "Direito Processual Penal",
+  "tema": "Prova no tráfico de drogas",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "É possível condenar alguém por tráfico de drogas mesmo que nenhuma substância entorpecente tenha sido apreendida e vinculada ao acusado?",
+  "resposta": "A ausência de apreensão da droga não impede de modo absoluto a condenação, embora imponha especial rigor na demonstração da materialidade. Há orientação que admite excepcionalmente o reconhecimento do tráfico quando um conjunto probatório robusto e convergente, como interceptações telefônicas corroboradas por vigilâncias, registros de comercialização ou depoimentos idôneos, comprovar de forma inequívoca atos concretos de mercancia de substância proscrita. Em sentido restritivo, há precedentes que reputam indispensáveis a apreensão e o exame pericial para a identificação segura do objeto material. Em qualquer caso, indícios vagos, linguagem ambígua ou prova exclusivamente inquisitorial não corroborada são insuficientes para a condenação.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Prova no tráfico de drogas\nDificuldade: difícil\nPergunta: É possível condenar alguém por tráfico de drogas mesmo que nenhuma substância entorpecente tenha sido apreendida e vinculada ao acusado?\nResposta: A ausência de apreensão da droga não impede de modo absoluto a condenação, embora imponha especial rigor na demonstração da materialidade. Há orientação que admite excepcionalmente o reconhecimento do tráfico quando um conjunto probatório robusto e convergente, como interceptações telefônicas corroboradas por vigilâncias, registros de comercialização ou depoimentos idôneos, comprovar de forma inequívoca atos concretos de mercancia de substância proscrita. Em sentido restritivo, há precedentes que reputam indispensáveis a apreensão e o exame pericial para a identificação segura do objeto material. Em qualquer caso, indícios vagos, linguagem ambígua ou prova exclusivamente inquisitorial não corroborada são insuficientes para a condenação.",
+  "_meta": {
+    "subtema": "Condenação sem apreensão da droga",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Ausência de apreensão não necessariamente impede a condenação",
+      "Exigência de prova robusta e convergente",
+      "Interceptações e outros elementos de corroboração",
+      "Orientação restritiva que exige apreensão e perícia",
+      "Insuficiência de indícios vagos ou isolados"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 155 do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "arts. 158 e 167 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 33 da Lei nº 11.343/2006",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.87,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 158 — CPP",
+        "art. 167 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_5d7392f7cf"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0057",
+    "id_origem": "q0057",
+    "ordem_origem": 57,
+    "bloco_origem": "cadeia_5d7392f7cf",
+    "score": 123.54,
+    "reabilitada": false
+  }
+}

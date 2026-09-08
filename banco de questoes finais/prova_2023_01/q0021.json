@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2023_01/q0021",
+  "id": "q0021",
+  "prova_id": "prova_2023_01",
+  "ordem": 21,
+  "materia": "Direitos Humanos",
+  "tema": "Controle de convencionalidade",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Em quais hipóteses o Ministério Público atua na aferição e no controle de convencionalidade?",
+  "resposta": "O Ministério Público deve aferir a convencionalidade sempre que, no exercício de suas funções judiciais, extrajudiciais ou administrativas, examinar a juridicidade de normas, atos ou omissões estatais. Na atuação extrajudicial, pode instaurar procedimento, expedir recomendação e celebrar compromisso de ajustamento para promover a adequação da conduta ao tratado de direitos humanos. Na via judicial, pode ajuizar ação civil pública ou outra medida adequada, formular requerimentos, emitir pareceres e interpor recursos para obter interpretação conforme ao parâmetro internacional ou o afastamento da norma incompatível. O Ministério Público exerce diretamente o controle quando dispõe de competência para extrair consequências jurídicas em sua própria esfera de atuação; nos demais casos, provoca ou auxilia o controle pelo órgão jurisdicional competente, pois a recomendação não lhe permite anular coercitivamente ato de terceiro. Como parte ou fiscal da ordem jurídica, deve realizar conjuntamente os controles de constitucionalidade e de convencionalidade, considerando também a interpretação dada ao tratado pelo tribunal internacional competente.",
+  "embedding_text": "Matéria: Direitos Humanos\nTema: Controle de convencionalidade\nDificuldade: média\nPergunta: Em quais hipóteses o Ministério Público atua na aferição e no controle de convencionalidade?\nResposta: O Ministério Público deve aferir a convencionalidade sempre que, no exercício de suas funções judiciais, extrajudiciais ou administrativas, examinar a juridicidade de normas, atos ou omissões estatais. Na atuação extrajudicial, pode instaurar procedimento, expedir recomendação e celebrar compromisso de ajustamento para promover a adequação da conduta ao tratado de direitos humanos. Na via judicial, pode ajuizar ação civil pública ou outra medida adequada, formular requerimentos, emitir pareceres e interpor recursos para obter interpretação conforme ao parâmetro internacional ou o afastamento da norma incompatível. O Ministério Público exerce diretamente o controle quando dispõe de competência para extrair consequências jurídicas em sua própria esfera de atuação; nos demais casos, provoca ou auxilia o controle pelo órgão jurisdicional competente, pois a recomendação não lhe permite anular coercitivamente ato de terceiro. Como parte ou fiscal da ordem jurídica, deve realizar conjuntamente os controles de constitucionalidade e de convencionalidade, considerando também a interpretação dada ao tratado pelo tribunal internacional competente.",
+  "_meta": {
+    "subtema": "Atuação do Ministério Público",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "aferição em toda atuação funcional do Ministério Público",
+      "atuação extrajudicial por procedimentos, recomendações e ajustamento de conduta",
+      "atuação judicial como parte ou fiscal da ordem jurídica",
+      "controle direto no âmbito das competências próprias",
+      "provocação do controle jurisdicional",
+      "duplo controle de constitucionalidade e convencionalidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 127, caput, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 129, II e III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.86,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 127 — CF",
+        "art. 5 — Lei 7.347"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.88
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_30beb94ce0"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0052",
+    "id_origem": "q0052",
+    "ordem_origem": 52,
+    "bloco_origem": "cadeia_30beb94ce0",
+    "score": 112.1,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2023_03/q0029",
+  "id": "q0029",
+  "prova_id": "prova_2023_03",
+  "ordem": 29,
+  "materia": "Direito Institucional do Ministério Público",
+  "tema": "Legitimação processual",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Dê o senhor um exemplo de atuação do Ministério Público mediante legitimação autônoma para a condução do processo coletivo e outro de atuação como substituto processual.",
+  "resposta": "Na ação civil pública destinada à proteção do meio ambiente ecologicamente equilibrado, o Ministério Público atua, segundo essa classificação, como legitimado autônomo para a condução do processo, pois tutela direito difuso sem substituir titulares individualizados. Como exemplo de substituição processual, pode-se citar a ação coletiva proposta para obter indenização em favor dos consumidores lesados por um mesmo produto defeituoso comercializado em massa, hipótese de direitos individuais homogêneos. Nesse segundo caso, o Ministério Público atua em nome próprio na defesa dos direitos alheios pertencentes aos integrantes do grupo. A atuação em defesa de prerrogativa institucional própria do Ministério Público configuraria, diversamente, legitimação ordinária.",
+  "embedding_text": "Matéria: Direito Institucional do Ministério Público\nTema: Legitimação processual\nDificuldade: média\nPergunta: Dê o senhor um exemplo de atuação do Ministério Público mediante legitimação autônoma para a condução do processo coletivo e outro de atuação como substituto processual.\nResposta: Na ação civil pública destinada à proteção do meio ambiente ecologicamente equilibrado, o Ministério Público atua, segundo essa classificação, como legitimado autônomo para a condução do processo, pois tutela direito difuso sem substituir titulares individualizados. Como exemplo de substituição processual, pode-se citar a ação coletiva proposta para obter indenização em favor dos consumidores lesados por um mesmo produto defeituoso comercializado em massa, hipótese de direitos individuais homogêneos. Nesse segundo caso, o Ministério Público atua em nome próprio na defesa dos direitos alheios pertencentes aos integrantes do grupo. A atuação em defesa de prerrogativa institucional própria do Ministério Público configuraria, diversamente, legitimação ordinária.",
+  "_meta": {
+    "subtema": "Exemplos de legitimação autônoma e substituição processual",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "proteção ambiental como exemplo de legitimação autônoma",
+      "direito difuso sem titulares individualizados",
+      "direitos individuais homogêneos como exemplo de substituição processual",
+      "atuação em nome próprio na defesa de direitos alheios",
+      "defesa de prerrogativa própria como legitimação ordinária"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 129, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 5º, I, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 81, parágrafo único, III, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 82, I, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 5 — Lei 7.347",
+        "art. 81 — CDC",
+        "art. 82 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_d4fad3eee4"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0066",
+    "id_origem": "q0066",
+    "ordem_origem": 66,
+    "bloco_origem": "cadeia_d4fad3eee4",
+    "score": 114.52,
+    "reabilitada": false
+  }
+}

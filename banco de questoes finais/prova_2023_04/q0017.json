@@ -1,0 +1,75 @@
+{
+  "uid": "prova_2023_04/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2023_04",
+  "ordem": 17,
+  "materia": "Direitos Humanos",
+  "tema": "Igualdade e discriminação",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Em relação ao racismo, a senhora entende ser juridicamente adequada a expressão “racismo reverso”?",
+  "resposta": "Não há categoria jurídica autônoma denominada racismo reverso, e a expressão é inadequada segundo a concepção estrutural de racismo predominante no Brasil. O racismo não se limita a um ato individual de hostilidade, pois envolve relações históricas e institucionais de poder que produzem desvantagens sistemáticas para determinados grupos raciais. Uma pessoa branca pode sofrer ofensa ou discriminação ilícita relacionada à sua raça ou cor, cuja eventual tipificação dependerá dos elementos concretos da conduta, mas isso não caracteriza, na realidade social brasileira, a inversão do racismo estrutural. Há uma leitura formal e simétrica segundo a qual as normas antidiscriminatórias protegem qualquer pessoa, mas ela não justifica tratar políticas de igualdade material nem conflitos interpessoais isolados como “racismo reverso”.",
+  "embedding_text": "Matéria: Direitos Humanos\nTema: Igualdade e discriminação\nDificuldade: média\nPergunta: Em relação ao racismo, a senhora entende ser juridicamente adequada a expressão “racismo reverso”?\nResposta: Não há categoria jurídica autônoma denominada racismo reverso, e a expressão é inadequada segundo a concepção estrutural de racismo predominante no Brasil. O racismo não se limita a um ato individual de hostilidade, pois envolve relações históricas e institucionais de poder que produzem desvantagens sistemáticas para determinados grupos raciais. Uma pessoa branca pode sofrer ofensa ou discriminação ilícita relacionada à sua raça ou cor, cuja eventual tipificação dependerá dos elementos concretos da conduta, mas isso não caracteriza, na realidade social brasileira, a inversão do racismo estrutural. Há uma leitura formal e simétrica segundo a qual as normas antidiscriminatórias protegem qualquer pessoa, mas ela não justifica tratar políticas de igualdade material nem conflitos interpessoais isolados como “racismo reverso”.",
+  "_meta": {
+    "subtema": "Racismo reverso",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Inexistência de categoria jurídica autônoma de racismo reverso",
+      "Racismo compreendido como fenômeno histórico, institucional e estrutural",
+      "Possibilidade de ilicitude de ofensas contra qualquer pessoa sem inversão do racismo estrutural"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 3º, IV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, caput e XLII, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 7.716/1989",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 7.716",
+        "art. 3 — CF",
+        "art. 5 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.91
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e9c37ceb8c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0039",
+    "id_origem": "q0039",
+    "ordem_origem": 39,
+    "bloco_origem": "cadeia_e9c37ceb8c",
+    "score": 111.85,
+    "reabilitada": false
+  }
+}

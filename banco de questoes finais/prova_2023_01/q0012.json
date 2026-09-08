@@ -1,0 +1,67 @@
+{
+  "uid": "prova_2023_01/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2023_01",
+  "ordem": 12,
+  "materia": "Direito Processual Penal",
+  "tema": "Provas",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "O art. 155, parágrafo único, do Código de Processo Penal dispõe que somente quanto ao estado das pessoas serão observadas as restrições estabelecidas na lei civil, e o art. 158 estabelece que, quando a infração deixar vestígios, será indispensável o exame de corpo de delito. Na avaliação do senhor, esses dispositivos constituem concessões ao sistema das provas tarifadas?",
+  "resposta": "O processo penal brasileiro adota como regra o sistema da persuasão racional, mas a doutrina tradicional considera esses dispositivos concessões ou resquícios do sistema das provas tarifadas. Isso ocorre porque a lei predetermina o meio necessário para demonstrar certos fatos: as restrições da lei civil quanto ao estado das pessoas e o exame de corpo de delito, direto ou indireto, nas infrações que deixam vestígios. Em sentido técnico mais estrito, porém, parte da doutrina rejeita essa classificação, pois a prova tarifada pressupõe que a lei atribua previamente determinado valor probatório, enquanto esses dispositivos apenas impõem um meio ou uma forma de comprovação. Portanto, a resposta é afirmativa na concepção ampla e tradicional, com a ressalva de que se trata mais precisamente de limitações legais à liberdade dos meios de prova.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Provas\nDificuldade: difícil\nPergunta: O art. 155, parágrafo único, do Código de Processo Penal dispõe que somente quanto ao estado das pessoas serão observadas as restrições estabelecidas na lei civil, e o art. 158 estabelece que, quando a infração deixar vestígios, será indispensável o exame de corpo de delito. Na avaliação do senhor, esses dispositivos constituem concessões ao sistema das provas tarifadas?\nResposta: O processo penal brasileiro adota como regra o sistema da persuasão racional, mas a doutrina tradicional considera esses dispositivos concessões ou resquícios do sistema das provas tarifadas. Isso ocorre porque a lei predetermina o meio necessário para demonstrar certos fatos: as restrições da lei civil quanto ao estado das pessoas e o exame de corpo de delito, direto ou indireto, nas infrações que deixam vestígios. Em sentido técnico mais estrito, porém, parte da doutrina rejeita essa classificação, pois a prova tarifada pressupõe que a lei atribua previamente determinado valor probatório, enquanto esses dispositivos apenas impõem um meio ou uma forma de comprovação. Portanto, a resposta é afirmativa na concepção ampla e tradicional, com a ressalva de que se trata mais precisamente de limitações legais à liberdade dos meios de prova.",
+  "_meta": {
+    "subtema": "Provas tarifadas no CPP",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Regra da persuasão racional",
+      "Resquícios de prova tarifada segundo a doutrina tradicional",
+      "Exigência legal de determinado meio de prova",
+      "Distinção entre tarifação do valor e restrição do meio probatório"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 155, parágrafo único, do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 158 do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_22a3ce9624"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0020",
+    "id_origem": "q0020",
+    "ordem_origem": 20,
+    "bloco_origem": "cadeia_22a3ce9624",
+    "score": 119.55,
+    "reabilitada": false
+  }
+}

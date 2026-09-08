@@ -1,0 +1,63 @@
+{
+  "uid": "prova_2023_02/q0005",
+  "id": "q0005",
+  "prova_id": "prova_2023_02",
+  "ordem": 5,
+  "materia": "Direito Penal",
+  "tema": "Concurso de pessoas",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Duas pessoas, agindo segundo um plano comum de matar a vítima por envenenamento, dividem as tarefas: uma coloca veneno em um copo de água e a outra em uma taça de vinho, sem saber qual bebida será ingerida. A vítima bebe apenas a água e morre. A senhora pode imputar o homicídio consumado também à pessoa que envenenou o vinho? Por quê?",
+  "resposta": "Sim. Havendo decisão conjunta, divisão funcional de tarefas e contribuição de ambos para a execução do plano homicida, o resultado consumado é reciprocamente imputável aos coautores. A norma de extensão do concurso de pessoas permite atribuir a cada coautor a realização conjunta, embora apenas o veneno colocado na água tenha sido causa física imediata da morte. Assim, ambos respondem por homicídio consumado, e não um deles por consumação e o outro por tentativa; sem o vínculo subjetivo e a atuação conjunta, porém, haveria atuações paralelas e o responsável pelo vinho responderia apenas por tentativa.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Concurso de pessoas\nDificuldade: difícil\nPergunta: Duas pessoas, agindo segundo um plano comum de matar a vítima por envenenamento, dividem as tarefas: uma coloca veneno em um copo de água e a outra em uma taça de vinho, sem saber qual bebida será ingerida. A vítima bebe apenas a água e morre. A senhora pode imputar o homicídio consumado também à pessoa que envenenou o vinho? Por quê?\nResposta: Sim. Havendo decisão conjunta, divisão funcional de tarefas e contribuição de ambos para a execução do plano homicida, o resultado consumado é reciprocamente imputável aos coautores. A norma de extensão do concurso de pessoas permite atribuir a cada coautor a realização conjunta, embora apenas o veneno colocado na água tenha sido causa física imediata da morte. Assim, ambos respondem por homicídio consumado, e não um deles por consumação e o outro por tentativa; sem o vínculo subjetivo e a atuação conjunta, porém, haveria atuações paralelas e o responsável pelo vinho responderia apenas por tentativa.",
+  "_meta": {
+    "subtema": "Imputação do resultado em coautoria",
+    "tipo": "principal",
+    "pontos_chave": [
+      "plano comum de matar",
+      "divisão funcional de tarefas",
+      "coautoria",
+      "imputação recíproca do resultado",
+      "distinção entre coautoria e atuações paralelas"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 29, caput, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.95,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.95
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_022745256c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0019",
+    "id_origem": "q0019",
+    "ordem_origem": 19,
+    "bloco_origem": "cadeia_022745256c",
+    "score": 110.6,
+    "reabilitada": false
+  }
+}

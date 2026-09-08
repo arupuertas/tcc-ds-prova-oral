@@ -1,0 +1,56 @@
+{
+  "uid": "prova_2023_03/q0001",
+  "id": "q0001",
+  "prova_id": "prova_2023_03",
+  "ordem": 1,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Processo coletivo",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "O que o senhor entende por demanda de valor esperado negativo no âmbito do processo coletivo?",
+  "resposta": "Demanda de valor esperado negativo é aquela em que o benefício econômico provável da pretensão, considerado também o risco de insucesso, é inferior aos custos necessários para promovê-la. Em geral, o conceito se refere a pretensões individuais de pequena expressão, cujo ajuizamento isolado não seria racional, embora a soma das lesões possa ser relevante. A tutela coletiva permite agregar essas pretensões, diluir os custos de litigância e superar a apatia racional dos titulares.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Processo coletivo\nDificuldade: difícil\nPergunta: O que o senhor entende por demanda de valor esperado negativo no âmbito do processo coletivo?\nResposta: Demanda de valor esperado negativo é aquela em que o benefício econômico provável da pretensão, considerado também o risco de insucesso, é inferior aos custos necessários para promovê-la. Em geral, o conceito se refere a pretensões individuais de pequena expressão, cujo ajuizamento isolado não seria racional, embora a soma das lesões possa ser relevante. A tutela coletiva permite agregar essas pretensões, diluir os custos de litigância e superar a apatia racional dos titulares.",
+  "_meta": {
+    "subtema": "Demanda de valor esperado negativo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Benefício provável inferior ao custo da litigância individual",
+      "Pretensões individualmente pouco expressivas",
+      "Agregação de pretensões pela tutela coletiva",
+      "Superação da apatia racional"
+    ],
+    "fundamentos_legais": [],
+    "gabarito_status": "completo",
+    "confianca": 0.92,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 0,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a6e7e7c9fe"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0014",
+    "id_origem": "q0014",
+    "ordem_origem": 14,
+    "bloco_origem": "cadeia_a6e7e7c9fe",
+    "score": 105.57,
+    "reabilitada": false
+  }
+}

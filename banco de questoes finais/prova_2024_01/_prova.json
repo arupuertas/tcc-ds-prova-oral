@@ -1,0 +1,407 @@
+{
+  "prova_id": "prova_2024_01",
+  "edicao": "LX",
+  "ano": 2024,
+  "grupo_tematico": "IV",
+  "n_questoes_origem": 93,
+  "n_elegiveis": 72,
+  "n_questoes": 36,
+  "n_cadeias": 13,
+  "n_reabilitadas": 2,
+  "score_medio": 114.7,
+  "materias": [
+    "Direito Administrativo",
+    "Direito Civil",
+    "Direito Constitucional",
+    "Direito Eleitoral",
+    "Direito Empresarial",
+    "Direito Penal",
+    "Direito Processual Civil",
+    "Direito Processual Penal",
+    "Direito Tributário",
+    "Direito da Infância e Juventude",
+    "Direito do Consumidor",
+    "Direitos Difusos e Coletivos"
+  ],
+  "distribuicao_materia": {
+    "Direitos Difusos e Coletivos": 9,
+    "Direito Penal": 5,
+    "Direito Processual Penal": 5,
+    "Direito do Consumidor": 4,
+    "Direito Civil": 3,
+    "Direito Constitucional": 2,
+    "Direito Tributário": 2,
+    "Direito Empresarial": 2,
+    "Direito Administrativo": 1,
+    "Direito da Infância e Juventude": 1,
+    "Direito Eleitoral": 1,
+    "Direito Processual Civil": 1
+  },
+  "distribuicao_dificuldade": {
+    "media": 19,
+    "dificil": 15,
+    "facil": 2
+  },
+  "questoes": [
+    {
+      "id": "q0001",
+      "ordem": 1,
+      "momento": "inicio",
+      "materia": "Direito Administrativo",
+      "tema": "Licitações",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "O senhor poderia indicar três hipóteses de dispensa de licitação previstas na Lei nº 14.133/2021?"
+    },
+    {
+      "id": "q0002",
+      "ordem": 2,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Inquérito civil e TAC",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Se o promotor de Justiça celebra termo de ajustamento de conduta no curso de inquérito civil, é necessária a homologação judicial desse compromisso?"
+    },
+    {
+      "id": "q0003",
+      "ordem": 3,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Inquérito civil e TAC",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Na hipótese de termo de ajustamento de conduta celebrado em inquérito civil e posteriormente homologado judicialmente, o controle do arquivamento cabe apenas ao Poder Judiciário ou subsiste o controle interno do Conselho Superior do Ministério Público?"
+    },
+    {
+      "id": "q0004",
+      "ordem": 4,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Inquérito civil e TAC",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "O senhor entende que a homologação judicial do termo de ajustamento de conduta dispensa o controle do Conselho Superior do Ministério Público sobre o arquivamento do inquérito civil?"
+    },
+    {
+      "id": "q0005",
+      "ordem": 5,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Inquérito civil e TAC",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Se um termo de ajustamento de conduta for homologado judicialmente, mas o Conselho Superior do Ministério Público não homologar o arquivamento do inquérito civil, como deve ser solucionada essa aparente divergência?"
+    },
+    {
+      "id": "q0006",
+      "ordem": 6,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Inquérito civil e TAC",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Ao analisar um inquérito civil, o senhor verifica que uma associação de proteção ao meio ambiente, constituída há mais de um ano, firmou extrajudicialmente com uma empresa poluidora um instrumento denominado termo de ajustamento de conduta, cujo conteúdo prevê a reparação integral do dano ambiental. A empresa junta o documento e requer o arquivamento do inquérito civil. Como o senhor deve proceder?"
+    },
+    {
+      "id": "q0007",
+      "ordem": 7,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Inquérito civil e TAC",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "No âmbito de um inquérito civil, uma associação civil de proteção ambiental, constituída há mais de um ano, apresenta ajuste extrajudicial firmado com uma empresa poluidora, denominado termo de ajustamento de conduta e prevendo a reparação integral do dano ambiental. A associação tem legitimidade para celebrar esse TAC extrajudicial?"
+    },
+    {
+      "id": "q0008",
+      "ordem": 8,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Inquérito civil",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Considerando que o ajuste extrajudicial firmado pela associação civil com a empresa poluidora não constitui TAC válido, o senhor arquivaria o inquérito civil com fundamento nesse instrumento?"
+    },
+    {
+      "id": "q0009",
+      "ordem": 9,
+      "momento": "inicio",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "TAC",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Reconhecido que o ajuste extrajudicial firmado pela associação civil não constitui TAC e recusando-se a empresa poluidora a celebrar termo de ajustamento de conduta com o Ministério Público, como o senhor procederia no inquérito civil?"
+    },
+    {
+      "id": "q0010",
+      "ordem": 10,
+      "momento": "meio",
+      "materia": "Direito do Consumidor",
+      "tema": "PROCON-MG",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Em processo administrativo do PROCON-MG instaurado contra empresa de telefonia por infração ao Código de Defesa do Consumidor, a defesa alega bis in idem porque a empresa já sofreu sanção em processo administrativo perante a Anatel. Como o senhor analisaria essa alegação na qualidade de promotor de Justiça e autoridade administrativa do PROCON?"
+    },
+    {
+      "id": "q0011",
+      "ordem": 11,
+      "momento": "meio",
+      "materia": "Direito do Consumidor",
+      "tema": "Sanções administrativas",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Comprovada, em processo administrativo do PROCON-MG, a prática de infração leve, pode o senhor, como autoridade administrativa, aplicar advertência em substituição à multa?"
+    },
+    {
+      "id": "q0012",
+      "ordem": 12,
+      "momento": "meio",
+      "materia": "Direito do Consumidor",
+      "tema": "Fiscalização do PROCON",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "No exercício das funções em promotoria de Justiça única, o senhor recebe representação informando que um supermercado comercializa alimentos sem observar os padrões mínimos de higiene exigidos pelas normas de vigilância sanitária, inclusive com produtos vencidos. Quais providências o senhor adotaria na condição de autoridade administrativa do PROCON-MG?"
+    },
+    {
+      "id": "q0013",
+      "ordem": 13,
+      "momento": "meio",
+      "materia": "Direito do Consumidor",
+      "tema": "Fiscalização do PROCON",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Como o senhor procederia, na condição de autoridade administrativa do PROCON-MG, em relação aos alimentos expostos à comercialização que não atendam aos padrões exigidos pelas normas de vigilância sanitária?"
+    },
+    {
+      "id": "q0014",
+      "ordem": 14,
+      "momento": "meio",
+      "materia": "Direito da Infância e Juventude",
+      "tema": "Proteção de criança vítima",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Um menino de quatro anos teve a mãe vítima de feminicídio praticado pelo pai, que está preso, e passou a residir com os avós maternos, autores de ação de destituição do poder familiar. Diante de aproximações insistentes e potencialmente prejudiciais de familiares paternos, os avós solicitam ao Ministério Público o ajuizamento de medida protetiva que proíba o contato e a aproximação desses familiares em relação à criança e à família materna, inclusive com fundamento na Lei Maria da Penha. Considerando a proteção integral e o direito à convivência familiar, como o senhor avaliaria esse pedido?"
+    },
+    {
+      "id": "q0015",
+      "ordem": 15,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos fundamentais",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Em que consiste o princípio da razoabilidade aplicado aos direitos fundamentais? Apresente também um exemplo concreto de sua incidência."
+    },
+    {
+      "id": "q0016",
+      "ordem": 16,
+      "momento": "meio",
+      "materia": "Direito Constitucional",
+      "tema": "Direitos fundamentais",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Em que consiste a proteção do conteúdo essencial dos direitos fundamentais e como esse instituto se relaciona com o conceito de garantia dupla?"
+    },
+    {
+      "id": "q0017",
+      "ordem": 17,
+      "momento": "meio",
+      "materia": "Direito Tributário",
+      "tema": "Prescrição tributária",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Com o objetivo de aumentar a arrecadação, uma lei estadual pode ampliar o prazo de prescrição dos créditos tributários do respectivo Estado?"
+    },
+    {
+      "id": "q0018",
+      "ordem": 18,
+      "momento": "meio",
+      "materia": "Direito Tributário",
+      "tema": "Decadência tributária",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Há relação entre a contagem do prazo de decadência tributária e as diferentes modalidades de lançamento do crédito tributário?"
+    },
+    {
+      "id": "q0019",
+      "ordem": 19,
+      "momento": "meio",
+      "materia": "Direito Eleitoral",
+      "tema": "Ações eleitorais",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Suponha que um partido político ajuíze ação de impugnação de mandato eletivo e, em seguida, requeira a desistência. O Ministério Público pode assumir o polo ativo e prosseguir com a ação?"
+    },
+    {
+      "id": "q0020",
+      "ordem": 20,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Abuso de autoridade",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A Lei de Abuso de Autoridade criminaliza o cumprimento de mandado de busca e apreensão domiciliar após as 21 horas ou antes das 5 horas. O senhor poderia ampliar esse limite para imputar o crime ao agente público que cumpriu o mandado às 5h30, sob o fundamento de que, naquele local, ainda era noite?"
+    },
+    {
+      "id": "q0021",
+      "ordem": 21,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Concurso de pessoas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "Após prestar contribuição dolosa para um homicídio, mediante a entrega da arma ao executor, o partícipe pode ser exonerado apenas porque desistiu? E qual é a consequência se ele tentar seriamente impedir o resultado, mas não conseguir evitá-lo?"
+    },
+    {
+      "id": "q0022",
+      "ordem": 22,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Erro de proibição",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "No erro de proibição, a dúvida do agente sobre a ilicitude da conduta afasta, por si só, o erro, ou o senhor ainda deve examinar outros aspectos para verificar sua configuração?"
+    },
+    {
+      "id": "q0023",
+      "ordem": 23,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "principal",
+      "pergunta": "Um caminhoneiro trafega com a lanterna traseira queimada e é parado por um guarda rodoviário. O guarda instala uma sinalização luminosa vermelha, autoriza o caminhoneiro a seguir até o próximo posto para realizar o conserto e, antes de o caminhão partir, retira a sinalização, momento em que ocorre uma colisão fatal. Qual discussão esse caso suscita, em relação ao caminhoneiro, no plano da imputação objetiva?"
+    },
+    {
+      "id": "q0024",
+      "ordem": 24,
+      "momento": "meio",
+      "materia": "Direito Penal",
+      "tema": "Imputação objetiva",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "No caso do caminhoneiro com a lanterna traseira queimada, em que o guarda rodoviário assumiu a sinalização do veículo e a retirou antes de o caminhão partir, ocasionando colisão fatal, o senhor imputaria o resultado ao caminhoneiro em razão da causalidade material ou afastaria sua responsabilidade com fundamento na imputação objetiva?"
+    },
+    {
+      "id": "q0025",
+      "ordem": 25,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Lei de Drogas",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "A que finalidade se destina o laudo preliminar de constatação previsto na Lei de Drogas?"
+    },
+    {
+      "id": "q0026",
+      "ordem": 26,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Lei de Drogas",
+      "dificuldade": "facil",
+      "tipo": "desdobramento",
+      "pergunta": "Considerando especificamente o laudo preliminar previsto na Lei de Drogas, e não o laudo toxicológico definitivo, o senhor mantém que ele identifica a substância e estabelece a materialidade? Esclareça a diferença de função entre ambos."
+    },
+    {
+      "id": "q0027",
+      "ordem": 27,
+      "momento": "meio",
+      "materia": "Direito Processual Penal",
+      "tema": "Lei de Drogas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "O laudo preliminar de constatação dispensa a produção do laudo toxicológico definitivo? Em caso afirmativo, em quais hipóteses isso é admitido?"
+    },
+    {
+      "id": "q0028",
+      "ordem": 28,
+      "momento": "fim",
+      "materia": "Direito Processual Penal",
+      "tema": "Lei de Drogas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "O senhor considera possível a condenação pelo crime de tráfico de drogas sem a existência de qualquer laudo pericial sobre a substância?"
+    },
+    {
+      "id": "q0029",
+      "ordem": 29,
+      "momento": "fim",
+      "materia": "Direito Processual Penal",
+      "tema": "Prova no tráfico de drogas",
+      "dificuldade": "dificil",
+      "tipo": "desdobramento",
+      "pergunta": "É possível condenar alguém por tráfico de drogas mesmo que nenhuma substância entorpecente tenha sido apreendida e vinculada ao acusado?"
+    },
+    {
+      "id": "q0030",
+      "ordem": 30,
+      "momento": "fim",
+      "materia": "Direito Empresarial",
+      "tema": "Microempreendedor individual",
+      "dificuldade": "facil",
+      "tipo": "principal",
+      "pergunta": "O microempreendedor individual poderá contratar empregados?"
+    },
+    {
+      "id": "q0031",
+      "ordem": 31,
+      "momento": "fim",
+      "materia": "Direito Empresarial",
+      "tema": "Microempreendedor individual",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Há limitação quanto ao número de empregados que o microempreendedor individual pode contratar sem perder esse enquadramento?"
+    },
+    {
+      "id": "q0032",
+      "ordem": 32,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Posse",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Quando mais de uma pessoa se afirmar possuidora da mesma coisa, quem deverá permanecer provisoriamente na posse?"
+    },
+    {
+      "id": "q0033",
+      "ordem": 33,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Capacidade civil",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "O senhor poderia indicar todas as hipóteses de cessação da incapacidade dos menores previstas no Código Civil?"
+    },
+    {
+      "id": "q0034",
+      "ordem": 34,
+      "momento": "fim",
+      "materia": "Direito Civil",
+      "tema": "Direito das Sucessões",
+      "dificuldade": "media",
+      "tipo": "principal",
+      "pergunta": "Qual é a consequência jurídica para o herdeiro que dolosamente sonega bens da herança que estejam em seu poder?"
+    },
+    {
+      "id": "q0035",
+      "ordem": 35,
+      "momento": "fim",
+      "materia": "Direito Processual Civil",
+      "tema": "Execução",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Em uma execução de alimentos em favor de incapaz, quais providências de pesquisa e constrição patrimonial o senhor poderia requerer, como membro do Ministério Público interveniente, antes da citação do executado?"
+    },
+    {
+      "id": "q0036",
+      "ordem": 36,
+      "momento": "fim",
+      "materia": "Direitos Difusos e Coletivos",
+      "tema": "Termo de ajustamento de conduta",
+      "dificuldade": "media",
+      "tipo": "desdobramento",
+      "pergunta": "Ao ajuizar ação de conhecimento apesar da existência de termo de ajustamento de conduta, o Ministério Público pode requerer tutela liminar com fundamento nesse ajuste? O senhor esclareça."
+    }
+  ]
+}

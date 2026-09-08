@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2024_01/q0003",
+  "id": "q0003",
+  "prova_id": "prova_2024_01",
+  "ordem": 3,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Inquérito civil e TAC",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Na hipótese de termo de ajustamento de conduta celebrado em inquérito civil e posteriormente homologado judicialmente, o controle do arquivamento cabe apenas ao Poder Judiciário ou subsiste o controle interno do Conselho Superior do Ministério Público?",
+  "resposta": "Subsiste o controle interno do Conselho Superior do Ministério Público, pois a homologação judicial do acordo e a homologação do arquivamento do inquérito civil têm objetos distintos. O Poder Judiciário controla a legalidade da autocomposição que lhe foi submetida e sua homologação confere ao acordo eficácia de título judicial. O Conselho Superior, por sua vez, examina a promoção de arquivamento e pode homologá-la ou recusá-la, mas não pode desconstituir administrativamente o acordo já homologado por decisão judicial. Se não homologar o arquivamento, deverá designar outro órgão do Ministério Público para adotar a providência judicial cabível quanto à tutela coletiva ainda não satisfeita.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Inquérito civil e TAC\nDificuldade: difícil\nPergunta: Na hipótese de termo de ajustamento de conduta celebrado em inquérito civil e posteriormente homologado judicialmente, o controle do arquivamento cabe apenas ao Poder Judiciário ou subsiste o controle interno do Conselho Superior do Ministério Público?\nResposta: Subsiste o controle interno do Conselho Superior do Ministério Público, pois a homologação judicial do acordo e a homologação do arquivamento do inquérito civil têm objetos distintos. O Poder Judiciário controla a legalidade da autocomposição que lhe foi submetida e sua homologação confere ao acordo eficácia de título judicial. O Conselho Superior, por sua vez, examina a promoção de arquivamento e pode homologá-la ou recusá-la, mas não pode desconstituir administrativamente o acordo já homologado por decisão judicial. Se não homologar o arquivamento, deverá designar outro órgão do Ministério Público para adotar a providência judicial cabível quanto à tutela coletiva ainda não satisfeita.",
+  "_meta": {
+    "subtema": "Controle do Conselho Superior e controle judicial",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Controles com objetos distintos",
+      "Controle judicial do acordo",
+      "Controle interno do arquivamento",
+      "Impossibilidade de revisão administrativa da decisão judicial",
+      "Designação de outro órgão em caso de recusa do arquivamento"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 9º, §§ 1º, 3º e 4º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 515, III, do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 515 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_581a26884e"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0020",
+    "id_origem": "q0020",
+    "ordem_origem": 20,
+    "bloco_origem": "cadeia_581a26884e",
+    "score": 116.62,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "uid": "prova_2023_02/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2023_02",
+  "ordem": 17,
+  "materia": "Direito Institucional do Ministério Público",
+  "tema": "Legitimidade do Ministério Público",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Nas ações coletivas destinadas à tutela de direitos individuais, o Ministério Público possui legitimidade para atuar? Qual é o fundamento dessa legitimidade?",
+  "resposta": "O Ministério Público possui legitimidade para a tutela coletiva de direitos individuais indisponíveis e também de direitos individuais homogêneos que apresentem relevante interesse social. A legitimidade decorre de sua missão constitucional de defesa da ordem jurídica e dos interesses sociais e individuais indisponíveis, conjugada com a autorização conferida pela legislação de tutela coletiva. A disponibilidade dos direitos individuais homogêneos não afasta, por si só, a atuação ministerial, desde que a controvérsia transcenda os interesses meramente particulares e revele relevância social. Não há, contudo, legitimidade para a defesa coletiva de direitos individuais disponíveis, heterogêneos e desprovidos dessa relevância.",
+  "embedding_text": "Matéria: Direito Institucional do Ministério Público\nTema: Legitimidade do Ministério Público\nDificuldade: média\nPergunta: Nas ações coletivas destinadas à tutela de direitos individuais, o Ministério Público possui legitimidade para atuar? Qual é o fundamento dessa legitimidade?\nResposta: O Ministério Público possui legitimidade para a tutela coletiva de direitos individuais indisponíveis e também de direitos individuais homogêneos que apresentem relevante interesse social. A legitimidade decorre de sua missão constitucional de defesa da ordem jurídica e dos interesses sociais e individuais indisponíveis, conjugada com a autorização conferida pela legislação de tutela coletiva. A disponibilidade dos direitos individuais homogêneos não afasta, por si só, a atuação ministerial, desde que a controvérsia transcenda os interesses meramente particulares e revele relevância social. Não há, contudo, legitimidade para a defesa coletiva de direitos individuais disponíveis, heterogêneos e desprovidos dessa relevância.",
+  "_meta": {
+    "subtema": "Ações coletivas sobre direitos individuais",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Legitimidade para direitos individuais indisponíveis",
+      "Tutela de direitos individuais homogêneos socialmente relevantes",
+      "Disponibilidade do direito não afasta automaticamente a legitimidade",
+      "Inexistência de legitimidade para interesses meramente particulares"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 127 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 129, III, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "arts. 81, parágrafo único, III, e 82, I, do Código de Defesa do Consumidor",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 81 — CDC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c78be4fcbc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0031",
+    "id_origem": "q0031",
+    "ordem_origem": 31,
+    "bloco_origem": "cadeia_c78be4fcbc",
+    "score": 112.74,
+    "reabilitada": false
+  }
+}

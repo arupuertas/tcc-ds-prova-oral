@@ -1,0 +1,69 @@
+{
+  "uid": "prova_2023_04/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2023_04",
+  "ordem": 20,
+  "materia": "Direito Administrativo",
+  "tema": "Lei Anticorrupção",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "Nos casos previstos na Lei Anticorrupção, é cabível a desconsideração da personalidade jurídica no âmbito administrativo?",
+  "resposta": "Sim, a Lei Anticorrupção autoriza expressamente a desconsideração da personalidade jurídica no próprio âmbito administrativo, sem necessidade de prévia decisão judicial. Ela é cabível quando a personalidade jurídica for utilizada com abuso de direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos na lei ou para provocar confusão patrimonial. Nessa hipótese, os efeitos das sanções aplicadas à pessoa jurídica podem ser estendidos aos seus administradores e aos sócios com poderes de administração. A medida deve ser adotada no processo administrativo com observância do contraditório e da ampla defesa.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Lei Anticorrupção\nDificuldade: média\nPergunta: Nos casos previstos na Lei Anticorrupção, é cabível a desconsideração da personalidade jurídica no âmbito administrativo?\nResposta: Sim, a Lei Anticorrupção autoriza expressamente a desconsideração da personalidade jurídica no próprio âmbito administrativo, sem necessidade de prévia decisão judicial. Ela é cabível quando a personalidade jurídica for utilizada com abuso de direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos na lei ou para provocar confusão patrimonial. Nessa hipótese, os efeitos das sanções aplicadas à pessoa jurídica podem ser estendidos aos seus administradores e aos sócios com poderes de administração. A medida deve ser adotada no processo administrativo com observância do contraditório e da ampla defesa.",
+  "_meta": {
+    "subtema": "Desconsideração da personalidade jurídica no âmbito administrativo",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Cabimento da desconsideração administrativa",
+      "Abuso de direito ou confusão patrimonial como pressupostos",
+      "Extensão das sanções a administradores e sócios gestores",
+      "Observância do contraditório e da ampla defesa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "Lei nº 12.846/2013",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 14 da Lei nº 12.846/2013",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 14 — Lei 12.846"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_13edd68be7"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0042",
+    "id_origem": "q0042",
+    "ordem_origem": 42,
+    "bloco_origem": "cadeia_13edd68be7",
+    "score": 117.54,
+    "reabilitada": false
+  }
+}

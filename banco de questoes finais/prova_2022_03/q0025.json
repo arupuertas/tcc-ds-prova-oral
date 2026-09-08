@@ -1,0 +1,56 @@
+{
+  "uid": "prova_2022_03/q0025",
+  "id": "q0025",
+  "prova_id": "prova_2022_03",
+  "ordem": 25,
+  "materia": "Direito Administrativo",
+  "tema": "Servidores públicos",
+  "dificuldade": "facil",
+  "momento": "fim",
+  "pergunta": "A senhora poderia explicar em que consiste o instituto da estabilização financeira aplicável aos servidores públicos?",
+  "resposta": "A estabilização financeira é o instituto pelo qual o servidor, após exercer por determinado período cargo em comissão ou função de confiança, passa a conservar parcela correspondente à respectiva vantagem remuneratória mesmo depois de deixar o exercício da função. Seus requisitos e a forma de cálculo eram definidos pela legislação do ente federativo. O instituto não se confunde com a estabilidade no serviço público, pois diz respeito à incorporação remuneratória, e não à permanência no cargo.",
+  "embedding_text": "Matéria: Direito Administrativo\nTema: Servidores públicos\nDificuldade: fácil\nPergunta: A senhora poderia explicar em que consiste o instituto da estabilização financeira aplicável aos servidores públicos?\nResposta: A estabilização financeira é o instituto pelo qual o servidor, após exercer por determinado período cargo em comissão ou função de confiança, passa a conservar parcela correspondente à respectiva vantagem remuneratória mesmo depois de deixar o exercício da função. Seus requisitos e a forma de cálculo eram definidos pela legislação do ente federativo. O instituto não se confunde com a estabilidade no serviço público, pois diz respeito à incorporação remuneratória, e não à permanência no cargo.",
+  "_meta": {
+    "subtema": "Estabilização financeira",
+    "tipo": "principal",
+    "pontos_chave": [
+      "incorporação de vantagem temporária",
+      "exercício de cargo em comissão ou função de confiança",
+      "manutenção da parcela após o desligamento da função",
+      "distinção em relação à estabilidade no serviço público"
+    ],
+    "fundamentos_legais": [],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 0,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_dff31dd57d"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0059",
+    "id_origem": "q0059",
+    "ordem_origem": 59,
+    "bloco_origem": "cadeia_dff31dd57d",
+    "score": 108.32,
+    "reabilitada": false
+  }
+}

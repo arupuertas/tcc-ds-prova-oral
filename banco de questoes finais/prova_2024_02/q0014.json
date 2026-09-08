@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2024_02/q0014",
+  "id": "q0014",
+  "prova_id": "prova_2024_02",
+  "ordem": 14,
+  "materia": "Direito Processual Penal",
+  "tema": "Medidas cautelares reais",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "No âmbito das medidas assecuratórias do processo penal, é possível ao juiz decretar de ofício o sequestro de bens?",
+  "resposta": "Sim. O Código de Processo Penal autoriza expressamente o juiz a ordenar de ofício o sequestro, em qualquer fase do processo e até mesmo antes do oferecimento da denúncia ou da queixa, sem prejuízo da possibilidade de requerimento do Ministério Público ou do ofendido e de representação da autoridade policial. Há corrente doutrinária que questiona a compatibilidade dessa iniciativa com a estrutura acusatória reforçada pela Lei nº 13.964/2019, enquanto outra corrente ressalta que a autorização específica permanece vigente e não se confunde com a disciplina das cautelares pessoais. Pela literalidade da legislação, portanto, a decretação de ofício é possível, desde que presentes indícios veementes da proveniência ilícita dos bens.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Medidas cautelares reais\nDificuldade: difícil\nPergunta: No âmbito das medidas assecuratórias do processo penal, é possível ao juiz decretar de ofício o sequestro de bens?\nResposta: Sim. O Código de Processo Penal autoriza expressamente o juiz a ordenar de ofício o sequestro, em qualquer fase do processo e até mesmo antes do oferecimento da denúncia ou da queixa, sem prejuízo da possibilidade de requerimento do Ministério Público ou do ofendido e de representação da autoridade policial. Há corrente doutrinária que questiona a compatibilidade dessa iniciativa com a estrutura acusatória reforçada pela Lei nº 13.964/2019, enquanto outra corrente ressalta que a autorização específica permanece vigente e não se confunde com a disciplina das cautelares pessoais. Pela literalidade da legislação, portanto, a decretação de ofício é possível, desde que presentes indícios veementes da proveniência ilícita dos bens.",
+  "_meta": {
+    "subtema": "Decretação de ofício do sequestro",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Autorização legal expressa para decretação de ofício",
+      "Possibilidade antes ou depois do oferecimento da acusação",
+      "Legitimidade do Ministério Público, do ofendido e da autoridade policial",
+      "Divergência relacionada ao sistema acusatório",
+      "Indícios veementes da proveniência ilícita"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 127 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 126 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "Lei nº 13.964/2019",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 126 — CPP",
+        "art. 127 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.92
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_1159644490"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_02/q0047",
+    "id_origem": "q0047",
+    "ordem_origem": 47,
+    "bloco_origem": "cadeia_1159644490",
+    "score": 118.4,
+    "reabilitada": false
+  }
+}

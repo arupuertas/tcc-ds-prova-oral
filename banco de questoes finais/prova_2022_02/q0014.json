@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_02/q0014",
+  "id": "q0014",
+  "prova_id": "prova_2022_02",
+  "ordem": 14,
+  "materia": "Direito Penal",
+  "tema": "Teoria do dolo",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "No caso de dolo geral em que o agente, após tentar matar a vítima, acredita que ela esteja morta e a enterra, sobrevindo a morte por asfixia, o senhor, como Promotor de Justiça, imputaria homicídio doloso consumado ou tentativa de homicídio em concurso com homicídio culposo?",
+  "resposta": "Há divergência doutrinária. Pela concepção tradicional do dolus generalis, imputa-se homicídio doloso consumado, pois o erro sucessivo sobre o curso causal é irrelevante quando o resultado querido ocorre no contexto unitário da execução. Outra corrente, especialmente se considerar essencial o desvio causal e autônomo o segundo ato, imputa tentativa de homicídio pelo primeiro comportamento e homicídio culposo pelo segundo, caso estejam presentes a previsibilidade objetiva e a violação do dever de cuidado, em concurso material. No exemplo clássico, imputaria homicídio doloso consumado se o enterro integrar a sequência imediatamente destinada a encobrir a morte e a alteração do curso causal não for essencial; uma ruptura relevante entre o curso causal representado e o efetivamente ocorrido conduziria à segunda solução.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Teoria do dolo\nDificuldade: difícil\nPergunta: No caso de dolo geral em que o agente, após tentar matar a vítima, acredita que ela esteja morta e a enterra, sobrevindo a morte por asfixia, o senhor, como Promotor de Justiça, imputaria homicídio doloso consumado ou tentativa de homicídio em concurso com homicídio culposo?\nResposta: Há divergência doutrinária. Pela concepção tradicional do dolus generalis, imputa-se homicídio doloso consumado, pois o erro sucessivo sobre o curso causal é irrelevante quando o resultado querido ocorre no contexto unitário da execução. Outra corrente, especialmente se considerar essencial o desvio causal e autônomo o segundo ato, imputa tentativa de homicídio pelo primeiro comportamento e homicídio culposo pelo segundo, caso estejam presentes a previsibilidade objetiva e a violação do dever de cuidado, em concurso material. No exemplo clássico, imputaria homicídio doloso consumado se o enterro integrar a sequência imediatamente destinada a encobrir a morte e a alteração do curso causal não for essencial; uma ruptura relevante entre o curso causal representado e o efetivamente ocorrido conduziria à segunda solução.",
+  "_meta": {
+    "subtema": "Imputação do resultado no dolo geral",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "divergência doutrinária",
+      "homicídio doloso consumado pela teoria do dolus generalis",
+      "irrelevância do desvio causal não essencial",
+      "tentativa de homicídio e homicídio culposo diante de desvio essencial",
+      "análise da unidade da execução e da previsibilidade"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 14, II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 18, I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 69 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 14 — CP",
+        "art. 18 — CP",
+        "art. 69 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_01a6849840"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0030",
+    "id_origem": "q0030",
+    "ordem_origem": 30,
+    "bloco_origem": "cadeia_01a6849840",
+    "score": 121.79,
+    "reabilitada": false
+  }
+}

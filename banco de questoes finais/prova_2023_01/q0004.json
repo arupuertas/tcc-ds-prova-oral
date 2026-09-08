@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2023_01/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2023_01",
+  "ordem": 4,
+  "materia": "Direito Constitucional",
+  "tema": "Princípio da inafastabilidade",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "O senhor poderia indicar se houve, no passado remoto ou recente, norma infraconstitucional considerada violadora do princípio da inafastabilidade da jurisdição?",
+  "resposta": "Sim. Um exemplo recente foi a regra da Lei do Mandado de Segurança que, no mandado de segurança coletivo, condicionava a concessão de liminar à prévia audiência do representante judicial da pessoa jurídica de direito público, a ser realizada em setenta e duas horas. O Supremo Tribunal Federal declarou a regra inconstitucional porque sua aplicação obrigatória poderia frustrar a tutela urgente e impedir a apreciação judicial efetiva de ameaça a direito, hipótese em que o contraditório pode ser diferido. No mesmo julgamento, também foram afastadas vedações legais genéricas à concessão de liminares em determinadas matérias, pois o legislador não pode eliminar de antemão a possibilidade de tutela jurisdicional adequada ao caso concreto.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Princípio da inafastabilidade\nDificuldade: difícil\nPergunta: O senhor poderia indicar se houve, no passado remoto ou recente, norma infraconstitucional considerada violadora do princípio da inafastabilidade da jurisdição?\nResposta: Sim. Um exemplo recente foi a regra da Lei do Mandado de Segurança que, no mandado de segurança coletivo, condicionava a concessão de liminar à prévia audiência do representante judicial da pessoa jurídica de direito público, a ser realizada em setenta e duas horas. O Supremo Tribunal Federal declarou a regra inconstitucional porque sua aplicação obrigatória poderia frustrar a tutela urgente e impedir a apreciação judicial efetiva de ameaça a direito, hipótese em que o contraditório pode ser diferido. No mesmo julgamento, também foram afastadas vedações legais genéricas à concessão de liminares em determinadas matérias, pois o legislador não pode eliminar de antemão a possibilidade de tutela jurisdicional adequada ao caso concreto.",
+  "_meta": {
+    "subtema": "Violação por norma infraconstitucional",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Inconstitucionalidade da audiência prévia obrigatória antes de liminar em mandado de segurança coletivo",
+      "Possibilidade de contraditório diferido em situações urgentes",
+      "Vedação a restrições legais absolutas à tutela provisória",
+      "Proteção da tutela jurisdicional efetiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, XXXV, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 22, § 2º, da Lei nº 12.016/2009",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 7º, § 2º, da Lei nº 12.016/2009",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.94,
+    "citacoes_nao_ancoradas": [
+      "Lei 12.016"
+    ],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [
+        "Lei 12.016"
+      ],
+      "nao_ancoradas_fundamentos": [
+        "Lei 12.016",
+        "art. 22 — Lei 12.016",
+        "art. 7 — Lei 12.016"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": true,
+    "motivos_revisao": [
+      "citacao_nao_ancorada"
+    ],
+    "origem": {
+      "bloco_id": "cadeia_833e232842"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0004",
+    "id_origem": "q0004",
+    "ordem_origem": 4,
+    "bloco_origem": "cadeia_833e232842",
+    "score": 122.4,
+    "reabilitada": true
+  }
+}

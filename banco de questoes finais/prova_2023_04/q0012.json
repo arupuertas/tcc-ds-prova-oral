@@ -1,0 +1,72 @@
+{
+  "uid": "prova_2023_04/q0012",
+  "id": "q0012",
+  "prova_id": "prova_2023_04",
+  "ordem": 12,
+  "materia": "Direito Processual Penal",
+  "tema": "Princípios processuais penais",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "No procedimento comum, é vedado à defesa utilizar argumentos metajurídicos, de natureza moral ou religiosa, para pedir ao juiz togado uma absolvição por clemência?",
+  "resposta": "Não existe vedação geral a que a defesa apresente considerações morais, sociais ou religiosas, especialmente no exercício da autodefesa, desde que respeitados os limites legais. Contudo, diversamente dos jurados, o juiz togado está sujeito ao dever de fundamentação jurídica e somente pode absolver com base em uma hipótese admitida pelo ordenamento. Assim, a clemência não constitui fundamento autônomo para a absolvição no procedimento comum, e um argumento metajurídico somente pode repercutir na decisão quando tiver relevância para uma categoria jurídica aplicável ao caso. A impossibilidade de absolvição por mera clemência decorre da legalidade e do dever de motivação, e não de eventual dificuldade de contraditório pelo Ministério Público.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Princípios processuais penais\nDificuldade: média\nPergunta: No procedimento comum, é vedado à defesa utilizar argumentos metajurídicos, de natureza moral ou religiosa, para pedir ao juiz togado uma absolvição por clemência?\nResposta: Não existe vedação geral a que a defesa apresente considerações morais, sociais ou religiosas, especialmente no exercício da autodefesa, desde que respeitados os limites legais. Contudo, diversamente dos jurados, o juiz togado está sujeito ao dever de fundamentação jurídica e somente pode absolver com base em uma hipótese admitida pelo ordenamento. Assim, a clemência não constitui fundamento autônomo para a absolvição no procedimento comum, e um argumento metajurídico somente pode repercutir na decisão quando tiver relevância para uma categoria jurídica aplicável ao caso. A impossibilidade de absolvição por mera clemência decorre da legalidade e do dever de motivação, e não de eventual dificuldade de contraditório pelo Ministério Público.",
+  "_meta": {
+    "subtema": "Teses metajurídicas no procedimento comum",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "inexistência de proibição geral do argumento metajurídico",
+      "dever de fundamentação do juiz togado",
+      "hipóteses legais de absolvição",
+      "impossibilidade de absolvição por mera clemência",
+      "distinção em relação ao Tribunal do Júri"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 93, IX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 386 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CPP",
+        "art. 386 — CPP",
+        "art. 93 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_11b9407f44"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0016",
+    "id_origem": "q0016",
+    "ordem_origem": 16,
+    "bloco_origem": "cadeia_11b9407f44",
+    "score": 112.64,
+    "reabilitada": false
+  }
+}

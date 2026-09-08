@@ -1,0 +1,73 @@
+{
+  "uid": "prova_2024_01/q0006",
+  "id": "q0006",
+  "prova_id": "prova_2024_01",
+  "ordem": 6,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Inquérito civil e TAC",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "Ao analisar um inquérito civil, o senhor verifica que uma associação de proteção ao meio ambiente, constituída há mais de um ano, firmou extrajudicialmente com uma empresa poluidora um instrumento denominado termo de ajustamento de conduta, cujo conteúdo prevê a reparação integral do dano ambiental. A empresa junta o documento e requer o arquivamento do inquérito civil. Como o senhor deve proceder?",
+  "resposta": "Embora possa ter legitimidade para propor ação civil pública, a associação não é órgão público legitimado a tomar termo de ajustamento de conduta na forma da Lei da Ação Civil Pública. O documento não produz, somente por essa denominação, os efeitos próprios do TAC previsto nessa lei, embora possa valer como negócio jurídico privado e como elemento de prova. O promotor deverá avaliar autonomamente a extensão do dano, a suficiência das obrigações e seu efetivo cumprimento, não sendo obrigado a arquivar o inquérito pela simples juntada do acordo. Se ainda houver obrigações pendentes, deverá prosseguir na investigação e, conforme o caso, tomar diretamente compromisso da empresa ou ajuizar a medida cabível. Verificada a efetiva reparação integral e a inexistência de qualquer tutela residual, poderá promover fundamentadamente o arquivamento, submetendo-o ao Conselho Superior do Ministério Público.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Inquérito civil e TAC\nDificuldade: difícil\nPergunta: Ao analisar um inquérito civil, o senhor verifica que uma associação de proteção ao meio ambiente, constituída há mais de um ano, firmou extrajudicialmente com uma empresa poluidora um instrumento denominado termo de ajustamento de conduta, cujo conteúdo prevê a reparação integral do dano ambiental. A empresa junta o documento e requer o arquivamento do inquérito civil. Como o senhor deve proceder?\nResposta: Embora possa ter legitimidade para propor ação civil pública, a associação não é órgão público legitimado a tomar termo de ajustamento de conduta na forma da Lei da Ação Civil Pública. O documento não produz, somente por essa denominação, os efeitos próprios do TAC previsto nessa lei, embora possa valer como negócio jurídico privado e como elemento de prova. O promotor deverá avaliar autonomamente a extensão do dano, a suficiência das obrigações e seu efetivo cumprimento, não sendo obrigado a arquivar o inquérito pela simples juntada do acordo. Se ainda houver obrigações pendentes, deverá prosseguir na investigação e, conforme o caso, tomar diretamente compromisso da empresa ou ajuizar a medida cabível. Verificada a efetiva reparação integral e a inexistência de qualquer tutela residual, poderá promover fundamentadamente o arquivamento, submetendo-o ao Conselho Superior do Ministério Público.",
+  "_meta": {
+    "subtema": "TAC firmado por associação ambiental",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Associação legitimada à ação civil pública não é órgão público",
+      "Ausência de legitimidade para tomar TAC extrajudicial",
+      "Autonomia da investigação ministerial",
+      "Verificação do cumprimento e da reparação integral",
+      "Arquivamento fundamentado sujeito ao Conselho Superior"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, V, alíneas a e b, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 9º, caput e § 1º, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.93,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_581a26884e"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0023",
+    "id_origem": "q0023",
+    "ordem_origem": 23,
+    "bloco_origem": "cadeia_581a26884e",
+    "score": 113.6,
+    "reabilitada": false
+  }
+}

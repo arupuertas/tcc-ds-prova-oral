@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2022_03/q0002",
+  "id": "q0002",
+  "prova_id": "prova_2022_03",
+  "ordem": 2,
+  "materia": "Direito Processual Penal",
+  "tema": "Provas em espécie",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Partindo da premissa de que foram integralmente observadas as formalidades do art. 226 do Código de Processo Penal, o reconhecimento pessoal realizado em juízo por videoconferência possui valor equivalente ao reconhecimento presencial?",
+  "resposta": "Em tese, o reconhecimento por videoconferência é admissível e não possui valor inferior apenas por ter sido realizado remotamente, desde que sejam preservadas todas as formalidades e garantias do reconhecimento pessoal. O próprio Código de Processo Penal contempla a utilização da videoconferência em outros atos processuais e a menciona expressamente para o reconhecimento de pessoas e coisas quando o ato depender da participação de pessoa presa. Devem ser assegurados alinhamento adequado, semelhança entre os figurantes, ausência de induzimento, qualidade suficiente de som e imagem, incomunicabilidade do reconhecedor e registro integral do ato. Como não há tarifação da prova, equivalência significa ausência de desvalorização abstrata pelo meio remoto, e não identidade necessária de força persuasiva em qualquer caso concreto. Caberá ao juiz avaliar fundamentadamente a confiabilidade do reconhecimento e eventuais limitações técnicas da videoconferência em conjunto com as demais provas.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Provas em espécie\nDificuldade: média\nPergunta: Partindo da premissa de que foram integralmente observadas as formalidades do art. 226 do Código de Processo Penal, o reconhecimento pessoal realizado em juízo por videoconferência possui valor equivalente ao reconhecimento presencial?\nResposta: Em tese, o reconhecimento por videoconferência é admissível e não possui valor inferior apenas por ter sido realizado remotamente, desde que sejam preservadas todas as formalidades e garantias do reconhecimento pessoal. O próprio Código de Processo Penal contempla a utilização da videoconferência em outros atos processuais e a menciona expressamente para o reconhecimento de pessoas e coisas quando o ato depender da participação de pessoa presa. Devem ser assegurados alinhamento adequado, semelhança entre os figurantes, ausência de induzimento, qualidade suficiente de som e imagem, incomunicabilidade do reconhecedor e registro integral do ato. Como não há tarifação da prova, equivalência significa ausência de desvalorização abstrata pelo meio remoto, e não identidade necessária de força persuasiva em qualquer caso concreto. Caberá ao juiz avaliar fundamentadamente a confiabilidade do reconhecimento e eventuais limitações técnicas da videoconferência em conjunto com as demais provas.",
+  "_meta": {
+    "subtema": "Reconhecimento pessoal por videoconferência",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Admissibilidade do reconhecimento por videoconferência",
+      "Observância integral do art. 226 do CPP",
+      "Ausência de inferioridade probatória automática",
+      "Necessidade de condições técnicas adequadas e ausência de induzimento",
+      "Valoração racional conforme as circunstâncias concretas"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 226 do Código de Processo Penal",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 185, § 8º, do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 155 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.85,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 155 — CPP",
+        "art. 185 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.86
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7cfd9d9213"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0011",
+    "id_origem": "q0011",
+    "ordem_origem": 11,
+    "bloco_origem": "cadeia_7cfd9d9213",
+    "score": 115.53,
+    "reabilitada": false
+  }
+}

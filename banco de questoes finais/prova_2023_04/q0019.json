@@ -1,0 +1,76 @@
+{
+  "uid": "prova_2023_04/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2023_04",
+  "ordem": 19,
+  "materia": "Direitos Humanos",
+  "tema": "Direitos da pessoa idosa",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A senhora considera que a prioridade legal conferida à pessoa idosa constitui privilégio? Justifique.",
+  "resposta": "Não, a prioridade legal conferida à pessoa idosa não constitui privilégio, mas concretização da igualdade material. O tratamento diferenciado é objetivamente justificado pelas vulnerabilidades associadas ao envelhecimento e busca assegurar dignidade, autonomia, participação social e efetivo acesso a direitos. Trata-se de medida de proteção determinada pela Constituição e pela legislação, destinada a compensar desigualdades concretas e não a estabelecer vantagem arbitrária.",
+  "embedding_text": "Matéria: Direitos Humanos\nTema: Direitos da pessoa idosa\nDificuldade: média\nPergunta: A senhora considera que a prioridade legal conferida à pessoa idosa constitui privilégio? Justifique.\nResposta: Não, a prioridade legal conferida à pessoa idosa não constitui privilégio, mas concretização da igualdade material. O tratamento diferenciado é objetivamente justificado pelas vulnerabilidades associadas ao envelhecimento e busca assegurar dignidade, autonomia, participação social e efetivo acesso a direitos. Trata-se de medida de proteção determinada pela Constituição e pela legislação, destinada a compensar desigualdades concretas e não a estabelecer vantagem arbitrária.",
+  "_meta": {
+    "subtema": "Prioridade e isonomia",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Aplicação da igualdade material",
+      "Vulnerabilidade associada ao envelhecimento",
+      "Tratamento diferenciado com fundamento constitucional e finalidade protetiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, caput, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 230 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 3º da Lei nº 10.741/2003",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "Lei 10.741",
+        "art. 230 — CF",
+        "art. 3 — Lei 10.741",
+        "art. 5 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e9c37ceb8c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0041",
+    "id_origem": "q0041",
+    "ordem_origem": 41,
+    "bloco_origem": "cadeia_e9c37ceb8c",
+    "score": 115.13,
+    "reabilitada": false
+  }
+}

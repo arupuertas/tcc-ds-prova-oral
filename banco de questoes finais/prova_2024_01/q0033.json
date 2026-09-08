@@ -1,0 +1,66 @@
+{
+  "uid": "prova_2024_01/q0033",
+  "id": "q0033",
+  "prova_id": "prova_2024_01",
+  "ordem": 33,
+  "materia": "Direito Civil",
+  "tema": "Capacidade civil",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "O senhor poderia indicar todas as hipóteses de cessação da incapacidade dos menores previstas no Código Civil?",
+  "resposta": "A incapacidade decorrente da menoridade cessa ordinariamente aos dezoito anos completos. Antes disso, pode cessar pela emancipação voluntária, concedida por ambos os pais ou por um deles na falta do outro mediante instrumento público, ou pela emancipação judicial, por sentença, ouvido o tutor, desde que o menor tenha dezesseis anos completos. Também cessa pelo casamento, pelo exercício de emprego público efetivo e pela colação de grau em curso de ensino superior. Por fim, há emancipação pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde que, em função deles, o menor com dezesseis anos completos tenha economia própria.",
+  "embedding_text": "Matéria: Direito Civil\nTema: Capacidade civil\nDificuldade: média\nPergunta: O senhor poderia indicar todas as hipóteses de cessação da incapacidade dos menores previstas no Código Civil?\nResposta: A incapacidade decorrente da menoridade cessa ordinariamente aos dezoito anos completos. Antes disso, pode cessar pela emancipação voluntária, concedida por ambos os pais ou por um deles na falta do outro mediante instrumento público, ou pela emancipação judicial, por sentença, ouvido o tutor, desde que o menor tenha dezesseis anos completos. Também cessa pelo casamento, pelo exercício de emprego público efetivo e pela colação de grau em curso de ensino superior. Por fim, há emancipação pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde que, em função deles, o menor com dezesseis anos completos tenha economia própria.",
+  "_meta": {
+    "subtema": "Cessação da incapacidade de menores",
+    "tipo": "principal",
+    "pontos_chave": [
+      "maioridade aos dezoito anos",
+      "emancipação voluntária ou judicial",
+      "casamento",
+      "exercício de emprego público efetivo",
+      "colação de grau em curso superior",
+      "estabelecimento civil ou comercial ou relação de emprego com economia própria"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, caput e parágrafo único, do Código Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 2,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 5 — CC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c42eef7327"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0071",
+    "id_origem": "q0071",
+    "ordem_origem": 71,
+    "bloco_origem": "cadeia_c42eef7327",
+    "score": 109.03,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_01/q0011",
+  "id": "q0011",
+  "prova_id": "prova_2023_01",
+  "ordem": 11,
+  "materia": "Direito Processual Penal",
+  "tema": "Provas",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O senhor poderia diferenciar prova atípica, prova anômala e prova irritual?",
+  "resposta": "Prova atípica é aquela para a qual o ordenamento não prevê um modelo ou procedimento probatório específico, sendo admissível desde que respeitados os limites constitucionais e o contraditório. Prova anômala ocorre quando um meio de prova típico é empregado para cumprir a função própria de outro meio típico, contornando o regime jurídico deste, como na substituição do depoimento testemunhal por declaração escrita. Prova irritual, por sua vez, é um meio de prova legalmente previsto que foi produzido sem observância do procedimento estabelecido para ele, como o reconhecimento de pessoa realizado sem as formalidades legais. Assim, a prova atípica não é, por si só, defeituosa, enquanto as provas anômala e irritual podem ser inválidas quando representarem evasão de garantia processual relevante.",
+  "embedding_text": "Matéria: Direito Processual Penal\nTema: Provas\nDificuldade: média\nPergunta: O senhor poderia diferenciar prova atípica, prova anômala e prova irritual?\nResposta: Prova atípica é aquela para a qual o ordenamento não prevê um modelo ou procedimento probatório específico, sendo admissível desde que respeitados os limites constitucionais e o contraditório. Prova anômala ocorre quando um meio de prova típico é empregado para cumprir a função própria de outro meio típico, contornando o regime jurídico deste, como na substituição do depoimento testemunhal por declaração escrita. Prova irritual, por sua vez, é um meio de prova legalmente previsto que foi produzido sem observância do procedimento estabelecido para ele, como o reconhecimento de pessoa realizado sem as formalidades legais. Assim, a prova atípica não é, por si só, defeituosa, enquanto as provas anômala e irritual podem ser inválidas quando representarem evasão de garantia processual relevante.",
+  "_meta": {
+    "subtema": "Prova atípica, anômala e irritual",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Ausência de procedimento legal específico na prova atípica",
+      "Utilização substitutiva de meio típico na prova anômala",
+      "Inobservância do procedimento legal na prova irritual",
+      "Respeito ao contraditório e às garantias processuais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 3º do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 226 do Código de Processo Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 226 — CPP",
+        "art. 3 — CPP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_22a3ce9624"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0019",
+    "id_origem": "q0019",
+    "ordem_origem": 19,
+    "bloco_origem": "cadeia_22a3ce9624",
+    "score": 112.17,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "uid": "prova_2024_01/q0007",
+  "id": "q0007",
+  "prova_id": "prova_2024_01",
+  "ordem": 7,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Inquérito civil e TAC",
+  "dificuldade": "dificil",
+  "momento": "inicio",
+  "pergunta": "No âmbito de um inquérito civil, uma associação civil de proteção ambiental, constituída há mais de um ano, apresenta ajuste extrajudicial firmado com uma empresa poluidora, denominado termo de ajustamento de conduta e prevendo a reparação integral do dano ambiental. A associação tem legitimidade para celebrar esse TAC extrajudicial?",
+  "resposta": "A associação civil não pode celebrar, no âmbito extrajudicial, termo de ajustamento de conduta com a eficácia prevista na Lei da Ação Civil Pública. Embora possa ter legitimidade para propor ação civil pública, ela não é órgão público legitimado, qualidade exigida para tomar dos interessados o compromisso de ajustamento de conduta. O instrumento firmado pode servir como elemento informativo, mas não vincula a coletividade nem produz, por si só, os efeitos próprios do TAC. Para que exista TAC extrajudicial, o Ministério Público ou outro órgão público legitimado deve tomar formalmente o compromisso, ainda que aproveite o conteúdo material do ajuste anterior. A hipótese não se confunde com eventual acordo judicial celebrado por associação legitimada e submetido à homologação e ao controle jurisdicional.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Inquérito civil e TAC\nDificuldade: difícil\nPergunta: No âmbito de um inquérito civil, uma associação civil de proteção ambiental, constituída há mais de um ano, apresenta ajuste extrajudicial firmado com uma empresa poluidora, denominado termo de ajustamento de conduta e prevendo a reparação integral do dano ambiental. A associação tem legitimidade para celebrar esse TAC extrajudicial?\nResposta: A associação civil não pode celebrar, no âmbito extrajudicial, termo de ajustamento de conduta com a eficácia prevista na Lei da Ação Civil Pública. Embora possa ter legitimidade para propor ação civil pública, ela não é órgão público legitimado, qualidade exigida para tomar dos interessados o compromisso de ajustamento de conduta. O instrumento firmado pode servir como elemento informativo, mas não vincula a coletividade nem produz, por si só, os efeitos próprios do TAC. Para que exista TAC extrajudicial, o Ministério Público ou outro órgão público legitimado deve tomar formalmente o compromisso, ainda que aproveite o conteúdo material do ajuste anterior. A hipótese não se confunde com eventual acordo judicial celebrado por associação legitimada e submetido à homologação e ao controle jurisdicional.",
+  "_meta": {
+    "subtema": "Validade de TAC firmado por associação civil",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "TAC extrajudicial restrito aos órgãos públicos legitimados",
+      "Legitimidade da associação para a ação coletiva não implica poder para tomar TAC",
+      "Ausência de eficácia coletiva do ajuste privado",
+      "Distinção entre ajuste extrajudicial e acordo judicial homologado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, § 6º, da Lei nº 7.347/1985",
+        "origem": "transcricao",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 5º, V, da Lei nº 7.347/1985",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 5,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.98
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_7864c88485"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2024_01/q0025",
+    "id_origem": "q0025",
+    "ordem_origem": 25,
+    "bloco_origem": "cadeia_7864c88485",
+    "score": 119.04,
+    "reabilitada": false
+  }
+}

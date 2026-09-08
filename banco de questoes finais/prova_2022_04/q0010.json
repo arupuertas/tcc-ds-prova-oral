@@ -1,0 +1,82 @@
+{
+  "uid": "prova_2022_04/q0010",
+  "id": "q0010",
+  "prova_id": "prova_2022_04",
+  "ordem": 10,
+  "materia": "Direitos Difusos e Coletivos",
+  "tema": "Mandado de segurança coletivo",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "A Defensoria Pública tem legitimidade ativa para impetrar mandado de segurança coletivo?",
+  "resposta": "Sim. Embora a Defensoria Pública não esteja expressamente mencionada no rol constitucional e legal dos legitimados para o mandado de segurança coletivo, a jurisprudência do Superior Tribunal de Justiça reconhece que esse rol não impede sua atuação. A legitimidade decorre de sua missão constitucional e das atribuições previstas em sua lei orgânica para empregar todas as espécies de ações aptas à tutela coletiva. A impetração deve guardar pertinência com suas funções institucionais, especialmente a proteção de necessitados e de grupos vulneráveis.",
+  "embedding_text": "Matéria: Direitos Difusos e Coletivos\nTema: Mandado de segurança coletivo\nDificuldade: média\nPergunta: A Defensoria Pública tem legitimidade ativa para impetrar mandado de segurança coletivo?\nResposta: Sim. Embora a Defensoria Pública não esteja expressamente mencionada no rol constitucional e legal dos legitimados para o mandado de segurança coletivo, a jurisprudência do Superior Tribunal de Justiça reconhece que esse rol não impede sua atuação. A legitimidade decorre de sua missão constitucional e das atribuições previstas em sua lei orgânica para empregar todas as espécies de ações aptas à tutela coletiva. A impetração deve guardar pertinência com suas funções institucionais, especialmente a proteção de necessitados e de grupos vulneráveis.",
+  "_meta": {
+    "subtema": "Legitimidade ativa da Defensoria Pública",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Legitimidade ativa da Defensoria Pública",
+      "Ausência de previsão expressa no rol tradicional",
+      "Interpretação sistemática e não restritiva",
+      "Pertinência com as funções institucionais"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, LXX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 134 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 21 da Lei nº 12.016/2009",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 4º, VII, da Lei Complementar nº 80/1994",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.85,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "LC 80",
+        "art. 134 — CF",
+        "art. 21 — Lei 12.016",
+        "art. 4 — LC 80"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.93
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_4228bf2081"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0028",
+    "id_origem": "q0028",
+    "ordem_origem": 28,
+    "bloco_origem": "cadeia_4228bf2081",
+    "score": 115.84,
+    "reabilitada": false
+  }
+}

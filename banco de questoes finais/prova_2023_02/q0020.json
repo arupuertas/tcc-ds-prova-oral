@@ -1,0 +1,64 @@
+{
+  "uid": "prova_2023_02/q0020",
+  "id": "q0020",
+  "prova_id": "prova_2023_02",
+  "ordem": 20,
+  "materia": "Direito Institucional do Ministério Público",
+  "tema": "Intervenção do Ministério Público",
+  "dificuldade": "media",
+  "momento": "meio",
+  "pergunta": "O Ministério Público deve intervir em processo de reconhecimento de união estável entre partes maiores e capazes?",
+  "resposta": "Não há intervenção obrigatória do Ministério Público apenas porque a demanda versa sobre o reconhecimento de união estável entre pessoas maiores e capazes. O Código de Processo Civil vigente não reproduziu a regra geral de intervenção nas ações relativas ao estado da pessoa, exigindo a presença de interesse público ou social, interesse de incapaz ou outra hipótese legal específica. Assim, ausente alguma dessas circunstâncias, a intervenção ministerial é dispensável.",
+  "embedding_text": "Matéria: Direito Institucional do Ministério Público\nTema: Intervenção do Ministério Público\nDificuldade: média\nPergunta: O Ministério Público deve intervir em processo de reconhecimento de união estável entre partes maiores e capazes?\nResposta: Não há intervenção obrigatória do Ministério Público apenas porque a demanda versa sobre o reconhecimento de união estável entre pessoas maiores e capazes. O Código de Processo Civil vigente não reproduziu a regra geral de intervenção nas ações relativas ao estado da pessoa, exigindo a presença de interesse público ou social, interesse de incapaz ou outra hipótese legal específica. Assim, ausente alguma dessas circunstâncias, a intervenção ministerial é dispensável.",
+  "_meta": {
+    "subtema": "União estável entre capazes",
+    "tipo": "principal",
+    "pontos_chave": [
+      "Ausência de intervenção obrigatória pela simples natureza familiar da ação",
+      "Partes maiores e capazes",
+      "Necessidade de hipótese do art. 178 do CPC",
+      "Superação da regra geral do CPC de 1973 sobre ações de estado"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 178 do Código de Processo Civil",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.96,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 3,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 178 — CPC"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.94
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_c78be4fcbc"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_02/q0034",
+    "id_origem": "q0034",
+    "ordem_origem": 34,
+    "bloco_origem": "cadeia_c78be4fcbc",
+    "score": 108.28,
+    "reabilitada": false
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_03/q0009",
+  "id": "q0009",
+  "prova_id": "prova_2022_03",
+  "ordem": 9,
+  "materia": "Direito Constitucional",
+  "tema": "Direito à saúde",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Ao decidir sobre o fornecimento de medicamento de alto custo, como a senhora aplicaria a estratégia de olhar para trás, olhar para cima e olhar para frente?",
+  "resposta": "Olhar para trás significa reconstruir os fatos, a atuação administrativa anterior, a política pública existente e os precedentes pertinentes, preservando coerência e segurança jurídica. Olhar para cima consiste em confrontar a solução com a Constituição, os direitos fundamentais e as demais normas superiores que vinculam a decisão. Olhar para frente exige avaliar as consequências concretas e sistêmicas do provimento, inclusive seus efeitos sobre o orçamento, a igualdade de acesso e o atendimento de outros usuários do sistema de saúde. As três perspectivas devem ser conjugadas, pois a análise consequencial não substitui os fundamentos jurídicos, mas integra uma fundamentação completa e responsável.",
+  "embedding_text": "Matéria: Direito Constitucional\nTema: Direito à saúde\nDificuldade: difícil\nPergunta: Ao decidir sobre o fornecimento de medicamento de alto custo, como a senhora aplicaria a estratégia de olhar para trás, olhar para cima e olhar para frente?\nResposta: Olhar para trás significa reconstruir os fatos, a atuação administrativa anterior, a política pública existente e os precedentes pertinentes, preservando coerência e segurança jurídica. Olhar para cima consiste em confrontar a solução com a Constituição, os direitos fundamentais e as demais normas superiores que vinculam a decisão. Olhar para frente exige avaliar as consequências concretas e sistêmicas do provimento, inclusive seus efeitos sobre o orçamento, a igualdade de acesso e o atendimento de outros usuários do sistema de saúde. As três perspectivas devem ser conjugadas, pois a análise consequencial não substitui os fundamentos jurídicos, mas integra uma fundamentação completa e responsável.",
+  "_meta": {
+    "subtema": "Decisão judicial sobre fornecimento de medicamentos",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "histórico fático e institucional",
+      "coerência com precedentes e políticas públicas",
+      "conformidade constitucional",
+      "avaliação prospectiva das consequências",
+      "integração entre fundamentos e resultados"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 20 da LINDB",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 196 da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 93, IX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.9,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 7,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 196 — CF",
+        "art. 20 — LINDB",
+        "art. 93 — CF"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_d2e86af12c"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_03/q0021",
+    "id_origem": "q0021",
+    "ordem_origem": 21,
+    "bloco_origem": "cadeia_d2e86af12c",
+    "score": 124.63,
+    "reabilitada": false
+  }
+}

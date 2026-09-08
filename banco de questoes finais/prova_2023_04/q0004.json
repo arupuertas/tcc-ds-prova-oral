@@ -1,0 +1,70 @@
+{
+  "uid": "prova_2023_04/q0004",
+  "id": "q0004",
+  "prova_id": "prova_2023_04",
+  "ordem": 4,
+  "materia": "Direito Penal",
+  "tema": "Aborto",
+  "dificuldade": "media",
+  "momento": "inicio",
+  "pergunta": "Por que a enfermeira não responderia criminalmente ao realizar o aborto necessário ou o aborto decorrente de estupro?",
+  "resposta": "A premissa somente é correta, em regra, quanto ao aborto necessário. Embora a enfermeira não esteja abrangida pela autorização especial conferida ao médico, ela pode atuar em estado de necessidade de terceiro se houver perigo atual para a vida da gestante e não existir outro meio de salvá-la. Nesse caso, há exclusão da ilicitude pela regra geral do estado de necessidade, e não atipicidade nem aplicação direta da permissão especial. No aborto decorrente de estupro, a ausência de médico não basta para afastar o crime praticado pela enfermeira, salvo se estiver presente alguma causa geral de justificação ou de exculpação no caso concreto.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Aborto\nDificuldade: média\nPergunta: Por que a enfermeira não responderia criminalmente ao realizar o aborto necessário ou o aborto decorrente de estupro?\nResposta: A premissa somente é correta, em regra, quanto ao aborto necessário. Embora a enfermeira não esteja abrangida pela autorização especial conferida ao médico, ela pode atuar em estado de necessidade de terceiro se houver perigo atual para a vida da gestante e não existir outro meio de salvá-la. Nesse caso, há exclusão da ilicitude pela regra geral do estado de necessidade, e não atipicidade nem aplicação direta da permissão especial. No aborto decorrente de estupro, a ausência de médico não basta para afastar o crime praticado pela enfermeira, salvo se estiver presente alguma causa geral de justificação ou de exculpação no caso concreto.",
+  "_meta": {
+    "subtema": "Fundamento para ausência de crime",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "premissa válida apenas para o aborto necessário",
+      "estado de necessidade de terceiro",
+      "exclusão da ilicitude, e não da tipicidade",
+      "ausência de autorização geral para a enfermeira no aborto decorrente de estupro"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 24 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 128, I e II, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 128 — CP",
+        "art. 24 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.96
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_a019873a04"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_04/q0004",
+    "id_origem": "q0004",
+    "ordem_origem": 4,
+    "bloco_origem": "cadeia_a019873a04",
+    "score": 116.35,
+    "reabilitada": false
+  }
+}

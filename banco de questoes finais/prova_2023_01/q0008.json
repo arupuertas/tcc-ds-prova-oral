@@ -1,0 +1,83 @@
+{
+  "uid": "prova_2023_01/q0008",
+  "id": "q0008",
+  "prova_id": "prova_2023_01",
+  "ordem": 8,
+  "materia": "Direito Penal",
+  "tema": "Excludentes de ilicitude",
+  "dificuldade": "dificil",
+  "momento": "meio",
+  "pergunta": "Durante um tiroteio grave, um policial em serviço, incumbido de proteger os cidadãos atingidos pela situação, percebe que sua esposa e seu filho também estão em perigo. O senhor entende que ele pode dar preferência ao salvamento de seus familiares, deixando os demais cidadãos desprotegidos?",
+  "resposta": "O vínculo familiar não autoriza automaticamente o policial a abandonar as pessoas submetidas à sua proteção funcional, sobretudo se for possível proteger a todos dentro dos limites razoavelmente exigíveis. Se houver impossibilidade concreta de salvar todos, surgirá uma colisão de deveres de proteção, pois o policial atua em legítima defesa de terceiros e também no cumprimento de seu dever legal. Uma corrente considera que, tratando-se de deveres de igual hierarquia e de vidas igualmente valiosas, o cumprimento de qualquer deles pode afastar a ilicitude. Outra corrente atribui prevalência ao dever funcional específico perante os cidadãos e admite que a escolha pelos familiares, embora ilícita, possa ter a culpabilidade excluída por inexigibilidade de conduta diversa diante do conflito afetivo extremo. Em qualquer caso, o parentesco, isoladamente, não constitui autorização irrestrita para sacrificar terceiros.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Excludentes de ilicitude\nDificuldade: difícil\nPergunta: Durante um tiroteio grave, um policial em serviço, incumbido de proteger os cidadãos atingidos pela situação, percebe que sua esposa e seu filho também estão em perigo. O senhor entende que ele pode dar preferência ao salvamento de seus familiares, deixando os demais cidadãos desprotegidos?\nResposta: O vínculo familiar não autoriza automaticamente o policial a abandonar as pessoas submetidas à sua proteção funcional, sobretudo se for possível proteger a todos dentro dos limites razoavelmente exigíveis. Se houver impossibilidade concreta de salvar todos, surgirá uma colisão de deveres de proteção, pois o policial atua em legítima defesa de terceiros e também no cumprimento de seu dever legal. Uma corrente considera que, tratando-se de deveres de igual hierarquia e de vidas igualmente valiosas, o cumprimento de qualquer deles pode afastar a ilicitude. Outra corrente atribui prevalência ao dever funcional específico perante os cidadãos e admite que a escolha pelos familiares, embora ilícita, possa ter a culpabilidade excluída por inexigibilidade de conduta diversa diante do conflito afetivo extremo. Em qualquer caso, o parentesco, isoladamente, não constitui autorização irrestrita para sacrificar terceiros.",
+  "_meta": {
+    "subtema": "Conflito entre dever legal e proteção de familiares",
+    "tipo": "principal",
+    "pontos_chave": [
+      "dever funcional de proteção",
+      "legítima defesa de terceiros",
+      "colisão de deveres",
+      "impossibilidade concreta de salvar todos",
+      "possível inexigibilidade de conduta diversa"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 13, § 2º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 23, III, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 24, § 1º, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 25 do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.83,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 8,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 13 — CP",
+        "art. 23 — CP",
+        "art. 24 — CP",
+        "art. 25 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.86
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_59c5606f71"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_01/q0014",
+    "id_origem": "q0014",
+    "ordem_origem": 14,
+    "bloco_origem": "cadeia_59c5606f71",
+    "score": 113.97,
+    "reabilitada": false
+  }
+}

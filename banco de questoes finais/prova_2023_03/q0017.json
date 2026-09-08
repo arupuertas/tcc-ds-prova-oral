@@ -1,0 +1,71 @@
+{
+  "uid": "prova_2023_03/q0017",
+  "id": "q0017",
+  "prova_id": "prova_2023_03",
+  "ordem": 17,
+  "materia": "Direito Tributário",
+  "tema": "Execução fiscal",
+  "dificuldade": "facil",
+  "momento": "meio",
+  "pergunta": "Qual é o prazo da prescrição intercorrente na execução fiscal de crédito tributário?",
+  "resposta": "O prazo da prescrição intercorrente do crédito tributário é de cinco anos. Ele começa a correr depois de encerrado o período de um ano de suspensão decorrente da não localização do devedor ou de bens penhoráveis. Sua consumação pressupõe o transcurso integral desse quinquênio sem causa de suspensão ou interrupção da prescrição.",
+  "embedding_text": "Matéria: Direito Tributário\nTema: Execução fiscal\nDificuldade: fácil\nPergunta: Qual é o prazo da prescrição intercorrente na execução fiscal de crédito tributário?\nResposta: O prazo da prescrição intercorrente do crédito tributário é de cinco anos. Ele começa a correr depois de encerrado o período de um ano de suspensão decorrente da não localização do devedor ou de bens penhoráveis. Sua consumação pressupõe o transcurso integral desse quinquênio sem causa de suspensão ou interrupção da prescrição.",
+  "_meta": {
+    "subtema": "Prazo da prescrição intercorrente",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "prazo de cinco anos",
+      "início após um ano de suspensão",
+      "ausência de causa suspensiva ou interruptiva"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 174 do Código Tributário Nacional",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 40 da Lei nº 6.830/1980",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.98,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 4,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CTN",
+        "Lei 6.830",
+        "art. 174 — CTN",
+        "art. 40 — Lei 6.830"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.99
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_340248b5c5"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2023_03/q0032",
+    "id_origem": "q0032",
+    "ordem_origem": 32,
+    "bloco_origem": "cadeia_340248b5c5",
+    "score": 102.73,
+    "reabilitada": false
+  }
+}

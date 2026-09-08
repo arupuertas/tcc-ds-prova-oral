@@ -1,0 +1,77 @@
+{
+  "uid": "prova_2022_04/q0024",
+  "id": "q0024",
+  "prova_id": "prova_2022_04",
+  "ordem": 24,
+  "materia": "Direito Penal",
+  "tema": "Roubo",
+  "dificuldade": "dificil",
+  "momento": "fim",
+  "pergunta": "A senhora considera correta a orientação jurisprudencial minoritária segundo a qual o emprego de simulacro de arma de fogo autoriza a incidência da causa de aumento do roubo relativa ao emprego de arma de fogo? Na condição de promotora de Justiça, a senhora imputaria essa majorante em caso de simulacro comprovado?",
+  "resposta": "Essa orientação é incorreta. O simulacro pode ser idôneo para produzir a grave ameaça exigida pelo roubo, mas não é arma de fogo e, portanto, não preenche o elemento expressamente previsto para a incidência da causa de aumento. Equipará-lo a uma arma de fogo representaria analogia ou ampliação interpretativa em prejuízo do acusado, incompatível com a legalidade estrita. Assim, diante da comprovação de que o objeto era um simulacro, não se deve imputar a majorante, embora permaneça configurado o roubo simples se presente a grave ameaça.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Roubo\nDificuldade: difícil\nPergunta: A senhora considera correta a orientação jurisprudencial minoritária segundo a qual o emprego de simulacro de arma de fogo autoriza a incidência da causa de aumento do roubo relativa ao emprego de arma de fogo? Na condição de promotora de Justiça, a senhora imputaria essa majorante em caso de simulacro comprovado?\nResposta: Essa orientação é incorreta. O simulacro pode ser idôneo para produzir a grave ameaça exigida pelo roubo, mas não é arma de fogo e, portanto, não preenche o elemento expressamente previsto para a incidência da causa de aumento. Equipará-lo a uma arma de fogo representaria analogia ou ampliação interpretativa em prejuízo do acusado, incompatível com a legalidade estrita. Assim, diante da comprovação de que o objeto era um simulacro, não se deve imputar a majorante, embora permaneça configurado o roubo simples se presente a grave ameaça.",
+  "_meta": {
+    "subtema": "Simulacro e legalidade estrita",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "simulacro não é arma de fogo",
+      "configuração da grave ameaça",
+      "inaplicabilidade da majorante",
+      "vedação da analogia in malam partem",
+      "legalidade estrita"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 5º, XXXIX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 1º do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 157, caput e § 2º-A, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.97,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "CP",
+        "art. 1 — CP",
+        "art. 157 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_e5a52a3d96"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_04/q0053",
+    "id_origem": "q0053",
+    "ordem_origem": 53,
+    "bloco_origem": "cadeia_e5a52a3d96",
+    "score": 123.68,
+    "reabilitada": false
+  }
+}

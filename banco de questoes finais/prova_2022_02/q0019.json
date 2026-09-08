@@ -1,0 +1,74 @@
+{
+  "uid": "prova_2022_02/q0019",
+  "id": "q0019",
+  "prova_id": "prova_2022_02",
+  "ordem": 19,
+  "materia": "Direito Penal",
+  "tema": "Roubo majorado",
+  "dificuldade": "media",
+  "momento": "fim",
+  "pergunta": "Para afastar a causa de aumento do roubo quando o objeto empregado é um simulacro, o fundamento central é a ausência de potencialidade lesiva ou a legalidade estrita?",
+  "resposta": "O fundamento central é a legalidade estrita. A lei exige o emprego de arma de fogo, e o simulacro não se enquadra nesse conceito jurídico, ainda que seja apto a intimidar a vítima. A ausência de potencialidade lesiva reforça a conclusão, mas não constitui o fundamento decisivo, pois a majorante não pode ser ampliada para alcançar objeto não previsto pela lei penal.",
+  "embedding_text": "Matéria: Direito Penal\nTema: Roubo majorado\nDificuldade: média\nPergunta: Para afastar a causa de aumento do roubo quando o objeto empregado é um simulacro, o fundamento central é a ausência de potencialidade lesiva ou a legalidade estrita?\nResposta: O fundamento central é a legalidade estrita. A lei exige o emprego de arma de fogo, e o simulacro não se enquadra nesse conceito jurídico, ainda que seja apto a intimidar a vítima. A ausência de potencialidade lesiva reforça a conclusão, mas não constitui o fundamento decisivo, pois a majorante não pode ser ampliada para alcançar objeto não previsto pela lei penal.",
+  "_meta": {
+    "subtema": "Legalidade estrita na majorante de arma de fogo",
+    "tipo": "desdobramento",
+    "pontos_chave": [
+      "Legalidade estrita como fundamento principal",
+      "Simulacro não é arma de fogo",
+      "Potencialidade lesiva como argumento secundário",
+      "Proibição de ampliação da majorante em prejuízo do réu"
+    ],
+    "fundamentos_legais": [
+      {
+        "ref": "art. 157, § 2º-A, I, do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      },
+      {
+        "ref": "art. 1º do Código Penal",
+        "origem": "modelo",
+        "origem_verificada": "modelo"
+      },
+      {
+        "ref": "art. 5º, XXXIX, da Constituição Federal",
+        "origem": "modelo",
+        "origem_verificada": "transcricao"
+      }
+    ],
+    "gabarito_status": "completo",
+    "confianca": 0.99,
+    "citacoes_nao_ancoradas": [],
+    "auditoria_citacoes": {
+      "n_citacoes_conferidas": 6,
+      "nao_ancoradas_resposta": [],
+      "nao_ancoradas_fundamentos": [
+        "art. 1 — CP"
+      ],
+      "artigos_sem_norma": [],
+      "origem_divergente": [],
+      "refs_nao_verificaveis": []
+    },
+    "observacao": "",
+    "revisao_llm": {
+      "veredito": "ok",
+      "problemas": [],
+      "dispositivos_suspeitos": [],
+      "confianca": 0.97
+    },
+    "regenerado": false,
+    "revisao_necessaria": false,
+    "motivos_revisao": [],
+    "origem": {
+      "bloco_id": "cadeia_01a6849840"
+    }
+  },
+  "_selecao": {
+    "uid_origem": "prova_2022_02/q0038",
+    "id_origem": "q0038",
+    "ordem_origem": 38,
+    "bloco_origem": "cadeia_01a6849840",
+    "score": 125.22,
+    "reabilitada": false
+  }
+}
